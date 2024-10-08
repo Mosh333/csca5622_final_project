@@ -1,0 +1,159 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-plus-graphics-655-mobile.c3221">Iris Plus Graphics 655 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-coffee-lake-gt3e.g868">Coffee Lake GT3e</a>
+
+			</td>
+	<td>Apr 3rd, 2018</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-610.c3313">UHD Graphics 610</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-coffee-lake-gt1.g862">Coffee Lake GT1</a>
+
+			</td>
+	<td>Apr 3rd, 2018</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-610-mobile.c3453">UHD Graphics 610 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-coffee-lake-gt1.g862">Coffee Lake GT1</a>
+
+			</td>
+	<td>Apr 3rd, 2018</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-615-mobile.c3370">UHD Graphics 615 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-amber-lake-gt2.g879">Amber Lake GT2</a>
+
+			</td>
+	<td>Nov 7th, 2018</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-617-mobile.c3338">UHD Graphics 617 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-amber-lake-gt2.g879">Amber Lake GT2</a>
+
+			</td>
+	<td>Nov 7th, 2018</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-620-mobile.c3381">UHD Graphics 620 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-whiskey-lake-gt2.g870">Whiskey Lake GT2</a>
+
+			</td>
+	<td>Aug 28th, 2018</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-630-mobile.c3262">UHD Graphics 630 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-coffee-lake-gt2.g820">Coffee Lake GT2</a>
+
+			</td>
+	<td>Apr 3rd, 2018</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-p630.c3605">UHD Graphics P630</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-coffee-lake-gt2.g820">Coffee Lake GT2</a>
+
+			</td>
+	<td>May 24th, 2018</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-p630-mobile.c3452">UHD Graphics P630 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-coffee-lake-gt2.g820">Coffee Lake GT2</a>
+
+			</td>
+	<td>May 24th, 2018</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+		
+			</table>
+</div>

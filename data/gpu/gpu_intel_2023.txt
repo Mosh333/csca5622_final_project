@@ -1,0 +1,349 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a380m.c4060">Arc A380M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-128.g918">DG2-128</a>
+
+			</td>
+	<td>Jan 24th, 2023</td>
+	<td>MXM-A (3.1)</td>
+	<td>6 GB, GDDR6, 96 bit</td>
+	<td>1550 MHz</td>
+	<td>1937 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a530m.c4167">Arc A530M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-256.g1066">DG2-256</a>
+
+			</td>
+	<td>Aug 1st, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>900 MHz</td>
+	<td>1750 MHz</td>
+	<td>1536 / 96 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a570m.c4168">Arc A570M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-256.g1066">DG2-256</a>
+
+			</td>
+	<td>Aug 1st, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>900 MHz</td>
+	<td>1750 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a580.c3928">Arc A580</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-512.g1006">DG2-512</a>
+
+			</td>
+	<td>Oct 10th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1700 MHz</td>
+	<td>2000 MHz</td>
+	<td>3072 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-graphics-112eu-mobile.c4196">Arc Graphics 112EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-meteor-lake-gt1.g1068">Meteor Lake GT1</a>
+
+			</td>
+	<td>Dec 14th, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>896 / 56 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-graphics-128eu-mobile.c4193">Arc Graphics 128EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-meteor-lake-gt1.g1068">Meteor Lake GT1</a>
+
+			</td>
+	<td>Dec 14th, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-graphics-48eu-mobile.c4198">Arc Graphics 48EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-meteor-lake-gt1.g1068">Meteor Lake GT1</a>
+
+			</td>
+	<td>Dec 14th, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-graphics-64eu-mobile.c4194">Arc Graphics 64EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-meteor-lake-gt1.g1068">Meteor Lake GT1</a>
+
+			</td>
+	<td>Dec 14th, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-pro-a60.c4160">Arc Pro A60</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-256.g1066">DG2-256</a>
+
+			</td>
+	<td>Jun 6th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>900 MHz</td>
+	<td>2000 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-pro-a60m.c4161">Arc Pro A60M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-256.g1066">DG2-256</a>
+
+			</td>
+	<td>Jun 6th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>900 MHz</td>
+	<td>2000 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/data-center-gpu-max-1100.c4066">Data Center GPU Max 1100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ponte-vecchio.g1046">Ponte Vecchio</a>
+
+			</td>
+	<td>Jan 10th, 2023</td>
+	<td>PCIe 5.0 x16</td>
+	<td>48 GB, HBM2e, 8192 bit</td>
+	<td>1000 MHz</td>
+	<td>600 MHz</td>
+	<td>7168 / 448 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/data-center-gpu-max-1350.c4067">Data Center GPU Max 1350</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ponte-vecchio.g1046">Ponte Vecchio</a>
+
+			</td>
+	<td>Jan 10th, 2023</td>
+	<td>PCIe 5.0 x16</td>
+	<td>96 GB, HBM2e, 8192 bit</td>
+	<td>750 MHz</td>
+	<td>1200 MHz</td>
+	<td>14336 / 896 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/data-center-gpu-max-1550.c4068">Data Center GPU Max 1550</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ponte-vecchio.g1046">Ponte Vecchio</a>
+
+			</td>
+	<td>Jan 10th, 2023</td>
+	<td>PCIe 5.0 x16</td>
+	<td>128 GB, HBM2e, 8192 bit</td>
+	<td>900 MHz</td>
+	<td>1600 MHz</td>
+	<td>16384 / 1024 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/data-center-gpu-max-subsystem.c4070">Data Center GPU Max Subsystem</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ponte-vecchio.g1046">Ponte Vecchio</a>
+
+			</td>
+	<td>Jan 10th, 2023</td>
+	<td>PCIe 5.0 x16</td>
+	<td>128 GB, HBM2e, 8192 bit</td>
+	<td>900 MHz</td>
+	<td>1565 MHz</td>
+	<td>16384 / 1024 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-xe-graphics-80eu-mobile.c4059">Iris Xe Graphics 80EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-raptor-lake-gt1.g1020">Raptor Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>640 / 40 / 20</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-xe-graphics-96eu-mobile.c4145">Iris Xe Graphics 96EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-raptor-lake-gt1.g1020">Raptor Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>768 / 48 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-64eu-mobile.c4143">UHD Graphics 64EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-raptor-lake-gt1.g1020">Raptor Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-710-mobile.c4129">UHD Graphics 710 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-raptor-lake-gt1.g1020">Raptor Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-710-mobile.c4128">UHD Graphics 710 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-raptor-lake-gt1.g1020">Raptor Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-730.c4144">UHD Graphics 730</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-raptor-lake-gt1.g1020">Raptor Lake GT1</a>
+
+			</td>
+	<td>Jan 3rd, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-770-mobile.c4127">UHD Graphics 770 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-raptor-lake-gt1.g1020">Raptor Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+		
+			</table>
+</div>

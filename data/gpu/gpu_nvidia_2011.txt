@@ -1,0 +1,1352 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="NVIDIA">NVIDIA</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-315-oem.c2107">GeForce 315 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gt215.g96">GT215</a>
+
+			</td>
+	<td>Apr 28th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>256 MB, DDR2, 64 bit</td>
+	<td>506 MHz</td>
+	<td>350 MHz</td>
+	<td>48 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-315-oem.c2271">GeForce 315 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gt218s.g140">GT218S</a>
+
+			</td>
+	<td>Feb 22nd, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>589 MHz</td>
+	<td>600 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-315m.c1483">GeForce 315M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gt218.g1035">GT218</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, GDDR3, 64 bit</td>
+	<td>606 MHz</td>
+	<td>790 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-405m.c1484">GeForce 405M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gt218.g1035">GT218</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 64 bit</td>
+	<td>606 MHz</td>
+	<td>790 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-410m.c1485">GeForce 410M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>574 MHz</td>
+	<td>800 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-510-oem.c360">GeForce 510 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Sep 29th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>523 MHz</td>
+	<td>898 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-610.c2380">GeForce 610</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Dec 1st, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>738 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-610m.c2112">GeForce 610M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf117b.g1031">GF117B</a>
+
+			</td>
+	<td>Dec 1st, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>625 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-610m.c355">GeForce 610M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119.g1030">GF119</a>
+
+			</td>
+	<td>Dec 1st, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>475 MHz</td>
+	<td>800 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-610m.c2113">GeForce 610M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Dec 1st, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>672 MHz</td>
+	<td>800 MHz</td>
+	<td>48 / 8 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-9300-gs-rev-2.c2022">GeForce 9300 GS Rev. 2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gt218s.g140">GT218S</a>
+
+			</td>
+	<td>Mar 12th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>256 MB, DDR2, 64 bit</td>
+	<td>589 MHz</td>
+	<td>333 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-435m.c2337">GeForce GT 435M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf106.g83">GF106</a>
+
+			</td>
+	<td>Jan 15th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>590 MHz</td>
+	<td>800 MHz</td>
+	<td>96 / 16 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-440.c600">GeForce GT 440</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Feb 1st, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>810 MHz</td>
+	<td>900 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-440-mac-edition.c2256">GeForce GT 440 Mac Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Feb 9th, 2011</td>
+	<td>PCIe 1.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>810 MHz</td>
+	<td>667 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-520.c285">GeForce GT 520</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Apr 13th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>810 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-520-pci.c913">GeForce GT 520 PCI</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Apr 13th, 2011</td>
+	<td>PCI</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>810 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-520-pcie-x1.c912">GeForce GT 520 PCIe x1</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Apr 13th, 2011</td>
+	<td>PCIe 2.0 x1</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>810 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-520m.c1844">GeForce GT 520M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>672 MHz</td>
+	<td>800 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-520m.c3997">GeForce GT 520M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>600 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-520m.c1488">GeForce GT 520M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119.g1030">GF119</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>740 MHz</td>
+	<td>800 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-520mx.c1489">GeForce GT 520MX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119.g1030">GF119</a>
+
+			</td>
+	<td>May 30th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>900 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-525m.c3998">GeForce GT 525M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>475 MHz</td>
+	<td>900 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-525m.c1490">GeForce GT 525M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>600 MHz</td>
+	<td>900 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-530-oem.c630">GeForce GT 530 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>May 14th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>700 MHz</td>
+	<td>900 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-540m.c702">GeForce GT 540M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>MXM-A (3.0)</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>672 MHz</td>
+	<td>900 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-545.c627">GeForce GT 545</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf116.g88">GF116</a>
+
+			</td>
+	<td>May 14th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1536 MB, DDR3, 192 bit</td>
+	<td>720 MHz</td>
+	<td>800 MHz</td>
+	<td>144 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-545-oem.c626">GeForce GT 545 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf116.g88">GF116</a>
+
+			</td>
+	<td>May 14th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>871 MHz</td>
+	<td>1000 MHz</td>
+	<td>144 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-550m.c4000">GeForce GT 550M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>475 MHz</td>
+	<td>900 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-550m.c1491">GeForce GT 550M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>740 MHz</td>
+	<td>900 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-555m.c2225">GeForce GT 555M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf106.g83">GF106</a>
+
+			</td>
+	<td>Jul 2nd, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>590 MHz</td>
+	<td>900 MHz</td>
+	<td>144 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-555m.c1492">GeForce GT 555M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jun 15th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>753 MHz</td>
+	<td>785 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-555m.c1494">GeForce GT 555M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf106.g83">GF106</a>
+
+			</td>
+	<td>Oct 27th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>525 MHz</td>
+	<td>900 MHz</td>
+	<td>144 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-555m-3-gb.c1493">GeForce GT 555M 3 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf106.g83">GF106</a>
+
+			</td>
+	<td>Mar 24th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>3 GB, DDR3, 192 bit</td>
+	<td>590 MHz</td>
+	<td>900 MHz</td>
+	<td>144 / 24 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gts-450-rev-2.c595">GeForce GTS 450 Rev. 2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf116.g88">GF116</a>
+
+			</td>
+	<td>Mar 15th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>783 MHz</td>
+	<td>902 MHz</td>
+	<td>192 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-460-x2.c1928">GeForce GTX 460 X2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf104.g84">GF104</a>
+
+			</td>
+	<td>Mar 11th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 256 bit</td>
+	<td>701 MHz</td>
+	<td>900 MHz</td>
+	<td>336 / 56 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-460-v2.c356">GeForce GTX 460 v2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf114.g87">GF114</a>
+
+			</td>
+	<td>Sep 24th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 192 bit</td>
+	<td>779 MHz</td>
+	<td>1002 MHz</td>
+	<td>336 / 56 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-460-v2-es.c3359">GeForce GTX 460 v2 ES</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf114.g87">GF114</a>
+
+			</td>
+	<td>Sep 24th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1280 MB, GDDR5, 256 bit</td>
+	<td>779 MHz</td>
+	<td>1002 MHz</td>
+	<td>336 / 56 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-480-core-512.c1930">GeForce GTX 480 Core 512</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1536 MB, GDDR5, 384 bit</td>
+	<td>527 MHz</td>
+	<td>700 MHz</td>
+	<td>512 / 64 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-485m.c390">GeForce GTX 485M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf104.g84">GF104</a>
+
+			</td>
+	<td>Jan 5th, 2011</td>
+	<td>MXM-B (3.0)</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>575 MHz</td>
+	<td>750 MHz</td>
+	<td>384 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-490.c3332">GeForce GTX 490</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1536 MB, GDDR5, 384 bit</td>
+	<td>608 MHz</td>
+	<td>854 MHz</td>
+	<td>480 / 60 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-550-ti.c274">GeForce GTX 550 Ti</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf116.g88">GF116</a>
+
+			</td>
+	<td>Mar 15th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 192 bit</td>
+	<td>900 MHz</td>
+	<td>1026 MHz</td>
+	<td>192 / 32 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-555-oem.c882">GeForce GTX 555 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf114.g87">GF114</a>
+
+			</td>
+	<td>May 14th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 192 bit</td>
+	<td>736 MHz</td>
+	<td>957 MHz</td>
+	<td>288 / 48 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-560.c287">GeForce GTX 560</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf114.g87">GF114</a>
+
+			</td>
+	<td>May 17th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 256 bit</td>
+	<td>810 MHz</td>
+	<td>1000 MHz</td>
+	<td>336 / 56 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-560-oem.c891">GeForce GTX 560 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Nov 29th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1280 MB, GDDR5, 320 bit</td>
+	<td>552 MHz</td>
+	<td>802 MHz</td>
+	<td>384 / 48 / 40</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-560-ti.c273">GeForce GTX 560 Ti</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf114.g87">GF114</a>
+
+			</td>
+	<td>Jan 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 256 bit</td>
+	<td>823 MHz</td>
+	<td>1002 MHz</td>
+	<td>384 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-560-ti-448.c289">GeForce GTX 560 Ti 448</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Nov 29th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1280 MB, GDDR5, 320 bit</td>
+	<td>732 MHz</td>
+	<td>950 MHz</td>
+	<td>448 / 56 / 40</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-560-ti-oem.c623">GeForce GTX 560 Ti OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Mar 30th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1280 MB, GDDR5, 256 bit</td>
+	<td>732 MHz</td>
+	<td>950 MHz</td>
+	<td>352 / 44 / 40</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-560-ti-oem.c2434">GeForce GTX 560 Ti OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf114.g87">GF114</a>
+
+			</td>
+	<td>Mar 8th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 256 bit</td>
+	<td>823 MHz</td>
+	<td>1002 MHz</td>
+	<td>384 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-560-ti-x2.c1927">GeForce GTX 560 Ti X2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf114.g87">GF114</a>
+
+			</td>
+	<td>Jan 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 256 bit</td>
+	<td>850 MHz</td>
+	<td>1002 MHz</td>
+	<td>384 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-560m.c936">GeForce GTX 560M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf116.g88">GF116</a>
+
+			</td>
+	<td>May 30th, 2011</td>
+	<td>MXM-B (3.0)</td>
+	<td>1536 MB, GDDR5, 192 bit</td>
+	<td>775 MHz</td>
+	<td>625 MHz</td>
+	<td>192 / 32 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-570m.c1495">GeForce GTX 570M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf114.g87">GF114</a>
+
+			</td>
+	<td>Jun 28th, 2011</td>
+	<td>MXM-B (3.0)</td>
+	<td>1536 MB, GDDR5, 192 bit</td>
+	<td>575 MHz</td>
+	<td>750 MHz</td>
+	<td>336 / 56 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-580-rev-2.c3009">GeForce GTX 580 Rev. 2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Jun 6th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1536 MB, GDDR5, 384 bit</td>
+	<td>772 MHz</td>
+	<td>1002 MHz</td>
+	<td>512 / 64 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-580m.c940">GeForce GTX 580M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf114.g87">GF114</a>
+
+			</td>
+	<td>Jun 28th, 2011</td>
+	<td>MXM-B (3.0)</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>620 MHz</td>
+	<td>750 MHz</td>
+	<td>384 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-590.c281">GeForce GTX 590</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Mar 24th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1536 MB, GDDR5, 384 bit</td>
+	<td>608 MHz</td>
+	<td>854 MHz</td>
+	<td>512 / 64 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/nvs-300.c1452">NVS 300</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gt218s.g140">GT218S</a>
+
+			</td>
+	<td>Jan 8th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, DDR3, 64 bit</td>
+	<td>520 MHz</td>
+	<td>790 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/nvs-4200m.c1741">NVS 4200M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Feb 22nd, 2011</td>
+	<td>MXM</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>810 MHz</td>
+	<td>800 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-1000m.c1431">Quadro 1000M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jan 13th, 2011</td>
+	<td>MXM-A (3.0)</td>
+	<td>2 GB, DDR3, 128 bit</td>
+	<td>700 MHz</td>
+	<td>900 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-2000d.c901">Quadro 2000D</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf106.g83">GF106</a>
+
+			</td>
+	<td>Oct 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>625 MHz</td>
+	<td>650 MHz</td>
+	<td>192 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-2000m.c1430">Quadro 2000M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf106.g83">GF106</a>
+
+			</td>
+	<td>Jan 13th, 2011</td>
+	<td>MXM-A (3.0)</td>
+	<td>2 GB, DDR3, 128 bit</td>
+	<td>550 MHz</td>
+	<td>900 MHz</td>
+	<td>192 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-3000m.c1429">Quadro 3000M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf104.g84">GF104</a>
+
+			</td>
+	<td>Feb 22nd, 2011</td>
+	<td>MXM-B (3.0)</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>450 MHz</td>
+	<td>625 MHz</td>
+	<td>240 / 40 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-3000m-x2.c4124">Quadro 3000M X2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-exmf104.g1064">EXMF104</a>
+
+			</td>
+	<td>Feb 22nd, 2011</td>
+	<td>MXM-B (3.0)</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>450 MHz</td>
+	<td>625 MHz</td>
+	<td>240 / 40 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-400.c1317">Quadro 400</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gt216.g141">GT216</a>
+
+			</td>
+	<td>Apr 5th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, DDR3, 64 bit</td>
+	<td>450 MHz</td>
+	<td>770 MHz</td>
+	<td>48 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-4000-mac-edition.c899">Quadro 4000 Mac Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Jun 12th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1792 MB, GDDR5, 256 bit</td>
+	<td>475 MHz</td>
+	<td>702 MHz</td>
+	<td>256 / 32 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-4000m.c1428">Quadro 4000M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf104.g84">GF104</a>
+
+			</td>
+	<td>Feb 22nd, 2011</td>
+	<td>MXM-B (3.0)</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>475 MHz</td>
+	<td>625 MHz</td>
+	<td>336 / 56 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-5000.c897">Quadro 5000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Feb 23rd, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>2.5 GB, GDDR5, 320 bit</td>
+	<td>513 MHz</td>
+	<td>750 MHz</td>
+	<td>352 / 44 / 40</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-5000-sdi.c2438">Quadro 5000 SDI</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Feb 23rd, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>2.5 GB, GDDR5, 320 bit</td>
+	<td>513 MHz</td>
+	<td>750 MHz</td>
+	<td>352 / 44 / 40</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-500m.c1432">Quadro 500M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Feb 22nd, 2011</td>
+	<td>MXM-A (3.0)</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>560 MHz</td>
+	<td>800 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-5010m.c1427">Quadro 5010M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Feb 22nd, 2011</td>
+	<td>MXM-B (3.0)</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>450 MHz</td>
+	<td>650 MHz</td>
+	<td>384 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-6000-sdi.c2141">Quadro 6000 SDI</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>574 MHz</td>
+	<td>747 MHz</td>
+	<td>448 / 56 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-plex-7000.c902">Quadro Plex 7000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>574 MHz</td>
+	<td>750 MHz</td>
+	<td>512 / 64 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tegra-3-gpu.c3226">Tegra 3 GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-kal-el.g729">Kal-El</a>
+
+			</td>
+	<td>Nov 9th, 2011</td>
+	<td>IGP</td>
+	<td>256 MB, DDR3, 32 bit</td>
+	<td>416 MHz</td>
+	<td>667 MHz</td>
+	<td>8 / 4 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-c2050.c923">Tesla C2050</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>574 MHz</td>
+	<td>750 MHz</td>
+	<td>448 / 56 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-c2070.c924">Tesla C2070</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>574 MHz</td>
+	<td>747 MHz</td>
+	<td>448 / 56 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-c2075.c563">Tesla C2075</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>574 MHz</td>
+	<td>783 MHz</td>
+	<td>448 / 56 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-c2090.c2317">Tesla C2090</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>651 MHz</td>
+	<td>924 MHz</td>
+	<td>512 / 64 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-m2050.c1534">Tesla M2050</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>574 MHz</td>
+	<td>773 MHz</td>
+	<td>448 / 56 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-m2070.c1535">Tesla M2070</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>574 MHz</td>
+	<td>783 MHz</td>
+	<td>448 / 56 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-m2070-q.c1536">Tesla M2070-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>574 MHz</td>
+	<td>783 MHz</td>
+	<td>448 / 56 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-m2075.c2025">Tesla M2075</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>574 MHz</td>
+	<td>783 MHz</td>
+	<td>448 / 56 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-m2090.c1537">Tesla M2090</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>651 MHz</td>
+	<td>924 MHz</td>
+	<td>512 / 64 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-s2050.c1538">Tesla S2050</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>574 MHz</td>
+	<td>773 MHz</td>
+	<td>448 / 56 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-x2070.c2024">Tesla X2070</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf100.g85">GF100</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>MXM-B (3.0)</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>651 MHz</td>
+	<td>924 MHz</td>
+	<td>448 / 56 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-x2090.c1887">Tesla X2090</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf110.g86">GF110</a>
+
+			</td>
+	<td>Jul 25th, 2011</td>
+	<td>PCIe 2.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>651 MHz</td>
+	<td>924 MHz</td>
+	<td>512 / 64 / 48</td>
+</tr>
+		
+			</table>
+</div>

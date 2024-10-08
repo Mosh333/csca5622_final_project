@@ -1,0 +1,56 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firestream-9250.c772">FireStream 9250</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-rv770.g173">RV770</a>
+
+			</td>
+	<td>Jun 16th, 2008</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 256 bit</td>
+	<td>625 MHz</td>
+	<td>993 MHz</td>
+	<td>800 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firestream-9270.c840">FireStream 9270</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-rv770.g173">RV770</a>
+
+			</td>
+	<td>Nov 13th, 2008</td>
+	<td>PCIe 2.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>750 MHz</td>
+	<td>900 MHz</td>
+	<td>800 / 40 / 16</td>
+</tr>
+		
+			</table>
+</div>

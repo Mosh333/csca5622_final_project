@@ -1,0 +1,206 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arctic-sound-1t.c3886">Arctic Sound 1T</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-arctic-sound.g987">Arctic Sound</a>
+
+			</td>
+	<td>2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, HBM2e, 4096 bit</td>
+	<td>900 MHz</td>
+	<td>1200 MHz</td>
+	<td>6144 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arctic-sound-2t.c3503">Arctic Sound 2T</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-arctic-sound.g987">Arctic Sound</a>
+
+			</td>
+	<td>2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, HBM2e, 4096 bit</td>
+	<td>900 MHz</td>
+	<td>1200 MHz</td>
+	<td>7680 / 240 / 120</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-16eu.c3764">UHD Graphics 16EU</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-rocket-lake-gt1.g993">Rocket Lake GT1</a>
+
+			</td>
+	<td>2021</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-16eu-mobile.c4109">UHD Graphics 16EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-tiger-lake-gt1.g905">Tiger Lake GT1</a>
+
+			</td>
+	<td>2021</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-16eu-mobile.c3922">UHD Graphics 16EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-jasper-lake-gt1.g997">Jasper Lake GT1</a>
+
+			</td>
+	<td>Jan 11th, 2021</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-24eu-mobile.c3921">UHD Graphics 24EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-jasper-lake-gt1.g997">Jasper Lake GT1</a>
+
+			</td>
+	<td>Jan 11th, 2021</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-32eu-mobile.c3811">UHD Graphics 32EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-tiger-lake-gt1.g905">Tiger Lake GT1</a>
+
+			</td>
+	<td>2021</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-32eu-mobile.c3814">UHD Graphics 32EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-jasper-lake-gt1.g997">Jasper Lake GT1</a>
+
+			</td>
+	<td>Jan 11th, 2021</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-730.c3765">UHD Graphics 730</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-rocket-lake-gt1.g993">Rocket Lake GT1</a>
+
+			</td>
+	<td>Mar 30th, 2021</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-750.c3766">UHD Graphics 750</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-rocket-lake-gt1.g993">Rocket Lake GT1</a>
+
+			</td>
+	<td>Mar 30th, 2021</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-770.c3844">UHD Graphics 770</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alder-lake-gt1.g1003">Alder Lake GT1</a>
+
+			</td>
+	<td>Nov 4th, 2021</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-p750.c3767">UHD Graphics P750</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-rocket-lake-gt1.g993">Rocket Lake GT1</a>
+
+			</td>
+	<td>2021</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 64 / 32</td>
+</tr>
+		
+			</table>
+</div>

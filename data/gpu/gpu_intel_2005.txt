@@ -1,0 +1,69 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-900.c1226">GMA 900</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alviso.g205">Alviso</a>
+
+			</td>
+	<td>2005</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>333 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 0 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-950.c3127">GMA 950</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-lakeport.g827">Lakeport</a>
+
+			</td>
+	<td>Jun 1st, 2005</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>250 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 1 / 4 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-950.c3121">GMA 950</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-lakeport.g827">Lakeport</a>
+
+			</td>
+	<td>May 1st, 2005</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>166 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 1 / 4 / 1</td>
+</tr>
+		
+			</table>
+</div>

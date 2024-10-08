@@ -1,0 +1,129 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3600.c1797">GMA 3600</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-cedarview.g383">Cedarview</a>
+
+			</td>
+	<td>Oct 1st, 2008</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>32 / 4 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3650.c3143">GMA 3650</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-cedarview.g383">Cedarview</a>
+
+			</td>
+	<td>Oct 1st, 2008</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>640 MHz</td>
+	<td>System Shared</td>
+	<td>32 / 4 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-500.c1222">GMA 500</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-poulsbo.g203">Poulsbo</a>
+
+			</td>
+	<td>Mar 2nd, 2008</td>
+	<td>PCIe 1.0 x16</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>32 / 4 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-x4500.c3116">GMA X4500</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-eaglelake.g382">Eaglelake</a>
+
+			</td>
+	<td>Jun 1st, 2008</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>533 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 10 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-x4500m.c1236">GMA X4500M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-eaglelake.g382">Eaglelake</a>
+
+			</td>
+	<td>Oct 1st, 2008</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 10 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-x4500mhd.c3125">GMA X4500MHD</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-cantiga.g830">Cantiga</a>
+
+			</td>
+	<td>Sep 1st, 2008</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>533 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 10 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-x4700mhd.c1240">GMA X4700MHD</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-montevina.g209">Montevina</a>
+
+			</td>
+	<td>Oct 1st, 2008</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>640 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 10 / 1</td>
+</tr>
+		
+			</table>
+</div>

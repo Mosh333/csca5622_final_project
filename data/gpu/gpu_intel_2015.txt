@@ -1,0 +1,294 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-12eu-mobile.c3149">HD Graphics 12EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwell-gt1.g832">Broadwell GT1</a>
+
+			</td>
+	<td>Jan 5th, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>100 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-12eu-mobile.c3115">HD Graphics 12EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-braswell-gt1.g802">Braswell GT1</a>
+
+			</td>
+	<td>Apr 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-400-mobile.c2900">HD Graphics 400 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-braswell-gt1.g802">Braswell GT1</a>
+
+			</td>
+	<td>Apr 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>320 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-405-mobile.c2901">HD Graphics 405 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-braswell-gt1.g802">Braswell GT1</a>
+
+			</td>
+	<td>Apr 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 16 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-500-mobile.c2902">HD Graphics 500 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-apollo-lake-gt1.g917">Apollo Lake GT1</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-510.c2795">HD Graphics 510</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt1.g788">Skylake GT1</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-510-mobile.c2784">HD Graphics 510 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt1.g788">Skylake GT1</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-515-mobile.c3400">HD Graphics 515 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt2.g787">Skylake GT2</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-520-mobile.c2783">HD Graphics 520 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt2.g787">Skylake GT2</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-530.c2789">HD Graphics 530</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt2.g787">Skylake GT2</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-530-mobile.c2785">HD Graphics 530 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt2.g787">Skylake GT2</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-p530.c2793">HD Graphics P530</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt2.g787">Skylake GT2</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 16 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-graphics-540-mobile.c2786">Iris Graphics 540 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt3e.g789">Skylake GT3e</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-graphics-550-mobile.c2787">Iris Graphics 550 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt3e.g789">Skylake GT3e</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-pro-graphics-580-mobile.c2788">Iris Pro Graphics 580 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt4e.g790">Skylake GT4e</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>576 / 72 / 9</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-pro-graphics-p555.c3220">Iris Pro Graphics P555</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt3e.g789">Skylake GT3e</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-pro-graphics-p580.c2794">Iris Pro Graphics P580</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt4e.g790">Skylake GT4e</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>576 / 72 / 9</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-pro-graphics-p580-mobile.c3606">Iris Pro Graphics P580 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-skylake-gt4e.g790">Skylake GT4e</a>
+
+			</td>
+	<td>Sep 1st, 2015</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>576 / 72 / 9</td>
+</tr>
+		
+			</table>
+</div>

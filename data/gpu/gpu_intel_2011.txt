@@ -1,0 +1,129 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-2000.c1248">HD Graphics 2000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-sandy-bridge-gt1.g579">Sandy Bridge GT1</a>
+
+			</td>
+	<td>Feb 1st, 2011</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>650 MHz</td>
+	<td>System Shared</td>
+	<td>48 / 6 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-3000.c1257">HD Graphics 3000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-sandy-bridge-gt2.g582">Sandy Bridge GT2</a>
+
+			</td>
+	<td>Feb 1st, 2011</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>850 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-3000.c3196">HD Graphics 3000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-sandy-bridge-gt2.g851">Sandy Bridge GT2+</a>
+
+			</td>
+	<td>Feb 1st, 2011</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>850 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-3000-mobile.c1251">HD Graphics 3000 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-sandy-bridge-gt2.g582">Sandy Bridge GT2</a>
+
+			</td>
+	<td>Feb 1st, 2011</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-3000-mobile.c3195">HD Graphics 3000 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-sandy-bridge-gt2.g851">Sandy Bridge GT2+</a>
+
+			</td>
+	<td>Feb 1st, 2011</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>650 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-6eu-mobile.c1246">HD Graphics 6EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-sandy-bridge-gt1.g579">Sandy Bridge GT1</a>
+
+			</td>
+	<td>May 1st, 2011</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>48 / 6 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-p3000.c2026">HD Graphics P3000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-sandy-bridge-gt2.g582">Sandy Bridge GT2</a>
+
+			</td>
+	<td>Feb 1st, 2011</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>850 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+		
+			</table>
+</div>

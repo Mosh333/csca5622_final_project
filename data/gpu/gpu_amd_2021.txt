@@ -1,0 +1,448 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-384sp.c3855">Radeon Graphics 384SP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cezanne.g994">Cezanne</a>
+
+			</td>
+	<td>Apr 13th, 2021</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-384sp-mobile.c3856">Radeon Graphics 384SP Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cezanne-m.g1057">Cezanne-M</a>
+
+			</td>
+	<td>Apr 13th, 2021</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-448sp.c3833">Radeon Graphics 448SP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cezanne.g994">Cezanne</a>
+
+			</td>
+	<td>Apr 13th, 2021</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>448 / 28 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-448sp-mobile.c3784">Radeon Graphics 448SP Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lucienne.g995">Lucienne</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>448 / 28 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-448sp-mobile.c3854">Radeon Graphics 448SP Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cezanne-m.g1057">Cezanne-M</a>
+
+			</td>
+	<td>Apr 13th, 2021</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>448 / 28 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-512sp.c3768">Radeon Graphics 512SP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cezanne.g994">Cezanne</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-512sp-mobile.c4065">Radeon Graphics 512SP Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lucienne.g995">Lucienne</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-512sp-mobile.c3771">Radeon Graphics 512SP Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cezanne-m.g1057">Cezanne-M</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi200.c4077">Radeon Instinct MI200</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-aldebaran.g1002">Aldebaran</a>
+
+			</td>
+	<td>Dec 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>64 GB, HBM2e, 4096 bit</td>
+	<td>1000 MHz</td>
+	<td>1600 MHz</td>
+	<td>6656 / 416 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi210.c3857">Radeon Instinct MI210</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-aldebaran.g1002">Aldebaran</a>
+
+			</td>
+	<td>Dec 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>64 GB, HBM2e, 4096 bit</td>
+	<td>1000 MHz</td>
+	<td>1600 MHz</td>
+	<td>6656 / 416 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi250.c3847">Radeon Instinct MI250</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-aldebaran.g1002">Aldebaran</a>
+
+			</td>
+	<td>Nov 8th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>128 GB, HBM2e, 8192 bit</td>
+	<td>1000 MHz</td>
+	<td>1600 MHz</td>
+	<td>13312 / 832 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi250x.c3837">Radeon Instinct MI250X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-aldebaran.g1002">Aldebaran</a>
+
+			</td>
+	<td>Nov 8th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>128 GB, HBM2e, 8192 bit</td>
+	<td>1000 MHz</td>
+	<td>1600 MHz</td>
+	<td>14080 / 880 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-v620.c3846">Radeon PRO V620</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-21.g923">Navi 21</a>
+
+			</td>
+	<td>Nov 4th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>32 GB, GDDR6, 256 bit</td>
+	<td>1825 MHz</td>
+	<td>2000 MHz</td>
+	<td>4608 / 288 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w6600.c3818">Radeon PRO W6600</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-23.g926">Navi 23</a>
+
+			</td>
+	<td>Jun 8th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>2331 MHz</td>
+	<td>1750 MHz</td>
+	<td>1792 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w6800.c3809">Radeon PRO W6800</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-21.g923">Navi 21</a>
+
+			</td>
+	<td>Jun 8th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>32 GB, GDDR6, 256 bit</td>
+	<td>2075 MHz</td>
+	<td>2000 MHz</td>
+	<td>3840 / 240 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w6600m.c3819">Radeon Pro W6600M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-23.g926">Navi 23</a>
+
+			</td>
+	<td>Jun 8th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1224 MHz</td>
+	<td>1750 MHz</td>
+	<td>1792 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w6600x.c4104">Radeon Pro W6600X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-23.g926">Navi 23</a>
+
+			</td>
+	<td>Aug 3rd, 2021</td>
+	<td>Apple MPX</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>2068 MHz</td>
+	<td>2000 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w6800x.c3826">Radeon Pro W6800X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-21.g923">Navi 21</a>
+
+			</td>
+	<td>Aug 3rd, 2021</td>
+	<td>Apple MPX</td>
+	<td>32 GB, GDDR6, 256 bit</td>
+	<td>1800 MHz</td>
+	<td>2000 MHz</td>
+	<td>3840 / 240 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w6800x-duo.c3824">Radeon Pro W6800X Duo</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-21.g923">Navi 21</a>
+
+			</td>
+	<td>Aug 3rd, 2021</td>
+	<td>Apple MPX</td>
+	<td>32 GB, GDDR6, 256 bit</td>
+	<td>1800 MHz</td>
+	<td>2000 MHz</td>
+	<td>3840 / 240 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w6900x.c3825">Radeon Pro W6900X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-21.g923">Navi 21</a>
+
+			</td>
+	<td>Aug 3rd, 2021</td>
+	<td>Apple MPX</td>
+	<td>32 GB, GDDR6, 256 bit</td>
+	<td>1825 MHz</td>
+	<td>2000 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6600.c3696">Radeon RX 6600</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-23.g926">Navi 23</a>
+
+			</td>
+	<td>Oct 13th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1626 MHz</td>
+	<td>1750 MHz</td>
+	<td>1792 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6600-xt.c3774">Radeon RX 6600 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-23.g926">Navi 23</a>
+
+			</td>
+	<td>Jul 30th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1968 MHz</td>
+	<td>2000 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6600m.c3776">Radeon RX 6600M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-23.g926">Navi 23</a>
+
+			</td>
+	<td>May 31st, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>2068 MHz</td>
+	<td>1750 MHz</td>
+	<td>1792 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6700.c3716">Radeon RX 6700</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-22.g951">Navi 22</a>
+
+			</td>
+	<td>Jun 9th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>10 GB, GDDR6, 160 bit</td>
+	<td>1941 MHz</td>
+	<td>2000 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6700-xt.c3695">Radeon RX 6700 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-22.g951">Navi 22</a>
+
+			</td>
+	<td>Mar 3rd, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>2321 MHz</td>
+	<td>2000 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6700m.c3775">Radeon RX 6700M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-22.g951">Navi 22</a>
+
+			</td>
+	<td>May 31st, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>10 GB, GDDR6, 160 bit</td>
+	<td>1489 MHz</td>
+	<td>2000 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6800m.c3786">Radeon RX 6800M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-22.g951">Navi 22</a>
+
+			</td>
+	<td>May 31st, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>2116 MHz</td>
+	<td>2000 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+		
+			</table>
+</div>

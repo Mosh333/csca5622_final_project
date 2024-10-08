@@ -1,0 +1,147 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-4000.c1282">HD Graphics 4000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ivy-bridge-gt2.g179">Ivy Bridge GT2</a>
+
+			</td>
+	<td>May 14th, 2012</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>650 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 16 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-4000-mobile.c1266">HD Graphics 4000 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ivy-bridge-gt2.g179">Ivy Bridge GT2</a>
+
+			</td>
+	<td>May 14th, 2012</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>650 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 16 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-6eu.c1250">HD Graphics 6EU</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ivy-bridge-gt1.g581">Ivy Bridge GT1</a>
+
+			</td>
+	<td>Apr 1st, 2012</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>650 MHz</td>
+	<td>System Shared</td>
+	<td>48 / 6 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-6eu-mobile.c3132">HD Graphics 6EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ivy-bridge-gt1.g581">Ivy Bridge GT1</a>
+
+			</td>
+	<td>Oct 1st, 2012</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>48 / 6 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-p4000.c2027">HD Graphics P4000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ivy-bridge-gt2.g179">Ivy Bridge GT2</a>
+
+			</td>
+	<td>May 14th, 2012</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>650 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 16 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/xeon-phi-3120a.c1886">Xeon Phi 3120A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-knights-corner.g237">Knights Corner</a>
+
+			</td>
+	<td>Nov 12th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>1100 MHz</td>
+	<td>1250 MHz</td>
+	<td>912 / 32 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/xeon-phi-5110p.c2480">Xeon Phi 5110P</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-knights-corner.g237">Knights Corner</a>
+
+			</td>
+	<td>Nov 12th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 512 bit</td>
+	<td>1053 MHz</td>
+	<td>1250 MHz</td>
+	<td>960 / 32 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/xeon-phi-se10x.c1891">Xeon Phi SE10X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-knights-corner.g237">Knights Corner</a>
+
+			</td>
+	<td>Nov 12th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 512 bit</td>
+	<td>1100 MHz</td>
+	<td>1375 MHz</td>
+	<td>976 / 32 / 0</td>
+</tr>
+		
+			</table>
+</div>

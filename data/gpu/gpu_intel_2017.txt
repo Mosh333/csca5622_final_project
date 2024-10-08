@@ -1,0 +1,129 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-plus-graphics-640-mobile.c2963">Iris Plus Graphics 640 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-kaby-lake-gt3e.g810">Kaby Lake GT3e</a>
+
+			</td>
+	<td>Jan 3rd, 2017</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-plus-graphics-650-mobile.c2964">Iris Plus Graphics 650 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-kaby-lake-gt3e.g810">Kaby Lake GT3e</a>
+
+			</td>
+	<td>Jan 3rd, 2017</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-600-mobile.c3065">UHD Graphics 600 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-gemini-lake-gt1.g818">Gemini Lake GT1</a>
+
+			</td>
+	<td>Dec 11th, 2017</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-605-mobile.c3101">UHD Graphics 605 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-gemini-lake-gt1-5.g916">Gemini Lake GT1.5</a>
+
+			</td>
+	<td>Dec 11th, 2017</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>144 / 18 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-620-mobile.c2909">UHD Graphics 620 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-kaby-lake-gt2.g805">Kaby Lake GT2</a>
+
+			</td>
+	<td>Sep 1st, 2017</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-630.c3105">UHD Graphics 630</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-coffee-lake-gt2.g820">Coffee Lake GT2</a>
+
+			</td>
+	<td>Sep 1st, 2017</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-630.c3107">UHD Graphics 630</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-coffee-lake-gt2.g820">Coffee Lake GT2</a>
+
+			</td>
+	<td>Sep 1st, 2017</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>184 / 23 / 3</td>
+</tr>
+		
+			</table>
+</div>

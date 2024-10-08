@@ -1,0 +1,576 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/rog-ally-extreme-gpu.c4157">ROG Ally Extreme GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-phoenix.g1024">Phoenix</a>
+
+			</td>
+	<td>Jun 13th, 2023</td>
+	<td>PCIe 4.0 x4</td>
+	<td>16 GB, LPDDR5, 64 bit</td>
+	<td>1500 MHz</td>
+	<td>1600 MHz</td>
+	<td>768 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/rog-ally-gpu.c4158">ROG Ally GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-phoenix.g1024">Phoenix</a>
+
+			</td>
+	<td>2023</td>
+	<td>PCIe 4.0 x4</td>
+	<td>16 GB, LPDDR5, 64 bit</td>
+	<td>1500 MHz</td>
+	<td>1600 MHz</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-610m.c4021">Radeon 610M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-dragon-range.g1025">Dragon Range</a>
+
+			</td>
+	<td>Jan 3rd, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-660m.c4136">Radeon 660M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-rembrandt.g1065">Rembrandt+</a>
+
+			</td>
+	<td>Jan 3rd, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>System Shared</td>
+	<td>1500 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-680m.c4135">Radeon 680M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-rembrandt.g1065">Rembrandt+</a>
+
+			</td>
+	<td>Jan 3rd, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>System Shared</td>
+	<td>2000 MHz</td>
+	<td>System Shared</td>
+	<td>768 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-740m.c4162">Radeon 740M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-phoenix.g1024">Phoenix</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>System Shared</td>
+	<td>800 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-760m.c4022">Radeon 760M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-phoenix.g1024">Phoenix</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>System Shared</td>
+	<td>800 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-760m.c4222">Radeon 760M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-phoenix.g1024">Phoenix</a>
+
+			</td>
+	<td>Dec 6th, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>System Shared</td>
+	<td>800 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-780m.c4221">Radeon 780M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-phoenix.g1024">Phoenix</a>
+
+			</td>
+	<td>Dec 6th, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>System Shared</td>
+	<td>800 MHz</td>
+	<td>System Shared</td>
+	<td>768 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-780m.c4020">Radeon 780M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-phoenix.g1024">Phoenix</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>System Shared</td>
+	<td>800 MHz</td>
+	<td>System Shared</td>
+	<td>768 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi300.c4019">Radeon Instinct MI300</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-aqua-vanjaram.g1023">Aqua Vanjaram</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 5.0 x16</td>
+	<td>128 GB, HBM3, 8192 bit</td>
+	<td>1000 MHz</td>
+	<td>1600 MHz</td>
+	<td>14080 / 880 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi300x.c4179">Radeon Instinct MI300X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-aqua-vanjaram.g1023">Aqua Vanjaram</a>
+
+			</td>
+	<td>Dec 6th, 2023</td>
+	<td>PCIe 5.0 x16</td>
+	<td>192 GB, HBM3, 8192 bit</td>
+	<td>1000 MHz</td>
+	<td>2525 MHz</td>
+	<td>19456 / 1216 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w7500.c4170">Radeon PRO W7500</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-33.g1001">Navi 33</a>
+
+			</td>
+	<td>Aug 3rd, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1500 MHz</td>
+	<td>1344 MHz</td>
+	<td>1792 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w7600.c4169">Radeon PRO W7600</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-33.g1001">Navi 33</a>
+
+			</td>
+	<td>Aug 3rd, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1720 MHz</td>
+	<td>2250 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w7700.c4184">Radeon PRO W7700</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-32.g1000">Navi 32</a>
+
+			</td>
+	<td>Nov 13th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1900 MHz</td>
+	<td>2250 MHz</td>
+	<td>3072 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w7800.c4148">Radeon PRO W7800</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-31.g998">Navi 31</a>
+
+			</td>
+	<td>Apr 13th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>32 GB, GDDR6, 256 bit</td>
+	<td>1855 MHz</td>
+	<td>2250 MHz</td>
+	<td>4480 / 280 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w7900.c4147">Radeon PRO W7900</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-31.g998">Navi 31</a>
+
+			</td>
+	<td>Apr 13th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>48 GB, GDDR6, 384 bit</td>
+	<td>1855 MHz</td>
+	<td>2250 MHz</td>
+	<td>6144 / 384 / 192</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6450m.c4018">Radeon RX 6450M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-24.g965">Navi 24</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 4.0 x4</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>2000 MHz</td>
+	<td>2000 MHz</td>
+	<td>768 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6550m.c4017">Radeon RX 6550M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-24.g965">Navi 24</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 4.0 x4</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>2000 MHz</td>
+	<td>2250 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6550s.c3981">Radeon RX 6550S</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-24.g965">Navi 24</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 4.0 x4</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>2000 MHz</td>
+	<td>2000 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6600-le.c4223">Radeon RX 6600 LE</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-23.g926">Navi 23</a>
+
+			</td>
+	<td>Dec 8th, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1626 MHz</td>
+	<td>1750 MHz</td>
+	<td>1792 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6750-gre-10-gb.c4192">Radeon RX 6750 GRE 10 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-22.g951">Navi 22</a>
+
+			</td>
+	<td>Oct 17th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>10 GB, GDDR6, 160 bit</td>
+	<td>1941 MHz</td>
+	<td>2000 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6750-gre-12-gb.c4183">Radeon RX 6750 GRE 12 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-22.g951">Navi 22</a>
+
+			</td>
+	<td>Oct 17th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>2321 MHz</td>
+	<td>2250 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7500-xt.c4116">Radeon RX 7500 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-33.g1001">Navi 33</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 4.0 x8</td>
+	<td>6 GB, GDDR6, 96 bit</td>
+	<td>1452 MHz</td>
+	<td>2250 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7600.c4153">Radeon RX 7600</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-33.g1001">Navi 33</a>
+
+			</td>
+	<td>May 24th, 2023</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1720 MHz</td>
+	<td>2250 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7600m.c4014">Radeon RX 7600M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-33.g1001">Navi 33</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1500 MHz</td>
+	<td>2000 MHz</td>
+	<td>1792 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7600m-xt.c4013">Radeon RX 7600M XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-33.g1001">Navi 33</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1280 MHz</td>
+	<td>2250 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7600s.c4016">Radeon RX 7600S</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-33.g1001">Navi 33</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1500 MHz</td>
+	<td>2000 MHz</td>
+	<td>1792 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7700-xt.c3911">Radeon RX 7700 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-32.g1000">Navi 32</a>
+
+			</td>
+	<td>Aug 25th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>1435 MHz</td>
+	<td>2250 MHz</td>
+	<td>3456 / 216 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7700s.c4015">Radeon RX 7700S</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-33.g1001">Navi 33</a>
+
+			</td>
+	<td>Jan 4th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1500 MHz</td>
+	<td>2250 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7800-xt.c3839">Radeon RX 7800 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-32.g1000">Navi 32</a>
+
+			</td>
+	<td>Aug 25th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1295 MHz</td>
+	<td>2438 MHz</td>
+	<td>3840 / 240 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7900-gre.c4166">Radeon RX 7900 GRE</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-31.g998">Navi 31</a>
+
+			</td>
+	<td>Jul 27th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1287 MHz</td>
+	<td>2250 MHz</td>
+	<td>5120 / 320 / 160</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7900m.c4178">Radeon RX 7900M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-31.g998">Navi 31</a>
+
+			</td>
+	<td>Oct 19th, 2023</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1825 MHz</td>
+	<td>2250 MHz</td>
+	<td>4608 / 288 / 192</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7990-xtx.c3973">Radeon RX 7990 XTX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-31.g998">Navi 31</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 4.0 x16</td>
+	<td>24 GB, GDDR6, 384 bit</td>
+	<td>2500 MHz</td>
+	<td>3000 MHz</td>
+	<td>6144 / 384 / 192</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/steam-deck-oled-gpu.c4185">Steam Deck OLED GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-sephiroth.g1067">Sephiroth</a>
+
+			</td>
+	<td>Nov 9th, 2023</td>
+	<td>IGP</td>
+	<td>16 GB, LPDDR5, 128 bit</td>
+	<td>1000 MHz</td>
+	<td>1375 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+		
+			</table>
+</div>

@@ -1,0 +1,325 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-m3900.c2287">FirePro M3900</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-seymour.g105">Seymour</a>
+
+			</td>
+	<td>Oct 19th, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 64 bit</td>
+	<td>750 MHz</td>
+	<td>900 MHz</td>
+	<td>160 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-rg220.c582">FirePro RG220</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-rv711.g1051">RV711</a>
+
+			</td>
+	<td>May 4th, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-rg220a.c584">FirePro RG220A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-rv711.g1051">RV711</a>
+
+			</td>
+	<td>May 4th, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firestream-9350.c1184">FireStream 9350</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cypress.g137">Cypress</a>
+
+			</td>
+	<td>Jun 1st, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>700 MHz</td>
+	<td>1000 MHz</td>
+	<td>1440 / 72 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firestream-9370.c1185">FireStream 9370</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cypress.g137">Cypress</a>
+
+			</td>
+	<td>Jun 23rd, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>825 MHz</td>
+	<td>1150 MHz</td>
+	<td>1600 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6250-igp.c2409">Radeon HD 6250 IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-loveland.g175">Loveland</a>
+
+			</td>
+	<td>Nov 9th, 2010</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6310-igp.c2286">Radeon HD 6310 IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-loveland.g175">Loveland</a>
+
+			</td>
+	<td>Nov 9th, 2010</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>488 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6310-igp.c2284">Radeon HD 6310 IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-loveland.g175">Loveland</a>
+
+			</td>
+	<td>Nov 9th, 2010</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>276 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6330m.c337">Radeon HD 6330M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-robson.g106">Robson</a>
+
+			</td>
+	<td>Nov 26th, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 64 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6350m.c336">Radeon HD 6350M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-robson.g106">Robson</a>
+
+			</td>
+	<td>Nov 26th, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 64 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6370m.c335">Radeon HD 6370M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-robson.g106">Robson</a>
+
+			</td>
+	<td>Nov 26th, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 64 bit</td>
+	<td>750 MHz</td>
+	<td>800 MHz</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6530m.c330">Radeon HD 6530M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-capilano.g104">Capilano</a>
+
+			</td>
+	<td>Nov 26th, 2010</td>
+	<td>MXM-II</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>450 MHz</td>
+	<td>900 MHz</td>
+	<td>400 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6550m.c329">Radeon HD 6550M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-capilano.g104">Capilano</a>
+
+			</td>
+	<td>Nov 26th, 2010</td>
+	<td>MXM-II</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>600 MHz</td>
+	<td>900 MHz</td>
+	<td>400 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6550m.c3275">Radeon HD 6550M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexington.g867">Lexington</a>
+
+			</td>
+	<td>Nov 26th, 2010</td>
+	<td>MXM-II</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>650 MHz</td>
+	<td>900 MHz</td>
+	<td>400 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6570m.c1211">Radeon HD 6570M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-capilano.g104">Capilano</a>
+
+			</td>
+	<td>Nov 26th, 2010</td>
+	<td>MXM-II</td>
+	<td>1024 MB, GDDR3, 128 bit</td>
+	<td>650 MHz</td>
+	<td>800 MHz</td>
+	<td>400 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6850.c255">Radeon HD 6850</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-barts.g80">Barts</a>
+
+			</td>
+	<td>Oct 21st, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 256 bit</td>
+	<td>775 MHz</td>
+	<td>1000 MHz</td>
+	<td>960 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6870.c256">Radeon HD 6870</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-barts.g80">Barts</a>
+
+			</td>
+	<td>Oct 21st, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 256 bit</td>
+	<td>900 MHz</td>
+	<td>1050 MHz</td>
+	<td>1120 / 56 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6950.c405">Radeon HD 6950</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cayman.g81">Cayman</a>
+
+			</td>
+	<td>Dec 14th, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>800 MHz</td>
+	<td>1250 MHz</td>
+	<td>1408 / 88 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6970.c258">Radeon HD 6970</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cayman.g81">Cayman</a>
+
+			</td>
+	<td>Dec 14th, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>880 MHz</td>
+	<td>1375 MHz</td>
+	<td>1536 / 96 / 32</td>
+</tr>
+		
+			</table>
+</div>

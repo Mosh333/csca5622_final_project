@@ -1,0 +1,114 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-plus-graphics-645-mobile.c3486">Iris Plus Graphics 645 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-coffee-lake-gt3e.g868">Coffee Lake GT3e</a>
+
+			</td>
+	<td>Oct 7th, 2019</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-plus-graphics-g4-48eu-mobile.c3647">Iris Plus Graphics G4 48EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ice-lake-gt1.g896">Ice Lake GT1</a>
+
+			</td>
+	<td>May 29th, 2019</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-24eu-mobile.c3484">UHD Graphics 24EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-comet-lake-gt2.g925">Comet Lake GT2</a>
+
+			</td>
+	<td>Aug 21st, 2019</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-24eu-mobile.c3604">UHD Graphics 24EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-amber-lake-gt2.g879">Amber Lake GT2</a>
+
+			</td>
+	<td>Aug 21st, 2019</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-24eu-mobile.c3644">UHD Graphics 24EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-comet-lake-gt1.g950">Comet Lake GT1</a>
+
+			</td>
+	<td>Aug 21st, 2019</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-g1-32eu-mobile.c3447">UHD Graphics G1 32EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ice-lake-gt1.g896">Ice Lake GT1</a>
+
+			</td>
+	<td>May 29th, 2019</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+		
+			</table>
+</div>

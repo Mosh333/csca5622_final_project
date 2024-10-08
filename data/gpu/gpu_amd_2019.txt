@@ -1,0 +1,887 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-540-mobile.c3419">Radeon 540 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Mar 26th, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1046 MHz</td>
+	<td>1300 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-540x-mobile.c3415">Radeon 540X Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-23.g920">Polaris 23</a>
+
+			</td>
+	<td>Feb 11th, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>980 MHz</td>
+	<td>1000 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-550x.c3420">Radeon 550X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Mar 27th, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1082 MHz</td>
+	<td>1750 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-610-mobile.c3423">Radeon 610 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-banks.g891">Banks</a>
+
+			</td>
+	<td>May 23rd, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1030 MHz</td>
+	<td>1000 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-620-mobile.c3421">Radeon 620 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-24.g889">Polaris 24</a>
+
+			</td>
+	<td>May 13th, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>920 MHz</td>
+	<td>1000 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-625-mobile.c3422">Radeon 625 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-24.g889">Polaris 24</a>
+
+			</td>
+	<td>May 13th, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>730 MHz</td>
+	<td>1125 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-625-oem.c4111">Radeon 625 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-24.g889">Polaris 24</a>
+
+			</td>
+	<td>May 13th, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1024 MHz</td>
+	<td>1125 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-630-mobile.c3414">Radeon 630 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-23.g920">Polaris 23</a>
+
+			</td>
+	<td>May 13th, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1082 MHz</td>
+	<td>1500 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-e9390-pcie.c3617">Radeon E9390 PCIe</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Oct 15th, 2019</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>713 MHz</td>
+	<td>1250 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-e9560-pcie.c3616">Radeon E9560 PCIe</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Oct 15th, 2019</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1120 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-5300m.c3464">Radeon Pro 5300M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Nov 13th, 2019</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1000 MHz</td>
+	<td>1500 MHz</td>
+	<td>1280 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-5500m.c3463">Radeon Pro 5500M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Nov 13th, 2019</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1000 MHz</td>
+	<td>1500 MHz</td>
+	<td>1536 / 96 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-570x.c3396">Radeon Pro 570X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Mar 18th, 2019</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>1000 MHz</td>
+	<td>1695 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-575x.c3397">Radeon Pro 575X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Mar 18th, 2019</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>1096 MHz</td>
+	<td>1695 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-580x.c3398">Radeon Pro 580X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Mar 18th, 2019</td>
+	<td>Apple MPX</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1100 MHz</td>
+	<td>1710 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-vega-48.c3395">Radeon Pro Vega 48</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Mar 19th, 2019</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>1200 MHz</td>
+	<td>786 MHz</td>
+	<td>3072 / 192 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-vega-64x.c3404">Radeon Pro Vega 64X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Mar 19th, 2019</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, HBM2, 2048 bit</td>
+	<td>1250 MHz</td>
+	<td>1000 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-vega-ii.c3426">Radeon Pro Vega II</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-20.g848">Vega 20</a>
+
+			</td>
+	<td>Jun 3rd, 2019</td>
+	<td>Apple MPX</td>
+	<td>32 GB, HBM2, 4096 bit</td>
+	<td>1574 MHz</td>
+	<td>806 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-vega-ii-duo.c3268">Radeon Pro Vega II Duo</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-20.g848">Vega 20</a>
+
+			</td>
+	<td>Jun 3rd, 2019</td>
+	<td>Apple MPX</td>
+	<td>32 GB, HBM2, 4096 bit</td>
+	<td>1400 MHz</td>
+	<td>1000 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w5300m.c3477">Radeon Pro W5300M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Nov 13th, 2019</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1000 MHz</td>
+	<td>1500 MHz</td>
+	<td>1280 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w5500x.c4105">Radeon Pro W5500X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Dec 11th, 2019</td>
+	<td>Apple MPX</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1187 MHz</td>
+	<td>1750 MHz</td>
+	<td>1536 / 96 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w5700.c3466">Radeon Pro W5700</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Nov 19th, 2019</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1400 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w5700x.c3583">Radeon Pro W5700X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Dec 11th, 2019</td>
+	<td>Apple MPX</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1243 MHz</td>
+	<td>1750 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-3200.c3412">Radeon Pro WX 3200</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-23.g920">Polaris 23</a>
+
+			</td>
+	<td>Jul 2nd, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1295 MHz</td>
+	<td>1500 MHz</td>
+	<td>640 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-3200-mobile.c3461">Radeon Pro WX 3200 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-23.g920">Polaris 23</a>
+
+			</td>
+	<td>Jul 2nd, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1082 MHz</td>
+	<td>1000 MHz</td>
+	<td>640 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-350-640sp.c3736">Radeon R7 350 640SP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cape-verde.g100">Cape Verde</a>
+
+			</td>
+	<td>Jan 7th, 2019</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>925 MHz</td>
+	<td>1125 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5300-xt-oem.c3465">Radeon RX 5300 XT OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Oct 7th, 2019</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1670 MHz</td>
+	<td>1750 MHz</td>
+	<td>1408 / 88 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5300m.c3462">Radeon RX 5300M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Nov 13th, 2019</td>
+	<td>PCIe 4.0 x8</td>
+	<td>3 GB, GDDR6, 96 bit</td>
+	<td>1000 MHz</td>
+	<td>1750 MHz</td>
+	<td>1408 / 88 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5500-oem.c3459">Radeon RX 5500 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Oct 7th, 2019</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1500 MHz</td>
+	<td>1750 MHz</td>
+	<td>1408 / 88 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5500-xt.c3468">Radeon RX 5500 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Dec 12th, 2019</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1607 MHz</td>
+	<td>1750 MHz</td>
+	<td>1408 / 88 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5500m.c3460">Radeon RX 5500M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Oct 7th, 2019</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1375 MHz</td>
+	<td>1750 MHz</td>
+	<td>1408 / 88 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-560-xt.c3388">Radeon RX 560 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Mar 13th, 2019</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>1074 MHz</td>
+	<td>1750 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-560x-mobile.c3357">Radeon RX 560X Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-31.g921">Polaris 31</a>
+
+			</td>
+	<td>Jan 9th, 2019</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1223 MHz</td>
+	<td>1750 MHz</td>
+	<td>896 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5700.c3437">Radeon RX 5700</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Jul 7th, 2019</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1465 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5700-xt.c3339">Radeon RX 5700 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Jul 7th, 2019</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1605 MHz</td>
+	<td>1750 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5700-xt-50th-anniversary.c3438">Radeon RX 5700 XT 50th Anniversary</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Jul 7th, 2019</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1680 MHz</td>
+	<td>1750 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-640-mobile.c3413">Radeon RX 640 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-23.g920">Polaris 23</a>
+
+			</td>
+	<td>May 13th, 2019</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1082 MHz</td>
+	<td>1500 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-vega-11.c3593">Radeon RX Vega 11</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso.g869">Picasso</a>
+
+			</td>
+	<td>Jul 7th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>704 / 44 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-vega-11-mobile.c3597">Radeon RX Vega 11 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>Oct 22nd, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>704 / 44 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vii.c3358">Radeon VII</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-20.g848">Vega 20</a>
+
+			</td>
+	<td>Feb 7th, 2019</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, HBM2, 4096 bit</td>
+	<td>1400 MHz</td>
+	<td>1000 MHz</td>
+	<td>3840 / 240 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-10-mobile.c3288">Radeon Vega 10 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-raven-m.g1056">Raven-M</a>
+
+			</td>
+	<td>Jan 8th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>640 / 40 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-10-mobile.c3591">Radeon Vega 10 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>Jan 6th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>640 / 40 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-10-mobile.c3598">Radeon Vega 10 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>Apr 8th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>640 / 40 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-11.c3595">Radeon Vega 11</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso.g869">Picasso</a>
+
+			</td>
+	<td>Sep 30th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>704 / 44 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-3.c3594">Radeon Vega 3</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso.g869">Picasso</a>
+
+			</td>
+	<td>Nov 20th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-3-embedded.c3340">Radeon Vega 3 Embedded</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-3-embedded.c3341">Radeon Vega 3 Embedded</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-3-mobile.c3655">Radeon Vega 3 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>Jan 6th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-6-mobile.c3384">Radeon Vega 6 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-raven-m.g1056">Raven-M</a>
+
+			</td>
+	<td>Jan 8th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-6-mobile.c3615">Radeon Vega 6 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>Jan 6th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-8.c3286">Radeon Vega 8</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso.g869">Picasso</a>
+
+			</td>
+	<td>Jul 7th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-8-mobile.c3596">Radeon Vega 8 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>Apr 8th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-8-mobile.c3289">Radeon Vega 8 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-raven-m.g1056">Raven-M</a>
+
+			</td>
+	<td>Jan 8th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-8-mobile.c3360">Radeon Vega 8 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>Jan 6th, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-9-mobile.c3614">Radeon Vega 9 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>Oct 22nd, 2019</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>576 / 36 / 8</td>
+</tr>
+		
+			</table>
+</div>

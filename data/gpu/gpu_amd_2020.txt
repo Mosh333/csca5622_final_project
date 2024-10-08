@@ -1,0 +1,577 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/aerobox-gpu.c3648">AeroBox GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-kryptos.g956">Kryptos</a>
+
+			</td>
+	<td>Mar 13th, 2020</td>
+	<td>IGP</td>
+	<td>8 GB, DDR3, 256 bit</td>
+	<td>935 MHz</td>
+	<td>1066 MHz</td>
+	<td>896 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/atari-vcs-400-gpu.c3738">Atari VCS 400 GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-banded-kestrel.g958">Banded Kestrel</a>
+
+			</td>
+	<td>Dec 14th, 2020</td>
+	<td>IGP</td>
+	<td>4 GB, DDR4, 128 bit</td>
+	<td>300 MHz</td>
+	<td>1200 MHz</td>
+	<td>192 / 12 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/atari-vcs-800-gpu.c3654">Atari VCS 800 GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-banded-kestrel.g958">Banded Kestrel</a>
+
+			</td>
+	<td>Dec 14th, 2020</td>
+	<td>IGP</td>
+	<td>8 GB, DDR4, 128 bit</td>
+	<td>300 MHz</td>
+	<td>1200 MHz</td>
+	<td>192 / 12 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/playstation-5-gpu.c3480">Playstation 5 GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-oberon.g936">Oberon</a>
+
+			</td>
+	<td>Nov 12th, 2020</td>
+	<td>IGP</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>2233 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-320sp-mobile.c3613">Radeon Graphics 320SP Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-renoir-m.g935">Renoir-M</a>
+
+			</td>
+	<td>Jan 6th, 2020</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-384sp-mobile.c3511">Radeon Graphics 384SP Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-renoir-m.g935">Renoir-M</a>
+
+			</td>
+	<td>Jan 6th, 2020</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-448sp.c4024">Radeon Graphics 448SP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-renoir.g1058">Renoir</a>
+
+			</td>
+	<td>Jan 6th, 2020</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>448 / 28 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-448sp-mobile.c3510">Radeon Graphics 448SP Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-renoir-m.g935">Renoir-M</a>
+
+			</td>
+	<td>Jan 6th, 2020</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>448 / 28 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-512sp.c4023">Radeon Graphics 512SP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-renoir.g1058">Renoir</a>
+
+			</td>
+	<td>Mar 7th, 2020</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-graphics-512sp-mobile.c3587">Radeon Graphics 512SP Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-renoir-m.g935">Renoir-M</a>
+
+			</td>
+	<td>Mar 7th, 2020</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi100.c3496">Radeon Instinct MI100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-arcturus.g927">Arcturus</a>
+
+			</td>
+	<td>Nov 16th, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>32 GB, HBM2, 4096 bit</td>
+	<td>1000 MHz</td>
+	<td>1200 MHz</td>
+	<td>7680 / 480 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-5300.c3665">Radeon Pro 5300</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Aug 4th, 2020</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1000 MHz</td>
+	<td>1750 MHz</td>
+	<td>1280 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-5500-xt.c3664">Radeon Pro 5500 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Aug 4th, 2020</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1187 MHz</td>
+	<td>1750 MHz</td>
+	<td>1536 / 96 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-5600m.c3612">Radeon Pro 5600M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-12.g922">Navi 12</a>
+
+			</td>
+	<td>Jun 15th, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>822 MHz</td>
+	<td>770 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-5700.c3663">Radeon Pro 5700</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Aug 4th, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1243 MHz</td>
+	<td>1500 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-5700-xt.c3662">Radeon Pro 5700 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Aug 4th, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1243 MHz</td>
+	<td>1500 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-v520.c3755">Radeon Pro V520</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-12.g922">Navi 12</a>
+
+			</td>
+	<td>Dec 1st, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>1000 MHz</td>
+	<td>1000 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-v540.c4133">Radeon Pro V540</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-12.g922">Navi 12</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>1000 MHz</td>
+	<td>1000 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-vii.c3575">Radeon Pro VII</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-20.g848">Vega 20</a>
+
+			</td>
+	<td>May 13th, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, HBM2, 4096 bit</td>
+	<td>1400 MHz</td>
+	<td>1000 MHz</td>
+	<td>3840 / 240 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w5500.c3479">Radeon Pro W5500</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Feb 10th, 2020</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1744 MHz</td>
+	<td>1750 MHz</td>
+	<td>1408 / 88 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-w5500m.c3478">Radeon Pro W5500M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>Feb 10th, 2020</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1448 MHz</td>
+	<td>1750 MHz</td>
+	<td>1408 / 88 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5300-oem.c3584">Radeon RX 5300 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-14.g919">Navi 14</a>
+
+			</td>
+	<td>May 28th, 2020</td>
+	<td>PCIe 4.0 x8</td>
+	<td>3 GB, GDDR6, 96 bit</td>
+	<td>1327 MHz</td>
+	<td>1750 MHz</td>
+	<td>1408 / 88 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5600-oem.c3475">Radeon RX 5600 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Jan 21st, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>6 GB, GDDR6, 192 bit</td>
+	<td>1130 MHz</td>
+	<td>1500 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5600-xt.c3474">Radeon RX 5600 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Jan 21st, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>6 GB, GDDR6, 192 bit</td>
+	<td>1130 MHz</td>
+	<td>1500 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5600m.c3492">Radeon RX 5600M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Jul 7th, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>6 GB, GDDR6, 192 bit</td>
+	<td>1035 MHz</td>
+	<td>1500 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-5700m.c3476">Radeon RX 5700M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-10.g861">Navi 10</a>
+
+			</td>
+	<td>Mar 1st, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1465 MHz</td>
+	<td>1500 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-590-gme.c3505">Radeon RX 590 GME</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-20.g807">Polaris 20</a>
+
+			</td>
+	<td>Mar 9th, 2020</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1257 MHz</td>
+	<td>2000 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-640-oem.c4110">Radeon RX 640 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-23.g920">Polaris 23</a>
+
+			</td>
+	<td>Apr 9th, 2020</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1295 MHz</td>
+	<td>1500 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6800.c3713">Radeon RX 6800</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-21.g923">Navi 21</a>
+
+			</td>
+	<td>Oct 28th, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1700 MHz</td>
+	<td>2000 MHz</td>
+	<td>3840 / 240 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6800-xt.c3694">Radeon RX 6800 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-21.g923">Navi 21</a>
+
+			</td>
+	<td>Oct 28th, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1825 MHz</td>
+	<td>2000 MHz</td>
+	<td>4608 / 288 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6900-xt.c3481">Radeon RX 6900 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-21.g923">Navi 21</a>
+
+			</td>
+	<td>Oct 28th, 2020</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1825 MHz</td>
+	<td>2000 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-6900-xtx.c3800">Radeon RX 6900 XTX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-21.g923">Navi 21</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>2075 MHz</td>
+	<td>2250 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-3-mobile.c3592">Radeon Vega 3 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-picasso-m.g1055">Picasso-M</a>
+
+			</td>
+	<td>Jan 6th, 2020</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/xbox-series-s-gpu.c3683">Xbox Series S GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lockhart.g970">Lockhart</a>
+
+			</td>
+	<td>Nov 10th, 2020</td>
+	<td>IGP</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1565 MHz</td>
+	<td>1750 MHz</td>
+	<td>1280 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/xbox-series-x-gpu.c3482">Xbox Series X GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-scarlett.g924">Scarlett</a>
+
+			</td>
+	<td>Nov 10th, 2020</td>
+	<td>IGP</td>
+	<td>10 GB, GDDR6, 320 bit</td>
+	<td>1825 MHz</td>
+	<td>1750 MHz</td>
+	<td>3328 / 208 / 64</td>
+</tr>
+		
+			</table>
+</div>

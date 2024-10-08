@@ -1,0 +1,144 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3100.c1733">GMA 3100</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-bearlake.g826">Bearlake</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>8 / 1 / 8 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3100.c1793">GMA 3100</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-bearlake.g826">Bearlake</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 0 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3100.c3117">GMA 3100</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-bearlake.g826">Bearlake</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 0 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3150.c1794">GMA 3150</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-pineview.g380">Pineview</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 2 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3150.c3375">GMA 3150</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-pineview.g380">Pineview</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 2 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-x3100.c1233">GMA X3100</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwater.g207">Broadwater</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>8 / 1 / 8 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-x3100.c3124">GMA X3100</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-crestline.g829">Crestline</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>8 / 1 / 8 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-x3500.c3118">GMA X3500</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-bearlake.g826">Bearlake</a>
+
+			</td>
+	<td>Aug 1st, 2007</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>667 MHz</td>
+	<td>System Shared</td>
+	<td>8 / 1 / 8 / 1</td>
+</tr>
+		
+			</table>
+</div>

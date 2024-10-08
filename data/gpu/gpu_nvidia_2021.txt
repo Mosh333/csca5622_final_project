@@ -1,0 +1,1160 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="NVIDIA">NVIDIA</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/a10-pcie.c3793">A10 PCIe</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga102.g930">GA102</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>24 GB, GDDR6, 384 bit</td>
+	<td>885 MHz</td>
+	<td>1563 MHz</td>
+	<td>9216 / 288 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/a100-pcie-80-gb.c3821">A100 PCIe 80 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga100.g931">GA100</a>
+
+			</td>
+	<td>Jun 28th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>80 GB, HBM2e, 5120 bit</td>
+	<td>1065 MHz</td>
+	<td>1512 MHz</td>
+	<td>6912 / 432 / 160</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/a100x.c3958">A100X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga100.g931">GA100</a>
+
+			</td>
+	<td>Jun 28th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>80 GB, HBM2e, 5120 bit</td>
+	<td>795 MHz</td>
+	<td>1593 MHz</td>
+	<td>6912 / 432 / 160</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/a10g.c3798">A10G</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga102.g930">GA102</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>24 GB, GDDR6, 384 bit</td>
+	<td>1320 MHz</td>
+	<td>1563 MHz</td>
+	<td>9216 / 288 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/a16-pcie.c3794">A16 PCIe</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>16 GB, GDDR6, 128 bit</td>
+	<td>1312 MHz</td>
+	<td>1563 MHz</td>
+	<td>1280 / 40 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/a2.c3848">A2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>Nov 10th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>16 GB, GDDR6, 128 bit</td>
+	<td>1440 MHz</td>
+	<td>1563 MHz</td>
+	<td>1280 / 40 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/a2-pcie.c4112">A2 PCIe</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>Nov 10th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>16 GB, GDDR6, 128 bit</td>
+	<td>1440 MHz</td>
+	<td>1563 MHz</td>
+	<td>1280 / 40 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/a30-pcie.c3792">A30 PCIe</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga100.g931">GA100</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>24 GB, HBM2e, 3072 bit</td>
+	<td>930 MHz</td>
+	<td>1215 MHz</td>
+	<td>3584 / 224 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/a30x.c3968">A30X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga100.g931">GA100</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>24 GB, HBM2e, 3072 bit</td>
+	<td>1035 MHz</td>
+	<td>1593 MHz</td>
+	<td>3584 / 224 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/cmp-170hx-10-gb.c3957">CMP 170HX 10 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga100.g931">GA100</a>
+
+			</td>
+	<td>Sep 1st, 2021</td>
+	<td>PCIe 4.0 x4</td>
+	<td>10 GB, HBM2e, 5120 bit</td>
+	<td>1140 MHz</td>
+	<td>1215 MHz</td>
+	<td>4480 / 280 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/cmp-170hx-8-gb.c3830">CMP 170HX 8 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga100.g931">GA100</a>
+
+			</td>
+	<td>Sep 1st, 2021</td>
+	<td>PCIe 4.0 x4</td>
+	<td>8 GB, HBM2e, 4096 bit</td>
+	<td>1140 MHz</td>
+	<td>1458 MHz</td>
+	<td>4480 / 280 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/cmp-30hx.c3780">CMP 30HX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu116.g902">TU116</a>
+
+			</td>
+	<td>Feb 25th, 2021</td>
+	<td>PCIe 3.0 x4</td>
+	<td>6 GB, GDDR6, 192 bit</td>
+	<td>1530 MHz</td>
+	<td>1750 MHz</td>
+	<td>1408 / 88 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/cmp-40hx.c3781">CMP 40HX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu106.g875">TU106</a>
+
+			</td>
+	<td>Feb 25th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1470 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/cmp-50hx.c3782">CMP 50HX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu102.g813">TU102</a>
+
+			</td>
+	<td>Jun 24th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>10 GB, GDDR6, 320 bit</td>
+	<td>1350 MHz</td>
+	<td>1750 MHz</td>
+	<td>3584 / 192 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/cmp-70hx.c3822">CMP 70HX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6X, 256 bit</td>
+	<td>1365 MHz</td>
+	<td>1188 MHz</td>
+	<td>6144 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/cmp-90hx.c3783">CMP 90HX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga102.g930">GA102</a>
+
+			</td>
+	<td>Jul 28th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>10 GB, GDDR6X, 320 bit</td>
+	<td>1500 MHz</td>
+	<td>1188 MHz</td>
+	<td>6400 / 200 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-1010.c3762">GeForce GT 1010</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp108.g808">GP108</a>
+
+			</td>
+	<td>Jan 13th, 2021</td>
+	<td>PCIe 3.0 x4</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1228 MHz</td>
+	<td>1502 MHz</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-1010-ddr4.c3874">GeForce GT 1010 DDR4</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp108.g808">GP108</a>
+
+			</td>
+	<td>Jan 13th, 2021</td>
+	<td>PCIe 3.0 x4</td>
+	<td>2 GB, DDR4, 64 bit</td>
+	<td>1152 MHz</td>
+	<td>1050 MHz</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-mx550.c3860">GeForce MX550</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu117sb.g1060">TU117SB</a>
+
+			</td>
+	<td>Dec 17th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>2 GB, GDDR6, 64 bit</td>
+	<td>1065 MHz</td>
+	<td>1500 MHz</td>
+	<td>1024 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-mx570.c3919">GeForce MX570</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107s.g1008">GA107S</a>
+
+			</td>
+	<td>Dec 17th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>2 GB, GDDR6, 64 bit</td>
+	<td>832 MHz</td>
+	<td>1500 MHz</td>
+	<td>2048 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-mx570-a.c3943">GeForce MX570 A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107sb.g1059">GA107SB</a>
+
+			</td>
+	<td>Dec 17th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>2 GB, GDDR6, 64 bit</td>
+	<td>832 MHz</td>
+	<td>1500 MHz</td>
+	<td>2048 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-2050-max-q.c4012">GeForce RTX 2050 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>Dec 17th, 2021</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>832 MHz</td>
+	<td>1475 MHz</td>
+	<td>2048 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-2050-mobile.c3859">GeForce RTX 2050 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>Dec 17th, 2021</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>735 MHz</td>
+	<td>1750 MHz</td>
+	<td>2048 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-2060-12-gb.c3836">GeForce RTX 2060 12 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu106.g875">TU106</a>
+
+			</td>
+	<td>Dec 7th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>1470 MHz</td>
+	<td>1750 MHz</td>
+	<td>2176 / 136 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3050-max-q.c3972">GeForce RTX 3050 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>May 11th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>712 MHz</td>
+	<td>1375 MHz</td>
+	<td>2048 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3050-mobile.c3788">GeForce RTX 3050 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>May 11th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1065 MHz</td>
+	<td>1500 MHz</td>
+	<td>2048 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3050-ti-max-q.c4149">GeForce RTX 3050 Ti Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>May 11th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>735 MHz</td>
+	<td>1375 MHz</td>
+	<td>2560 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3050-ti-mobile.c3812">GeForce RTX 3050 Ti Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga106.g966">GA106</a>
+
+			</td>
+	<td>May 11th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>735 MHz</td>
+	<td>1500 MHz</td>
+	<td>2560 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3050-ti-mobile.c3778">GeForce RTX 3050 Ti Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>May 11th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>735 MHz</td>
+	<td>1500 MHz</td>
+	<td>2560 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3060-12-gb.c3682">GeForce RTX 3060 12 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga106.g966">GA106</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>1320 MHz</td>
+	<td>1875 MHz</td>
+	<td>3584 / 112 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3060-12-gb-ga104.c3832">GeForce RTX 3060 12 GB GA104</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Sep 1st, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>1320 MHz</td>
+	<td>1875 MHz</td>
+	<td>3584 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3060-3840sp.c4080">GeForce RTX 3060 3840SP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga106.g966">GA106</a>
+
+			</td>
+	<td>2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>6 GB, GDDR6, 192 bit</td>
+	<td>1627 MHz</td>
+	<td>1750 MHz</td>
+	<td>3840 / 120 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3060-max-q.c3752">GeForce RTX 3060 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga106.g966">GA106</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>6 GB, GDDR6, 192 bit</td>
+	<td>817 MHz</td>
+	<td>1500 MHz</td>
+	<td>3840 / 120 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3060-mobile.c3757">GeForce RTX 3060 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga106.g966">GA106</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>6 GB, GDDR6, 192 bit</td>
+	<td>900 MHz</td>
+	<td>1750 MHz</td>
+	<td>3840 / 120 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3070-max-q.c3685">GeForce RTX 3070 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>780 MHz</td>
+	<td>1500 MHz</td>
+	<td>5120 / 160 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3070-mobile.c3712">GeForce RTX 3070 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1110 MHz</td>
+	<td>1750 MHz</td>
+	<td>5120 / 160 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3070-ti.c3675">GeForce RTX 3070 Ti</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>May 31st, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6X, 256 bit</td>
+	<td>1575 MHz</td>
+	<td>1188 MHz</td>
+	<td>6144 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3080-max-q.c3753">GeForce RTX 3080 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>780 MHz</td>
+	<td>1500 MHz</td>
+	<td>6144 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3080-mobile.c3684">GeForce RTX 3080 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Jan 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1110 MHz</td>
+	<td>1750 MHz</td>
+	<td>6144 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3080-ti.c3735">GeForce RTX 3080 Ti</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga102.g930">GA102</a>
+
+			</td>
+	<td>May 31st, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6X, 384 bit</td>
+	<td>1365 MHz</td>
+	<td>1188 MHz</td>
+	<td>10240 / 320 / 112</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/pg506-207.c3962">PG506-207</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga100.g931">GA100</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>24 GB, HBM2, 3072 bit</td>
+	<td>930 MHz</td>
+	<td>1215 MHz</td>
+	<td>3584 / 224 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/pg506-217.c3963">PG506-217</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga100.g931">GA100</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>24 GB, HBM2, 3072 bit</td>
+	<td>930 MHz</td>
+	<td>1215 MHz</td>
+	<td>3584 / 224 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/pg506-232.c3799">PG506-232</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga100.g931">GA100</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>24 GB, HBM2, 3072 bit</td>
+	<td>930 MHz</td>
+	<td>1215 MHz</td>
+	<td>3584 / 224 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/pg506-242.c3823">PG506-242</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga100.g931">GA100</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>24 GB, HBM2, 3072 bit</td>
+	<td>930 MHz</td>
+	<td>1215 MHz</td>
+	<td>3584 / 224 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-t1200-max-q.c4006">Quadro T1200 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu117.g881">TU117</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>855 MHz</td>
+	<td>1250 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-t1200-mobile.c3803">Quadro T1200 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu117.g881">TU117</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1515 MHz</td>
+	<td>1500 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a2000.c3820">RTX A2000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga106.g966">GA106</a>
+
+			</td>
+	<td>Aug 10th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>6 GB, GDDR6, 192 bit</td>
+	<td>562 MHz</td>
+	<td>1500 MHz</td>
+	<td>3328 / 104 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a2000-12-gb.c3853">RTX A2000 12 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga106.g966">GA106</a>
+
+			</td>
+	<td>Nov 23rd, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>562 MHz</td>
+	<td>1500 MHz</td>
+	<td>3328 / 104 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a2000-max-q.c4007">RTX A2000 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga106.g966">GA106</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>682 MHz</td>
+	<td>1375 MHz</td>
+	<td>2560 / 80 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a2000-mobile.c3827">RTX A2000 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga106.g966">GA106</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1215 MHz</td>
+	<td>1500 MHz</td>
+	<td>2560 / 80 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a3000-mobile.c3806">RTX A3000 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>6 GB, GDDR6, 192 bit</td>
+	<td>600 MHz</td>
+	<td>1375 MHz</td>
+	<td>4096 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a3000-mobile-12-gb.c3904">RTX A3000 Mobile 12 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>495 MHz</td>
+	<td>1750 MHz</td>
+	<td>4096 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a4-mobile.c3789">RTX A4 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1297 MHz</td>
+	<td>1750 MHz</td>
+	<td>2048 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a4000.c3756">RTX A4000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>735 MHz</td>
+	<td>1750 MHz</td>
+	<td>6144 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a4000-max-q.c4008">RTX A4000 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>780 MHz</td>
+	<td>1375 MHz</td>
+	<td>5120 / 160 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a4000-mobile.c3804">RTX A4000 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1140 MHz</td>
+	<td>1500 MHz</td>
+	<td>5120 / 160 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a4000h.c3969">RTX A4000H</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>735 MHz</td>
+	<td>1750 MHz</td>
+	<td>6144 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a4500.c3849">RTX A4500</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga102.g930">GA102</a>
+
+			</td>
+	<td>Nov 23rd, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>20 GB, GDDR6, 320 bit</td>
+	<td>1050 MHz</td>
+	<td>2000 MHz</td>
+	<td>7168 / 224 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a500.c3989">RTX A500</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>Nov 10th, 2021</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>1440 MHz</td>
+	<td>1750 MHz</td>
+	<td>2048 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a5000.c3748">RTX A5000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga102.g930">GA102</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>24 GB, GDDR6, 384 bit</td>
+	<td>1170 MHz</td>
+	<td>2000 MHz</td>
+	<td>8192 / 256 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a5000-max-q.c4010">RTX A5000 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>720 MHz</td>
+	<td>1500 MHz</td>
+	<td>6144 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a5000-mobile.c3805">RTX A5000 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga104.g964">GA104</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>900 MHz</td>
+	<td>1750 MHz</td>
+	<td>6144 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a5000-12q.c3991">RTX A5000-12Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga102.g930">GA102</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 384 bit</td>
+	<td>1170 MHz</td>
+	<td>2000 MHz</td>
+	<td>8192 / 256 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a5000-8q.c3990">RTX A5000-8Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga102.g930">GA102</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 384 bit</td>
+	<td>1170 MHz</td>
+	<td>2000 MHz</td>
+	<td>8192 / 256 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/t1000.c3797">T1000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu117.g881">TU117</a>
+
+			</td>
+	<td>May 6th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1065 MHz</td>
+	<td>1250 MHz</td>
+	<td>896 / 56 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/t1000-8-gb.c3842">T1000 8 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu117.g881">TU117</a>
+
+			</td>
+	<td>May 6th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1065 MHz</td>
+	<td>1250 MHz</td>
+	<td>896 / 56 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/t400.c3808">T400</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu117.g881">TU117</a>
+
+			</td>
+	<td>May 6th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR6, 64 bit</td>
+	<td>420 MHz</td>
+	<td>1250 MHz</td>
+	<td>384 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/t400-4-gb.c3843">T400 4 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu117.g881">TU117</a>
+
+			</td>
+	<td>May 6th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>420 MHz</td>
+	<td>1250 MHz</td>
+	<td>384 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/t600.c3796">T600</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu117.g881">TU117</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>735 MHz</td>
+	<td>1250 MHz</td>
+	<td>640 / 40 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/t600-max-q.c3817">T600 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu117.g881">TU117</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>930 MHz</td>
+	<td>1250 MHz</td>
+	<td>896 / 56 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/t600-mobile.c4151">T600 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu117.g881">TU117</a>
+
+			</td>
+	<td>Apr 12th, 2021</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>780 MHz</td>
+	<td>1500 MHz</td>
+	<td>896 / 56 / 32</td>
+</tr>
+		
+			</table>
+</div>

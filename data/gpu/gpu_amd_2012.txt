@@ -1,0 +1,1428 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-a300.c1889">FirePro A300</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-devastator.g366">Devastator</a>
+
+			</td>
+	<td>Jun 6th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>System Shared</td>
+	<td>760 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-a320.c1890">FirePro A320</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-devastator.g366">Devastator</a>
+
+			</td>
+	<td>Jun 6th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>System Shared</td>
+	<td>800 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-m2000.c1676">FirePro M2000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-turks.g92">Turks</a>
+
+			</td>
+	<td>Jul 1st, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 64 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>480 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-m4000.c1677">FirePro M4000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-chelsea.g123">Chelsea</a>
+
+			</td>
+	<td>Jun 27th, 2012</td>
+	<td>MXM-A (3.0)</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>675 MHz</td>
+	<td>1000 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-m6000.c1678">FirePro M6000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-heathrow.g117">Heathrow</a>
+
+			</td>
+	<td>Jul 1st, 2012</td>
+	<td>MXM-B (3.0)</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>800 MHz</td>
+	<td>1000 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-s10000.c802">FirePro S10000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Nov 12th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>825 MHz</td>
+	<td>1250 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-s10000-passive.c2507">FirePro S10000 Passive</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Nov 12th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>825 MHz</td>
+	<td>1250 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-s7000.c801">FirePro S7000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-pitcairn.g420">Pitcairn</a>
+
+			</td>
+	<td>Aug 27th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>950 MHz</td>
+	<td>1200 MHz</td>
+	<td>1280 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-s9000.c1879">FirePro S9000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Aug 24th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>900 MHz</td>
+	<td>1375 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-s9010.c3237">FirePro S9010</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Aug 24th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>800 MHz</td>
+	<td>1250 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-v3900.c579">FirePro V3900</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-turks.g92">Turks</a>
+
+			</td>
+	<td>Feb 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 128 bit</td>
+	<td>650 MHz</td>
+	<td>900 MHz</td>
+	<td>480 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-w4000.c1880">FirePro W4000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-pitcairn.g420">Pitcairn</a>
+
+			</td>
+	<td>Aug 7th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>825 MHz</td>
+	<td>800 MHz</td>
+	<td>768 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-w5000.c588">FirePro W5000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-pitcairn.g420">Pitcairn</a>
+
+			</td>
+	<td>Aug 7th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>825 MHz</td>
+	<td>800 MHz</td>
+	<td>768 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-w600.c562">FirePro W600</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cape-verde.g100">Cape Verde</a>
+
+			</td>
+	<td>Jun 13th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>750 MHz</td>
+	<td>1000 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-w7000.c587">FirePro W7000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-pitcairn.g420">Pitcairn</a>
+
+			</td>
+	<td>Jun 13th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>950 MHz</td>
+	<td>1200 MHz</td>
+	<td>1280 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-w8000.c586">FirePro W8000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Jun 14th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>900 MHz</td>
+	<td>1375 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-w9000.c585">FirePro W9000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Jun 14th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>975 MHz</td>
+	<td>1375 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-w9000-x2.c3956">FirePro W9000 X2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>825 MHz</td>
+	<td>1250 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6250-igp.c2417">Radeon HD 6250 IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-loveland.g175">Loveland</a>
+
+			</td>
+	<td>Oct 9th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>276 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6250-igp.c832">Radeon HD 6250 IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-loveland.g175">Loveland</a>
+
+			</td>
+	<td>Apr 4th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>277 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6850-1440sp-edition.c2219">Radeon HD 6850 1440SP Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cypress.g137">Cypress</a>
+
+			</td>
+	<td>Aug 21st, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 256 bit</td>
+	<td>725 MHz</td>
+	<td>1000 MHz</td>
+	<td>1440 / 72 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7290-igp.c1999">Radeon HD 7290 IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-loveland.g175">Loveland</a>
+
+			</td>
+	<td>Jun 6th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>276 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7310-igp.c884">Radeon HD 7310 IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-loveland.g175">Loveland</a>
+
+			</td>
+	<td>Jun 6th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7330m.c1194">Radeon HD 7330M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-robson.g106">Robson</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 64 bit</td>
+	<td>650 MHz</td>
+	<td>500 MHz</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7340-igp.c885">Radeon HD 7340 IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-loveland.g175">Loveland</a>
+
+			</td>
+	<td>Jun 6th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>523 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7350-oem.c632">Radeon HD 7350 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cedar.g113">Cedar</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, GDDR3, 64 bit</td>
+	<td>650 MHz</td>
+	<td>800 MHz</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7350-oem-pci.c2365">Radeon HD 7350 OEM PCI</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cedar.g113">Cedar</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>PCI</td>
+	<td>512 MB, GDDR3, 64 bit</td>
+	<td>650 MHz</td>
+	<td>500 MHz</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7350m.c1196">Radeon HD 7350M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-robson.g106">Robson</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 64 bit</td>
+	<td>650 MHz</td>
+	<td>500 MHz</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7370m.c1192">Radeon HD 7370M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-robson.g106">Robson</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>750 MHz</td>
+	<td>800 MHz</td>
+	<td>80 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7400g-igp.c1399">Radeon HD 7400G IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-scrapper.g370">Scrapper</a>
+
+			</td>
+	<td>Oct 2nd, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>327 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7420g-igp.c683">Radeon HD 7420G IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-scrapper-lite.g898">Scrapper Lite</a>
+
+			</td>
+	<td>Jun 6th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>480 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7430m.c1205">Radeon HD 7430M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-seymour.g105">Seymour</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>600 MHz</td>
+	<td>800 MHz</td>
+	<td>160 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7450-oem.c300">Radeon HD 7450 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-caicos.g114">Caicos</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, GDDR3, 64 bit</td>
+	<td>625 MHz</td>
+	<td>533 MHz</td>
+	<td>160 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7450a.c1688">Radeon HD 7450A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-caicos.g114">Caicos</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>MXM-A (3.0)</td>
+	<td>512 MB, GDDR3, 64 bit</td>
+	<td>625 MHz</td>
+	<td>800 MHz</td>
+	<td>160 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7450m.c369">Radeon HD 7450M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-seymour.g105">Seymour</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>750 MHz</td>
+	<td>900 MHz</td>
+	<td>160 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7470-oem.c299">Radeon HD 7470 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-caicos.g114">Caicos</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 64 bit</td>
+	<td>750 MHz</td>
+	<td>900 MHz</td>
+	<td>160 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7470a.c1692">Radeon HD 7470A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-redwood.g193">Redwood</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>MXM-A (3.0)</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>775 MHz</td>
+	<td>800 MHz</td>
+	<td>400 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7470a.c2394">Radeon HD 7470A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-caicos.g114">Caicos</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>MXM-A (3.0)</td>
+	<td>512 MB, GDDR3, 64 bit</td>
+	<td>625 MHz</td>
+	<td>800 MHz</td>
+	<td>160 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7470m.c370">Radeon HD 7470M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-seymour.g105">Seymour</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>750 MHz</td>
+	<td>900 MHz</td>
+	<td>160 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7480d-igp.c822">Radeon HD 7480D IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-scrapper-lite.g898">Scrapper Lite</a>
+
+			</td>
+	<td>Oct 2nd, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>720 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7490m.c371">Radeon HD 7490M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-seymour.g105">Seymour</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 64 bit</td>
+	<td>800 MHz</td>
+	<td>950 MHz</td>
+	<td>160 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7500g-igp.c684">Radeon HD 7500G IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-devastator-lite.g899">Devastator Lite</a>
+
+			</td>
+	<td>May 15th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>327 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7510m.c372">Radeon HD 7510M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-thames.g197">Thames</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>450 MHz</td>
+	<td>800 MHz</td>
+	<td>400 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7520g-igp.c685">Radeon HD 7520G IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-scrapper.g370">Scrapper</a>
+
+			</td>
+	<td>Jun 6th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>496 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7530m.c373">Radeon HD 7530M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-thames.g197">Thames</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>450 MHz</td>
+	<td>900 MHz</td>
+	<td>400 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7540d-igp.c823">Radeon HD 7540D IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-scrapper.g370">Scrapper</a>
+
+			</td>
+	<td>Oct 2nd, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>760 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7550m.c1209">Radeon HD 7550M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-thames.g197">Thames</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>450 MHz</td>
+	<td>900 MHz</td>
+	<td>480 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7550m.c2290">Radeon HD 7550M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-thames.g197">Thames</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>500 MHz</td>
+	<td>900 MHz</td>
+	<td>480 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7560d-igp.c824">Radeon HD 7560D IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-devastator-lite.g899">Devastator Lite</a>
+
+			</td>
+	<td>Oct 2nd, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>760 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7560g-igp.c2408">Radeon HD 7560G IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-devastator-lite.g899">Devastator Lite</a>
+
+			</td>
+	<td>May 15th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>496 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7570.c393">Radeon HD 7570</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-turks.g92">Turks</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 128 bit</td>
+	<td>650 MHz</td>
+	<td>800 MHz</td>
+	<td>480 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7570m.c399">Radeon HD 7570M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-thames.g197">Thames</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 64 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>480 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7590m.c376">Radeon HD 7590M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-thames.g197">Thames</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 64 bit</td>
+	<td>600 MHz</td>
+	<td>800 MHz</td>
+	<td>480 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7600g-igp.c1400">Radeon HD 7600G IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-devastator.g366">Devastator</a>
+
+			</td>
+	<td>Sep 1st, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>320 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7610m.c377">Radeon HD 7610M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-whistler.g103">Whistler</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 128 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>400 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7620g-igp.c686">Radeon HD 7620G IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-devastator.g366">Devastator</a>
+
+			</td>
+	<td>May 15th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>360 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7630m.c378">Radeon HD 7630M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-thames.g197">Thames</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>450 MHz</td>
+	<td>800 MHz</td>
+	<td>480 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7640g-igp.c701">Radeon HD 7640G IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-devastator-lite.g899">Devastator Lite</a>
+
+			</td>
+	<td>May 15th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>496 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7650a.c1694">Radeon HD 7650A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-onega.g377">Onega</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>MXM-A (3.0)</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>600 MHz</td>
+	<td>900 MHz</td>
+	<td>480 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7650m.c1210">Radeon HD 7650M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-thames.g197">Thames</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>480 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7650m-rebrand.c2291">Radeon HD 7650M Rebrand</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-whistler.g103">Whistler</a>
+
+			</td>
+	<td>Mar 28th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>485 MHz</td>
+	<td>800 MHz</td>
+	<td>480 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7660d-igp.c825">Radeon HD 7660D IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-devastator.g366">Devastator</a>
+
+			</td>
+	<td>Oct 2nd, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>760 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7660g-igp.c688">Radeon HD 7660G IGP</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-devastator.g366">Devastator</a>
+
+			</td>
+	<td>May 15th, 2012</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>686 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7670-oem.c392">Radeon HD 7670 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-turks.g92">Turks</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, GDDR5, 128 bit</td>
+	<td>800 MHz</td>
+	<td>1000 MHz</td>
+	<td>480 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7670a.c1689">Radeon HD 7670A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-turks.g92">Turks</a>
+
+			</td>
+	<td>Jan 5th, 2012</td>
+	<td>MXM-A (3.0)</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>600 MHz</td>
+	<td>1000 MHz</td>
+	<td>480 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7670m.c380">Radeon HD 7670M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-thames.g197">Thames</a>
+
+			</td>
+	<td>Feb 17th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>600 MHz</td>
+	<td>900 MHz</td>
+	<td>480 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7670m-rebrand.c2321">Radeon HD 7670M Rebrand</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-whistler.g103">Whistler</a>
+
+			</td>
+	<td>Jul 1st, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 128 bit</td>
+	<td>600 MHz</td>
+	<td>900 MHz</td>
+	<td>480 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7690m-rebrand.c1199">Radeon HD 7690M Rebrand</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-whistler.g103">Whistler</a>
+
+			</td>
+	<td>Jan 7th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR3, 128 bit</td>
+	<td>600 MHz</td>
+	<td>800 MHz</td>
+	<td>480 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7690m-xt-rebrand.c2296">Radeon HD 7690M XT Rebrand</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-whistler.g103">Whistler</a>
+
+			</td>
+	<td>Jan 4th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>725 MHz</td>
+	<td>800 MHz</td>
+	<td>480 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7730m.c1200">Radeon HD 7730M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-chelsea.g123">Chelsea</a>
+
+			</td>
+	<td>Apr 24th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>2 GB, DDR3, 128 bit</td>
+	<td>575 MHz</td>
+	<td>900 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7750.c309">Radeon HD 7750</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cape-verde.g100">Cape Verde</a>
+
+			</td>
+	<td>Feb 15th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>800 MHz</td>
+	<td>1125 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7750m.c384">Radeon HD 7750M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-chelsea.g123">Chelsea</a>
+
+			</td>
+	<td>Apr 24th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>575 MHz</td>
+	<td>1000 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7770-ghz-edition.c308">Radeon HD 7770 GHz Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cape-verde.g100">Cape Verde</a>
+
+			</td>
+	<td>Feb 15th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>1000 MHz</td>
+	<td>1125 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7770m.c1204">Radeon HD 7770M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-chelsea.g123">Chelsea</a>
+
+			</td>
+	<td>Apr 24th, 2012</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>675 MHz</td>
+	<td>1000 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7850.c1055">Radeon HD 7850</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-pitcairn.g420">Pitcairn</a>
+
+			</td>
+	<td>Mar 5th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>860 MHz</td>
+	<td>1200 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7850m.c386">Radeon HD 7850M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-heathrow.g117">Heathrow</a>
+
+			</td>
+	<td>Apr 24th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>675 MHz</td>
+	<td>1000 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7870-ghz-edition.c339">Radeon HD 7870 GHz Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-pitcairn.g420">Pitcairn</a>
+
+			</td>
+	<td>Mar 5th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>1000 MHz</td>
+	<td>1200 MHz</td>
+	<td>1280 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7870-xt.c1860">Radeon HD 7870 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Nov 19th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>925 MHz</td>
+	<td>1500 MHz</td>
+	<td>1536 / 96 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7870m.c387">Radeon HD 7870M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-heathrow.g117">Heathrow</a>
+
+			</td>
+	<td>Apr 24th, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>800 MHz</td>
+	<td>1000 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7950.c307">Radeon HD 7950</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Jan 31st, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>800 MHz</td>
+	<td>1250 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7950-boost.c1181">Radeon HD 7950 Boost</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Jun 22nd, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>850 MHz</td>
+	<td>1250 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7950-monica-bios-1.c3076">Radeon HD 7950 Monica BIOS 1</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Jan 31st, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>925 MHz</td>
+	<td>1250 MHz</td>
+	<td>1536 / 96 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7950-monica-bios-2.c3077">Radeon HD 7950 Monica BIOS 2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Jan 31st, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>800 MHz</td>
+	<td>1250 MHz</td>
+	<td>768 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7950m.c1293">Radeon HD 7950M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-wimbledon.g118">Wimbledon</a>
+
+			</td>
+	<td>Apr 24th, 2012</td>
+	<td>MXM-B (3.0)</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>700 MHz</td>
+	<td>1000 MHz</td>
+	<td>1280 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7970-ghz-edition.c365">Radeon HD 7970 GHz Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tahiti.g120">Tahiti</a>
+
+			</td>
+	<td>Jun 22nd, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>1000 MHz</td>
+	<td>1500 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7970-x2.c730">Radeon HD 7970 X2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-new-zealand.g629">New Zealand</a>
+
+			</td>
+	<td>Aug 31st, 2012</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 384 bit</td>
+	<td>925 MHz</td>
+	<td>1375 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7970m.c388">Radeon HD 7970M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-wimbledon.g118">Wimbledon</a>
+
+			</td>
+	<td>Apr 24th, 2012</td>
+	<td>MXM-B (3.0)</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>850 MHz</td>
+	<td>1200 MHz</td>
+	<td>1280 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-7970m-x2.c4125">Radeon HD 7970M X2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-wimbledon.g118">Wimbledon</a>
+
+			</td>
+	<td>Apr 24th, 2012</td>
+	<td>MXM-B (3.0)</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>850 MHz</td>
+	<td>1200 MHz</td>
+	<td>1280 / 80 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/wii-u-gpu.c1903">Wii U GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-latte.g413">Latte</a>
+
+			</td>
+	<td>Nov 18th, 2012</td>
+	<td>IGP</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>550 MHz</td>
+	<td>800 MHz</td>
+	<td>160 / 16 / 8</td>
+</tr>
+		
+			</table>
+</div>

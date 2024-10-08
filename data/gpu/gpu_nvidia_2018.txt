@@ -1,0 +1,776 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="NVIDIA">NVIDIA</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-1030-ddr4.c3187">GeForce GT 1030 DDR4</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp108.g808">GP108</a>
+
+			</td>
+	<td>Mar 12th, 2018</td>
+	<td>PCIe 3.0 x4</td>
+	<td>2 GB, DDR4, 64 bit</td>
+	<td>1152 MHz</td>
+	<td>1050 MHz</td>
+	<td>384 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-1030-gk107.c3454">GeForce GT 1030 GK107</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk107.g109">GK107</a>
+
+			</td>
+	<td>Sep 30th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1058 MHz</td>
+	<td>1250 MHz</td>
+	<td>384 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-1050-3-gb.c3257">GeForce GTX 1050 3 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp107.g801">GP107</a>
+
+			</td>
+	<td>May 21st, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>3 GB, GDDR5, 96 bit</td>
+	<td>1392 MHz</td>
+	<td>1752 MHz</td>
+	<td>768 / 48 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-1050-max-q.c3074">GeForce GTX 1050 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp107.g801">GP107</a>
+
+			</td>
+	<td>Jan 3rd, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1000 MHz</td>
+	<td>1752 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-1050-ti-max-q.c3075">GeForce GTX 1050 Ti Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp107.g801">GP107</a>
+
+			</td>
+	<td>Jan 3rd, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1152 MHz</td>
+	<td>1752 MHz</td>
+	<td>768 / 48 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-1060-6-gb-gddr5x.c3328">GeForce GTX 1060 6 GB GDDR5X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Oct 18th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>6 GB, GDDR5X, 192 bit</td>
+	<td>1506 MHz</td>
+	<td>1001 MHz</td>
+	<td>1280 / 80 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-1060-6-gb-gp104.c3250">GeForce GTX 1060 6 GB GP104</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Mar 8th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>6 GB, GDDR5, 192 bit</td>
+	<td>1506 MHz</td>
+	<td>2002 MHz</td>
+	<td>1280 / 80 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-1060-6-gb-rev-2.c3063">GeForce GTX 1060 6 GB Rev. 2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp106.g797">GP106</a>
+
+			</td>
+	<td>Jan 5th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>6 GB, GDDR5, 192 bit</td>
+	<td>1506 MHz</td>
+	<td>2002 MHz</td>
+	<td>1280 / 80 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-1060-8-gb-gddr5x.c3455">GeForce GTX 1060 8 GB GDDR5X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5X, 256 bit</td>
+	<td>1506 MHz</td>
+	<td>1001 MHz</td>
+	<td>1280 / 80 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-1070-gddr5x.c3343">GeForce GTX 1070 GDDR5X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Dec 4th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5X, 256 bit</td>
+	<td>1506 MHz</td>
+	<td>1001 MHz</td>
+	<td>1920 / 120 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-1080-ti-10-gb.c3309">GeForce GTX 1080 Ti 10 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp102.g798">GP102</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 3.0 x16</td>
+	<td>10 GB, GDDR5X, 320 bit</td>
+	<td>1557 MHz</td>
+	<td>1376 MHz</td>
+	<td>3200 / 200 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-1080-ti-12-gb.c4163">GeForce GTX 1080 Ti 12 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp102.g798">GP102</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 3.0 x16</td>
+	<td>12 GB, GDDR5X, 384 bit</td>
+	<td>1557 MHz</td>
+	<td>1376 MHz</td>
+	<td>3200 / 200 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-2070.c3252">GeForce RTX 2070</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu106.g875">TU106</a>
+
+			</td>
+	<td>Oct 17th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1410 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-2080.c3224">GeForce RTX 2080</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu104.g854">TU104</a>
+
+			</td>
+	<td>Sep 20th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1515 MHz</td>
+	<td>1750 MHz</td>
+	<td>2944 / 184 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-2080-engineering-sample.c3976">GeForce RTX 2080 Engineering Sample</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu104.g854">TU104</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1515 MHz</td>
+	<td>1750 MHz</td>
+	<td>3072 / 192 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-2080-ti.c3305">GeForce RTX 2080 Ti</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu102.g813">TU102</a>
+
+			</td>
+	<td>Sep 20th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>11 GB, GDDR6, 352 bit</td>
+	<td>1350 MHz</td>
+	<td>1750 MHz</td>
+	<td>4352 / 272 / 88</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/jetson-agx-xavier-16-gb.c3232">Jetson AGX Xavier 16 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gv10b.g857">GV10B</a>
+
+			</td>
+	<td>Oct 2018</td>
+	<td>PCIe 4.0 x4</td>
+	<td>16 GB, LPDDR4X, 256 bit</td>
+	<td>854 MHz</td>
+	<td>2133 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/jetson-agx-xavier-32-gb.c4088">Jetson AGX Xavier 32 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gv10b.g857">GV10B</a>
+
+			</td>
+	<td>Oct 2018</td>
+	<td>PCIe 4.0 x4</td>
+	<td>32 GB, LPDDR4X, 256 bit</td>
+	<td>854 MHz</td>
+	<td>2133 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/p102-100.c3100">P102-100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp102.g798">GP102</a>
+
+			</td>
+	<td>Feb 12th, 2018</td>
+	<td>PCIe 1.0 x4</td>
+	<td>5 GB, GDDR5X, 320 bit</td>
+	<td>1582 MHz</td>
+	<td>1376 MHz</td>
+	<td>3200 / 200 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/p102-101.c3284">P102-101</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp102.g798">GP102</a>
+
+			</td>
+	<td>2018</td>
+	<td>PCIe 3.0 x4</td>
+	<td>10 GB, GDDR5, 320 bit</td>
+	<td>1557 MHz</td>
+	<td>2002 MHz</td>
+	<td>3200 / 200 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/p104-101.c3064">P104-101</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Jan 5th, 2018</td>
+	<td>PCIe 1.0 x4</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>1506 MHz</td>
+	<td>2002 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-gv100.c3066">Quadro GV100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gv100.g809">GV100</a>
+
+			</td>
+	<td>Mar 27th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>32 GB, HBM2, 4096 bit</td>
+	<td>1132 MHz</td>
+	<td>848 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-p3200-max-q.c3315">Quadro P3200 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Feb 21st, 2018</td>
+	<td>MXM-B (3.0)</td>
+	<td>6 GB, GDDR5, 192 bit</td>
+	<td>1139 MHz</td>
+	<td>1753 MHz</td>
+	<td>1792 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-p3200-mobile.c3147">Quadro P3200 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Feb 21st, 2018</td>
+	<td>MXM-B (3.0)</td>
+	<td>6 GB, GDDR5, 192 bit</td>
+	<td>1328 MHz</td>
+	<td>1752 MHz</td>
+	<td>1792 / 112 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-p4200-max-q.c4004">Quadro P4200 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Feb 21st, 2018</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1215 MHz</td>
+	<td>1753 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-p4200-mobile.c3199">Quadro P4200 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Feb 21st, 2018</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1418 MHz</td>
+	<td>1753 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-p500-mobile.c3261">Quadro P500 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp108.g808">GP108</a>
+
+			</td>
+	<td>Jan 5th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1455 MHz</td>
+	<td>1253 MHz</td>
+	<td>256 / 16 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-p5200-max-q.c3347">Quadro P5200 Max-Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Feb 21st, 2018</td>
+	<td>MXM-B (3.0)</td>
+	<td>16 GB, GDDR5, 256 bit</td>
+	<td>1316 MHz</td>
+	<td>1804 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-p5200-mobile.c3020">Quadro P5200 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp104.g793">GP104</a>
+
+			</td>
+	<td>Feb 21st, 2018</td>
+	<td>MXM-B (3.0)</td>
+	<td>16 GB, GDDR5, 256 bit</td>
+	<td>1582 MHz</td>
+	<td>1804 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-p620.c3085">Quadro P620</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp107.g801">GP107</a>
+
+			</td>
+	<td>Feb 1st, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1266 MHz</td>
+	<td>1252 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-p620-mobile.c3456">Quadro P620 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gp107.g801">GP107</a>
+
+			</td>
+	<td>Feb 1st, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1177 MHz</td>
+	<td>1502 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-rtx-4000.c3336">Quadro RTX 4000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu104.g854">TU104</a>
+
+			</td>
+	<td>Nov 13th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>1005 MHz</td>
+	<td>1625 MHz</td>
+	<td>2304 / 144 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-rtx-5000.c3308">Quadro RTX 5000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu104.g854">TU104</a>
+
+			</td>
+	<td>Aug 13th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1620 MHz</td>
+	<td>1750 MHz</td>
+	<td>3072 / 192 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-rtx-6000.c3307">Quadro RTX 6000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu102.g813">TU102</a>
+
+			</td>
+	<td>Aug 13th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>24 GB, GDDR6, 384 bit</td>
+	<td>1440 MHz</td>
+	<td>1750 MHz</td>
+	<td>4608 / 288 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-rtx-6000-passive.c3469">Quadro RTX 6000 Passive</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu102.g813">TU102</a>
+
+			</td>
+	<td>Aug 13th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>24 GB, GDDR6, 384 bit</td>
+	<td>1305 MHz</td>
+	<td>1750 MHz</td>
+	<td>4608 / 288 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-rtx-8000.c3306">Quadro RTX 8000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu102.g813">TU102</a>
+
+			</td>
+	<td>Aug 13th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>48 GB, GDDR6, 384 bit</td>
+	<td>1395 MHz</td>
+	<td>1750 MHz</td>
+	<td>4608 / 288 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-rtx-8000-passive.c3470">Quadro RTX 8000 Passive</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu102.g813">TU102</a>
+
+			</td>
+	<td>Aug 13th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>48 GB, GDDR6, 384 bit</td>
+	<td>1230 MHz</td>
+	<td>1625 MHz</td>
+	<td>4608 / 288 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/titan-rtx.c3311">TITAN RTX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu102.g813">TU102</a>
+
+			</td>
+	<td>Dec 18th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>24 GB, GDDR6, 384 bit</td>
+	<td>1350 MHz</td>
+	<td>1750 MHz</td>
+	<td>4608 / 288 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/titan-v-ceo-edition.c3277">TITAN V CEO Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gv100.g809">GV100</a>
+
+			</td>
+	<td>Jun 21st, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>32 GB, HBM2, 4096 bit</td>
+	<td>1200 MHz</td>
+	<td>848 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-t4.c3316">Tesla T4</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu104.g854">TU104</a>
+
+			</td>
+	<td>Sep 13th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>585 MHz</td>
+	<td>1250 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-t4g.c4134">Tesla T4G</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-tu104.g854">TU104</a>
+
+			</td>
+	<td>Sep 13th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>585 MHz</td>
+	<td>1250 MHz</td>
+	<td>2560 / 160 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-v100-dgxs-16-gb.c3763">Tesla V100 DGXS 16 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gv100.g809">GV100</a>
+
+			</td>
+	<td>Mar 27th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, HBM2, 4096 bit</td>
+	<td>1354 MHz</td>
+	<td>876 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-v100-dgxs-32-gb.c3186">Tesla V100 DGXS 32 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gv100.g809">GV100</a>
+
+			</td>
+	<td>Mar 27th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>32 GB, HBM2, 4096 bit</td>
+	<td>1297 MHz</td>
+	<td>876 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-v100-fhhl.c3248">Tesla V100 FHHL</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gv100.g809">GV100</a>
+
+			</td>
+	<td>Mar 27th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, HBM2, 4096 bit</td>
+	<td>937 MHz</td>
+	<td>808 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-v100-pcie-32-gb.c3184">Tesla V100 PCIe 32 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gv100.g809">GV100</a>
+
+			</td>
+	<td>Mar 27th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>32 GB, HBM2, 4096 bit</td>
+	<td>1230 MHz</td>
+	<td>876 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-v100-sxm2-32-gb.c3185">Tesla V100 SXM2 32 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gv100.g809">GV100</a>
+
+			</td>
+	<td>Mar 27th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>32 GB, HBM2, 4096 bit</td>
+	<td>1290 MHz</td>
+	<td>877 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-v100-sxm3-32-gb.c3472">Tesla V100 SXM3 32 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gv100.g809">GV100</a>
+
+			</td>
+	<td>Mar 27th, 2018</td>
+	<td>PCIe 3.0 x16</td>
+	<td>32 GB, HBM2, 4096 bit</td>
+	<td>1380 MHz</td>
+	<td>958 MHz</td>
+	<td>5120 / 320 / 128</td>
+</tr>
+		
+			</table>
+</div>

@@ -1,0 +1,282 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-10eu.c2467">HD Graphics 10EU</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt1.g590">Haswell GT1</a>
+
+			</td>
+	<td>Apr 29th, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 10 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-10eu-mobile.c3134">HD Graphics 10EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt1.g590">Haswell GT1</a>
+
+			</td>
+	<td>Apr 29th, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>80 / 10 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-32eu-mobile.c2469">HD Graphics 32EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-bay-trail-gt1.g756">Bay Trail GT1</a>
+
+			</td>
+	<td>Sep 2nd, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>311 MHz</td>
+	<td>System Shared</td>
+	<td>32 / 4 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-4200-mobile.c3287">HD Graphics 4200 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt2.g591">Haswell GT2</a>
+
+			</td>
+	<td>Sep 2nd, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>160 / 20 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-4400.c2470">HD Graphics 4400</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt2.g591">Haswell GT2</a>
+
+			</td>
+	<td>Sep 3rd, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>160 / 20 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-4400-mobile.c2471">HD Graphics 4400 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt2.g591">Haswell GT2</a>
+
+			</td>
+	<td>Sep 3rd, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>160 / 20 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-4600.c1994">HD Graphics 4600</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt2.g591">Haswell GT2</a>
+
+			</td>
+	<td>Jun 3rd, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>160 / 20 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-4600-mobile.c1953">HD Graphics 4600 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt2.g591">Haswell GT2</a>
+
+			</td>
+	<td>May 27th, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>160 / 20 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-5000-mobile.c2468">HD Graphics 5000 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt3.g438">Haswell GT3</a>
+
+			</td>
+	<td>May 27th, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>320 / 40 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-p4600.c2369">HD Graphics P4600</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt2.g591">Haswell GT2</a>
+
+			</td>
+	<td>Jun 1st, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>160 / 20 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-p4700.c2563">HD Graphics P4700</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt2.g591">Haswell GT2</a>
+
+			</td>
+	<td>Jun 1st, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>160 / 20 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-graphics-5100-mobile.c2474">Iris Graphics 5100 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt3.g438">Haswell GT3</a>
+
+			</td>
+	<td>May 27th, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>320 / 40 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-pro-graphics-5200.c2472">Iris Pro Graphics 5200</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt3e.g584">Haswell GT3e</a>
+
+			</td>
+	<td>Jun 3rd, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>320 / 40 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-pro-graphics-5200-mobile.c2007">Iris Pro Graphics 5200 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-haswell-gt3e.g584">Haswell GT3e</a>
+
+			</td>
+	<td>May 27th, 2013</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>320 / 40 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/xeon-phi-5120d.c2482">Xeon Phi 5120D</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-knights-corner.g237">Knights Corner</a>
+
+			</td>
+	<td>Jun 17th, 2013</td>
+	<td>PCIe 2.0 x16</td>
+	<td>8 GB, GDDR5, 512 bit</td>
+	<td>1053 MHz</td>
+	<td>1250 MHz</td>
+	<td>960 / 32 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/xeon-phi-7120p.c1885">Xeon Phi 7120P</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-knights-corner.g237">Knights Corner</a>
+
+			</td>
+	<td>Jun 17th, 2013</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, GDDR5, 512 bit</td>
+	<td>1238 MHz</td>
+	<td>1375 MHz</td>
+	<td>976 / 32 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/xeon-phi-7120x.c2481">Xeon Phi 7120X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-knights-corner.g237">Knights Corner</a>
+
+			</td>
+	<td>Jun 17th, 2013</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, GDDR5, 512 bit</td>
+	<td>1238 MHz</td>
+	<td>1375 MHz</td>
+	<td>976 / 32 / 0</td>
+</tr>
+		
+			</table>
+</div>

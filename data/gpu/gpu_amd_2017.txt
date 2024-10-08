@@ -1,0 +1,1028 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/p30ph.c3984">P30PH</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-20.g807">Polaris 20</a>
+
+			</td>
+	<td>Unknown</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>1120 MHz</td>
+	<td>2100 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-520-mobile-ddr3.c3003">Radeon 520 Mobile DDR3</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-banks.g891">Banks</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>1030 MHz</td>
+	<td>1000 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-520-mobile-gddr5.c3236">Radeon 520 Mobile GDDR5</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-banks.g891">Banks</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1030 MHz</td>
+	<td>1125 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-520-oem.c4061">Radeon 520 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-banks.g891">Banks</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1030 MHz</td>
+	<td>1125 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-530-mobile-ddr3.c4106">Radeon 530 Mobile DDR3</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-weston.g890">Weston</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>730 MHz</td>
+	<td>900 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-530-mobile-gddr5.c3002">Radeon 530 Mobile GDDR5</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-weston.g890">Weston</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>730 MHz</td>
+	<td>900 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-530x-mobile.c3108">Radeon 530X Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-24.g889">Polaris 24</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>730 MHz</td>
+	<td>1125 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-535-mobile.c3209">Radeon 535 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-24.g889">Polaris 24</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>730 MHz</td>
+	<td>1125 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-540.c4213">Radeon 540</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Apr 20th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>1024 MB, GDDR5, 32 bit</td>
+	<td>1183 MHz</td>
+	<td>1500 MHz</td>
+	<td>384 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-550.c3407">Radeon 550</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Apr 20th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1100 MHz</td>
+	<td>1750 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-e9171-mcm.c3028">Radeon E9171 MCM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Oct 3rd, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1124 MHz</td>
+	<td>1500 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-e9172-mxm.c3029">Radeon E9172 MXM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Oct 3rd, 2017</td>
+	<td>MXM-A (3.0)</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1124 MHz</td>
+	<td>1500 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-e9173-pcie.c3031">Radeon E9173 PCIe</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Oct 3rd, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>1124 MHz</td>
+	<td>1500 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-e9174-mxm.c3030">Radeon E9174 MXM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Oct 3rd, 2017</td>
+	<td>MXM-A (3.0)</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1124 MHz</td>
+	<td>1500 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-e9175-pcie.c3032">Radeon E9175 PCIe</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Oct 3rd, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1124 MHz</td>
+	<td>1500 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi25.c2983">Radeon Instinct MI25</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Jun 27th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, HBM2, 2048 bit</td>
+	<td>1400 MHz</td>
+	<td>852 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-555.c2972">Radeon Pro 555</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-21.g812">Polaris 21</a>
+
+			</td>
+	<td>Jun 5th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>850 MHz</td>
+	<td>1275 MHz</td>
+	<td>768 / 48 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-560.c2971">Radeon Pro 560</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-21.g812">Polaris 21</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>907 MHz</td>
+	<td>1270 MHz</td>
+	<td>1024 / 64 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-570.c2970">Radeon Pro 570</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Jun 5th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>1000 MHz</td>
+	<td>1695 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-575.c2969">Radeon Pro 575</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Jun 5th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>1096 MHz</td>
+	<td>1695 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-580.c2968">Radeon Pro 580</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Jun 5th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1100 MHz</td>
+	<td>1695 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-duo-polaris.c2953">Radeon Pro Duo Polaris</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Apr 24th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, GDDR5, 256 bit</td>
+	<td>1243 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-ssg.c2998">Radeon Pro SSG</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Aug 8th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, HBM2, 2048 bit</td>
+	<td>1440 MHz</td>
+	<td>945 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-v320.c3270">Radeon Pro V320</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Jun 29th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>852 MHz</td>
+	<td>945 MHz</td>
+	<td>3584 / 224 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-vega-56.c3099">Radeon Pro Vega 56</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Aug 14th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>1138 MHz</td>
+	<td>786 MHz</td>
+	<td>3584 / 224 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-vega-64.c3098">Radeon Pro Vega 64</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Jun 27th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, HBM2, 2048 bit</td>
+	<td>1250 MHz</td>
+	<td>786 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-2100.c2979">Radeon Pro WX 2100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Jun 4th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>925 MHz</td>
+	<td>1500 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-3100.c2978">Radeon Pro WX 3100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Jun 12th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>925 MHz</td>
+	<td>1500 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-4130-mobile.c3093">Radeon Pro WX 4130 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Mar 1st, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1002 MHz</td>
+	<td>1500 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-4150-mobile.c3092">Radeon Pro WX 4150 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Mar 1st, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1002 MHz</td>
+	<td>1500 MHz</td>
+	<td>896 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-4170-mobile.c3094">Radeon Pro WX 4170 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Mar 1st, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1002 MHz</td>
+	<td>1500 MHz</td>
+	<td>1024 / 64 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-7100-mobile.c3091">Radeon Pro WX 7100 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Mar 1st, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1188 MHz</td>
+	<td>1250 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-7130-mobile.c3457">Radeon Pro WX 7130 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Mar 1st, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1188 MHz</td>
+	<td>1250 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-8100.c3271">Radeon Pro WX 8100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Dec 3rd, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>1200 MHz</td>
+	<td>1000 MHz</td>
+	<td>3584 / 224 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-9100.c2989">Radeon Pro WX 9100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Jul 10th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, HBM2, 2048 bit</td>
+	<td>1200 MHz</td>
+	<td>945 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-graphics.c3241">Radeon R5 Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-wani.g786">Wani</a>
+
+			</td>
+	<td>Sep 5th, 2017</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r8-m535dx.c3210">Radeon R8 M535DX</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-meso.g781">Meso</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>780 MHz</td>
+	<td>System Shared</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-460-1024sp.c2918">Radeon RX 460 1024SP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Jan 17th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1090 MHz</td>
+	<td>1750 MHz</td>
+	<td>1024 / 64 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-540-mobile.c3048">Radeon RX 540 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Nov 11th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1046 MHz</td>
+	<td>1250 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-550.c2947">Radeon RX 550</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Apr 20th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1100 MHz</td>
+	<td>1750 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-550-512sp.c3740">Radeon RX 550 512SP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Oct 13th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1019 MHz</td>
+	<td>1500 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-550-640sp.c3083">Radeon RX 550 640SP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Oct 13th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1019 MHz</td>
+	<td>1500 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-550-mobile.c3049">Radeon RX 550 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-lexa.g806">Lexa</a>
+
+			</td>
+	<td>Jul 2nd, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1100 MHz</td>
+	<td>1500 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-560.c2940">Radeon RX 560</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-21.g812">Polaris 21</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1175 MHz</td>
+	<td>1750 MHz</td>
+	<td>1024 / 64 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-560-896sp.c3082">Radeon RX 560 896SP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-21.g812">Polaris 21</a>
+
+			</td>
+	<td>Jul 4th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1090 MHz</td>
+	<td>1750 MHz</td>
+	<td>896 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-560-mobile.c3386">Radeon RX 560 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Jan 5th, 2017</td>
+	<td>MXM-B (3.0)</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>784 MHz</td>
+	<td>1710 MHz</td>
+	<td>896 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-560-mobile.c3069">Radeon RX 560 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Jan 5th, 2017</td>
+	<td>MXM-B (3.0)</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1090 MHz</td>
+	<td>1500 MHz</td>
+	<td>1024 / 64 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-560-mobile.c3071">Radeon RX 560 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Jan 5th, 2017</td>
+	<td>MXM-B (3.0)</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1000 MHz</td>
+	<td>1500 MHz</td>
+	<td>896 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-560d.c2990">Radeon RX 560D</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-21.g812">Polaris 21</a>
+
+			</td>
+	<td>Jul 4th, 2017</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1090 MHz</td>
+	<td>1500 MHz</td>
+	<td>896 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-570.c2939">Radeon RX 570</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-20.g807">Polaris 20</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>1168 MHz</td>
+	<td>1750 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-570-mobile.c3068">Radeon RX 570 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Dec 10th, 2017</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>926 MHz</td>
+	<td>1650 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-570-x2.c3828">Radeon RX 570 X2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-20.g807">Polaris 20</a>
+
+			</td>
+	<td>Unknown</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1120 MHz</td>
+	<td>2100 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-580.c2938">Radeon RX 580</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-20.g807">Polaris 20</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1257 MHz</td>
+	<td>2000 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-580-mobile.c3067">Radeon RX 580 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-polaris-20.g807">Polaris 20</a>
+
+			</td>
+	<td>Apr 18th, 2017</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1000 MHz</td>
+	<td>2000 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-vega-10-mobile.c3053">Radeon RX Vega 10 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-raven-m.g1056">Raven-M</a>
+
+			</td>
+	<td>Oct 26th, 2017</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>640 / 40 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-vega-56.c2993">Radeon RX Vega 56</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Aug 14th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>1156 MHz</td>
+	<td>800 MHz</td>
+	<td>3584 / 224 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-vega-64.c2871">Radeon RX Vega 64</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Aug 7th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>1247 MHz</td>
+	<td>945 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-vega-64-limited-edition.c2995">Radeon RX Vega 64 Limited Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Aug 7th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>1247 MHz</td>
+	<td>945 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-vega-64-liquid-cooling.c2992">Radeon RX Vega 64 Liquid Cooling</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Aug 7th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, HBM2, 2048 bit</td>
+	<td>1406 MHz</td>
+	<td>945 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-8-mobile.c3103">Radeon Vega 8 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-raven-m.g1056">Raven-M</a>
+
+			</td>
+	<td>Oct 26th, 2017</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-frontier-edition.c2958">Radeon Vega Frontier Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Jun 27th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, HBM2, 2048 bit</td>
+	<td>1382 MHz</td>
+	<td>945 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-vega-frontier-edition-watercooled.c2982">Radeon Vega Frontier Edition Watercooled</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-vega-10.g800">Vega 10</a>
+
+			</td>
+	<td>Jul 13th, 2017</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, HBM2, 2048 bit</td>
+	<td>1382 MHz</td>
+	<td>945 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/xbox-one-x-gpu.c2977">Xbox One X GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-scorpio.g811">Scorpio</a>
+
+			</td>
+	<td>Nov 7th, 2017</td>
+	<td>IGP</td>
+	<td>12 GB, GDDR5, 384 bit</td>
+	<td>1172 MHz</td>
+	<td>1700 MHz</td>
+	<td>2560 / 160 / 32</td>
+</tr>
+		
+			</table>
+</div>

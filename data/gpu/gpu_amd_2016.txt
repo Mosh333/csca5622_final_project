@@ -1,0 +1,1113 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-s7100x.c2860">FirePro S7100X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-amethyst.g778">Amethyst</a>
+
+			</td>
+	<td>May 25th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>725 MHz</td>
+	<td>1250 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-s7150.c2751">FirePro S7150</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tonga.g768">Tonga</a>
+
+			</td>
+	<td>Feb 1st, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>920 MHz</td>
+	<td>1250 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-s7150-x2.c2812">FirePro S7150 x2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tonga.g768">Tonga</a>
+
+			</td>
+	<td>Feb 1st, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>920 MHz</td>
+	<td>1250 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/firepro-s9300-x2.c2833">FirePro S9300 X2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-capsaicin.g791">Capsaicin</a>
+
+			</td>
+	<td>Mar 31st, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, HBM, 4096 bit</td>
+	<td>975 MHz</td>
+	<td>500 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/playstation-4-pro-gpu.c2876">Playstation 4 Pro GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-neo.g834">Neo</a>
+
+			</td>
+	<td>Nov 10th, 2016</td>
+	<td>IGP</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>911 MHz</td>
+	<td>1700 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/playstation-4-slim-gpu.c3758">Playstation 4 Slim GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-liverpool-16nm.g991">Liverpool 16nm</a>
+
+			</td>
+	<td>Sep 7th, 2016</td>
+	<td>IGP</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>800 MHz</td>
+	<td>1375 MHz</td>
+	<td>1152 / 72 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-e9260-mxm.c2883">Radeon E9260 MXM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Sep 27th, 2016</td>
+	<td>MXM-A (3.0)</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1053 MHz</td>
+	<td>1750 MHz</td>
+	<td>896 / 48 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-e9260-pcie.c2884">Radeon E9260 PCIe</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Sep 27th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1090 MHz</td>
+	<td>1750 MHz</td>
+	<td>896 / 48 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-e9550-mxm.c2882">Radeon E9550 MXM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Sep 27th, 2016</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1120 MHz</td>
+	<td>1250 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi6.c2927">Radeon Instinct MI6</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Dec 12th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1120 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi8.c2928">Radeon Instinct MI8</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-fiji.g774">Fiji</a>
+
+			</td>
+	<td>Dec 12th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, HBM, 4096 bit</td>
+	<td>1000 MHz</td>
+	<td>500 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-450.c2899">Radeon Pro 450</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Oct 30th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>800 MHz</td>
+	<td>1270 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-455.c2898">Radeon Pro 455</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Oct 30th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>855 MHz</td>
+	<td>1270 MHz</td>
+	<td>768 / 48 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-460.c2897">Radeon Pro 460</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Oct 30th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>850 MHz</td>
+	<td>1270 MHz</td>
+	<td>1024 / 64 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-duo.c2828">Radeon Pro Duo</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-capsaicin.g791">Capsaicin</a>
+
+			</td>
+	<td>Apr 26th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, HBM, 4096 bit</td>
+	<td>1000 MHz</td>
+	<td>500 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-ssg.c3978">Radeon Pro SSG</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-fiji.g774">Fiji</a>
+
+			</td>
+	<td>Jul 26th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, HBM, 4096 bit</td>
+	<td>1000 MHz</td>
+	<td>500 MHz</td>
+	<td>4096 / 256 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-v5300x.c3057">Radeon Pro V5300X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1125 MHz</td>
+	<td>1500 MHz</td>
+	<td>1024 / 64 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-v7300x.c3058">Radeon Pro V7300X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1188 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-v7350x2.c3059">Radeon Pro V7350X2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 3.0 x16</td>
+	<td>16 GB, GDDR5, 256 bit</td>
+	<td>1188 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-4100.c2874">Radeon Pro WX 4100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Nov 10th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1125 MHz</td>
+	<td>1500 MHz</td>
+	<td>1024 / 64 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-5100.c2873">Radeon Pro WX 5100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Nov 18th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>713 MHz</td>
+	<td>1250 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-pro-wx-7100.c2872">Radeon Pro WX 7100</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Nov 10th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1188 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r1e-mobile-graphics.c4046">Radeon R1E Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-beema.g750">Beema</a>
+
+			</td>
+	<td>Feb 23rd, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>497 MHz</td>
+	<td>System Shared</td>
+	<td>64 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r1e-mobile-graphics.c4044">Radeon R1E Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-beema.g750">Beema</a>
+
+			</td>
+	<td>Feb 23rd, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>497 MHz</td>
+	<td>System Shared</td>
+	<td>64 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r1e-mobile-graphics.c4050">Radeon R1E Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-stoney.g852">Stoney</a>
+
+			</td>
+	<td>Jun 1st, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>64 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r2-mobile-graphics.c3216">Radeon R2 Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-stoney.g852">Stoney</a>
+
+			</td>
+	<td>Jun 1st, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r2e-mobile-graphics.c4049">Radeon R2E Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-stoney.g852">Stoney</a>
+
+			</td>
+	<td>Jun 1st, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r3-mobile-graphics.c3217">Radeon R3 Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-stoney.g852">Stoney</a>
+
+			</td>
+	<td>Jun 1st, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r4-mobile-graphics.c3218">Radeon R4 Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-stoney.g852">Stoney</a>
+
+			</td>
+	<td>Jun 1st, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r4e-mobile-graphics.c4051">Radeon R4E Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-stoney.g852">Stoney</a>
+
+			</td>
+	<td>Jun 1st, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-430-oem.c2893">Radeon R5 430 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-oland.g389">Oland</a>
+
+			</td>
+	<td>Jun 30th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>730 MHz</td>
+	<td>1150 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-435-oem.c2894">Radeon R5 435 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-banks.g891">Banks</a>
+
+			</td>
+	<td>Jun 30th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>1030 MHz</td>
+	<td>1125 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-m420.c2859">Radeon R5 M420</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-jet.g759">Jet</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, DDR3, 64 bit</td>
+	<td>780 MHz</td>
+	<td>1000 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-m430.c2834">Radeon R5 M430</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-jet.g759">Jet</a>
+
+			</td>
+	<td>2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, DDR3, 64 bit</td>
+	<td>780 MHz</td>
+	<td>1000 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-m430.c2945">Radeon R5 M430</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-jet.g759">Jet</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>780 MHz</td>
+	<td>1125 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-m430.c2846">Radeon R5 M430</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-exo.g782">Exo</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>1030 MHz</td>
+	<td>900 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-m435.c2850">Radeon R5 M435</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-jet.g759">Jet</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>780 MHz</td>
+	<td>1125 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-m445.c2750">Radeon R5 M445</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-meso.g781">Meso</a>
+
+			</td>
+	<td>2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 64 bit</td>
+	<td>920 MHz</td>
+	<td>1000 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-m465.c2749">Radeon R5 M465</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-meso.g781">Meso</a>
+
+			</td>
+	<td>2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, DDR3, 64 bit</td>
+	<td>1000 MHz</td>
+	<td>1000 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5-mobile-graphics.c3215">Radeon R5 Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-stoney.g852">Stoney</a>
+
+			</td>
+	<td>Jun 1st, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r5e-mobile-graphics.c4052">Radeon R5E Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-stoney.g852">Stoney</a>
+
+			</td>
+	<td>Jun 1st, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r6-m435dx.c2943">Radeon R6 M435DX</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-jet.g759">Jet</a>
+
+			</td>
+	<td>Dec 12th, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>955 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r6e-mobile-graphics.c4042">Radeon R6E Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-wani.g786">Wani</a>
+
+			</td>
+	<td>2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-350.c3135">Radeon R7 350</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cape-verde.g100">Cape Verde</a>
+
+			</td>
+	<td>Jul 6th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>800 MHz</td>
+	<td>1125 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-430-oem.c2892">Radeon R7 430 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-oland.g389">Oland</a>
+
+			</td>
+	<td>Jun 30th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 128 bit</td>
+	<td>730 MHz</td>
+	<td>900 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-435-oem.c2891">Radeon R7 435 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-oland.g389">Oland</a>
+
+			</td>
+	<td>Jun 30th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>920 MHz</td>
+	<td>1000 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-450-oem.c2890">Radeon R7 450 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-cape-verde.g100">Cape Verde</a>
+
+			</td>
+	<td>Jun 30th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>925 MHz</td>
+	<td>1125 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-m440.c2851">Radeon R7 M440</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-meso.g781">Meso</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, DDR3, 64 bit</td>
+	<td>891 MHz</td>
+	<td>900 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-m445.c2852">Radeon R7 M445</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-meso.g781">Meso</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>4 GB, GDDR5, 64 bit</td>
+	<td>780 MHz</td>
+	<td>1000 MHz</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-m460.c2853">Radeon R7 M460</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-meso.g781">Meso</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>730 MHz</td>
+	<td>1125 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-m465.c3211">Radeon R7 M465</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-topaz.g766">Topaz</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 64 bit</td>
+	<td>730 MHz</td>
+	<td>1125 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-m465.c2854">Radeon R7 M465</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-litho.g785">Litho</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>825 MHz</td>
+	<td>1000 MHz</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7-m465x.c2855">Radeon R7 M465X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tropo.g784">Tropo</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>900 MHz</td>
+	<td>1125 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r7e-mobile-graphics.c4041">Radeon R7E Mobile Graphics</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-wani.g786">Wani</a>
+
+			</td>
+	<td>2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r8-m435dx.c2944">Radeon R8 M435DX</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-jet.g759">Jet</a>
+
+			</td>
+	<td>Dec 12th, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>955 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r8-m445dx.c3128">Radeon R8 M445DX</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-meso.g781">Meso</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>IGP</td>
+	<td>System Shared</td>
+	<td>780 MHz</td>
+	<td>System Shared</td>
+	<td>320 / 20 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r9-m470.c2856">Radeon R9 M470</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-emerald.g892">Emerald</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>900 MHz</td>
+	<td>1375 MHz</td>
+	<td>768 / 48 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r9-m470x.c2857">Radeon R9 M470X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-emerald.g892">Emerald</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1000 MHz</td>
+	<td>1200 MHz</td>
+	<td>896 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-r9-m485x.c2858">Radeon R9 M485X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-amethyst.g778">Amethyst</a>
+
+			</td>
+	<td>May 15th, 2016</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>723 MHz</td>
+	<td>1250 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-455-oem.c2889">Radeon RX 455 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-tobago.g777">Tobago</a>
+
+			</td>
+	<td>Jun 30th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1050 MHz</td>
+	<td>1625 MHz</td>
+	<td>768 / 48 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-460.c2849">Radeon RX 460</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Aug 8th, 2016</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1090 MHz</td>
+	<td>1750 MHz</td>
+	<td>896 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-460-mobile.c3072">Radeon RX 460 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-baffin.g796">Baffin</a>
+
+			</td>
+	<td>Aug 8th, 2016</td>
+	<td>MXM-B (3.0)</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1000 MHz</td>
+	<td>1250 MHz</td>
+	<td>896 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-470.c2861">Radeon RX 470</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Aug 4th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>926 MHz</td>
+	<td>1650 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-470-mobile.c3070">Radeon RX 470 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Aug 4th, 2016</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>926 MHz</td>
+	<td>1750 MHz</td>
+	<td>2048 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-470d.c2896">Radeon RX 470D</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Oct 21st, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>926 MHz</td>
+	<td>1650 MHz</td>
+	<td>1792 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-480.c2848">Radeon RX 480</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Jun 29th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1120 MHz</td>
+	<td>2000 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-480-mobile.c3073">Radeon RX 480 Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Aug 4th, 2016</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1000 MHz</td>
+	<td>2000 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-580-oem.c3112">Radeon RX 580 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-ellesmere.g795">Ellesmere</a>
+
+			</td>
+	<td>Jun 29th, 2016</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1120 MHz</td>
+	<td>2000 MHz</td>
+	<td>2304 / 144 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/xbox-one-s-gpu.c2866">Xbox One S GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-durango-2.g799">Durango 2</a>
+
+			</td>
+	<td>Aug 2nd, 2016</td>
+	<td>IGP</td>
+	<td>8 GB, DDR3, 256 bit</td>
+	<td>914 MHz</td>
+	<td>1066 MHz</td>
+	<td>768 / 48 / 16</td>
+</tr>
+		
+			</table>
+</div>

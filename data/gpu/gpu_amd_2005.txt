@@ -1,0 +1,9 @@
+
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<tr>
+			<td colspan="8" align="center">No graphics cards found. Please change your search criteria.</td>
+		</tr>
+			</table>
+</div>

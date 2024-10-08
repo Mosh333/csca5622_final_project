@@ -1,0 +1,1032 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="NVIDIA">NVIDIA</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7050-nforce-620i.c2150">GeForce 7050 + nForce 620i</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c73.g395">C73</a>
+
+			</td>
+	<td>Oct 4th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>2 / 1 / 2 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7050-nforce-630i.c1863">GeForce 7050 + nForce 630i</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c73.g395">C73</a>
+
+			</td>
+	<td>Oct 4th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>2 / 1 / 2 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7100-nforce-630i.c2149">GeForce 7100 + nForce 630i</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c73.g395">C73</a>
+
+			</td>
+	<td>Oct 4th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>600 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 1 / 2 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7150-nforce-630i.c1959">GeForce 7150 + nForce 630i</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c73.g395">C73</a>
+
+			</td>
+	<td>Nov 16th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>630 MHz</td>
+	<td>System Shared</td>
+	<td>2 / 1 / 2 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7150m-nforce-630m.c1585">GeForce 7150M + nForce 630M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c67.g410">C67</a>
+
+			</td>
+	<td>Nov 16th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>System Shared</td>
+	<td>425 MHz</td>
+	<td>System Shared</td>
+	<td>2 / 1 / 2 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7600-gt-agp.c729">GeForce 7600 GT AGP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g73b.g1028">G73B</a>
+
+			</td>
+	<td>Jan 8th, 2007</td>
+	<td>AGP 8x</td>
+	<td>256 MB, GDDR3, 128 bit</td>
+	<td>560 MHz</td>
+	<td>700 MHz</td>
+	<td>12 / 5 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7950-gt-agp.c754">GeForce 7950 GT AGP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g71.g47">G71</a>
+
+			</td>
+	<td>Apr 2nd, 2007</td>
+	<td>AGP 8x</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>500 MHz</td>
+	<td>600 MHz</td>
+	<td>24 / 8 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8100-nforce-720a.c2048">GeForce 8100 + nForce 720a</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c78.g610">C78</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8200.c2047">GeForce 8200</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c78.g610">C78</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8300.c2046">GeForce 8300</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c78.g610">C78</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8300-gs.c755">GeForce 8300 GS</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86s.g57">G86S</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>128 MB, DDR2, 64 bit</td>
+	<td>459 MHz</td>
+	<td>400 MHz</td>
+	<td>8 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8400.c2045">GeForce 8400</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g98s.g146">G98S</a>
+
+			</td>
+	<td>Dec 4th, 2007</td>
+	<td>PCIe 2.0 x16</td>
+	<td>256 MB, DDR2, 64 bit</td>
+	<td>540 MHz</td>
+	<td>500 MHz</td>
+	<td>8 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8400-gs.c205">GeForce 8400 GS</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86s.g57">G86S</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, DDR2, 64 bit</td>
+	<td>459 MHz</td>
+	<td>400 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8400-gs-pci.c3320">GeForce 8400 GS PCI</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g98s.g146">G98S</a>
+
+			</td>
+	<td>Dec 4th, 2007</td>
+	<td>PCI</td>
+	<td>512 MB, DDR2, 64 bit</td>
+	<td>567 MHz</td>
+	<td>333 MHz</td>
+	<td>8 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8400-gs-pci-rev-2.c1929">GeForce 8400 GS PCI Rev. 2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gt218s.g140">GT218S</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>512 MB, DDR3, 64 bit</td>
+	<td>520 MHz</td>
+	<td>500 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8400-gs-rev-2.c770">GeForce 8400 GS Rev. 2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g98s.g146">G98S</a>
+
+			</td>
+	<td>Dec 4th, 2007</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, DDR2, 64 bit</td>
+	<td>567 MHz</td>
+	<td>400 MHz</td>
+	<td>8 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8400m-g.c1697">GeForce 8400M G</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86.g1029">G86</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 64 bit</td>
+	<td>400 MHz</td>
+	<td>400 MHz</td>
+	<td>8 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8400m-gs.c1696">GeForce 8400M GS</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86s.g57">G86S</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>MXM-I</td>
+	<td>256 MB, DDR2, 64 bit</td>
+	<td>400 MHz</td>
+	<td>400 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8400m-gt.c1695">GeForce 8400M GT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86s.g57">G86S</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 128 bit</td>
+	<td>450 MHz</td>
+	<td>602 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8500-gt.c765">GeForce 8500 GT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86.g1029">G86</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 128 bit</td>
+	<td>459 MHz</td>
+	<td>400 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8600-gs.c1767">GeForce 8600 GS</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>512 MB, DDR2, 128 bit</td>
+	<td>540 MHz</td>
+	<td>400 MHz</td>
+	<td>16 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8600-gt.c198">GeForce 8600 GT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>512 MB, GDDR3, 128 bit</td>
+	<td>540 MHz</td>
+	<td>700 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8600-gt-mac-edition.c2328">GeForce 8600 GT Mac Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>128 MB, GDDR3, 128 bit</td>
+	<td>600 MHz</td>
+	<td>750 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8600-gts.c764">GeForce 8600 GTS</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 128 bit</td>
+	<td>675 MHz</td>
+	<td>1000 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8600-gts-mac-edition.c2257">GeForce 8600 GTS Mac Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Sep 21st, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>512 MB, GDDR3, 128 bit</td>
+	<td>675 MHz</td>
+	<td>1008 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8600m-gs.c1533">GeForce 8600M GS</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86.g1029">G86</a>
+
+			</td>
+	<td>May 1st, 2007</td>
+	<td>MXM-II</td>
+	<td>512 MB, DDR2, 128 bit</td>
+	<td>450 MHz</td>
+	<td>400 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8600m-gt.c938">GeForce 8600M GT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>May 1st, 2007</td>
+	<td>MXM-II</td>
+	<td>512 MB, GDDR3, 128 bit</td>
+	<td>475 MHz</td>
+	<td>700 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8600m-gt.c2364">GeForce 8600M GT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Dec 31st, 2007</td>
+	<td>MXM-II</td>
+	<td>512 MB, DDR2, 128 bit</td>
+	<td>475 MHz</td>
+	<td>400 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8600m-gt-mac-edition.c2332">GeForce 8600M GT Mac Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Oct 5th, 2007</td>
+	<td>MXM-II</td>
+	<td>512 MB, GDDR3, 128 bit</td>
+	<td>470 MHz</td>
+	<td>635 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8700m-gt.c1532">GeForce 8700M GT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Jun 1st, 2007</td>
+	<td>MXM-HE</td>
+	<td>512 MB, GDDR3, 128 bit</td>
+	<td>625 MHz</td>
+	<td>800 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8800-gt.c201">GeForce 8800 GT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g92.g58">G92</a>
+
+			</td>
+	<td>Oct 29th, 2007</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>600 MHz</td>
+	<td>900 MHz</td>
+	<td>112 / 56 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8800-gts-320.c196">GeForce 8800 GTS 320</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g80.g52">G80</a>
+
+			</td>
+	<td>Feb 12th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>320 MB, GDDR3, 320 bit</td>
+	<td>513 MHz</td>
+	<td>792 MHz</td>
+	<td>96 / 24 / 20</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8800-gts-512.c758">GeForce 8800 GTS 512</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g92.g58">G92</a>
+
+			</td>
+	<td>Dec 11th, 2007</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>650 MHz</td>
+	<td>820 MHz</td>
+	<td>128 / 64 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8800-gts-core-112.c188">GeForce 8800 GTS Core 112</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g80.g52">G80</a>
+
+			</td>
+	<td>Nov 19th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>640 MB, GDDR3, 320 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>112 / 28 / 20</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8800-ultra.c195">GeForce 8800 Ultra</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g80.g52">G80</a>
+
+			</td>
+	<td>May 2nd, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>768 MB, GDDR3, 384 bit</td>
+	<td>612 MHz</td>
+	<td>1080 MHz</td>
+	<td>128 / 32 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8800m-gts.c1528">GeForce 8800M GTS</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g92.g58">G92</a>
+
+			</td>
+	<td>Nov 1st, 2007</td>
+	<td>MXM-HE</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>64 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-8800m-gtx.c942">GeForce 8800M GTX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g92.g58">G92</a>
+
+			</td>
+	<td>Nov 1st, 2007</td>
+	<td>MXM-HE</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>96 / 48 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-9100.c2049">GeForce 9100</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c78.g610">C78</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-9200.c2051">GeForce 9200</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c78.g610">C78</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-9200.c2887">GeForce 9200</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c79.g412">C79</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>450 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-9300-nforce-730i.c2056">GeForce 9300 + nForce 730i</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c79.g412">C79</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>450 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-9400.c2054">GeForce 9400</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c7a.g611">C7A</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>580 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-9400.c2172">GeForce 9400</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c79.g412">C79</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>450 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-9400.c2052">GeForce 9400</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c79.g412">C79</a>
+
+			</td>
+	<td>Apr 17th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>450 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-1600m.c1446">Quadro FX 1600M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Jun 1st, 2007</td>
+	<td>MXM-HE</td>
+	<td>512 MB, GDDR3, 128 bit</td>
+	<td>625 MHz</td>
+	<td>800 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-1700.c1345">Quadro FX 1700</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Sep 12th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>512 MB, DDR2, 256 bit</td>
+	<td>460 MHz</td>
+	<td>400 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-3500m.c1445">Quadro FX 3500M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g71.g47">G71</a>
+
+			</td>
+	<td>Mar 1st, 2007</td>
+	<td>MXM-III</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>575 MHz</td>
+	<td>600 MHz</td>
+	<td>24 / 8 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-360m.c1441">Quadro FX 360M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86s.g57">G86S</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, DDR2, 64 bit</td>
+	<td>400 MHz</td>
+	<td>400 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-370.c1330">Quadro FX 370</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Sep 12th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, DDR2, 64 bit</td>
+	<td>360 MHz</td>
+	<td>500 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-4600.c1338">Quadro FX 4600</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g80.g52">G80</a>
+
+			</td>
+	<td>Mar 5th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>768 MB, GDDR3, 384 bit</td>
+	<td>500 MHz</td>
+	<td>700 MHz</td>
+	<td>96 / 24 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-4600-sdi.c1340">Quadro FX 4600 SDI</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g80.g52">G80</a>
+
+			</td>
+	<td>Mar 5th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>768 MB, GDDR3, 384 bit</td>
+	<td>500 MHz</td>
+	<td>700 MHz</td>
+	<td>96 / 24 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-470.c2057">Quadro FX 470</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-c79.g412">C79</a>
+
+			</td>
+	<td>Sep 12th, 2007</td>
+	<td>PCI</td>
+	<td>System Shared</td>
+	<td>580 MHz</td>
+	<td>System Shared</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-5600.c1339">Quadro FX 5600</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g80.g52">G80</a>
+
+			</td>
+	<td>Mar 5th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>1536 MB, GDDR3, 384 bit</td>
+	<td>600 MHz</td>
+	<td>800 MHz</td>
+	<td>128 / 32 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-5600-mac-edition.c2402">Quadro FX 5600 Mac Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g80.g52">G80</a>
+
+			</td>
+	<td>Mar 5th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>1536 MB, GDDR3, 384 bit</td>
+	<td>600 MHz</td>
+	<td>800 MHz</td>
+	<td>128 / 32 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-570.c1331">Quadro FX 570</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Sep 12th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, DDR2, 128 bit</td>
+	<td>460 MHz</td>
+	<td>400 MHz</td>
+	<td>16 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-570m.c1437">Quadro FX 570M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Jun 1st, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>512 MB, GDDR3, 128 bit</td>
+	<td>475 MHz</td>
+	<td>702 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-nvs-130m.c1471">Quadro NVS 130M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86s.g57">G86S</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>PCIe 2.0 x16</td>
+	<td>256 MB, DDR2, 64 bit</td>
+	<td>400 MHz</td>
+	<td>700 MHz</td>
+	<td>8 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-nvs-135m.c1472">Quadro NVS 135M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86s.g57">G86S</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>PCIe 2.0 x16</td>
+	<td>256 MB, GDDR3, 64 bit</td>
+	<td>400 MHz</td>
+	<td>594 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-nvs-140m.c1473">Quadro NVS 140M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86s.g57">G86S</a>
+
+			</td>
+	<td>May 9th, 2007</td>
+	<td>PCIe 2.0 x16</td>
+	<td>512 MB, GDDR3, 64 bit</td>
+	<td>400 MHz</td>
+	<td>600 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-nvs-290.c1453">Quadro NVS 290</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g86s.g57">G86S</a>
+
+			</td>
+	<td>Oct 4th, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, DDR2, 64 bit</td>
+	<td>459 MHz</td>
+	<td>400 MHz</td>
+	<td>16 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-nvs-320m.c1465">Quadro NVS 320M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g84.g56">G84</a>
+
+			</td>
+	<td>Jun 9th, 2007</td>
+	<td>MXM-HE</td>
+	<td>512 MB, GDDR3, 128 bit</td>
+	<td>575 MHz</td>
+	<td>700 MHz</td>
+	<td>32 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-c870.c1542">Tesla C870</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g80.g52">G80</a>
+
+			</td>
+	<td>May 2nd, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>1536 MB, GDDR3, 384 bit</td>
+	<td>600 MHz</td>
+	<td>800 MHz</td>
+	<td>128 / 32 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-d870.c1543">Tesla D870</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g80.g52">G80</a>
+
+			</td>
+	<td>May 2nd, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>1536 MB, GDDR3, 384 bit</td>
+	<td>600 MHz</td>
+	<td>800 MHz</td>
+	<td>128 / 32 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-s870.c1544">Tesla S870</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g80.g52">G80</a>
+
+			</td>
+	<td>May 2nd, 2007</td>
+	<td>PCIe 1.0 x16</td>
+	<td>1536 MB, GDDR3, 384 bit</td>
+	<td>600 MHz</td>
+	<td>800 MHz</td>
+	<td>128 / 32 / 24</td>
+</tr>
+		
+			</table>
+</div>

@@ -1,0 +1,40 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-hd-6570m-mac-edition.c2251">Radeon HD 6570M Mac Edition</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-capilano.g104">Capilano</a>
+
+			</td>
+	<td>Oct 28th, 2009</td>
+	<td>MXM-II</td>
+	<td>1024 MB, GDDR3, 128 bit</td>
+	<td>600 MHz</td>
+	<td>800 MHz</td>
+	<td>400 / 20 / 8</td>
+</tr>
+		
+			</table>
+</div>

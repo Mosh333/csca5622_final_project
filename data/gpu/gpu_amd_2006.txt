@@ -1,0 +1,40 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/stream-processor.c1186">Stream Processor</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-r580.g675">R580</a>
+
+			</td>
+	<td>2006</td>
+	<td>PCIe 1.0 x16</td>
+	<td>1024 MB, GDDR3, 256 bit</td>
+	<td>594 MHz</td>
+	<td>648 MHz</td>
+	<td>48 / 8 / 16 / 16</td>
+</tr>
+		
+			</table>
+</div>

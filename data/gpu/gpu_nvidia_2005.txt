@@ -1,0 +1,616 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="NVIDIA">NVIDIA</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6200-agp.c2419">GeForce 6200 AGP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv44.g161">NV44</a>
+
+			</td>
+	<td>Apr 4th, 2005</td>
+	<td>AGP 8x</td>
+	<td>256 MB, DDR2, 64 bit</td>
+	<td>350 MHz</td>
+	<td>266 MHz</td>
+	<td>4 / 3 / 4 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6200-agp.c164">GeForce 6200 AGP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv44.g161">NV44</a>
+
+			</td>
+	<td>Apr 4th, 2005</td>
+	<td>AGP 8x</td>
+	<td>128 MB, DDR, 64 bit</td>
+	<td>350 MHz</td>
+	<td>250 MHz</td>
+	<td>4 / 2 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6200-le.c1297">GeForce 6200 LE</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv44.g161">NV44</a>
+
+			</td>
+	<td>Apr 4th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>128 MB, DDR, 64 bit</td>
+	<td>350 MHz</td>
+	<td>266 MHz</td>
+	<td>2 / 1 / 2 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6200-le.c709">GeForce 6200 LE</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv44.g161">NV44</a>
+
+			</td>
+	<td>Apr 4th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>64 MB, DDR2, 32 bit</td>
+	<td>350 MHz</td>
+	<td>266 MHz</td>
+	<td>2 / 1 / 2 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6200-le-agp.c708">GeForce 6200 LE AGP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv44.g161">NV44</a>
+
+			</td>
+	<td>Apr 4th, 2005</td>
+	<td>AGP 8x</td>
+	<td>128 MB, DDR, 64 bit</td>
+	<td>350 MHz</td>
+	<td>266 MHz</td>
+	<td>2 / 1 / 2 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6500.c713">GeForce 6500</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv44.g161">NV44</a>
+
+			</td>
+	<td>Oct 1st, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>128 MB, DDR2, 128 bit</td>
+	<td>400 MHz</td>
+	<td>266 MHz</td>
+	<td>4 / 3 / 4 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6600-le.c715">GeForce 6600 LE</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv43.g7">NV43</a>
+
+			</td>
+	<td>2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>128 MB, DDR, 128 bit</td>
+	<td>300 MHz</td>
+	<td>250 MHz</td>
+	<td>4 / 3 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6600-le-agp.c716">GeForce 6600 LE AGP</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv43.g7">NV43</a>
+
+			</td>
+	<td>2005</td>
+	<td>AGP 8x</td>
+	<td>128 MB, DDR, 128 bit</td>
+	<td>300 MHz</td>
+	<td>200 MHz</td>
+	<td>4 / 3 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6600-ve.c1835">GeForce 6600 VE</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv43.g7">NV43</a>
+
+			</td>
+	<td>2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>128 MB, GDDR3, 128 bit</td>
+	<td>300 MHz</td>
+	<td>200 MHz</td>
+	<td>4 / 2 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6800-gs.c145">GeForce 6800 GS</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv40.g6">NV40</a>
+
+			</td>
+	<td>Dec 8th, 2005</td>
+	<td>AGP 8x</td>
+	<td>256 MB, GDDR3, 256 bit</td>
+	<td>350 MHz</td>
+	<td>500 MHz</td>
+	<td>12 / 5 / 12 / 12</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6800-gs.c143">GeForce 6800 GS</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv41.g162">NV41</a>
+
+			</td>
+	<td>Nov 7th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 256 bit</td>
+	<td>425 MHz</td>
+	<td>500 MHz</td>
+	<td>12 / 5 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6800-le.c132">GeForce 6800 LE</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv41.g162">NV41</a>
+
+			</td>
+	<td>Jan 16th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, DDR, 256 bit</td>
+	<td>325 MHz</td>
+	<td>300 MHz</td>
+	<td>8 / 4 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6800-xe.c1819">GeForce 6800 XE</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv40.g6">NV40</a>
+
+			</td>
+	<td>Sep 30th, 2005</td>
+	<td>AGP 8x</td>
+	<td>256 MB, DDR2, 128 bit</td>
+	<td>275 MHz</td>
+	<td>266 MHz</td>
+	<td>8 / 3 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6800-xt.c711">GeForce 6800 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv41.g162">NV41</a>
+
+			</td>
+	<td>Sep 30th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 256 bit</td>
+	<td>425 MHz</td>
+	<td>500 MHz</td>
+	<td>8 / 4 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6800-xt.c2135">GeForce 6800 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv42.g44">NV42</a>
+
+			</td>
+	<td>Sep 30th, 2005</td>
+	<td>AGP 8x</td>
+	<td>256 MB, GDDR3, 256 bit</td>
+	<td>450 MHz</td>
+	<td>600 MHz</td>
+	<td>12 / 5 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6800-xt.c176">GeForce 6800 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv40.g6">NV40</a>
+
+			</td>
+	<td>Sep 30th, 2005</td>
+	<td>AGP 8x</td>
+	<td>256 MB, DDR, 256 bit</td>
+	<td>300 MHz</td>
+	<td>350 MHz</td>
+	<td>8 / 4 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-6800-xt.c1776">GeForce 6800 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv48.g374">NV48</a>
+
+			</td>
+	<td>Sep 30th, 2005</td>
+	<td>AGP 8x</td>
+	<td>256 MB, DDR, 128 bit</td>
+	<td>300 MHz</td>
+	<td>266 MHz</td>
+	<td>8 / 4 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7800-gt.c126">GeForce 7800 GT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g70.g40">G70</a>
+
+			</td>
+	<td>Aug 11th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 256 bit</td>
+	<td>400 MHz</td>
+	<td>500 MHz</td>
+	<td>20 / 7 / 20 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7800-gt-dual.c1944">GeForce 7800 GT Dual</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g70.g40">G70</a>
+
+			</td>
+	<td>Aug 11th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 256 bit</td>
+	<td>400 MHz</td>
+	<td>500 MHz</td>
+	<td>20 / 7 / 20 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7800-gtx.c127">GeForce 7800 GTX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g70.g40">G70</a>
+
+			</td>
+	<td>Jun 22nd, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 256 bit</td>
+	<td>430 MHz</td>
+	<td>600 MHz</td>
+	<td>24 / 8 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-7800-gtx-512.c144">GeForce 7800 GTX 512</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g70.g40">G70</a>
+
+			</td>
+	<td>Nov 14th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>500 MHz</td>
+	<td>800 MHz</td>
+	<td>24 / 8 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-fx-go5700.c1552">GeForce FX Go5700</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv36.g707">NV36</a>
+
+			</td>
+	<td>Feb 1st, 2005</td>
+	<td>AGP 8x</td>
+	<td>128 MB, DDR, 128 bit</td>
+	<td>450 MHz</td>
+	<td>275 MHz</td>
+	<td>4 / 3 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-go-6200-te.c2222">GeForce Go 6200 TE</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv43.g7">NV43</a>
+
+			</td>
+	<td>Sep 29th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>64 MB, DDR, 64 bit</td>
+	<td>300 MHz</td>
+	<td>300 MHz</td>
+	<td>4 / 3 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-go-6600.c1566">GeForce Go 6600</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv43.g7">NV43</a>
+
+			</td>
+	<td>Sep 29th, 2005</td>
+	<td>MXM-II</td>
+	<td>256 MB, DDR, 128 bit</td>
+	<td>300 MHz</td>
+	<td>350 MHz</td>
+	<td>8 / 3 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-go-6600-npb-128m.c2223">GeForce Go 6600 NPB 128M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv43.g7">NV43</a>
+
+			</td>
+	<td>Sep 29th, 2005</td>
+	<td>MXM-I</td>
+	<td>128 MB, DDR, 128 bit</td>
+	<td>375 MHz</td>
+	<td>300 MHz</td>
+	<td>8 / 3 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-go-6600-te.c2221">GeForce Go 6600 TE</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv43.g7">NV43</a>
+
+			</td>
+	<td>Sep 29th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>128 MB, DDR, 128 bit</td>
+	<td>225 MHz</td>
+	<td>200 MHz</td>
+	<td>8 / 3 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-go-6800-ultra.c1565">GeForce Go 6800 Ultra</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv41.g162">NV41</a>
+
+			</td>
+	<td>Feb 24th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 256 bit</td>
+	<td>450 MHz</td>
+	<td>600 MHz</td>
+	<td>12 / 5 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-go-7800-gtx.c1574">GeForce Go 7800 GTX</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g70.g40">G70</a>
+
+			</td>
+	<td>Sep 29th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>440 MHz</td>
+	<td>550 MHz</td>
+	<td>24 / 8 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-2500m.c1444">Quadro FX 2500M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g71.g47">G71</a>
+
+			</td>
+	<td>Sep 29th, 2005</td>
+	<td>MXM-III</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>500 MHz</td>
+	<td>600 MHz</td>
+	<td>24 / 8 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-3450.c1368">Quadro FX 3450</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv41.g162">NV41</a>
+
+			</td>
+	<td>Jul 28th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>256 MB, GDDR3, 256 bit</td>
+	<td>425 MHz</td>
+	<td>500 MHz</td>
+	<td>12 / 5 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-4400.c1832">Quadro FX 4400</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv45.g163">NV45</a>
+
+			</td>
+	<td>Jul 28th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>375 MHz</td>
+	<td>525 MHz</td>
+	<td>16 / 6 / 16 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-4400g.c2353">Quadro FX 4400G</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv45.g163">NV45</a>
+
+			</td>
+	<td>Jul 28th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>375 MHz</td>
+	<td>525 MHz</td>
+	<td>16 / 6 / 16 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-4500.c1342">Quadro FX 4500</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-g70.g40">G70</a>
+
+			</td>
+	<td>Jul 28th, 2005</td>
+	<td>PCIe 1.0 x16</td>
+	<td>512 MB, GDDR3, 256 bit</td>
+	<td>430 MHz</td>
+	<td>525 MHz</td>
+	<td>24 / 8 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-fx-go1400.c1831">Quadro FX Go1400</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv41.g162">NV41</a>
+
+			</td>
+	<td>Feb 25th, 2005</td>
+	<td>MXM-III</td>
+	<td>256 MB, DDR, 256 bit</td>
+	<td>275 MHz</td>
+	<td>295 MHz</td>
+	<td>8 / 5 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-nvs-280-sd.c3160">Quadro NVS 280 SD</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv18c.g621">NV18C</a>
+
+			</td>
+	<td>May 31st, 2005</td>
+	<td>AGP 8x</td>
+	<td>64 MB, DDR, 64 bit</td>
+	<td>250 MHz</td>
+	<td>200 MHz</td>
+	<td>2 / 0 / 4 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-nvs-50-pci.c1460">Quadro NVS 50 PCI</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv18.g170">NV18</a>
+
+			</td>
+	<td>May 31st, 2005</td>
+	<td>PCI</td>
+	<td>64 MB, DDR, 64 bit</td>
+	<td>250 MHz</td>
+	<td>200 MHz</td>
+	<td>2 / 0 / 4 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-nvs-55-pci.c2676">Quadro NVS 55 PCI</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-nv34b.g682">NV34B</a>
+
+			</td>
+	<td>May 31st, 2005</td>
+	<td>PCI</td>
+	<td>64 MB, DDR, 64 bit</td>
+	<td>250 MHz</td>
+	<td>200 MHz</td>
+	<td>4 / 2 / 4 / 4</td>
+</tr>
+		
+			</table>
+</div>

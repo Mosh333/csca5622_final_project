@@ -1,0 +1,1064 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="NVIDIA">NVIDIA</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/grid-k120q.c2593">GRID K120Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk107.g109">GK107</a>
+
+			</td>
+	<td>Jul 2nd, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>512 MB, DDR3, 128 bit</td>
+	<td>850 MHz</td>
+	<td>891 MHz</td>
+	<td>192 / 16 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/grid-k220q.c2592">GRID K220Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Jul 2nd, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>512 MB, GDDR5, 256 bit</td>
+	<td>745 MHz</td>
+	<td>1250 MHz</td>
+	<td>1536 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/grid-k500.c2597">GRID K500</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Jul 2nd, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>745 MHz</td>
+	<td>1250 MHz</td>
+	<td>1536 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/grid-k520q.c2594">GRID K520Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Jul 2nd, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>745 MHz</td>
+	<td>1250 MHz</td>
+	<td>1536 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/grid-k540q.c2595">GRID K540Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Jul 2nd, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>745 MHz</td>
+	<td>1250 MHz</td>
+	<td>1536 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/grid-k560q.c2596">GRID K560Q</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Jul 2nd, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>745 MHz</td>
+	<td>1250 MHz</td>
+	<td>1536 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-705a.c2386">GeForce 705A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Jul 1st, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>475 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-710a.c2566">GeForce 710A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208.g572">GK208</a>
+
+			</td>
+	<td>Mar 17th, 2014</td>
+	<td>PCIe 3.0 x8</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>719 MHz</td>
+	<td>1001 MHz</td>
+	<td>192 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-720a.c2666">GeForce 720A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf117.g110">GF117</a>
+
+			</td>
+	<td>Jul 1st, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>775 MHz</td>
+	<td>1001 MHz</td>
+	<td>96 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-800a.c2673">GeForce 800A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Mar 17th, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>475 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-800a.c2564">GeForce 800A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Mar 17th, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>475 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-800m.c2567">GeForce 800M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf117.g110">GF117</a>
+
+			</td>
+	<td>Mar 17th, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>738 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-805a.c2671">GeForce 805A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208.g572">GK208</a>
+
+			</td>
+	<td>Jul 22nd, 2014</td>
+	<td>PCIe 3.0 x8</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>719 MHz</td>
+	<td>1001 MHz</td>
+	<td>192 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-810a.c2604">GeForce 810A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208.g572">GK208</a>
+
+			</td>
+	<td>Jul 22nd, 2014</td>
+	<td>PCIe 3.0 x8</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>719 MHz</td>
+	<td>900 MHz</td>
+	<td>192 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-810m.c2584">GeForce 810M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf117.g110">GF117</a>
+
+			</td>
+	<td>Mar 24th, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>738 MHz</td>
+	<td>900 MHz</td>
+	<td>48 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-820a.c2570">GeForce 820A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf117.g110">GF117</a>
+
+			</td>
+	<td>Mar 17th, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>625 MHz</td>
+	<td>1001 MHz</td>
+	<td>96 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-825m.c2547">GeForce 825M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208.g572">GK208</a>
+
+			</td>
+	<td>Jan 27th, 2014</td>
+	<td>PCIe 3.0 x8</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>850 MHz</td>
+	<td>900 MHz</td>
+	<td>384 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-830a.c2605">GeForce 830A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm108.g761">GM108</a>
+
+			</td>
+	<td>Jul 22nd, 2014</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>1082 MHz</td>
+	<td>1001 MHz</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-830m.c2560">GeForce 830M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm108.g761">GM108</a>
+
+			</td>
+	<td>Mar 12th, 2014</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>1082 MHz</td>
+	<td>900 MHz</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-840a.c2569">GeForce 840A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm108.g761">GM108</a>
+
+			</td>
+	<td>Mar 17th, 2014</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>1029 MHz</td>
+	<td>1001 MHz</td>
+	<td>384 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-840m.c2539">GeForce 840M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm108s.g1033">GM108S</a>
+
+			</td>
+	<td>Mar 12th, 2014</td>
+	<td>PCIe 3.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>1029 MHz</td>
+	<td>1001 MHz</td>
+	<td>384 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-705-oem.c2578">GeForce GT 705 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf119s.g93">GF119S</a>
+
+			</td>
+	<td>Mar 27th, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>874 MHz</td>
+	<td>825 MHz</td>
+	<td>48 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-710.c3027">GeForce GT 710</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208.g572">GK208</a>
+
+			</td>
+	<td>Mar 27th, 2014</td>
+	<td>PCIe 2.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>954 MHz</td>
+	<td>900 MHz</td>
+	<td>192 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-710.c1990">GeForce GT 710</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208b.g815">GK208B</a>
+
+			</td>
+	<td>Mar 27th, 2014</td>
+	<td>PCIe 2.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>954 MHz</td>
+	<td>900 MHz</td>
+	<td>192 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-710-pcie-x1.c3739">GeForce GT 710 PCIe x1</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208b.g815">GK208B</a>
+
+			</td>
+	<td>Mar 27th, 2014</td>
+	<td>PCIe 2.0 x1</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>954 MHz</td>
+	<td>800 MHz</td>
+	<td>192 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-720.c2702">GeForce GT 720</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208b.g815">GK208B</a>
+
+			</td>
+	<td>Sep 29th, 2014</td>
+	<td>PCIe 2.0 x8</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>797 MHz</td>
+	<td>800 MHz</td>
+	<td>192 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-720.c1989">GeForce GT 720</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208.g572">GK208</a>
+
+			</td>
+	<td>Mar 27th, 2014</td>
+	<td>PCIe 2.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>967 MHz</td>
+	<td>900 MHz</td>
+	<td>384 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-720a.c2379">GeForce GT 720A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf117.g110">GF117</a>
+
+			</td>
+	<td>Jul 1st, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>775 MHz</td>
+	<td>1001 MHz</td>
+	<td>96 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-730.c3114">GeForce GT 730</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jun 18th, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>700 MHz</td>
+	<td>900 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-730.c2590">GeForce GT 730</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gf108.g82">GF108</a>
+
+			</td>
+	<td>Jun 18th, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>2 GB, DDR3, 128 bit</td>
+	<td>700 MHz</td>
+	<td>800 MHz</td>
+	<td>96 / 16 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-730.c1988">GeForce GT 730</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208b.g815">GK208B</a>
+
+			</td>
+	<td>Jun 18th, 2014</td>
+	<td>PCIe 2.0 x8</td>
+	<td>1024 MB, GDDR5, 64 bit</td>
+	<td>902 MHz</td>
+	<td>1253 MHz</td>
+	<td>384 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-730a.c2387">GeForce GT 730A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208.g572">GK208</a>
+
+			</td>
+	<td>Jul 1st, 2014</td>
+	<td>PCIe 3.0 x8</td>
+	<td>1024 MB, DDR3, 64 bit</td>
+	<td>719 MHz</td>
+	<td>1001 MHz</td>
+	<td>384 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-730m.c2307">GeForce GT 730M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk208.g572">GK208</a>
+
+			</td>
+	<td>Mar 6th, 2014</td>
+	<td>PCIe 2.0 x8</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>719 MHz</td>
+	<td>900 MHz</td>
+	<td>384 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gt-740.c1987">GeForce GT 740</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk107.g109">GK107</a>
+
+			</td>
+	<td>May 29th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>993 MHz</td>
+	<td>1253 MHz</td>
+	<td>384 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-660-rev-2.c2631">GeForce GTX 660 Rev. 2</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Sep 13th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 192 bit</td>
+	<td>980 MHz</td>
+	<td>1502 MHz</td>
+	<td>960 / 80 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-745-oem.c2561">GeForce GTX 745 OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm107.g762">GM107</a>
+
+			</td>
+	<td>Feb 18th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, DDR3, 128 bit</td>
+	<td>1033 MHz</td>
+	<td>900 MHz</td>
+	<td>384 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-750.c1986">GeForce GTX 750</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm107.g762">GM107</a>
+
+			</td>
+	<td>Feb 18th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>1020 MHz</td>
+	<td>1253 MHz</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-750-ti.c2548">GeForce GTX 750 Ti</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm107.g762">GM107</a>
+
+			</td>
+	<td>Feb 18th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1020 MHz</td>
+	<td>1350 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-750-ti-oem.c2462">GeForce GTX 750 Ti OEM</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk106.g186">GK106</a>
+
+			</td>
+	<td>Unknown</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>1033 MHz</td>
+	<td>1502 MHz</td>
+	<td>960 / 80 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-760a.c2565">GeForce GTX 760A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk106.g186">GK106</a>
+
+			</td>
+	<td>Mar 17th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>1024 MB, GDDR5, 128 bit</td>
+	<td>628 MHz</td>
+	<td>1002 MHz</td>
+	<td>768 / 64 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-850a.c2568">GeForce GTX 850A</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm107.g762">GM107</a>
+
+			</td>
+	<td>Mar 17th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, DDR3, 128 bit</td>
+	<td>902 MHz</td>
+	<td>900 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-850m.c2538">GeForce GTX 850M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm107.g762">GM107</a>
+
+			</td>
+	<td>Mar 12th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, DDR3, 128 bit</td>
+	<td>902 MHz</td>
+	<td>1001 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-860m.c2537">GeForce GTX 860M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Mar 10th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>797 MHz</td>
+	<td>1250 MHz</td>
+	<td>1152 / 96 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-860m.c2536">GeForce GTX 860M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm107.g762">GM107</a>
+
+			</td>
+	<td>Jan 13th, 2014</td>
+	<td>MXM-B (3.0)</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1020 MHz</td>
+	<td>1253 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-870m.c2535">GeForce GTX 870M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Mar 12th, 2014</td>
+	<td>MXM-B (3.0)</td>
+	<td>3 GB, GDDR5, 192 bit</td>
+	<td>941 MHz</td>
+	<td>1250 MHz</td>
+	<td>1344 / 112 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-880m.c2534">GeForce GTX 880M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Mar 12th, 2014</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>954 MHz</td>
+	<td>1250 MHz</td>
+	<td>1536 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-970.c2620">GeForce GTX 970</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm204.g767">GM204</a>
+
+			</td>
+	<td>Sep 19th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>1050 MHz</td>
+	<td>1753 MHz</td>
+	<td>1664 / 104 / 56</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-970m.c2623">GeForce GTX 970M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm204.g767">GM204</a>
+
+			</td>
+	<td>Oct 7th, 2014</td>
+	<td>MXM-B (3.0)</td>
+	<td>3 GB, GDDR5, 192 bit</td>
+	<td>924 MHz</td>
+	<td>1253 MHz</td>
+	<td>1280 / 80 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-970m.c2881">GeForce GTX 970M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm204.g767">GM204</a>
+
+			</td>
+	<td>Oct 7th, 2014</td>
+	<td>MXM-B (3.0)</td>
+	<td>6 GB, GDDR5, 192 bit</td>
+	<td>924 MHz</td>
+	<td>1253 MHz</td>
+	<td>1280 / 80 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-980.c2621">GeForce GTX 980</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm204.g767">GM204</a>
+
+			</td>
+	<td>Sep 19th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>1127 MHz</td>
+	<td>1753 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-980m.c2622">GeForce GTX 980M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm204.g767">GM204</a>
+
+			</td>
+	<td>Oct 7th, 2014</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1038 MHz</td>
+	<td>1253 MHz</td>
+	<td>1536 / 96 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-980m.c2746">GeForce GTX 980M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm204.g767">GM204</a>
+
+			</td>
+	<td>Oct 7th, 2014</td>
+	<td>MXM-B (3.0)</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>1038 MHz</td>
+	<td>1253 MHz</td>
+	<td>1536 / 96 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-titan-black.c2549">GeForce GTX TITAN BLACK</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk110b.g760">GK110B</a>
+
+			</td>
+	<td>Feb 18th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>889 MHz</td>
+	<td>1750 MHz</td>
+	<td>2880 / 240 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-gtx-titan-z.c2575">GeForce GTX TITAN Z</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk110b.g760">GK110B</a>
+
+			</td>
+	<td>May 28th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>6 GB, GDDR5, 384 bit</td>
+	<td>705 MHz</td>
+	<td>1750 MHz</td>
+	<td>2880 / 240 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/jetson-tk1.c3229">Jetson TK1</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk20a.g855">GK20A</a>
+
+			</td>
+	<td>Oct 15th, 2014</td>
+	<td>PCIe 1.0 x1</td>
+	<td>2 GB, DDR3L, 64 bit</td>
+	<td>756 MHz</td>
+	<td>467 MHz</td>
+	<td>192 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-k100m.c2618">Quadro K100M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk107.g109">GK107</a>
+
+			</td>
+	<td>Aug 22nd, 2014</td>
+	<td>MXM-A (3.0)</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>851 MHz</td>
+	<td>900 MHz</td>
+	<td>192 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-k200m.c2617">Quadro K200M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk107.g109">GK107</a>
+
+			</td>
+	<td>Aug 22nd, 2014</td>
+	<td>MXM-A (3.0)</td>
+	<td>2 GB, DDR3, 64 bit</td>
+	<td>745 MHz</td>
+	<td>900 MHz</td>
+	<td>192 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-k2200.c2601">Quadro K2200</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm107.g762">GM107</a>
+
+			</td>
+	<td>Jul 22nd, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>4 GB, GDDR5, 128 bit</td>
+	<td>1046 MHz</td>
+	<td>1253 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-k2200m.c2598">Quadro K2200M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm107.g762">GM107</a>
+
+			</td>
+	<td>Jul 19th, 2014</td>
+	<td>MXM-A (3.0)</td>
+	<td>2 GB, GDDR5, 128 bit</td>
+	<td>1150 MHz</td>
+	<td>1253 MHz</td>
+	<td>640 / 40 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-k420.c2599">Quadro K420</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk107.g109">GK107</a>
+
+			</td>
+	<td>Jul 22nd, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>1024 MB, DDR3, 128 bit</td>
+	<td>876 MHz</td>
+	<td>891 MHz</td>
+	<td>192 / 16 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-k4200.c2602">Quadro K4200</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Jul 22nd, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>4 GB, GDDR5, 256 bit</td>
+	<td>771 MHz</td>
+	<td>1350 MHz</td>
+	<td>1344 / 112 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-k5200.c2603">Quadro K5200</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk110b.g760">GK110B</a>
+
+			</td>
+	<td>Jul 22nd, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>667 MHz</td>
+	<td>1502 MHz</td>
+	<td>2304 / 192 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/quadro-k620.c2600">Quadro K620</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gm107.g762">GM107</a>
+
+			</td>
+	<td>Jul 22nd, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>2 GB, DDR3, 128 bit</td>
+	<td>1058 MHz</td>
+	<td>900 MHz</td>
+	<td>384 / 24 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-k8.c2619">Tesla K8</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk104.g108">GK104</a>
+
+			</td>
+	<td>Sep 16th, 2014</td>
+	<td>PCIe 2.0 x16</td>
+	<td>8 GB, GDDR5, 256 bit</td>
+	<td>693 MHz</td>
+	<td>1250 MHz</td>
+	<td>1536 / 128 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/tesla-k80.c2616">Tesla K80</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gk210.g773">GK210</a>
+
+			</td>
+	<td>Nov 17th, 2014</td>
+	<td>PCIe 3.0 x16</td>
+	<td>12 GB, GDDR5, 384 bit</td>
+	<td>562 MHz</td>
+	<td>1253 MHz</td>
+	<td>2496 / 208 / 48</td>
+</tr>
+		
+			</table>
+</div>

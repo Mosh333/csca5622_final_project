@@ -1,0 +1,159 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-5300-mobile.c2624">HD Graphics 5300 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwell-gt2.g769">Broadwell GT2</a>
+
+			</td>
+	<td>Sep 5th, 2014</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-5500-mobile.c2625">HD Graphics 5500 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwell-gt2.g769">Broadwell GT2</a>
+
+			</td>
+	<td>Sep 5th, 2014</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-5600-mobile.c3139">HD Graphics 5600 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwell-gt2.g769">Broadwell GT2</a>
+
+			</td>
+	<td>Sep 5th, 2014</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-6000-mobile.c2626">HD Graphics 6000 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwell-gt3.g770">Broadwell GT3</a>
+
+			</td>
+	<td>Sep 5th, 2014</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-p5700.c2791">HD Graphics P5700</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwell-gt2.g769">Broadwell GT2</a>
+
+			</td>
+	<td>Sep 5th, 2014</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>700 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-graphics-6100-mobile.c2627">Iris Graphics 6100 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwell-gt3.g770">Broadwell GT3</a>
+
+			</td>
+	<td>Sep 5th, 2014</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-pro-graphics-6200.c2790">Iris Pro Graphics 6200</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwell-gt3e.g771">Broadwell GT3e</a>
+
+			</td>
+	<td>Sep 5th, 2014</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-pro-graphics-6200-mobile.c2628">Iris Pro Graphics 6200 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwell-gt3e.g771">Broadwell GT3e</a>
+
+			</td>
+	<td>Sep 5th, 2014</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-pro-graphics-p6300.c2792">Iris Pro Graphics P6300</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwell-gt3e.g771">Broadwell GT3e</a>
+
+			</td>
+	<td>Sep 5th, 2014</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 48 / 6</td>
+</tr>
+		
+			</table>
+</div>

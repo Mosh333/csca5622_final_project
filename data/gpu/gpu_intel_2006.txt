@@ -1,0 +1,130 @@
+
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3000.c3120">GMA 3000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-lakeport.g827">Lakeport</a>
+
+			</td>
+	<td>Jul 1st, 2006</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 0 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3000.c3119">GMA 3000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwater.g207">Broadwater</a>
+
+			</td>
+	<td>Jun 1st, 2006</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 0 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3000.c3154">GMA 3000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwater.g207">Broadwater</a>
+
+			</td>
+	<td>Jun 1st, 2006</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>667 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 0 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-3000.c3377">GMA 3000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwater.g207">Broadwater</a>
+
+			</td>
+	<td>Jun 1st, 2006</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>667 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 0 / 4 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-950.c3122">GMA 950</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-calistoga.g828">Calistoga</a>
+
+			</td>
+	<td>2006</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>250 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 1 / 4 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-x3000.c3123">GMA X3000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwater.g207">Broadwater</a>
+
+			</td>
+	<td>Jun 1st, 2006</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>500 MHz</td>
+	<td>System Shared</td>
+	<td>8 / 1 / 8 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-x3000.c3376">GMA X3000</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-broadwater.g207">Broadwater</a>
+
+			</td>
+	<td>Jun 1st, 2006</td>
+	<td>FSB</td>
+	<td>System Shared</td>
+	<td>667 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 0 / 4 / 4</td>
+</tr>
+		
+			</table>
+</div>

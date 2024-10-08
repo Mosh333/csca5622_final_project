@@ -1,0 +1,100 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/aubrey-isle.c1549">Aubrey Isle</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-knights-ferry.g238">Knights Ferry</a>
+
+			</td>
+	<td>May 31st, 2010</td>
+	<td>PCIe 2.0 x16</td>
+	<td>2 GB, GDDR5, 256 bit</td>
+	<td>1200 MHz</td>
+	<td>1200 MHz</td>
+	<td>512 / 32 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma.c3378">GMA</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-cloverview.g904">Cloverview</a>
+
+			</td>
+	<td>May 4th, 2010</td>
+	<td>PCIe 1.0 x16</td>
+	<td>System Shared</td>
+	<td>533 MHz</td>
+	<td>System Shared</td>
+	<td>4 / 2 / 2 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/gma-600.c1225">GMA 600</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-lincroft.g204">Lincroft</a>
+
+			</td>
+	<td>May 4th, 2010</td>
+	<td>PCIe 1.0 x16</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>32 / 4 / 1</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-12eu.c2028">HD Graphics 12EU</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ironlake.g210">Ironlake</a>
+
+			</td>
+	<td>Jan 10th, 2010</td>
+	<td>QPI</td>
+	<td>System Shared</td>
+	<td>533 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/hd-graphics-16eu-mobile.c1241">HD Graphics 16EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ironlake.g210">Ironlake</a>
+
+			</td>
+	<td>Jan 10th, 2010</td>
+	<td>QPI</td>
+	<td>System Shared</td>
+	<td>133 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 16 / 2</td>
+</tr>
+		
+			</table>
+</div>

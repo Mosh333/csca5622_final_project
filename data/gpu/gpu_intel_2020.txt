@@ -1,0 +1,283 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/h3c-xg310.c3745">H3C XG310</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg1.g986">DG1</a>
+
+			</td>
+	<td>Nov 11th, 2020</td>
+	<td>PCIe 3.0 x16</td>
+	<td>8 GB, LPDDR4X, 128 bit</td>
+	<td>1050 MHz</td>
+	<td>2133 MHz</td>
+	<td>768 / 48 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-plus-graphics-g7-64eu-mobile.c3444">Iris Plus Graphics G7 64EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-ice-lake-gt2.g894">Ice Lake GT2</a>
+
+			</td>
+	<td>May 4th, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-xe-graphics-g4-48eu-mobile.c3679">Iris Xe Graphics G4 48EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-tiger-lake-gt2.g906">Tiger Lake GT2</a>
+
+			</td>
+	<td>Sep 2nd, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 12</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-xe-graphics-g7-80eu-mobile.c3678">Iris Xe Graphics G7 80EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-tiger-lake-gt2.g906">Tiger Lake GT2</a>
+
+			</td>
+	<td>Sep 2nd, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>640 / 40 / 20</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-xe-graphics-g7-96eu-mobile.c3677">Iris Xe Graphics G7 96EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-tiger-lake-gt2.g906">Tiger Lake GT2</a>
+
+			</td>
+	<td>Sep 2nd, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>768 / 48 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-xe-max-graphics.c3737">Iris Xe MAX Graphics</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg1.g986">DG1</a>
+
+			</td>
+	<td>Oct 31st, 2020</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, LPDDR4X, 128 bit</td>
+	<td>300 MHz</td>
+	<td>2133 MHz</td>
+	<td>768 / 48 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-16eu-mobile.c4090">UHD Graphics 16EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-elkhart-lake-gt1.g910">Elkhart Lake GT1</a>
+
+			</td>
+	<td>Sep 23rd, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>250 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-32eu-mobile.c4114">UHD Graphics 32EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-elkhart-lake-gt1.g910">Elkhart Lake GT1</a>
+
+			</td>
+	<td>Sep 23rd, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-610.c3602">UHD Graphics 610</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-comet-lake-gt1.g950">Comet Lake GT1</a>
+
+			</td>
+	<td>Apr 30th, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>96 / 12 / 2</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-630.c3601">UHD Graphics 630</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-comet-lake-gt2.g925">Comet Lake GT2</a>
+
+			</td>
+	<td>Apr 30th, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>184 / 23 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-630.c3600">UHD Graphics 630</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-comet-lake-gt2.g925">Comet Lake GT2</a>
+
+			</td>
+	<td>Apr 30th, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-g4-48eu-mobile.c3692">UHD Graphics G4 48EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-lakefield-gt1.g897">Lakefield GT1</a>
+
+			</td>
+	<td>May 28th, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-g7-64eu-mobile.c3691">UHD Graphics G7 64EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-lakefield-gt2.g895">Lakefield GT2</a>
+
+			</td>
+	<td>May 28th, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>200 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-p630.c3676">UHD Graphics P630</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-comet-lake-gt2.g925">Comet Lake GT2</a>
+
+			</td>
+	<td>May 13th, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-p630-mobile.c3730">UHD Graphics P630 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-comet-lake-gt2.g925">Comet Lake GT2</a>
+
+			</td>
+	<td>May 13th, 2020</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>350 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 24 / 3</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/xe-dg1.c3718">Xe DG1</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg1.g986">DG1</a>
+
+			</td>
+	<td>2020</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, LPDDR4X, 128 bit</td>
+	<td>900 MHz</td>
+	<td>2133 MHz</td>
+	<td>640 / 40 / 20</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/xe-dg1-sdv.c3483">Xe DG1-SDV</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg1.g986">DG1</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, LPDDR4X, 128 bit</td>
+	<td>900 MHz</td>
+	<td>2133 MHz</td>
+	<td>768 / 48 / 24</td>
+</tr>
+		
+			</table>
+</div>
