@@ -1,0 +1,486 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/playstation-5-pro-gpu.c4232">Playstation 5 Pro GPU</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-oberon-plus.g1019">Oberon Plus</a>
+
+			</td>
+	<td>Nov 7th, 2024</td>
+	<td>IGP</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>2800 MHz</td>
+	<td>1750 MHz</td>
+	<td>3840 / 240 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-880m.c4225">Radeon 880M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-strix-point.g1079">Strix Point</a>
+
+			</td>
+	<td>Jul 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-890m.c4224">Radeon 890M</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-strix-point.g1079">Strix Point</a>
+
+			</td>
+	<td>Jul 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>System Shared</td>
+	<td>400 MHz</td>
+	<td>System Shared</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-instinct-mi325x.c4231">Radeon Instinct MI325X</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-aqua-vanjaram.g1023">Aqua Vanjaram</a>
+
+			</td>
+	<td>Oct 2024</td>
+	<td>PCIe 5.0 x16</td>
+	<td>288 GB, HBM3e, 8192 bit</td>
+	<td>1000 MHz</td>
+	<td>2525 MHz</td>
+	<td>19456 / 1216 / 0</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7600-xt.c4190">Radeon RX 7600 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-33.g1001">Navi 33</a>
+
+			</td>
+	<td>Jan 8th, 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>16 GB, GDDR6, 128 bit</td>
+	<td>1980 MHz</td>
+	<td>2250 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-7700.c4159">Radeon RX 7700</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-32.g1000">Navi 32</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>1900 MHz</td>
+	<td>2250 MHz</td>
+	<td>3072 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-AMD">
+		<a href="/gpu-specs/radeon-rx-8800-xt.c4229">Radeon RX 8800 XT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/amd-navi-48.g1071">Navi 48</a>
+
+			</td>
+	<td>Unknown</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1295 MHz</td>
+	<td>2438 MHz</td>
+	<td>3584 / 224 / 96</td>
+</tr>
+		
+			</table>
+</div>
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/data-center-gpu-max-next.c4069">Data Center GPU Max NEXT</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-rialto-bridge.g1047">Rialto Bridge</a>
+
+			</td>
+	<td>Unknown</td>
+	<td>PCIe 5.0 x16</td>
+	<td>128 GB, HBM2e, 8192 bit</td>
+	<td>900 MHz</td>
+	<td>1565 MHz</td>
+	<td>20480 / 1280 / 0</td>
+</tr>
+		
+			</table>
+</div>
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="NVIDIA">NVIDIA</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/b200-sxm-192-gb.c4210">B200 SXM 192 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-gb100.g1069">GB100</a>
+
+			</td>
+	<td>2024</td>
+	<td>PCIe 5.0 x16</td>
+	<td>96 GB, HBM3e, 4096 bit</td>
+	<td>1665 MHz</td>
+	<td>2000 MHz</td>
+	<td>16896 / 528 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3050-6-gb.c4188">GeForce RTX 3050 6 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>Feb 2nd, 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>6 GB, GDDR6, 96 bit</td>
+	<td>1042 MHz</td>
+	<td>1750 MHz</td>
+	<td>2304 / 72 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-3050-a-mobile.c4227">GeForce RTX 3050 A Mobile</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga106.g966">GA106</a>
+
+			</td>
+	<td>2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 128 bit</td>
+	<td>1065 MHz</td>
+	<td>1500 MHz</td>
+	<td>1792 / 56 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-4060-ad106.c3891">GeForce RTX 4060 AD106</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad106.g1014">AD106</a>
+
+			</td>
+	<td>Apr 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>1830 MHz</td>
+	<td>2125 MHz</td>
+	<td>3072 / 96 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-4060-ti-ad104.c4204">GeForce RTX 4060 Ti AD104</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad104.g1013">AD104</a>
+
+			</td>
+	<td>Apr 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>2310 MHz</td>
+	<td>2250 MHz</td>
+	<td>4352 / 136 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-4070-10-gb.c4226">GeForce RTX 4070 10 GB</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad104.g1013">AD104</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 4.0 x16</td>
+	<td>10 GB, GDDR6X, 160 bit</td>
+	<td>2355 MHz</td>
+	<td>1313 MHz</td>
+	<td>7168 / 224 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-4070-ad103.c4205">GeForce RTX 4070 AD103</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad103.g1012">AD103</a>
+
+			</td>
+	<td>Mar 2024</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6X, 192 bit</td>
+	<td>1920 MHz</td>
+	<td>1313 MHz</td>
+	<td>5888 / 184 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-4070-gddr6.c4228">GeForce RTX 4070 GDDR6</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad104.g1013">AD104</a>
+
+			</td>
+	<td>Aug 20th, 2024</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>1920 MHz</td>
+	<td>2500 MHz</td>
+	<td>5888 / 184 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-4070-super.c4186">GeForce RTX 4070 SUPER</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad104.g1013">AD104</a>
+
+			</td>
+	<td>Jan 8th, 2024</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6X, 192 bit</td>
+	<td>1980 MHz</td>
+	<td>1313 MHz</td>
+	<td>7168 / 224 / 80</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-4070-ti-super.c4187">GeForce RTX 4070 Ti SUPER</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad103.g1012">AD103</a>
+
+			</td>
+	<td>Jan 8th, 2024</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6X, 256 bit</td>
+	<td>2340 MHz</td>
+	<td>1313 MHz</td>
+	<td>8448 / 264 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-4070-ti-super-ad102.c4215">GeForce RTX 4070 Ti SUPER AD102</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad102.g1005">AD102</a>
+
+			</td>
+	<td>Jun 10th, 2024</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6X, 256 bit</td>
+	<td>2340 MHz</td>
+	<td>1313 MHz</td>
+	<td>8448 / 264 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/geforce-rtx-4080-super.c4182">GeForce RTX 4080 SUPER</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad103.g1012">AD103</a>
+
+			</td>
+	<td>Jan 8th, 2024</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6X, 256 bit</td>
+	<td>2295 MHz</td>
+	<td>1438 MHz</td>
+	<td>10240 / 320 / 112</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-1000-mobile-ada-generation.c4208">RTX 1000 Mobile Ada Generation</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad107.g1015">AD107</a>
+
+			</td>
+	<td>Feb 26th, 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>6 GB, GDDR6, 96 bit</td>
+	<td>1485 MHz</td>
+	<td>2000 MHz</td>
+	<td>2560 / 80 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-2000-ada-generation.c4199">RTX 2000 Ada Generation</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad107.g1015">AD107</a>
+
+			</td>
+	<td>Feb 12th, 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>16 GB, GDDR6, 128 bit</td>
+	<td>1620 MHz</td>
+	<td>2000 MHz</td>
+	<td>2816 / 88 / 48</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-500-mobile-ada-generation.c4207">RTX 500 Mobile Ada Generation</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad107.g1015">AD107</a>
+
+			</td>
+	<td>Feb 26th, 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>1485 MHz</td>
+	<td>2000 MHz</td>
+	<td>2048 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-5880-ada-generation.c4191">RTX 5880 Ada Generation</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ad102.g1005">AD102</a>
+
+			</td>
+	<td>Jan 5th, 2024</td>
+	<td>PCIe 4.0 x16</td>
+	<td>48 GB, GDDR6, 384 bit</td>
+	<td>975 MHz</td>
+	<td>2250 MHz</td>
+	<td>14080 / 440 / 176</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a1000.c4211">RTX A1000</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>Apr 16th, 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>727 MHz</td>
+	<td>1500 MHz</td>
+	<td>2304 / 72 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-NVIDIA">
+		<a href="/gpu-specs/rtx-a400.c4212">RTX A400</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/nvidia-ga107.g988">GA107</a>
+
+			</td>
+	<td>Apr 16th, 2024</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>727 MHz</td>
+	<td>1500 MHz</td>
+	<td>768 / 24 / 16</td>
+</tr>
+		
+			</table>
+</div>

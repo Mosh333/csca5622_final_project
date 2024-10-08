@@ -1,0 +1,446 @@
+<div id="list" class="table-wrapper">
+	
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="8" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Product Name</th>
+		<th>GPU Chip</th>
+		<th>Released</th>
+		<th>Bus</th>
+		<th>Memory</th>
+		<th>GPU clock</th>
+		<th>Memory clock</th>
+		<th>Shaders / TMUs / ROPs</th>
+	</tr>
+</thead>
+
+										<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a310.c3930">Arc A310</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-128.g918">DG2-128</a>
+
+			</td>
+	<td>Oct 12th, 2022</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>1750 MHz</td>
+	<td>1937 MHz</td>
+	<td>768 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a350.c3931">Arc A350</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-128.g918">DG2-128</a>
+
+			</td>
+	<td>2022</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>2000 MHz</td>
+	<td>1937 MHz</td>
+	<td>768 / 48 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a350m.c3905">Arc A350M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-128.g918">DG2-128</a>
+
+			</td>
+	<td>Mar 30th, 2022</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>1150 MHz</td>
+	<td>1750 MHz</td>
+	<td>768 / 48 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a370m.c3906">Arc A370M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-128.g918">DG2-128</a>
+
+			</td>
+	<td>Mar 30th, 2022</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>1550 MHz</td>
+	<td>1750 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a380.c3913">Arc A380</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-128.g918">DG2-128</a>
+
+			</td>
+	<td>Jun 14th, 2022</td>
+	<td>PCIe 4.0 x8</td>
+	<td>6 GB, GDDR6, 96 bit</td>
+	<td>2000 MHz</td>
+	<td>1937 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a550m.c3907">Arc A550M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-512.g1006">DG2-512</a>
+
+			</td>
+	<td>2022</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 128 bit</td>
+	<td>900 MHz</td>
+	<td>1750 MHz</td>
+	<td>2048 / 128 / 64</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a730m.c3908">Arc A730M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-512.g1006">DG2-512</a>
+
+			</td>
+	<td>2022</td>
+	<td>PCIe 4.0 x16</td>
+	<td>12 GB, GDDR6, 192 bit</td>
+	<td>1100 MHz</td>
+	<td>1750 MHz</td>
+	<td>3072 / 192 / 96</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a750.c3929">Arc A750</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-512.g1006">DG2-512</a>
+
+			</td>
+	<td>Oct 12th, 2022</td>
+	<td>PCIe 4.0 x16</td>
+	<td>8 GB, GDDR6, 256 bit</td>
+	<td>2050 MHz</td>
+	<td>2000 MHz</td>
+	<td>3584 / 224 / 112</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a770.c3914">Arc A770</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-512.g1006">DG2-512</a>
+
+			</td>
+	<td>Oct 12th, 2022</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>2100 MHz</td>
+	<td>2000 MHz</td>
+	<td>4096 / 256 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a770m.c3909">Arc A770M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-512.g1006">DG2-512</a>
+
+			</td>
+	<td>2022</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1650 MHz</td>
+	<td>2000 MHz</td>
+	<td>4096 / 256 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-a780.c3910">Arc A780</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-512.g1006">DG2-512</a>
+
+			</td>
+	<td>Never Released</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6X, 256 bit</td>
+	<td>2200 MHz</td>
+	<td>1093 MHz</td>
+	<td>4096 / 256 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-pro-a30m.c3927">Arc Pro A30M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-128.g918">DG2-128</a>
+
+			</td>
+	<td>Aug 8th, 2022</td>
+	<td>PCIe 4.0 x8</td>
+	<td>4 GB, GDDR6, 64 bit</td>
+	<td>1500 MHz</td>
+	<td>2000 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-pro-a40.c3925">Arc Pro A40</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-128.g918">DG2-128</a>
+
+			</td>
+	<td>Aug 8th, 2022</td>
+	<td>PCIe 4.0 x8</td>
+	<td>6 GB, GDDR6, 96 bit</td>
+	<td>1500 MHz</td>
+	<td>2000 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arc-pro-a50.c3926">Arc Pro A50</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-128.g918">DG2-128</a>
+
+			</td>
+	<td>Aug 8th, 2022</td>
+	<td>PCIe 4.0 x8</td>
+	<td>6 GB, GDDR6, 96 bit</td>
+	<td>2000 MHz</td>
+	<td>2000 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/arctic-sound-m.c3885">Arctic Sound-M</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-arctic-sound.g987">Arctic Sound</a>
+
+			</td>
+	<td>2022</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, HBM2e, 4096 bit</td>
+	<td>900 MHz</td>
+	<td>1200 MHz</td>
+	<td>8192 / 256 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/data-center-gpu-flex-140.c4072">Data Center GPU Flex 140</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-128.g918">DG2-128</a>
+
+			</td>
+	<td>Aug 24th, 2022</td>
+	<td>PCIe 4.0 x8</td>
+	<td>6 GB, GDDR6, 96 bit</td>
+	<td>1600 MHz</td>
+	<td>1937 MHz</td>
+	<td>1024 / 64 / 32</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/data-center-gpu-flex-170.c4071">Data Center GPU Flex 170</a>
+
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-dg2-512.g1006">DG2-512</a>
+
+			</td>
+	<td>Aug 24th, 2022</td>
+	<td>PCIe 4.0 x16</td>
+	<td>16 GB, GDDR6, 256 bit</td>
+	<td>1950 MHz</td>
+	<td>2000 MHz</td>
+	<td>4096 / 256 / 128</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-xe-graphics-80eu-mobile.c3882">Iris Xe Graphics 80EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alder-lake-gt1.g1003">Alder Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2022</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>640 / 40 / 20</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/iris-xe-graphics-96eu-mobile.c3881">Iris Xe Graphics 96EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alder-lake-gt1.g1003">Alder Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2022</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>768 / 48 / 24</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-16eu-mobile.c4115">UHD Graphics 16EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alder-lake-gt1.g1003">Alder Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2022</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 4</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-24eu-mobile.c4146">UHD Graphics 24EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alder-lake-gt1.g1003">Alder Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2022</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 6</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-48eu-mobile.c3883">UHD Graphics 48EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alder-lake-gt1.g1003">Alder Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2022</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>384 / 24 / 12</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-64eu-mobile.c3884">UHD Graphics 64EU Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alder-lake-gt1.g1003">Alder Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2022</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>512 / 32 / 16</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-710.c3876">UHD Graphics 710</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alder-lake-gt1.g1003">Alder Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2022</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>128 / 8 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-730.c3877">UHD Graphics 730</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alder-lake-gt1.g1003">Alder Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2022</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>192 / 12 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-770.c3940">UHD Graphics 770</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-raptor-lake-gt1.g1020">Raptor Lake GT1</a>
+
+			</td>
+	<td>Sep 27th, 2022</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+								<tr>
+	<td class="vendor-Intel">
+		<a href="/gpu-specs/uhd-graphics-770-mobile.c4079">UHD Graphics 770 Mobile</a>
+			</td>
+	<td>
+		<a href="/gpu-specs/intel-alder-lake-gt1.g1003">Alder Lake GT1</a>
+
+			</td>
+	<td>Jan 4th, 2022</td>
+	<td>Ring Bus</td>
+	<td>System Shared</td>
+	<td>300 MHz</td>
+	<td>System Shared</td>
+	<td>256 / 16 / 8</td>
+</tr>
+		
+			</table>
+</div>
