@@ -43,7 +43,9 @@ def download_html(url_suffix, save_path):
         return False  # Skip and continue
 
 # Loop through years 2004 to 2024
-for year in range(2004, 2025):
+begin = 2023
+end = 2025
+for year in range(begin, end):
     # Fetch GPU and CPU list variables dynamically
     gpu_list = globals().get(f'gpu_{year}', [])
     cpu_list = globals().get(f'cpu_{year}', [])
@@ -59,3 +61,4 @@ for year in range(2004, 2025):
         cpu_file = cpu_base_dir / f'{cpu_suffix.split("/")[-1]}.html'
         if download_html(cpu_suffix, cpu_file):  # Only wait after fresh download
             time.sleep(2)  # Wait 2 seconds between requests
+print('Script done!')
