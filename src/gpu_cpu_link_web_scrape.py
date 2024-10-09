@@ -2929,3 +2929,28 @@ gpu_2004 = [
     "/gpu-specs/quadro-nvs-280-pcie.c1456",
     "/gpu-specs/quadro4-400-nvs-pci.c1459"
 ]
+
+
+# Below are the CPU list:
+
+cpu_2024 = 
+# cpu_2023 = 
+# cpu_2022 = 
+# cpu_2021 = 
+# cpu_2020 = 
+# cpu_2019 = 
+# cpu_2018 = 
+# cpu_2017 = 
+# cpu_2016 = 
+# cpu_2015 = 
+# cpu_2014 = 
+# cpu_2013 = 
+# cpu_2012 = 
+# cpu_2011 = 
+# cpu_2010 = 
+# cpu_2009 = 
+# cpu_2008 = 
+# cpu_2007 = 
+# cpu_2006 = 
+# cpu_2005 = 
+# cpu_2004 = 
