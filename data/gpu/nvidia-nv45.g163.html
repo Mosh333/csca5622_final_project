@@ -1,0 +1,1201 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>NVIDIA NV45 GPU Specs | TechPowerUp GPU Database</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="preconnect" href="https://tpucdn.com" />
+		<meta name="application-name" content="TechPowerUp">
+		
+		<link rel="preload stylesheet" href="https://tpucdn.com/css/style-v1723816949774.css" as="style" crossorigin>
+		<link rel="preload" href="https://tpucdn.com/css/fonts/tpu-body-regular-v1723816949774.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="https://tpucdn.com/css/fonts/tpu-body-bold-v1723816949774.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="https://tpucdn.com/css/fonts/opensans-condbold-v1723816949774.woff2" as="font" type="font/woff2" crossorigin>
+
+		<meta name="robots" content="max-image-preview:large">
+
+		<meta property="article:publisher" content="https://www.facebook.com/TechPowerUp" />
+		<meta property="og:site_name" content="TechPowerUp">
+		<meta property="og:title" content="NVIDIA NV45 GPU Specs">
+		<meta property="og:type" content="article">
+		<meta property="og:description" content="16 Pixel Shaders, 6 Vertex Shaders, 16 TMUs, 16 ROPs">
+		<meta property="og:url" content="https://www.techpowerup.com/gpu-specs/nvidia-nv45.g163">				<meta property="og:image" content="https://www.techpowerup.com/gpu-specs/images/g/163-default.small.jpg">
+				
+		
+		
+				
+		
+		<link rel="shortcut icon" href="https://tpucdn.com/favicon-v1723816949774.ico">
+		<link rel="apple-touch-icon" href="https://tpucdn.com/apple-touch-icon-v1723816949774.png">
+
+		<link rel="stylesheet" href="https://tpucdn.com/css/style-v1723816949774.css">
+														<link rel="stylesheet" href="https://tpucdn.com/css/databases-v1723816949774.css">				
+		<script>
+			loadjs=function(){var n=function(){},e={},t={},r={};function c(n,e){if(n){var c=r[n];if(t[n]=e,c)for(;c.length;)c[0](n,e),c.splice(0,1)}}function i(e,t){e.call&&(e={success:e}),t.length?(e.error||n)(t):(e.success||n)(e)}function o(e,t,r,c){var i,s,u=document,f=r.async,a=(r.numRetries||0)+1,h=r.before||n;c=c||0,/(^css!|\.css$)/.test(e)?(i=!0,(s=u.createElement("link")).rel="stylesheet",s.href=e.replace(/^css!/,"")):((s=u.createElement("script")).src=e,s.async=void 0===f||f),s.onload=s.onerror=s.onbeforeload=function(n){var u=n.type[0];if(i&&"hideFocus"in s)try{s.sheet.cssText.length||(u="e")}catch(n){u="e"}if("e"==u&&(c+=1)<a)return o(e,t,r,c);t(e,u,n.defaultPrevented)},!1!==h(e,s)&&u.head.appendChild(s)}function s(n,t,r){var s,u;if(t&&t.trim&&(s=t),u=(s?r:t)||{},s){if(s in e)throw"LoadJS";e[s]=!0}!function(n,e,t){var r,c,i=(n=n.push?n:[n]).length,s=i,u=[];for(r=function(n,t,r){if("e"==t&&u.push(n),"b"==t){if(!r)return;u.push(n)}--i||e(u)},c=0;c<s;c++)o(n[c],r,t)}(n,function(n){i(u,n),c(s,n)},u)}return s.ready=function(n,e){return function(n,e){var c,i,o,s=[],u=(n=n.push?n:[n]).length,f=u;for(c=function(n,t){t.length&&s.push(n),--f||e(s)};u--;)i=n[u],(o=t[i])?c(i,o):(r[i]=r[i]||[]).push(c)}(n,function(n){i(e,n)}),s},s.done=function(n){c(n,[])},s.reset=function(){e={},t={},r={}},s.isDefined=function(n){return n in e},s}();
+		</script>
+
+		<!--[if lt IE 9]><script src="https://tpucdn.com/js/html5shiv.min-v1723816949774.js"></script><![endif]-->
+		<!--[if lt IE 9]><script>window.onerror = function(){ return true; }</script><![endif]-->
+
+		<script>
+						loadjs(["https://tpucdn.com/js/jquery-3.6.0.min-v1723816949774.js", "https://tpucdn.com/js/tpu-v1723816949774.js"], { async: false, success: function() { $(function() { loadjs.done('jquery'); }); }});
+
+			loadjs.ready(['jquery'], function() {
+				
+				loadjs(["https://tpucdn.com/js/popup/popup.min-v1723816949774.css", "https://tpucdn.com/js/popup/popup.min-v1723816949774.js"], 'popup');
+
+																				loadjs(["https://tpucdn.com/js/masonry/masonry.pkgd.min-v1723816949774.js"], 'masonry');												loadjs(["https://tpucdn.com/js/swiper/swiper.min-v1723816949774.css", "https://tpucdn.com/js/swiper/swiper.min-v1723816949774.js"], 'swiper');								loadjs(["https://tpucdn.com/js/fancybox/jquery.fancybox-v1723816949774.css", "https://tpucdn.com/js/fancybox/jquery.fancybox-v1723816949774.js"], 'fancybox');															});
+
+																				</script>
+
+		
+		
+		<link rel="alternate" type="application/rss+xml" title="TechPowerUp Frontpage News" href="/rss/news">
+		<link rel="alternate" type="application/rss+xml" title="TechPowerup Reviews" href="/rss/reviews">
+
+				<script>
+			window._paq = [
+    			['setSiteId', '1'],
+    			['setTrackerUrl', 'https://www.techpowerup.com/js/mt'],
+				['enableLinkTracking'],
+    			['setRequestMethod', 'POST'],
+    			['enableHeartBeatTimer'],
+								['setCustomVariable', 1, 'PageGen', '27.5', scope = 'page'],
+    			['trackPageView'],
+			];
+			(function() {
+				var d=document; g=d.createElement('script'); s=d.getElementsByTagName('script')[0];
+				g.async=true; g.src='https://tpucdn.com/js/mt-v1723816949774.js'; s.parentNode.insertBefore(g,s);
+			})();
+		</script>
+		
+		<noscript><style>.jsonly { display: none !important; }</style></noscript>
+
+		
+	</head>
+
+	<body class="body gpudb-details">
+		
+		
+
+		
+		<div class="v-port">
+			
+			<div>
+<div class="oiltrgr"><img  src="/reviyuu/b784/_cd0d99b4.png" /></div>
+<a target="_blank" class="gbreb" rel="nofollow" href="/reviyuu/b784/2835er/images/gmchjhj.png"> </a>
+<div class="miukmzun"><a target="_blank" rel="nofollow" href="/reviyuu/b784/2835er/images/gmchjhj.png"> </a></div>
+
+<style>
+body { background-color: #dedfda }
+
+.gbreb {
+    background-image: url("/reviyuu/b784/_cd0d99b4.png");
+    background-position: center top;
+    background-size: 169.333% auto;
+    display: block;
+    font-size: 0;
+    overflow: hidden;
+    padding-bottom: 10%;
+    width: 100%;
+}
+
+.miukmzun { display:none; }
+
+.oiltrgr { display:none; }
+
+@media screen and (min-width: 1500px) {
+	.oiltrgr { 
+	    display: block; 
+	    position: fixed; 
+	    right:50%; 
+	    margin-right:-270px;
+ 	    transform: translateX(1000px);
+	}
+
+	.miukmzun {
+	    display: block;
+	    height: 100%;
+	    left: 50%;
+	    max-width: 1900px;
+	    position: fixed;
+	    top: 0;
+	    transform: translateX(-50%);
+	    width: 100%;
+	    z-index: 1;
+	}
+
+	.miukmzun > a {
+	  position: absolute;
+	  left: 0;
+	  top: 0;
+	  width: 100%;
+	  height: 100%;
+	}
+
+	.gbreb {
+	    background-image: none;
+	}
+}
+</style>
+</div><span class="b6dc79ac9cd1f4f8626b91d445b419f1"></span>			<div class="page-header">
+				<div class="page-header__logo-wrapper">
+					<label for="navigation-check" class="navigation-toggle" onclick="" title="Navigation"></label>
+					<label for="s--check" class="s--toggle" onclick="" title="Sidebar"></label>
+					<script>
+						loadjs.ready(['jquery'], function() {
+							$('.s-').clone().insertBefore('.page').addClass('s---responsive');
+							$('#navigation-check').prop('checked', false).on('click', function() {
+								$('html').toggleClass('navigation-active', $(this).is(':checked'));
+							});
+							$('#s--check').prop('checked', false).on('click', function() {
+								$('html').toggleClass('sidebar-active', $(this).is(':checked'));
+							});
+						});
+					</script>
+					<a class="page-header__logo" href="/" title="TechPowerUp"></a>
+				</div>
+
+				<div btr-cls><div><a href="/reviyuu/b784/2463er/images/gmchjhj.png" target="_blank" rel="nofollow">
+<img src="/reviyuu/b784/_bfe99cc7.png" alt="">
+</a></div><span class="b6dc79ac9cd1f4f8626b91d445b419f1"></span></div>
+			</div>
+			<input type="checkbox" id="s--check"/>
+
+			<input type="checkbox" id="navigation-check"/>
+			<nav id="menu">
+				<label for="navigation-check" id="menu-toggle" onclick="" title="Close"></label>
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/review/">Reviews</a></li>
+					<li><a href="/forums/">Forums</a></li>
+					<li><a href="/download/">Downloads</a></li>
+					<li><a href="/gallery/">Case Mod Gallery</a></li>
+					<li>
+						<label class="menu-toggle-sub" onclick="" for="menu-databases">Databases</label>
+						<input id="menu-databases" class="sub-menu-check" type="checkbox">
+						<ul id="menu-databases-sub" class="sub-menu">
+							<li class="menu-sub-heading">Databases…
+								<label class="menu-back" title="Back" onclick="" for="menu-databases">Back</label>
+							</li>
+							<li><a href="/vgabios/">VGA Bios Collection</a></li>
+							<li><a href="/gpu-specs/">GPU Database</a></li>
+							<li><a href="/cpu-specs/">CPU Database</a></li>
+							<li><a href="/ssd-specs/">SSD Database</a></li>
+							<li><a href="/reviewdb/">Review Database</a></li>
+							<li><a href="/review/future-hardware-releases/">Upcoming Hardware</a></li>
+						</ul>
+					</li>
+					<li>
+						<label class="menu-toggle-sub" onclick="" for="menu-software">Our Software</label>
+						<input id="menu-software" class="sub-menu-check" type="checkbox">
+						<ul id="menu-software-sub" class="sub-menu">
+							<li class="menu-sub-heading">Our Software…
+								<label class="menu-back" title="Back" onclick="" for="menu-software">Back</label>
+							</li>
+							<li><a href="/gpuz/">GPU-Z</a></li>
+							<li><a href="/realtemp/">RealTemp</a></li>
+							<li><a href="/nvcleanstall/">NVCleanstall</a></li>
+							<li><a href="/tpucapture/">TPUCapture</a></li>
+							<li><a href="/memtest64/">MemTest64</a></li>
+						</ul>
+					</li>
+					<li>
+						<label class="menu-toggle-sub" onclick="" for="menu-more">More</label>
+						<input id="menu-more" class="sub-menu-check" type="checkbox">
+						<ul id="menu-more-sub" class="sub-menu">
+							<li class="menu-sub-heading">More…
+								<label class="menu-back" title="Back" onclick="" for="menu-more">Back</label>
+							</li>
+							<li><a href="/articles/">Articles</a></li>
+							<li><a href="/oldstuff/">Old Stuff</a></li>
+							<li><a href="/trivia/">Computer Trivia</a></li>
+							<li><a href="/live/">TPU Live</a></li>
+																				</ul>
+					</li>
+					<li><a href="/contact/">Contact Us</a></li>
+					<li class="social">
+						<a class="facebook" title="Facebook" target="_blank" rel="nofollow noopener" href="https://www.facebook.com/TechPowerUp"></a>
+						<a class="twitter" title="Twitter" target="_blank" rel="nofollow noopener" href="https://twitter.com/TechPowerUp"></a>
+						<a class="patreon" title="Patreon" target="_blank" rel="nofollow noopener" href="https://www.patreon.com/TechPowerUp"></a>
+						<a class="instagram" title="Instagram" target="_blank" rel="nofollow noopener" href="https://www.instagram.com/techpowerupofficial/"></a>
+						<a class="youtube" title="YouTube" target="_blank" rel="nofollow noopener" href="https://www.youtube.com/c/TechPowerUp"></a>
+						<a class="rss" title="RSS" href="/rss/"></a>
+					</li>
+				</ul>
+			</nav>
+
+			<div class="page">
+				
+				<div class="contnt ">
+					
+<script>
+	loadjs.ready(['jquery', 'masonry'], function() {
+		$('td:contains("unknown")').css('color', '#aaa');
+		if ($(window).width()>560)
+			$('.sectioncontainer').masonry({ });
+	});
+
+	function attachLightbox(selector) {
+	function updateButtonPos(instance) {
+		if (instance.current==undefined)
+			return;
+
+		var pos=instance.current.$content.css([ 'transform', 'width', 'height' ]);
+		var xform=pos.transform.match(/(-?[\d\.]+), (-?[\d\.]+)\)$/);
+		if (xform==null)
+			return;
+
+		instance.$refs.inner.find('.fancybox-tpu-nav').css({
+			'left': xform[1]+'px',
+			'top': xform[2]+'px',
+			'width': pos['width'],
+			'height': pos['height']
+		});
+
+		if (instance.$refs.stage.children().length==1) {
+			$('.fancybox-tpu-btn-prev, .fancybox-tpu-btn-next').hide();
+		}
+	}
+
+	loadjs.ready(['jquery', 'fancybox'], function() {
+		var items;
+		if (selector instanceof Function)
+			items=selector();
+		else
+			items=$(selector);
+
+		items.fancybox({
+			selector: false,
+			loop: false,
+			wheel: 'auto',
+			buttons: [],
+			smallBtn: false,
+			i18n: { en: { ERROR: "The requested content cannot be loaded. <br/>This could be due to an ad blocker."}},
+			onInit: function(instance, slide) {
+				/*
+				var maxWidth=$('body').css('maxWidth');
+				$('body').addClass('tpu-fancybox-body-wrap').wrapInner('<div class="tpu-fancybox-wrap"></div>');
+				$('.tpu-fancybox-wrap').css('maxWidth', maxWidth);*/
+
+				instance.$refs.stage.on('transitionend', function() {
+					updateButtonPos(instance);
+				});
+			},
+			onUpdate: updateButtonPos,
+			afterShow: function(instance, slide) {
+				updateButtonPos(instance);
+				instance.$refs.inner.find('.fancybox-tpu-nav').show();
+			},
+			beforeClose: function(instance, slide) {
+				instance.$refs.inner.find('.fancybox-tpu-nav').hide();
+			},
+			afterClose: function(instance, slide) {
+				$('.tpu-fancybox-wrap').contents().unwrap();
+				$('body').removeClass('tpu-fancybox-body-wrap')
+			},
+			baseTpl: '<div class="fancybox-container" role="dialog" tabindex="-1">' +
+				'<div class="fancybox-bg"></div>' +
+				'<div class="fancybox-inner">' +
+					'<div class="fancybox-tpu-nav">' +
+						'<button data-fancybox-close class="fancybox-button fancybox-tpu-btn fancybox-tpu-btn-close" title="Close"></button>' +
+						'<button data-fancybox-prev class="fancybox-button fancybox-tpu-btn fancybox-tpu-btn-prev" title="Previous"></button>' +
+						'<button data-fancybox-next class="fancybox-button fancybox-tpu-btn fancybox-tpu-btn-next" title="Next"></button>' +
+					'</div>' +
+					'<div class="fancybox-stage"></div>' +
+					'<div class="fancybox-caption"></div>' +
+				'</div>' +
+			'</div>',
+		});
+	});
+}
+	loadjs.ready(['jquery', 'fancybox', 'swiper'], function() {
+		attachLightbox('[data-fancybox]');
+
+		$carousel=$('.gpudb-filmstrip__wrapper');
+		$carousel.addClass('swiper-container');
+		$carousel.find('.gpudb-filmstrip__item').addClass('swiper-slide').css('width', 'auto').wrapAll('<div class="swiper-wrapper" />');
+
+		if ($(window).width()<600)
+			$carousel.find('.swiper-wrapper').after('<div class="swiper-pagination" style="position:relative; bottom:5px; transform: unset; margin-top:12px" />');
+		new Swiper ($carousel.eq(0), { slidesPerView: 'auto', slidesPerGroup: 1, spaceBetween: 15, pagination: { el: '.swiper-pagination', clickable: true } });
+	});
+
+</script>
+
+<ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a href="/gpu-specs/" itemprop="item"><span itemprop="name">GPU Database</span></a>
+							<meta itemprop="position" content="1" />
+	</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a href="/gpu-specs/nvidia-nv45.g163" itemprop="item"><b itemprop="name">NVIDIA NV45 GPU Specs</b></a>
+							<meta itemprop="position" content="2" />
+	</li>
+	</ul>
+
+<a class="button gpudb-report-error" href="mailto:matthewsmith9999@hotmail.com?subject=GPU%20Database%20NVIDIA%20NV45%20%28ID%20163)">Report an Error</a>
+
+
+<h1 class="gpudb-name">
+	NVIDIA NV45
+</h1>
+
+<div class="gpudb-filmstrip__wrapper gpudb-filmstrip--chips">
+		<div class="gpudb-filmstrip__item">
+		<a href="https://tpucdn.com/gpu-specs/images/g/163-default.jpg" data-width="800" data-height="800" data-fancybox="gallery">
+			<img class="gpudb-filmstrip__img" src="https://tpucdn.com/gpu-specs/images/g/163-default.small.jpg" width="200" height="200" alt="Default" />
+		</a>
+
+		
+				<div class="gpudb-filmstrip__title">NV45</div>
+	</div>
+		<div class="gpudb-filmstrip__item">
+		<a href="https://tpucdn.com/gpu-specs/images/g/163-nv45-gl.jpg" data-width="800" data-height="800" data-fancybox="gallery">
+			<img class="gpudb-filmstrip__img" src="https://tpucdn.com/gpu-specs/images/g/163-nv45-gl.small.jpg" width="200" height="200" alt="NV45 GL" />
+		</a>
+
+		
+				<div class="gpudb-filmstrip__title">NV45 GL</div>
+	</div>
+	</div>
+
+<div class="desc p">
+	NVIDIA's NV45 GPU uses the Curie architecture and is made using a 130 nm production process at TSMC. With a die size of 287 mm² and a transistor count of 222 million it is a  medium-sized chip. NV45 supports DirectX 9.0c (Feature Level 9_3). For GPU compute applications, OpenCL version N/A can be used. It features 16 pixel shaders and 6 vertex shaders, 16 texture mapping units and 16 ROPs. Due to the lack of unified shaders you will not be able to run recent games at all (which require unified shader/DX10+ support).
+
+		<div style="margin-top:0.75em;text-align:left">
+		Further reading:
+					<a href="/gpu-specs/docs/nvidia-geforce-6-architecture.pdf" target="_blank">GeForce 6 Architecture Whitepaper <img src="https://tpucdn.com/images/pdf-icon-small-tag-v1723816949774.png" /></a>			</div>
+	</div>
+
+<div class="sectioncontainer">
+	<section class="details">
+		<h2>Graphics Processor</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>Released</dt>
+				<dd>Apr 14th, 2004</dd>
+			</dl>
+
+			<dl class="clearfix">
+				<dt>GPU Name</dt>
+				<dd>NV45</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Architecture</dt>
+				<dd><a href="/gpu-specs/?architecture=Curie&amp;sort=generation">Curie</a></dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Foundry</dt>
+				<dd>TSMC</dd>
+			</dl>
+			
+			<dl class="clearfix">
+				<dt>Process Size</dt>
+				<dd>130 nm</dd>
+			</dl>
+
+			<dl class="clearfix">
+				<dt>Transistors</dt>
+				<dd>222 million</dd>
+			</dl>
+
+						<dl class="clearfix">
+				<dt>Density</dt>
+				<dd>773.5K / mm²</dd>
+			</dl>
+			
+			<dl class="clearfix">
+				<dt>Die Size</dt>
+				<dd>287 mm²</dd>
+			</dl>
+
+						
+		</div>
+	</section>
+
+	<section class="details">
+		<h2>Graphics Features</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>DirectX</dt>
+				<dd>9.0c <span title="DirectX Feature Level">(9_3)</span></dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>OpenGL</dt>
+				<dd>
+										2.0 (full)<br />
+					2.1 (partial)
+									</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>OpenCL</dt>
+				<dd>N/A</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Vulkan</dt>
+				<dd>N/A</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Shader Model</dt>
+				<dd>3.0</dd>
+			</dl>
+						<dl class="clearfix"><dt>WDDM</dt><dd>1.0</dd></dl>
+<dl class="clearfix"><dt>PureVideo HD</dt><dd>VP1</dd></dl>
+<dl class="clearfix"><dt>VDPAU</dt><dd>No Support</dd></dl>
+
+		</div>
+	</section>
+
+	<section class="details">
+		<h2>Render Config</h2>
+		<div>
+												<dl class="clearfix">
+				<dt>Pixel Shaders</dt>
+				<dd>
+					16
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Vertex Shaders</dt>
+				<dd>
+					6
+				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>TMUs</dt>
+				<dd>
+					16
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>ROPs</dt>
+				<dd>
+					16
+				</dd>
+			</dl>
+																					<dl class="clearfix">
+				<dt>Max. TDP</dt>
+				<dd>
+					101 W
+				</dd>
+			</dl>
+						
+		</div>
+	</section>
+
+	<section class="details">
+		<h2>All Curie GPUs</h2>
+		<div style="max-height:300px; overflow-y:auto">
+			<ul class="all-gpus">
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-c51.g592">NVIDIA C51</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-c61.g658">NVIDIA C61</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-c67.g410">NVIDIA C67</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-c68.g398">NVIDIA C68</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-c73.g395">NVIDIA C73</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-c73b.g1040">NVIDIA C73B</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-g70.g40">NVIDIA G70</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-g71.g47">NVIDIA G71</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-g72.g46">NVIDIA G72</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-g72b.g1026">NVIDIA G72B</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-g73.g48">NVIDIA G73</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-g73b.g1028">NVIDIA G73B</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-nv40.g6">NVIDIA NV40</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-nv41.g162">NVIDIA NV41</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-nv42.g44">NVIDIA NV42</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-nv43.g7">NVIDIA NV43</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-nv44.g161">NVIDIA NV44</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-nv44b.g427">NVIDIA NV44B</a>
+					
+									</li>
+								<li class="all-gpus__entry all-gpus__entry-active">
+											NVIDIA NV45
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-nv48.g374">NVIDIA NV48</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-rsx-28nm.g928">NVIDIA RSX-28nm</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-rsx-40nm.g763">NVIDIA RSX-40nm</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-rsx-65nm.g294">NVIDIA RSX-65nm</a>
+					
+									</li>
+								<li class="all-gpus__entry ">
+											<a hreF="/gpu-specs/nvidia-rsx-90nm.g915">NVIDIA RSX-90nm</a>
+					
+									</li>
+							</ul>
+		</div>
+	</section>
+
+		<section class="details">
+		<h2>NVIDIA GPU Architecture History</h2>
+		<div>
+			<ul class="gpu-history">
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2025
+																		</span>
+											<a href="/gpu-specs/?architecture=Blackwell+2.0&amp;sort=generation">Blackwell 2.0</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2024
+																		</span>
+											<a href="/gpu-specs/?architecture=Blackwell&amp;sort=generation">Blackwell</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2023
+																		</span>
+											<a href="/gpu-specs/?architecture=Hopper&amp;sort=generation">Hopper</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2022-2024
+																		</span>
+											<a href="/gpu-specs/?architecture=Ada+Lovelace&amp;sort=generation">Ada Lovelace</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2020-2024
+																		</span>
+											<a href="/gpu-specs/?architecture=Ampere&amp;sort=generation">Ampere</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2018-2022
+																		</span>
+											<a href="/gpu-specs/?architecture=Turing&amp;sort=generation">Turing</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2017-2020
+																		</span>
+											<a href="/gpu-specs/?architecture=Volta&amp;sort=generation">Volta</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2016-2021
+																		</span>
+											<a href="/gpu-specs/?architecture=Pascal&amp;sort=generation">Pascal</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2014-2019
+																		</span>
+											<a href="/gpu-specs/?architecture=Maxwell+2.0&amp;sort=generation">Maxwell 2.0</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2014-2017
+																		</span>
+											<a href="/gpu-specs/?architecture=Maxwell&amp;sort=generation">Maxwell</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2013-2015
+																		</span>
+											<a href="/gpu-specs/?architecture=Kepler+2.0&amp;sort=generation">Kepler 2.0</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2012-2018
+																		</span>
+											<a href="/gpu-specs/?architecture=Kepler&amp;sort=generation">Kepler</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2010-2016
+																		</span>
+											<a href="/gpu-specs/?architecture=Fermi+2.0&amp;sort=generation">Fermi 2.0</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2010-2013
+																		</span>
+											<a href="/gpu-specs/?architecture=VLIW+Vec4&amp;sort=generation">VLIW Vec4</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2010-2016
+																		</span>
+											<a href="/gpu-specs/?architecture=Fermi&amp;sort=generation">Fermi</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2007-2013
+																		</span>
+											<a href="/gpu-specs/?architecture=Tesla+2.0&amp;sort=generation">Tesla 2.0</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2006-2010
+																		</span>
+											<a href="/gpu-specs/?architecture=Tesla&amp;sort=generation">Tesla</a>
+									</li>
+								<li class="gpu-history__entry gpu-history__entry-active">
+					<span class="gpu-history__year">
+																				2003-2013
+																		</span>
+											Curie
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2003-2005
+																		</span>
+											<a href="/gpu-specs/?architecture=Rankine&amp;sort=generation">Rankine</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				2001-2003
+																		</span>
+											<a href="/gpu-specs/?architecture=Kelvin&amp;sort=generation">Kelvin</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				1999-2005
+																		</span>
+											<a href="/gpu-specs/?architecture=Celsius&amp;sort=generation">Celsius</a>
+									</li>
+								<li class="gpu-history__entry ">
+					<span class="gpu-history__year">
+																				1998-2000
+																		</span>
+											<a href="/gpu-specs/?architecture=Fahrenheit&amp;sort=generation">Fahrenheit</a>
+									</li>
+							</ul>
+		</div>
+		<script>
+			loadjs.ready(['jquery'], function() {
+				var $el = $('.gpu-history__entry-active');
+				if ($el.length==0)
+					return;
+
+				var pos=$el.offset().top -$el.parent().offset().top;
+
+				pos = pos - $('.gpu-history').height() / 2;
+
+				$('.gpu-history').scrollTop(pos);
+			});
+		</script>
+	</section>
+	
+		<section class="details customboards">
+		<h2>Graphics cards using the NVIDIA NV45 GPU</h2>
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Chip</th>
+					<th>Memory</th>
+					<th>Shaders</th>
+					<th>TMUs</th>
+					<th>ROPs</th>
+					<th>GPU Clock</th>
+										<th>Memory Clock</th>
+				</tr>
+			</thead>
+			<tbody>
+								<tr>
+					<td data-sort="nvidia geforce 6800 gt" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+								<a href="/gpu-specs/geforce-6800-gt.c130">NVIDIA GeForce 6800 GT</a>
+															</div>
+
+							<img src="https://tpucdn.com/gpu-specs/images/c/130-front.tiny.jpg" alt="" />						</div>
+					</td>
+					<td data-sort="6800 GT">6800 GT</td>
+					<td data-sort="256">256 MB</td>
+					<td data-sort="16">16 / 6</td>
+					<td data-sort="16">16</td>
+					<td data-sort="16">16</td>
+					<td data-sort="350">350 MHz</td>
+										<td data-sort="500">500 MHz</td>
+				</tr>
+								<tr>
+					<td data-sort="nvidia geforce 6800 gto" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+								<a href="/gpu-specs/geforce-6800-gto.c719">NVIDIA GeForce 6800 GTO</a>
+															</div>
+
+							<img src="https://tpucdn.com/gpu-specs/images/c/719-front.tiny.jpg" alt="" />						</div>
+					</td>
+					<td data-sort="6800 GT">6800 GT</td>
+					<td data-sort="256">256 MB</td>
+					<td data-sort="12">12 / 5</td>
+					<td data-sort="12">12</td>
+					<td data-sort="12">12</td>
+					<td data-sort="350">350 MHz</td>
+										<td data-sort="500">500 MHz</td>
+				</tr>
+								<tr>
+					<td data-sort="nvidia geforce 6800 ultra" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+								<a href="/gpu-specs/geforce-6800-ultra.c720">NVIDIA GeForce 6800 Ultra</a>
+															</div>
+
+							<img src="https://tpucdn.com/gpu-specs/images/c/720-front.tiny.jpg" alt="" />						</div>
+					</td>
+					<td data-sort="6800 Ultra">6800 Ultra</td>
+					<td data-sort="256">256 MB</td>
+					<td data-sort="16">16 / 6</td>
+					<td data-sort="16">16</td>
+					<td data-sort="16">16</td>
+					<td data-sort="425">425 MHz</td>
+										<td data-sort="550">550 MHz</td>
+				</tr>
+								<tr>
+					<td data-sort="nvidia quadro fx 3400" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+								<a href="/gpu-specs/quadro-fx-3400.c1367">NVIDIA Quadro FX 3400</a>
+															</div>
+
+							<img src="https://tpucdn.com/gpu-specs/images/c/1367-front.tiny.jpg" alt="" />						</div>
+					</td>
+					<td data-sort="NV45 GL">NV45 GL</td>
+					<td data-sort="256">256 MB</td>
+					<td data-sort="12">12 / 5</td>
+					<td data-sort="12">12</td>
+					<td data-sort="12">12</td>
+					<td data-sort="350">350 MHz</td>
+										<td data-sort="450">450 MHz</td>
+				</tr>
+								<tr>
+					<td data-sort="nvidia quadro fx 4400" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+								<a href="/gpu-specs/quadro-fx-4400.c1832">NVIDIA Quadro FX 4400</a>
+															</div>
+
+							<img src="https://tpucdn.com/gpu-specs/images/c/1832-front.tiny.jpg" alt="" />						</div>
+					</td>
+					<td data-sort="NV45 GL">NV45 GL</td>
+					<td data-sort="512">512 MB</td>
+					<td data-sort="16">16 / 6</td>
+					<td data-sort="16">16</td>
+					<td data-sort="16">16</td>
+					<td data-sort="375">375 MHz</td>
+										<td data-sort="525">525 MHz</td>
+				</tr>
+								<tr>
+					<td data-sort="nvidia geforce 6800 gt dual" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+								<a href="/gpu-specs/geforce-6800-gt-dual.c1943">NVIDIA GeForce 6800 GT Dual</a>
+															</div>
+
+							<img src="https://tpucdn.com/gpu-specs/images/c/1943-front.tiny.jpg" alt="" />						</div>
+					</td>
+					<td data-sort=""></td>
+					<td data-sort="256">256 MB</td>
+					<td data-sort="16">16 / 6</td>
+					<td data-sort="16">16</td>
+					<td data-sort="16">16</td>
+					<td data-sort="350">350 MHz</td>
+										<td data-sort="500">500 MHz</td>
+				</tr>
+								<tr>
+					<td data-sort="nvidia quadro fx 4400g" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+								<a href="/gpu-specs/quadro-fx-4400g.c2353">NVIDIA Quadro FX 4400G</a>
+															</div>
+
+							<img src="https://tpucdn.com/gpu-specs/images/c/2353-front.tiny.jpg" alt="" />						</div>
+					</td>
+					<td data-sort="NV45 GL">NV45 GL</td>
+					<td data-sort="512">512 MB</td>
+					<td data-sort="16">16 / 6</td>
+					<td data-sort="16">16</td>
+					<td data-sort="16">16</td>
+					<td data-sort="375">375 MHz</td>
+										<td data-sort="525">525 MHz</td>
+				</tr>
+							</tbody>
+		</table>
+	</section>
+	
+	<script>
+		loadjs.ready(['jquery'], function() {
+			$('.customboards').find('th').css('cursor', 'pointer').on('click', function(e) {
+				$(this).parents('table').find('th').removeClass('sort-key');
+				$(this).addClass('sort-key');
+
+				var idx=$(this).parents('table').find('th').index(this);
+
+				$(this).parents('table').find('td').filter(function() {
+					return $(this).index() == idx;
+				}).sortElementsTPU(function(a, b) {
+					a=$(a).data('sort'); b=$(b).data('sort');
+
+					if (a>b) return 1;
+					if (a<b) return -1;
+					return 0;
+				}, function() {
+					return this.parentNode;
+				});
+			});
+
+			$('.customboards th').eq(0).trigger('click');
+		});
+	</script>
+
+		<section class="details notes">
+		<h2>NV45 GPU Notes</h2>
+		<table>
+			<tr>
+				<td class="p">PureVideo HD: VP1<br />
+VDPAU: No Support<br />
+<br />
+NV45 = NV40 + HSI<br />
+<br />
+Latest Drivers:<br />
+Windows 2000:<br />
+ForceWare Release 93.71 / 93.81 Beta<br />
+Quadro Release 261.19<br />
+<br />
+Windows XP / Server 2003 x64:<br />
+GeForce Release 307.83<br />
+Quadro Release R310 U7 (312.69)<br />
+<br />
+Windows Vista / 7 / 8:<br />
+GeForce Release 309.08<br />
+Quadro Release R310 U7 (312.69)</td>
+			</tr>
+		</table>
+	</section>
+	</div>
+
+				</div>
+
+				<div class="s-">
+					<label for="s--check" class="s--toggle-button" title="Close" onclick=""></label>
+
+					<div class="s--item s--time">
+						<span class="s--time__cur">Oct 9th, 2024 09:33 CEST</span>
+ 						<a class="s--time__link" href="#">change timezone</a>
+					</div>
+					<script>
+						loadjs.ready(['jquery', 'popup'], function() {
+							$('.s--time__cur, .s--time__link').on('click', function(e) {
+								e.preventDefault();
+								popup.ShowAJAX('Please select your timezone', '/set-timezone', { width:455 });
+							});
+						});
+					</script>
+
+					<div class="s--item s--search">
+						<form class="s--search__form" action="/srch?">
+							<input class="s--search__input" type="text" placeholder="Search TechPowerUp" name="search1" autocomplete="off" />
+							<input class="s--search__submit" type="submit" value="" />
+													</form>
+					</div>
+
+										<article class="s--item s--login">
+						<a href="/forums/login">Sign in</a> / <a href="/forums/register">Register</a>
+					</article>
+					
+					<div class="s--item s--drivers">
+<div>
+	<h1 class="s--item__heading">Latest&nbsp;GPU Drivers</h1>
+
+	<div>
+	<ul class="s--drivers__list">
+		<li><a class="s--drivers__driver s--drivers__driver--nvidia" href="/download/nvidia-geforce-graphics-drivers/">NVIDIA GeForce 565.90 WHQL </a></li>
+		<li><a class="s--drivers__driver s--drivers__driver--amd" href="/download/amd-radeon-graphics-drivers/">AMD Radeon 24.9.1 WHQL </a></li>
+		<li><a class="s--drivers__driver s--drivers__driver--intel" href="/download/intel-integrated-graphics-drivers/">Intel Arc &amp; IGP 101.6083 Beta </a>
+		</li>
+	</ul>
+	</div>
+</div>
+</div>
+
+					<div br-cls class="s--item"><div><a href="/reviyuu/b784/2888er/images/gmchjhj.png" target="_blank" rel="nofollow">
+<img src="/reviyuu/b784/_607b9fb2.png" alt="">
+</a></div><span class="b6dc79ac9cd1f4f8626b91d445b419f1"></span></div>
+
+					<article class="s--item s--newposts">
+	<h1 class="s--item__heading">New Forum Posts</h1>
+	<ul class="s--newposts__list">
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T07:25:00+0000">09:25</time>
+				by
+				<span class="s--newposts__username">de.das.dude</span>
+			</div>
+			<a href="/forums/threads/3d-printer-club.316432/unread">3D Printer Club</a> (<span class="s--newposts__replycount">242</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T07:24:13+0000">09:24</time>
+				by
+				<span class="s--newposts__username">AusWolf</span>
+			</div>
+			<a href="/forums/threads/which-handheld-would-you-get.326623/unread">Which Handheld Would you get?</a> (<span class="s--newposts__replycount">78</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T07:16:09+0000">09:16</time>
+				by
+				<span class="s--newposts__username">lexluthermiester</span>
+			</div>
+			<a href="/forums/threads/tpus-nostalgic-hardware-club.108251/unread">TPU&#039;s Nostalgic Hardware Club</a> (<span class="s--newposts__replycount">19198</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T07:13:00+0000">09:13</time>
+				by
+				<span class="s--newposts__username">Klemc</span>
+			</div>
+			<a href="/forums/threads/silent-hill-2-remake-apparently-really-good.327335/unread">Silent Hill 2 Remake - Apparently really good</a> (<span class="s--newposts__replycount">46</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T07:10:17+0000">09:10</time>
+				by
+				<span class="s--newposts__username">Candor</span>
+			</div>
+			<a href="/forums/threads/monitor-screen-damage.327463/unread">Monitor screen damage</a> (<span class="s--newposts__replycount">11</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T07:07:36+0000">09:07</time>
+				by
+				<span class="s--newposts__username">Shihab</span>
+			</div>
+			<a href="/forums/threads/techspot-artificial-plant-purifies-indoor-air-and-doubles-as-a-power-source-for-small-electronics-beats-real-plants-and-traditional-purifiers.327454/unread">[TechSpot] Artificial plant purifies indoor air and doubles as a power source for small electronics (beats real plants and traditional purifiers)</a> (<span class="s--newposts__replycount">13</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T07:07:18+0000">09:07</time>
+				by
+				<span class="s--newposts__username">lexluthermiester</span>
+			</div>
+			<a href="/forums/threads/do-you-use-linux.297901/unread">Do you use Linux?</a> (<span class="s--newposts__replycount">420</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T07:03:17+0000">09:03</time>
+				by
+				<span class="s--newposts__username">Klemc</span>
+			</div>
+			<a href="/forums/threads/usb-hub-deskmini.327470/unread">USB Hub - DeskMini</a> (<span class="s--newposts__replycount">0</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T06:06:54+0000">08:06</time>
+				by
+				<span class="s--newposts__username">taka</span>
+			</div>
+			<a href="/forums/threads/final-am4-upgrade.327415/unread">Final AM4 Upgrade</a> (<span class="s--newposts__replycount">28</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T06:02:41+0000">08:02</time>
+				by
+				<span class="s--newposts__username">AusWolf</span>
+			</div>
+			<a href="/forums/threads/space-marine-ii-crashing-my-radeon-drivers.327074/unread">Space Marine II crashing my Radeon drivers</a> (<span class="s--newposts__replycount">12</span>)
+		</li>
+			</ul>
+</article>
+
+
+					<div br-cls class="s--item"><div><a href="/reviyuu/b784/2630er/images/gmchjhj.png" target="_blank" rel="nofollow">
+<img src="/reviyuu/b784/_af767623.png" alt="">
+</a></div><span data-default="true"></span><span class="b6dc79ac9cd1f4f8626b91d445b419f1"></span></div>
+
+					<article class="s--item s--top-rev-s">
+	<h1 class="s--item__heading">Popular Reviews</h1>
+	<ul class="s--top-rev-s__list">
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-07T12:58:00+0000">Oct 7th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/kingston-fury-renegade-rgb-le-ddr5-8000-48-gb-cl36/">Kingston Fury Renegade RGB LE DDR5-8000 48 GB CL36 Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-04T14:06:00+0000">Oct 4th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/lian-li-lancool-207/">Lian Li Lancool 207 Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-09-27T19:48:00+0000">Sep 27th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/ddr5-memory-performance-scaling-with-amd-zen-5/">DDR5 Memory Performance Scaling with AMD Zen 5</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-04T17:14:06+0000">Oct 4th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/incott-ghero-pro/">Incott GHERO Pro Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-07-19T15:12:00+0000">Jul 19th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/future-hardware-releases/">Upcoming Hardware Launches 2024 (Updated Jul 2024)</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-07T17:42:35+0000">Oct 7th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/team-group-g50-2-tb/">Team Group G50 2 TB Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-09-30T12:19:00+0000">Sep 30th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/asus-rog-crosshair-x870e-hero/">ASUS ROG Crosshair X870E Hero Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-08-14T13:00:01+0000">Aug 14th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/amd-ryzen-9-9950x/">AMD Ryzen 9 9950X Review - The New Flagship</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-03T14:59:03+0000">Oct 3rd, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/id-cooling-dx-360-max-aio-liquid-cpu-cooler/">ID-Cooling  DX 360 MAX AIO Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-01T17:10:00+0000">Oct 1st, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/2024-shenzhen-international-audio-show-report/">2024 Shenzhen International Audio Show Report</a>
+		</li>
+			</ul>
+</article>
+
+
+										<article class="s--item s--top-news">
+	<h1 class="s--item__heading">Controversial News Posts</h1>
+	<ul class="s--top-news__list">
+				<li>
+			<a class="s--top-news__link" href="/326486/sony-reveals-the-playstation-5-pro-launches-november-7th">Sony Reveals the PlayStation 5 Pro, Launches November 7th</a>
+			(<span class="s--top-news__replycount">216</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/327026/nvidia-geforce-rtx-5090-and-rtx-5080-specifications-surface-showing-larger-sku-segmentation">NVIDIA GeForce RTX 5090 and RTX 5080 Specifications Surface, Showing Larger SKU Segmentation</a>
+			(<span class="s--top-news__replycount">181</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/327057/amd-ryzen-9-9950x3d-and-9900x3d-to-feature-3d-v-cache-on-both-ccd-chiplets">AMD Ryzen 9 9950X3D and 9900X3D to Feature 3D V-cache on Both CCD Chiplets</a>
+			(<span class="s--top-news__replycount">127</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/326567/cyberpunk-2077-update-adds-amd-fsr-3-and-frame-generation-for-pc-players">Cyberpunk 2077 Update Adds AMD FSR 3 and Frame Generation for PC Players</a>
+			(<span class="s--top-news__replycount">122</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/327294/single-player-games-lose-to-pvp-in-younger-audiences-despite-recent-hits">Single-Player Games Lose to PVP in Younger Audiences Despite Recent Hits</a>
+			(<span class="s--top-news__replycount">116</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/326978/amd-rushing-in-ryzen-7-9800x3d-expect-product-launch-late-october">AMD Rushing in Ryzen 7 9800X3D, Expect Product Launch Late-October</a>
+			(<span class="s--top-news__replycount">115</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/326912/nvidia-rtx-5090-blackwell-could-feature-two-16-pin-power-connectors">NVIDIA RTX 5090 &quot;Blackwell&quot; Could Feature Two 16-pin Power Connectors</a>
+			(<span class="s--top-news__replycount">109</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/326832/qualcomm-said-to-have-approached-intel-about-takeover-bid">Qualcomm Said to Have Approached Intel About Takeover Bid</a>
+			(<span class="s--top-news__replycount">102</span>)
+		</li>
+			</ul>
+</article>
+
+									</div>
+				
+			</div>
+
+			<div class="page-is-loading"></div>
+
+			<footer class="site-footer">
+				Copyright &copy; 2004-2024 www.techpowerup.com.<br class="site-footer__break">
+				All rights reserved.<br>
+				All trademarks used are properties of their respective owners.
+			</footer>
+
+					</div>
+
+		<script>
+    
+        loadjs.ready(['jquery'], function() {
+        if ($(window).width()>=900)
+            return;
+
+        var $b=$('[br-cls]');
+        var $b1=$b.eq(0);
+        var $b2=$b.eq(1);
+                                                        $b1.insertBefore('.sectioncontainer');
+        $b2.wrap('<div style="width:100%"></div>').parent().insertBefore('.sectioncontainer .details:nth-child(4)');
+            
+    });
+    </script>
+		
+		<script>
+			/* Fix for jumping scrollbar, to only target Windows systems */
+			loadjs.ready(['jquery'], function() {
+				if (navigator.platform=='Win32')
+					return;
+				$('html').addClass('disable-scrollbar-fix');
+			});
+		</script>
+
+		
+		
+		
+		
+	</body>
+</html>
