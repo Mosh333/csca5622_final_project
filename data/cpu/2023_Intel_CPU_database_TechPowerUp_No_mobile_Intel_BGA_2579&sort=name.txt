@@ -1,0 +1,38 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-2899nt.c3879">Xeon D-2899NT</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>22  / 44</td>
+	<td>2.2 to 3.1 GHz</td>
+	<td>BGA 2579</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>135 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+			</table>
+</div>

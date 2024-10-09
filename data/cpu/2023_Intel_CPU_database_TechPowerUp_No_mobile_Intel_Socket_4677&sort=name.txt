@@ -1,0 +1,1424 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-bronze-3408u.c3170">Xeon Bronze 3408U</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>8 </td>
+	<td>1800 to 1900 MHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>22.5 MB</td>
+	<td>125 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5411n.c3152">Xeon Gold 5411N</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>28  / 56</td>
+	<td>1.9 to 3.9 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>165 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5412u.c3153">Xeon Gold 5412U</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>24  / 48</td>
+	<td>2.1 to 3.9 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>185 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5415.c3164">Xeon Gold 5415+</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>8  / 16</td>
+	<td>2.9 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>22.5 MB</td>
+	<td>150 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5416s.c3161">Xeon Gold 5416S</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>16  / 32</td>
+	<td>2 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>150 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5418n.c3154">Xeon Gold 5418N</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>24  / 48</td>
+	<td>1.8 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>165 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5418y.c3155">Xeon Gold 5418Y</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>24  / 48</td>
+	<td>2 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>185 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5420.c3151">Xeon Gold 5420+</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>28  / 56</td>
+	<td>2 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>52.5 MB</td>
+	<td>205 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5423n.c3158">Xeon Gold 5423N</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>20  / 40</td>
+	<td>2.1 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>37.5 MB</td>
+	<td>145 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5433n.c3159">Xeon Gold 5433N</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>20  / 40</td>
+	<td>2.3 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>37.5 MB</td>
+	<td>160 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5512u.c3428">Xeon Gold 5512U</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>28  / 56</td>
+	<td>2.1 to 3.7 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>52.5 MB</td>
+	<td>185 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5515.c3427">Xeon Gold 5515+</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>22.5 MB</td>
+	<td>165 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5520.c3426">Xeon Gold 5520+</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>28  / 56</td>
+	<td>2.2 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>52.5 MB</td>
+	<td>205 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6414u.c3140">Xeon Gold 6414U</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>2 to 3.4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>250 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6416h.c3160">Xeon Gold 6416H</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>18  / 36</td>
+	<td>2.2 to 4.2 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>165 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6418h.c3156">Xeon Gold 6418H</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>24  / 48</td>
+	<td>2.1 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>185 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6421n.c3141">Xeon Gold 6421N</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>1.8 to 3.6 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>185 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6426y.c3162">Xeon Gold 6426Y</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>16  / 32</td>
+	<td>2.5 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>37.5 MB</td>
+	<td>185 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6428n.c3142">Xeon Gold 6428N</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>1.8 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>185 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6430.c3143">Xeon Gold 6430</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>2.1 to 3.4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>270 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6434.c3165">Xeon Gold 6434</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>8  / 16</td>
+	<td>3.7 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>22.5 MB</td>
+	<td>195 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6434h.c3166">Xeon Gold 6434H</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>8  / 16</td>
+	<td>3.7 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>22.5 MB</td>
+	<td>195 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6438m.c3144">Xeon Gold 6438M</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>2.2 to 3.9 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>205 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6438n.c3145">Xeon Gold 6438N</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>2 to 3.6 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>205 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6438y.c3146">Xeon Gold 6438Y+</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>2 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>205 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6442y.c3157">Xeon Gold 6442Y</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>24  / 48</td>
+	<td>2.6 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>225 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6444y.c3163">Xeon Gold 6444Y</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>16  / 32</td>
+	<td>3.6 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>270 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6448h.c3147">Xeon Gold 6448H</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>2.4 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>250 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6448y.c3148">Xeon Gold 6448Y</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>2.1 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>225 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6454s.c3149">Xeon Gold 6454S</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>2.2 to 3.4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>270 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6458q.c3150">Xeon Gold 6458Q</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>3.1 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6526y.c3423">Xeon Gold 6526Y</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>16  / 32</td>
+	<td>2.8 to 3.9 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>37.5 MB</td>
+	<td>195 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6530.c3425">Xeon Gold 6530</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>32  / 64</td>
+	<td>2.1 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>160 MB</td>
+	<td>270 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6534.c3424">Xeon Gold 6534</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>8  / 16</td>
+	<td>3.9 to 4.2 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>22.5 MB</td>
+	<td>195 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6538n.c3431">Xeon Gold 6538N</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>32  / 64</td>
+	<td>2.1 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>205 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6542y.c3421">Xeon Gold 6542Y</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>24  / 48</td>
+	<td>2.9 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>250 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6544y.c3422">Xeon Gold 6544Y</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>16  / 32</td>
+	<td>3.6 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>270 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6548n.c3430">Xeon Gold 6548N</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>32  / 64</td>
+	<td>2.8 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>270 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6548y.c3420">Xeon Gold 6548Y+</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>32  / 64</td>
+	<td>2.5 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>250 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6554s.c3432">Xeon Gold 6554S</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>36  / 72</td>
+	<td>2.2 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>180 MB</td>
+	<td>270 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-max-9460.c3087">Xeon Max 9460</a>
+			</td>
+	<td>Sapphire Rapids HBM</td>
+	<td>40  / 80</td>
+	<td>2.2 to 3.5 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>97.5 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-max-9462.c3088">Xeon Max 9462</a>
+			</td>
+	<td>Sapphire Rapids HBM</td>
+	<td>32  / 64</td>
+	<td>2.7 to 3.5 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>75 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-max-9468.c3086">Xeon Max 9468</a>
+			</td>
+	<td>Sapphire Rapids HBM</td>
+	<td>48  / 96</td>
+	<td>2.1 to 3.5 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>105 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-max-9470.c3085">Xeon Max 9470</a>
+			</td>
+	<td>Sapphire Rapids HBM</td>
+	<td>52  / 104</td>
+	<td>2 to 3.5 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>105 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-max-9480.c3084">Xeon Max 9480</a>
+			</td>
+	<td>Sapphire Rapids HBM</td>
+	<td>56  / 112</td>
+	<td>1.9 to 3.5 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>112.5 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8444h.c3139">Xeon Platinum 8444H</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>16  / 32</td>
+	<td>2.9 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>270 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8450h.c3138">Xeon Platinum 8450H</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>28  / 56</td>
+	<td>2 to 3.5 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>75 MB</td>
+	<td>250 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8452y.c3135">Xeon Platinum 8452Y</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>36  / 72</td>
+	<td>2 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>67.5 MB</td>
+	<td>300 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8454h.c3136">Xeon Platinum 8454H</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>2.1 to 3.4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>82.5 MB</td>
+	<td>270 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8458p.c3133">Xeon Platinum 8458P</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>44  / 88</td>
+	<td>2.7 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>82.5 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8460h.c3134">Xeon Platinum 8460H</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>40  / 80</td>
+	<td>2.2 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>105 MB</td>
+	<td>330 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8460y.c3095">Xeon Platinum 8460Y+</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>40  / 80</td>
+	<td>2 to 3.7 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>105 MB</td>
+	<td>300 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8461v.c3093">Xeon Platinum 8461V</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>48  / 96</td>
+	<td>2.2 to 3.7 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>97.5 MB</td>
+	<td>300 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8462y.c3137">Xeon Platinum 8462Y+</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>32  / 64</td>
+	<td>2.8 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>300 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8468.c3094">Xeon Platinum 8468</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>48  / 96</td>
+	<td>2.1 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>105 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8468h.c3131">Xeon Platinum 8468H</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>48  / 96</td>
+	<td>2.1 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>105 MB</td>
+	<td>330 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8468v.c3132">Xeon Platinum 8468V</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>48  / 96</td>
+	<td>2.4 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>97.5 MB</td>
+	<td>330 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8470.c3089">Xeon Platinum 8470</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>52  / 104</td>
+	<td>2 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>105 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8470n.c3090">Xeon Platinum 8470N</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>52  / 104</td>
+	<td>1.7 to 3.6 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>97.5 MB</td>
+	<td>300 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8470q.c3091">Xeon Platinum 8470Q</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>52  / 104</td>
+	<td>2.1 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>105 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8471n.c3092">Xeon Platinum 8471N</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>52  / 104</td>
+	<td>1.8 to 3.6 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>97.5 MB</td>
+	<td>300 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8480.c2958">Xeon Platinum 8480+</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>56  / 112</td>
+	<td>2 to 3.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>105 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8490h.c2942">Xeon Platinum 8490H</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>60  / 120</td>
+	<td>1.9 to 3.5 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>112.5 MB</td>
+	<td>350 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8558.c3413">Xeon Platinum 8558</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>48  / 96</td>
+	<td>2.1 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>260 MB</td>
+	<td>330 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8558p.c3414">Xeon Platinum 8558P</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>48  / 96</td>
+	<td>2.7 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>260 MB</td>
+	<td>350 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8558u.c3415">Xeon Platinum 8558U</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>48  / 96</td>
+	<td>2 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>260 MB</td>
+	<td>300 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8562y.c3412">Xeon Platinum 8562Y+</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>32  / 64</td>
+	<td>2.8 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>300 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8568y.c3411">Xeon Platinum 8568Y+</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>48  / 96</td>
+	<td>2.3 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>300 MB</td>
+	<td>350 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8570.c3410">Xeon Platinum 8570</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>56  / 112</td>
+	<td>2.1 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>300 MB</td>
+	<td>350 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8571n.c3429">Xeon Platinum 8571N</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>52  / 104</td>
+	<td>2.4 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>300 MB</td>
+	<td>300 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8580.c3409">Xeon Platinum 8580</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>60  / 120</td>
+	<td>2 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>300 MB</td>
+	<td>350 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8581v.c3418">Xeon Platinum 8581V</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>64  / 128</td>
+	<td>2 to 3.9 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>300 MB</td>
+	<td>270 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8592.c3408">Xeon Platinum 8592+</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>64  / 128</td>
+	<td>1.9 to 3.9 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>320 MB</td>
+	<td>350 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8592v.c3417">Xeon Platinum 8592V</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>64  / 128</td>
+	<td>2 to 3.9 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>320 MB</td>
+	<td>330 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8593q.c3416">Xeon Platinum 8593Q</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>64  / 128</td>
+	<td>2.2 to 3.9 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>320 MB</td>
+	<td>385 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-3508u.c3499">Xeon Silver 3508U</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>8  / 16</td>
+	<td>2.1 to 2.2 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>22.5 MB</td>
+	<td>125 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4410t.c3169">Xeon Silver 4410T</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>10  / 20</td>
+	<td>2.7 to 4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>26.25 MB</td>
+	<td>150 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4410y.c3168">Xeon Silver 4410Y</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>12  / 24</td>
+	<td>2 to 3.9 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>150 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4416.c3167">Xeon Silver 4416+</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>20  / 40</td>
+	<td>2 to 3.9 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>37.5 MB</td>
+	<td>165 W</td>
+	<td>Jan 10th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4509y.c3497">Xeon Silver 4509Y</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>8  / 16</td>
+	<td>2.6 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>22.5 MB</td>
+	<td>125 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4510.c3496">Xeon Silver 4510</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>12  / 24</td>
+	<td>2.4 to 4.1 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>150 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4510t.c3498">Xeon Silver 4510T</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>12  / 24</td>
+	<td>2 to 3.7 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>115 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4514y.c3495">Xeon Silver 4514Y</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>16  / 32</td>
+	<td>2 to 3.4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>150 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4516y.c3494">Xeon Silver 4516Y+</a>
+			</td>
+	<td>Emerald Rapids</td>
+	<td>24  / 48</td>
+	<td>2.2 to 3.7 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>185 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w3-2423.c3120">Xeon w3-2423</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>6  / 12</td>
+	<td>2.1 to 4.2 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>15 MB</td>
+	<td>120 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w3-2425.c3119">Xeon w3-2425</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>6  / 12</td>
+	<td>3 to 4.4 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>15 MB</td>
+	<td>130 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w3-2435.c3118">Xeon w3-2435</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>8  / 16</td>
+	<td>3.1 to 4.5 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>22.5 MB</td>
+	<td>165 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w5-2445.c3117">Xeon w5-2445</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>10  / 20</td>
+	<td>3.1 to 4.6 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>26.25 MB</td>
+	<td>175 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w5-2455x.c3116">Xeon w5-2455X</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>12  / 24</td>
+	<td>3.2 to 4.6 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>200 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w5-2465x.c3115">Xeon w5-2465X</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>16  / 32</td>
+	<td>3.1 to 4.7 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>33.75 MB</td>
+	<td>200 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w5-3425.c3112">Xeon w5-3425</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>12  / 24</td>
+	<td>3.2 to 4.6 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>270 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w5-3435x.c3111">Xeon w5-3435X</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>16  / 32</td>
+	<td>3.1 to 4.7 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>270 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w7-2475x.c3114">Xeon w7-2475X</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>20  / 40</td>
+	<td>2.6 to 4.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>37.5 MB</td>
+	<td>225 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w7-2495x.c3113">Xeon w7-2495X</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>24  / 48</td>
+	<td>2.5 to 4.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>45 MB</td>
+	<td>225 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w7-3445.c3110">Xeon w7-3445</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>20  / 40</td>
+	<td>2.5 to 4.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>52.5 MB</td>
+	<td>270 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w7-3455.c3109">Xeon w7-3455</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>24  / 48</td>
+	<td>2.5 to 4.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>67.5 MB</td>
+	<td>270 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w7-3465x.c3108">Xeon w7-3465X</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>28  / 56</td>
+	<td>2.5 to 4.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>75 MB</td>
+	<td>300 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w7-3545.c3805">Xeon w7-3545</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>24  / 48</td>
+	<td>2.7 to 4.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>67.5 MB</td>
+	<td>310 W</td>
+	<td>Aug 24th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w9-3475x.c3107">Xeon w9-3475X</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>36  / 72</td>
+	<td>2.2 to 4.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>82.5 MB</td>
+	<td>300 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w9-3495x.c3106">Xeon w9-3495X</a>
+			</td>
+	<td>Sapphire Rapids</td>
+	<td>56  / 112</td>
+	<td>1.9 to 4.8 GHz</td>
+	<td>Socket 4677</td>
+	<td>10 nm</td>
+	<td>105 MB</td>
+	<td>350 W</td>
+	<td>Feb 15th, 2023</td>
+</tr>
+		
+			</table>
+</div>

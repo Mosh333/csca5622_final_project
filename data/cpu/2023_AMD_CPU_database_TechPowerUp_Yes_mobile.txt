@@ -1,0 +1,612 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-7330u.c3035">Ryzen 3 7330U</a>
+			</td>
+	<td>Barcelo-R</td>
+	<td>4  / 8</td>
+	<td>2.3 to 4.3 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-7335u.c3038">Ryzen 3 7335U</a>
+			</td>
+	<td>Rembrandt-R</td>
+	<td>4  / 8</td>
+	<td>3 to 4.3 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>8 MB</td>
+	<td>28 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-7440u.c3363">Ryzen 3 7440U</a>
+			</td>
+	<td>Phoenix2</td>
+	<td>4  / 8</td>
+	<td>3 to 4.7 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>8 MB</td>
+	<td>28 W</td>
+	<td>May 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-8440u.c3407">Ryzen 3 8440U</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>4  / 8</td>
+	<td>3 to 4.7 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>8 MB</td>
+	<td>28 W</td>
+	<td>Dec 6th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-pro-7330u.c3273">Ryzen 3 PRO 7330U</a>
+			</td>
+	<td>Barcelo-R</td>
+	<td>4  / 8</td>
+	<td>2.3 to 4.3 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7530u.c3036">Ryzen 5 7530U</a>
+			</td>
+	<td>Barcelo-R</td>
+	<td>6  / 12</td>
+	<td>2 to 4.5 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7535h.c3188">Ryzen 5 7535H</a>
+			</td>
+	<td>Rembrandt-R</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.55 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7535hs.c3042">Ryzen 5 7535HS</a>
+			</td>
+	<td>Rembrandt-R</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.55 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7535u.c3039">Ryzen 5 7535U</a>
+			</td>
+	<td>Rembrandt-R</td>
+	<td>6  / 12</td>
+	<td>2.9 to 4.55 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7540u.c3364">Ryzen 5 7540U</a>
+			</td>
+	<td>Phoenix</td>
+	<td>6  / 12</td>
+	<td>3.2 to 4.9 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>May 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7545u.c3365">Ryzen 5 7545U</a>
+			</td>
+	<td>Phoenix2</td>
+	<td>6  / 12</td>
+	<td>3.2 to 4.9 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Nov 2nd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7640h.c3270">Ryzen 5 7640H</a>
+			</td>
+	<td>Phoenix</td>
+	<td>6  / 12</td>
+	<td>4.3 to 5 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7640hs.c3034">Ryzen 5 7640HS</a>
+			</td>
+	<td>Phoenix</td>
+	<td>6  / 12</td>
+	<td>4.3 to 5 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7640u.c3205">Ryzen 5 7640U</a>
+			</td>
+	<td>Phoenix</td>
+	<td>6  / 12</td>
+	<td>3.5 to 4.9 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>May 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7645hx.c3021">Ryzen 5 7645HX</a>
+			</td>
+	<td>Dragon Range</td>
+	<td>6  / 12</td>
+	<td>4 to 5 GHz</td>
+	<td>Socket FL1</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-8540u.c3406">Ryzen 5 8540U</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>6  / 12</td>
+	<td>3.2 to 4.9 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Dec 6th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-8640hs.c3404">Ryzen 5 8640HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>6  / 12</td>
+	<td>3.5 to 4.9 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Dec 6th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-8640u.c3405">Ryzen 5 8640U</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>6  / 12</td>
+	<td>3.5 to 4.9 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Dec 6th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-8645hs.c3403">Ryzen 5 8645HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>6  / 12</td>
+	<td>4.3 to 5 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Dec 6th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-7530u.c3274">Ryzen 5 PRO 7530U</a>
+			</td>
+	<td>Barcelo-R</td>
+	<td>6  / 12</td>
+	<td>2 to 4.5 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7730u.c3037">Ryzen 7 7730U</a>
+			</td>
+	<td>Barcelo-R</td>
+	<td>8  / 16</td>
+	<td>2 to 4.5 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7735h.c3187">Ryzen 7 7735H</a>
+			</td>
+	<td>Rembrandt-R</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.75 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7735hs.c3041">Ryzen 7 7735HS</a>
+			</td>
+	<td>Rembrandt-R</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.75 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7735u.c3040">Ryzen 7 7735U</a>
+			</td>
+	<td>Rembrandt-R</td>
+	<td>8  / 16</td>
+	<td>2.7 to 4.75 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7736u.c3186">Ryzen 7 7736U</a>
+			</td>
+	<td>Rembrandt-R</td>
+	<td>8  / 16</td>
+	<td>2.7 to 4.7 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7745hx.c3025">Ryzen 7 7745HX</a>
+			</td>
+	<td>Dragon Range</td>
+	<td>8  / 16</td>
+	<td>3.6 to 5.1 GHz</td>
+	<td>Socket FL1</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7840h.c3271">Ryzen 7 7840H</a>
+			</td>
+	<td>Phoenix</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7840hs.c3033">Ryzen 7 7840HS</a>
+			</td>
+	<td>Phoenix</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7840u.c3212">Ryzen 7 7840U</a>
+			</td>
+	<td>Phoenix</td>
+	<td>8  / 16</td>
+	<td>3.3 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>May 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-8840hs.c3401">Ryzen 7 8840HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>8  / 16</td>
+	<td>3.3 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Dec 6th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-8840u.c3402">Ryzen 7 8840U</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>8  / 16</td>
+	<td>3.3 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Dec 6th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-8845hs.c3400">Ryzen 7 8845HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Dec 6th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-7730u.c3275">Ryzen 7 PRO 7730U</a>
+			</td>
+	<td>Barcelo-R</td>
+	<td>8  / 16</td>
+	<td>2 to 4.5 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-7845hx.c3026">Ryzen 9 7845HX</a>
+			</td>
+	<td>Dragon Range</td>
+	<td>12  / 24</td>
+	<td>3 to 5.2 GHz</td>
+	<td>Socket FL1</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-7940h.c3272">Ryzen 9 7940H</a>
+			</td>
+	<td>Phoenix</td>
+	<td>8  / 16</td>
+	<td>4 to 5.2 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-7940hs.c3020">Ryzen 9 7940HS</a>
+			</td>
+	<td>Phoenix</td>
+	<td>8  / 16</td>
+	<td>4 to 5.2 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-7945hx.c3027">Ryzen 9 7945HX</a>
+			</td>
+	<td>Dragon Range</td>
+	<td>16  / 32</td>
+	<td>2.5 to 5.4 GHz</td>
+	<td>Socket FL1</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-7945hx3d.c3263">Ryzen 9 7945HX3D</a>
+			</td>
+	<td>Dragon Range</td>
+	<td>16  / 32</td>
+	<td>2.3 to 5.4 GHz</td>
+	<td>Socket FL1</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>55 W</td>
+	<td>Jul 27th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-8945hs.c3399">Ryzen 9 8945HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>8  / 16</td>
+	<td>4 to 5.2 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Dec 6th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-z1.c3287">Ryzen Z1</a>
+			</td>
+	<td>Phoenix2</td>
+	<td>6  / 12</td>
+	<td>3.2 to 4.9 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>May 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-z1-extreme.c3276">Ryzen Z1 Extreme</a>
+			</td>
+	<td>Phoenix</td>
+	<td>8  / 16</td>
+	<td>3.3 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>May 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/steam-deck-cpu-oled.c3398">Steam Deck CPU (OLED)</a>
+			</td>
+	<td>Van Gogh</td>
+	<td>4  / 8</td>
+	<td>2.4 to 3.5 GHz</td>
+	<td>BGA ST1</td>
+	<td>6 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Nov 9th, 2023</td>
+</tr>
+		
+			</table>
+</div>

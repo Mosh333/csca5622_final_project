@@ -1,0 +1,724 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-5745m.c1620">A10-5745M</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>2.1 to 2.9 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-5750m.c1554">A10-5750M</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>2.5 to 3.5 GHz</td>
+	<td>Socket FS1r2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-5757m.c1619">A10-5757M</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>2.5 to 3.5 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-6700.c1499">A10-6700</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>3.7 to 4.3 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-6700t.c1732">A10-6700T</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>2.5 to 3.5 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Sep 16th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-6790b.c2641">A10-6790B</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>4 to 4.3 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Oct 28th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-6790k.c1746">A10-6790K</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>4 to 4.3 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Oct 28th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-6800k.c1498">A10-6800K</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>4.1 to 4.4 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-1200.c1706">A4-1200</a>
+			</td>
+	<td>Temash</td>
+	<td>2 </td>
+	<td>1000 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>4 W</td>
+	<td>May 23rd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-1250.c1705">A4-1250</a>
+			</td>
+	<td>Temash</td>
+	<td>2 </td>
+	<td>1000 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>8 W</td>
+	<td>May 23rd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-1350.c1727">A4-1350</a>
+			</td>
+	<td>Temash</td>
+	<td>4 </td>
+	<td>1000 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>8 W</td>
+	<td>Oct 18th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-4000.c1626">A4-4000</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>3 to 3.2 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>May 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-5000.c1710">A4-5000</a>
+			</td>
+	<td>Kabini</td>
+	<td>4 </td>
+	<td>1500 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>May 23rd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-5100.c3560">A4-5100</a>
+			</td>
+	<td>Kabini</td>
+	<td>4 </td>
+	<td>1550 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>Nov 4th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-5145m.c1623">A4-5145M</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>2 to 2.6 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>17 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-5150m.c1557">A4-5150M</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>2.7 to 3.3 GHz</td>
+	<td>Socket FS1r2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Mar 12th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-6300.c1503">A4-6300</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>3.7 to 3.9 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-6300b.c2643">A4-6300B</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>3.7 to 3.9 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-6320.c2644">A4-6320</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>3.8 to 4 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Dec 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-1450.c1704">A6-1450</a>
+			</td>
+	<td>Temash</td>
+	<td>4 </td>
+	<td>1000 to 1400 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>8 W</td>
+	<td>May 23rd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-5200.c1711">A6-5200</a>
+			</td>
+	<td>Kabini</td>
+	<td>4 </td>
+	<td>2000 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>May 23rd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-5345m.c1624">A6-5345M</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>2.2 to 2.8 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>17 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-5350m.c1556">A6-5350M</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>2.9 to 3.5 GHz</td>
+	<td>Socket FS1r2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-5357m.c1625">A6-5357M</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>2.9 to 3.5 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-6400b.c2648">A6-6400B</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>3.9 to 4.1 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-6400k.c1502">A6-6400K</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>3.9 to 4.1 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-5545m.c1622">A8-5545M</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>1.7 to 2.7 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-5550m.c1555">A8-5550M</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>2.1 to 3.1 GHz</td>
+	<td>Socket FS1r2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-5557m.c1621">A8-5557M</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>2.1 to 3.1 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-6500.c1501">A8-6500</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>3.5 to 4.1 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-6500b.c2639">A8-6500B</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>3.5 to 4.1 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-6500t.c2640">A8-6500T</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>2.1 to 3.1 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Sep 16th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-6600k.c1500">A8-6600K</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>3.9 to 4.2 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x2-280.c1525">Athlon II X2 280</a>
+			</td>
+	<td>Regor</td>
+	<td>2 </td>
+	<td>3.6 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Feb 6th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-750.c2651">Athlon X4 750</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>3.4 to 4 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-760k.c2650">Athlon X4 760K</a>
+			</td>
+	<td>Richland</td>
+	<td>4 </td>
+	<td>3.8 to 4.1 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Jun 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e1-1500.c1486">E1-1500</a>
+			</td>
+	<td>Zacate</td>
+	<td>2 </td>
+	<td>1480 MHz</td>
+	<td>Socket FT1</td>
+	<td>40 nm</td>
+	<td>N/A</td>
+	<td>18 W</td>
+	<td>Jan 6th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e1-2100.c1707">E1-2100</a>
+			</td>
+	<td>Kabini</td>
+	<td>2 </td>
+	<td>1000 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>9 W</td>
+	<td>May 23rd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e1-2200.c3563">E1-2200</a>
+			</td>
+	<td>Kabini</td>
+	<td>2 </td>
+	<td>1050 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>9 W</td>
+	<td>Nov 5th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e1-2500.c1708">E1-2500</a>
+			</td>
+	<td>Kabini</td>
+	<td>2 </td>
+	<td>1400 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>May 23rd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e2-2000.c1485">E2-2000</a>
+			</td>
+	<td>Zacate</td>
+	<td>2 </td>
+	<td>1750 MHz</td>
+	<td>Socket FT1</td>
+	<td>40 nm</td>
+	<td>N/A</td>
+	<td>18 W</td>
+	<td>Jan 6th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e2-3000.c1709">E2-3000</a>
+			</td>
+	<td>Kabini</td>
+	<td>2 </td>
+	<td>1650 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>May 23rd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-4350.c1579">FX-4350</a>
+			</td>
+	<td>Vishera</td>
+	<td>4 </td>
+	<td>4.2 to 4.3 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>125 W</td>
+	<td>Apr 29th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-6350.c1578">FX-6350</a>
+			</td>
+	<td>Vishera</td>
+	<td>6 </td>
+	<td>3.9 to 4.2 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>125 W</td>
+	<td>Apr 29th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-9370.c1649">FX-9370</a>
+			</td>
+	<td>Vishera</td>
+	<td>8 </td>
+	<td>4.4 to 4.7 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>220 W</td>
+	<td>Jun 11th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-9590.c1650">FX-9590</a>
+			</td>
+	<td>Vishera</td>
+	<td>8 </td>
+	<td>4.7 to 5 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>220 W</td>
+	<td>Jun 11th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/gx-210ua.c3559">GX-210UA</a>
+			</td>
+	<td>Kabini</td>
+	<td>2 </td>
+	<td>1000 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>9 W</td>
+	<td>Apr 23rd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-3365.c3680">Opteron 3365</a>
+			</td>
+	<td>Delhi</td>
+	<td>8 </td>
+	<td>2.3 to 3.3 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jun 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-x1150.c2003">Opteron X1150</a>
+			</td>
+	<td>Kyoto</td>
+	<td>4 </td>
+	<td>2000 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>17 W</td>
+	<td>May 29th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-x2150.c2004">Opteron X2150</a>
+			</td>
+	<td>Kyoto</td>
+	<td>4 </td>
+	<td>1900 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>22 W</td>
+	<td>May 29th, 2013</td>
+</tr>
+		
+			</table>
+</div>

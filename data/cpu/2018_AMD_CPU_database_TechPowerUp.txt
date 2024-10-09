@@ -1,0 +1,710 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-7480.c2614">A6-7480</a>
+			</td>
+	<td>Carrizo</td>
+	<td>2 </td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Oct 26th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-7680.c2120">A8-7680</a>
+			</td>
+	<td>Carrizo</td>
+	<td>4 </td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Oct 26th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-200ge.c2073">Athlon 200GE</a>
+			</td>
+	<td>Zen</td>
+	<td>2  / 4</td>
+	<td>3.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Sep 6th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-220ge.c2122">Athlon 220GE</a>
+			</td>
+	<td>Zen</td>
+	<td>2  / 4</td>
+	<td>3.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Dec 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-240ge.c2127">Athlon 240GE</a>
+			</td>
+	<td>Zen</td>
+	<td>2  / 4</td>
+	<td>3.5 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Dec 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-pro-200ge.c2074">Athlon PRO 200GE</a>
+			</td>
+	<td>Zen</td>
+	<td>2  / 4</td>
+	<td>3.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Sep 18th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7261.c2299">EPYC 7261</a>
+			</td>
+	<td>Naples</td>
+	<td>8  / 16</td>
+	<td>2.5 to 2.9 GHz</td>
+	<td>Socket SP3</td>
+	<td>14 nm</td>
+	<td>32 MB</td>
+	<td>170 W</td>
+	<td>Jun 14th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7371.c2121">EPYC 7371</a>
+			</td>
+	<td>Naples</td>
+	<td>16  / 32</td>
+	<td>3.1 to 3.8 GHz</td>
+	<td>Socket SP3</td>
+	<td>14 nm</td>
+	<td>64 MB</td>
+	<td>170 W</td>
+	<td>Nov 16th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-3101.c3199">EPYC Embedded 3101</a>
+			</td>
+	<td>Zen</td>
+	<td>4 </td>
+	<td>2.1 to 2.9 GHz</td>
+	<td>BGA SP4r2</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-3151.c3200">EPYC Embedded 3151</a>
+			</td>
+	<td>Zen</td>
+	<td>4  / 8</td>
+	<td>2.7 to 2.9 GHz</td>
+	<td>BGA SP4r2</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-3201.c3201">EPYC Embedded 3201</a>
+			</td>
+	<td>Zen</td>
+	<td>8 </td>
+	<td>1.5 to 3.1 GHz</td>
+	<td>BGA SP4r2</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>30 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-3251.c2009">EPYC Embedded 3251</a>
+			</td>
+	<td>Zen</td>
+	<td>8  / 16</td>
+	<td>2.5 to 3.1 GHz</td>
+	<td>BGA SP4r2</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>55 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-3255.c3202">EPYC Embedded 3255</a>
+			</td>
+	<td>Zen</td>
+	<td>8  / 16</td>
+	<td>2.5 to 3.1 GHz</td>
+	<td>BGA SP4r2</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>55 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-3351.c3203">EPYC Embedded 3351</a>
+			</td>
+	<td>Zen</td>
+	<td>12  / 24</td>
+	<td>1.9 to 3 GHz</td>
+	<td>BGA SP4r2</td>
+	<td>14 nm</td>
+	<td>32 MB</td>
+	<td>80 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-3451.c3204">EPYC Embedded 3451</a>
+			</td>
+	<td>Zen</td>
+	<td>16  / 32</td>
+	<td>2.15 to 3 GHz</td>
+	<td>BGA SP4r2</td>
+	<td>14 nm</td>
+	<td>32 MB</td>
+	<td>100 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/gx-212jj.c3672">GX-212JJ</a>
+			</td>
+	<td>Prairie Falcon</td>
+	<td>2 </td>
+	<td>1200 to 1600 MHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>6 W</td>
+	<td>Jun 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/gx-220ij.c3675">GX-220IJ</a>
+			</td>
+	<td>Prairie Falcon</td>
+	<td>2 </td>
+	<td>2 to 2.2 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Jun 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a6-8570.c2620">PRO A6-8570</a>
+			</td>
+	<td>Carrizo</td>
+	<td>2 </td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a6-8570e.c2621">PRO A6-8570E</a>
+			</td>
+	<td>Carrizo</td>
+	<td>2 </td>
+	<td>3 to 3.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-2200g.c1978">Ryzen 3 2200G</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>4 </td>
+	<td>3.5 to 3.7 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>65 W</td>
+	<td>Feb 12th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-2200ge.c2938">Ryzen 3 2200GE</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>4 </td>
+	<td>3.2 to 3.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Apr 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-2200u.c1983">Ryzen 3 2200U</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>2  / 4</td>
+	<td>2.5 to 3.4 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Jan 8th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-2300u.c1977">Ryzen 3 2300U</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>4 </td>
+	<td>2 to 3.4 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Jan 8th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-2300x.c2080">Ryzen 3 2300X</a>
+			</td>
+	<td>Zen</td>
+	<td>4 </td>
+	<td>3.5 to 4 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>65 W</td>
+	<td>Sep 10th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-pro-2200ge.c2937">Ryzen 3 PRO 2200GE</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>4 </td>
+	<td>3.2 to 3.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>May 10th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-2400g.c1976">Ryzen 5 2400G</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>4  / 8</td>
+	<td>3.6 to 3.9 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>65 W</td>
+	<td>Feb 12th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-2400ge.c2936">Ryzen 5 2400GE</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>4  / 8</td>
+	<td>3.2 to 3.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Apr 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-2500x.c2100">Ryzen 5 2500X</a>
+			</td>
+	<td>Zen</td>
+	<td>4  / 8</td>
+	<td>3.6 to 4 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Sep 10th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-2600.c2015">Ryzen 5 2600</a>
+			</td>
+	<td>Zen</td>
+	<td>6  / 12</td>
+	<td>3.4 to 3.9 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-2600e.c2108">Ryzen 5 2600E</a>
+			</td>
+	<td>Zen</td>
+	<td>6  / 12</td>
+	<td>3.1 to 4 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Sep 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-2600h.c2077">Ryzen 5 2600H</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>4  / 8</td>
+	<td>3.3 to 3.6 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>May 30th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-2600x.c2014">Ryzen 5 2600X</a>
+			</td>
+	<td>Zen</td>
+	<td>6  / 12</td>
+	<td>3.6 to 4.25 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>16 MB</td>
+	<td>95 W</td>
+	<td>Apr 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-2400g.c2075">Ryzen 5 PRO 2400G</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>4  / 8</td>
+	<td>3.6 to 3.9 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>65 W</td>
+	<td>May 10th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-2400ge.c2935">Ryzen 5 PRO 2400GE</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>4  / 8</td>
+	<td>3.2 to 3.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>May 10th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-2600.c2106">Ryzen 5 PRO 2600</a>
+			</td>
+	<td>Zen</td>
+	<td>6  / 12</td>
+	<td>3.4 to 3.9 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Sep 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-2700.c2013">Ryzen 7 2700</a>
+			</td>
+	<td>Zen</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.1 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-2700e.c2107">Ryzen 7 2700E</a>
+			</td>
+	<td>Zen</td>
+	<td>8  / 16</td>
+	<td>2.8 to 4 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Sep 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-2700x.c2011">Ryzen 7 2700X</a>
+			</td>
+	<td>Zen</td>
+	<td>8  / 16</td>
+	<td>3.7 to 4.35 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>16 MB</td>
+	<td>105 W</td>
+	<td>Apr 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-2800h.c2076">Ryzen 7 2800H</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>4  / 8</td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>May 30th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-2700.c2105">Ryzen 7 PRO 2700</a>
+			</td>
+	<td>Zen</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.1 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Sep 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-2700x.c2104">Ryzen 7 PRO 2700X</a>
+			</td>
+	<td>Zen</td>
+	<td>8  / 16</td>
+	<td>3.6 to 4.1 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>16 MB</td>
+	<td>95 W</td>
+	<td>Sep 19th, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v1202b.c2066">Ryzen Embedded V1202B</a>
+			</td>
+	<td>Zen</td>
+	<td>2  / 4</td>
+	<td>2.3 to 3.2 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v1605b.c2064">Ryzen Embedded V1605B</a>
+			</td>
+	<td>Zen</td>
+	<td>4  / 8</td>
+	<td>2 to 3.6 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v1756b.c2065">Ryzen Embedded V1756B</a>
+			</td>
+	<td>Zen</td>
+	<td>4  / 8</td>
+	<td>3.25 to 3.6 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>45 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v1807b.c2010">Ryzen Embedded V1807B</a>
+			</td>
+	<td>Zen</td>
+	<td>4  / 8</td>
+	<td>3.35 to 3.8 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>45 W</td>
+	<td>Feb 21st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-2920x.c2099">Ryzen Threadripper 2920X</a>
+			</td>
+	<td>Colfax</td>
+	<td>12  / 24</td>
+	<td>3.5 to 4.3 GHz</td>
+	<td>Socket SP3r2</td>
+	<td>12 nm</td>
+	<td>32 MB</td>
+	<td>180 W</td>
+	<td>Oct 3rd, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-2950x.c2067">Ryzen Threadripper 2950X</a>
+			</td>
+	<td>Colfax</td>
+	<td>16  / 32</td>
+	<td>3.5 to 4.4 GHz</td>
+	<td>Socket SP3r2</td>
+	<td>12 nm</td>
+	<td>32 MB</td>
+	<td>180 W</td>
+	<td>Aug 31st, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-2970wx.c2068">Ryzen Threadripper 2970WX</a>
+			</td>
+	<td>Colfax</td>
+	<td>24  / 48</td>
+	<td>3 to 4.2 GHz</td>
+	<td>Socket SP3r2</td>
+	<td>12 nm</td>
+	<td>64 MB</td>
+	<td>250 W</td>
+	<td>Oct 2nd, 2018</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-2990wx.c2069">Ryzen Threadripper 2990WX</a>
+			</td>
+	<td>Colfax</td>
+	<td>32  / 64</td>
+	<td>3 to 4.2 GHz</td>
+	<td>Socket SP3r2</td>
+	<td>12 nm</td>
+	<td>64 MB</td>
+	<td>250 W</td>
+	<td>Aug 13th, 2018</td>
+</tr>
+		
+			</table>
+</div>

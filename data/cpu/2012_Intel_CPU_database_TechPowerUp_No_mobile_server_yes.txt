@@ -1,0 +1,962 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-s1220.c1458">Atom S1220</a>
+			</td>
+	<td>Centerton</td>
+	<td>2  / 4</td>
+	<td>1600 MHz</td>
+	<td>BGA 1283</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>8 W</td>
+	<td>Dec 11th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-s1240.c1457">Atom S1240</a>
+			</td>
+	<td>Centerton</td>
+	<td>2  / 4</td>
+	<td>1600 MHz</td>
+	<td>BGA 1283</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>6 W</td>
+	<td>Dec 11th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-s1260.c1456">Atom S1260</a>
+			</td>
+	<td>Centerton</td>
+	<td>2  / 4</td>
+	<td>2000 MHz</td>
+	<td>BGA 1283</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>9 W</td>
+	<td>Dec 11th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1105c.c1702">Xeon E3-1105C</a>
+			</td>
+	<td>Gladden</td>
+	<td>4 </td>
+	<td>1000 MHz</td>
+	<td>BGA 1283</td>
+	<td>32 nm</td>
+	<td>6 MB</td>
+	<td>25 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1125c.c1703">Xeon E3-1125C</a>
+			</td>
+	<td>Gladden</td>
+	<td>4 </td>
+	<td>2000 MHz</td>
+	<td>BGA 1283</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>40 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1220-v2.c1033">Xeon E3-1220 v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3.1 to 3.5 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>69 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1220l-v2.c1038">Xeon E3-1220L v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2  / 4</td>
+	<td>2.3 to 3.5 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>17 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1225-v2.c1037">Xeon E3-1225 v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3.2 to 3.6 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>77 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1230-v2.c1032">Xeon E3-1230 v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>3.3 to 3.7 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>69 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1240-v2.c1031">Xeon E3-1240 v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>69 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1245-v2.c1036">Xeon E3-1245 v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>77 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1265l-v2.c1035">Xeon E3-1265L v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>2.5 to 3.5 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1270-v2.c1030">Xeon E3-1270 v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>69 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1275-v2.c1034">Xeon E3-1275 v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>77 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1280-v2.c1029">Xeon E3-1280 v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>3.6 to 4 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>69 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1290-v2.c1028">Xeon E3-1290 v2</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>3.7 to 4.1 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>87 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-1410.c1688">Xeon E5-1410</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>4  / 8</td>
+	<td>2.8 to 3.2 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>10 MB</td>
+	<td>80 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-1428l.c1689">Xeon E5-1428L</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>6  / 12</td>
+	<td>1800 MHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>60 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-1620.c983">Xeon E5-1620</a>
+			</td>
+	<td>Sandy Bridge-E</td>
+	<td>4  / 8</td>
+	<td>3.6 to 3.8 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>10 MB</td>
+	<td>130 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-1650.c984">Xeon E5-1650</a>
+			</td>
+	<td>Sandy Bridge-E</td>
+	<td>6  / 12</td>
+	<td>3.2 to 3.8 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>12 MB</td>
+	<td>130 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-1660.c985">Xeon E5-1660</a>
+			</td>
+	<td>Sandy Bridge-E</td>
+	<td>6  / 12</td>
+	<td>3.3 to 3.9 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>130 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2403.c1690">Xeon E5-2403</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>4  / 8</td>
+	<td>1800 MHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>10 MB</td>
+	<td>80 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2407.c1691">Xeon E5-2407</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>4  / 8</td>
+	<td>2.2 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>10 MB</td>
+	<td>80 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2418l.c1692">Xeon E5-2418L</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>4  / 8</td>
+	<td>2 to 2.1 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>10 MB</td>
+	<td>50 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2420.c1693">Xeon E5-2420</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>6  / 12</td>
+	<td>1.9 to 2.4 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>95 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2428l.c1696">Xeon E5-2428L</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>6  / 12</td>
+	<td>1.8 to 2 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>60 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2430.c1694">Xeon E5-2430</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>6  / 12</td>
+	<td>2.2 to 2.7 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>95 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2430l.c1697">Xeon E5-2430L</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>6  / 12</td>
+	<td>2 to 2.5 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>60 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2440.c1695">Xeon E5-2440</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>6  / 12</td>
+	<td>2.4 to 2.9 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>95 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2448l.c1700">Xeon E5-2448L</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>8  / 16</td>
+	<td>1.8 to 2.1 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>70 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2450.c1698">Xeon E5-2450</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>8  / 16</td>
+	<td>2.1 to 2.9 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>95 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2450l.c1701">Xeon E5-2450L</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>8  / 16</td>
+	<td>1.8 to 2.3 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>70 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2470.c1699">Xeon E5-2470</a>
+			</td>
+	<td>Sandy Bridge-EN</td>
+	<td>8  / 16</td>
+	<td>2.3 to 3.1 GHz</td>
+	<td>Socket 1356</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>95 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2603.c965">Xeon E5-2603</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>4 </td>
+	<td>1800 MHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>10 MB</td>
+	<td>80 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2609.c966">Xeon E5-2609</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>4 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>10 MB</td>
+	<td>80 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2620.c969">Xeon E5-2620</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2 to 2.5 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>95 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2630.c970">Xeon E5-2630</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2.3 to 2.8 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>95 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2630l.c973">Xeon E5-2630L</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2 to 2.5 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>60 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2637.c968">Xeon E5-2637</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>2  / 4</td>
+	<td>3 to 3.5 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>5 MB</td>
+	<td>80 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2640.c971">Xeon E5-2640</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2.5 to 3 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>95 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2643.c967">Xeon E5-2643</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>4  / 8</td>
+	<td>3.3 to 3.5 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>10 MB</td>
+	<td>130 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2648l.c1687">Xeon E5-2648L</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>1.8 to 2.3 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>70 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2650.c974">Xeon E5-2650</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2 to 2.8 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>95 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2650l.c982">Xeon E5-2650L</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>1.8 to 2.3 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>70 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2658.c975">Xeon E5-2658</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.1 to 2.4 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>95 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2660.c976">Xeon E5-2660</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.2 to 3 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>95 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2665.c977">Xeon E5-2665</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.4 to 3.1 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>115 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2667.c972">Xeon E5-2667</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2.9 to 3.5 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>130 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2670.c978">Xeon E5-2670</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.6 to 3.3 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>115 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2680.c979">Xeon E5-2680</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.7 to 3.5 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>130 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2687w.c981">Xeon E5-2687W</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>3.1 to 3.8 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>150 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2689.c3260">Xeon E5-2689</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.6 to 3.6 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>115 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2690.c980">Xeon E5-2690</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.9 to 3.8 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>135 W</td>
+	<td>Mar 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-4603.c1465">Xeon E5-4603</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>4  / 8</td>
+	<td>2000 MHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>10 MB</td>
+	<td>95 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-4607.c1683">Xeon E5-4607</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2.2 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>95 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-4610.c1682">Xeon E5-4610</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2.4 to 2.9 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>130 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-4617.c1464">Xeon E5-4617</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2.9 to 3.4 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>130 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-4620.c1684">Xeon E5-4620</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.2 to 2.6 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>16 MB</td>
+	<td>130 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-4640.c1685">Xeon E5-4640</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.4 to 2.8 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>95 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-4650.c1463">Xeon E5-4650</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.7 to 3.3 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>130 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-4650l.c1686">Xeon E5-4650L</a>
+			</td>
+	<td>Sandy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.6 to 3.1 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>20 MB</td>
+	<td>115 W</td>
+	<td>May 14th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-3110x.c2052">Xeon Phi 3110X</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>61  / 244</td>
+	<td>1053 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>300 W</td>
+	<td>Nov 12th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-5110p.c2029">Xeon Phi 5110P</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>60  / 240</td>
+	<td>1053 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>225 W</td>
+	<td>Nov 12th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-7110p.c2035">Xeon Phi 7110P</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>61  / 244</td>
+	<td>1250 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>300 W</td>
+	<td>Nov 12th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-7110x.c2036">Xeon Phi 7110X</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>61  / 244</td>
+	<td>1250 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>300 W</td>
+	<td>Nov 12th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-se10p.c2033">Xeon Phi SE10P</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>61  / 244</td>
+	<td>1100 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>300 W</td>
+	<td>Nov 12th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-se10x.c2034">Xeon Phi SE10X</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>61  / 244</td>
+	<td>1100 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>300 W</td>
+	<td>Nov 12th, 2012</td>
+</tr>
+		
+			</table>
+</div>

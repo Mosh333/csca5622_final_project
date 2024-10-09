@@ -1,0 +1,500 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-7860k.c2604">A10-7860K</a>
+			</td>
+	<td>Godaveri</td>
+	<td>4 </td>
+	<td>3.6 to 4 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Feb 2nd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-7890k.c1832">A10-7890K</a>
+			</td>
+	<td>Godaveri</td>
+	<td>4 </td>
+	<td>4 to 4.3 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jan 11th, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-7470k.c2628">A6-7470K</a>
+			</td>
+	<td>Godaveri</td>
+	<td>2 </td>
+	<td>3.7 to 4 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Feb 2nd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-9200-soc.c3698">A6-9200 SoC</a>
+			</td>
+	<td>Stoney Ridge</td>
+	<td>2 </td>
+	<td>2 to 2.8 GHz</td>
+	<td>Socket FT4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-9210-soc.c3697">A6-9210 SoC</a>
+			</td>
+	<td>Stoney Ridge</td>
+	<td>2 </td>
+	<td>2.4 to 2.8 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-9230-soc.c3699">A6-9230 SoC</a>
+			</td>
+	<td>Stoney Ridge</td>
+	<td>2 </td>
+	<td>2.6 to 2.8 GHz</td>
+	<td>Socket FT4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-9500.c1959">A6-9500</a>
+			</td>
+	<td>Bristol Ridge</td>
+	<td>2 </td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Sep 5th, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-9500e.c1960">A6-9500E</a>
+			</td>
+	<td>Bristol Ridge</td>
+	<td>2 </td>
+	<td>3 to 3.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Sep 5th, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a9-9400-soc.c2061">A9-9400 SoC</a>
+			</td>
+	<td>Stoney Ridge</td>
+	<td>2 </td>
+	<td>2.4 to 3.2 GHz</td>
+	<td>Socket FT4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a9-9410-soc.c2063">A9-9410 SoC</a>
+			</td>
+	<td>Stoney Ridge</td>
+	<td>2 </td>
+	<td>2.9 to 3.5 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a9-9420-soc.c2060">A9-9420 SoC</a>
+			</td>
+	<td>Stoney Ridge</td>
+	<td>2 </td>
+	<td>3 to 3.6 GHz</td>
+	<td>Socket FT4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a9-9420e-soc.c3693">A9-9420e SoC</a>
+			</td>
+	<td>Stoney Ridge</td>
+	<td>2 </td>
+	<td>1.8 to 2.7 GHz</td>
+	<td>Socket FT4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>6 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a9-9425-soc.c2062">A9-9425 SoC</a>
+			</td>
+	<td>Stoney Ridge</td>
+	<td>2 </td>
+	<td>3.1 to 3.7 GHz</td>
+	<td>Socket FT4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a9-9430-soc.c3692">A9-9430 SoC</a>
+			</td>
+	<td>Stoney Ridge</td>
+	<td>2 </td>
+	<td>3.1 to 3.7 GHz</td>
+	<td>Socket FT4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-845.c2600">Athlon X4 845</a>
+			</td>
+	<td>Carrizo</td>
+	<td>4 </td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Feb 2nd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-9800p.c3666">FX-9800P</a>
+			</td>
+	<td>Bristol Ridge</td>
+	<td>4 </td>
+	<td>2.7 to 3.6 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-9830p.c3665">FX-9830P</a>
+			</td>
+	<td>Bristol Ridge</td>
+	<td>4 </td>
+	<td>3 to 3.7 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>May 31st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/gx-215jj.c3671">GX-215JJ</a>
+			</td>
+	<td>Prairie Falcon</td>
+	<td>2 </td>
+	<td>1.5 to 2 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>6 W</td>
+	<td>Feb 23rd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/gx-217gi.c3674">GX-217GI</a>
+			</td>
+	<td>Brown Falcon</td>
+	<td>2 </td>
+	<td>1.7 to 2 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/gx-224ij.c3676">GX-224IJ</a>
+			</td>
+	<td>Prairie Falcon</td>
+	<td>2 </td>
+	<td>2.4 to 2.8 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Feb 23rd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/gx-420gi.c3673">GX-420GI</a>
+			</td>
+	<td>Brown Falcon</td>
+	<td>4 </td>
+	<td>2 to 2.2 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-a1120.c2006">Opteron A1120</a>
+			</td>
+	<td>Seattle</td>
+	<td>4 </td>
+	<td>1700 MHz</td>
+	<td>Socket SP1</td>
+	<td>28 nm</td>
+	<td>8 MB</td>
+	<td>25 W</td>
+	<td>Jan 14th, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-a1150.c2007">Opteron A1150</a>
+			</td>
+	<td>Seattle</td>
+	<td>8 </td>
+	<td>1700 MHz</td>
+	<td>Socket SP1</td>
+	<td>28 nm</td>
+	<td>8 MB</td>
+	<td>32 W</td>
+	<td>Jan 14th, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-a1170.c2008">Opteron A1170</a>
+			</td>
+	<td>Seattle</td>
+	<td>8 </td>
+	<td>2000 MHz</td>
+	<td>Socket SP1</td>
+	<td>28 nm</td>
+	<td>8 MB</td>
+	<td>32 W</td>
+	<td>Jan 14th, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-x2170.c2005">Opteron X2170</a>
+			</td>
+	<td>Steppe Eagle</td>
+	<td>4 </td>
+	<td>2.4 GHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Sep 1st, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a10-8770.c2607">PRO A10-8770</a>
+			</td>
+	<td>Carrizo</td>
+	<td>4 </td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a10-8770e.c2608">PRO A10-8770E</a>
+			</td>
+	<td>Carrizo</td>
+	<td>4 </td>
+	<td>2.8 to 3.5 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Oct 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a10-9700e.c2794">PRO A10-9700E</a>
+			</td>
+	<td>Bristol Ridge</td>
+	<td>4 </td>
+	<td>3 to 3.5 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Oct 3rd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a12-8870.c2609">PRO A12-8870</a>
+			</td>
+	<td>Carrizo</td>
+	<td>4 </td>
+	<td>3.7 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a12-8870e.c2610">PRO A12-8870E</a>
+			</td>
+	<td>Carrizo</td>
+	<td>4 </td>
+	<td>2.9 to 3.7 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Oct 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a12-9800.c2611">PRO A12-9800</a>
+			</td>
+	<td>Bristol Ridge</td>
+	<td>4 </td>
+	<td>3.8 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 3rd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a6-9500.c2624">PRO A6-9500</a>
+			</td>
+	<td>Bristol Ridge</td>
+	<td>2 </td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 3rd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a6-9500e.c2623">PRO A6-9500E</a>
+			</td>
+	<td>Bristol Ridge</td>
+	<td>2 </td>
+	<td>3 to 3.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Oct 3rd, 2016</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a8-9600.c1957">PRO A8-9600</a>
+			</td>
+	<td>Bristol Ridge</td>
+	<td>4 </td>
+	<td>3.1 to 3.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 3rd, 2016</td>
+</tr>
+		
+			</table>
+</div>

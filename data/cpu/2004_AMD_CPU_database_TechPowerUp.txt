@@ -1,0 +1,1326 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-2700.c66">Athlon 64 2700+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>32 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-2800.c65">Athlon 64 2800+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>32 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-2800.c55">Athlon 64 2800+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-2800.c320">Athlon 64 2800+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3000.c64">Athlon 64 3000+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>32 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3000.c54">Athlon 64 3000+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3000.c545">Athlon 64 3000+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 939</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3000.c48">Athlon 64 3000+</a>
+			</td>
+	<td>Winchester</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 939</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>67 W</td>
+	<td>Oct 14th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3200.c53">Athlon 64 3200+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3200.c45">Athlon 64 3200+</a>
+			</td>
+	<td>Winchester</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 939</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>67 W</td>
+	<td>Oct 14th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3200.c46">Athlon 64 3200+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 939</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3300.c542">Athlon 64 3300+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3400.c50">Athlon 64 3400+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Jan 6th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3400.c51">Athlon 64 3400+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3400.c546">Athlon 64 3400+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 939</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Apr 27th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3500.c318">Athlon 64 3500+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 939</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Jun 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3500.c42">Athlon 64 3500+</a>
+			</td>
+	<td>Winchester</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 939</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>67 W</td>
+	<td>Oct 14th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3500.c43">Athlon 64 3500+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 939</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Jun 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3600.c2153">Athlon 64 3600+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Jun 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3700.c49">Athlon 64 3700+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Jun 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3800.c57">Athlon 64 3800+</a>
+			</td>
+	<td>NewCastle</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 939</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Jun 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3800.c2154">Athlon 64 3800+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 939</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Jun 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-4000.c37">Athlon 64 4000+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 939</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Oct 19th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-fx-53.c34">Athlon 64 FX-53</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Mar 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-fx-53.c33">Athlon 64 FX-53</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 939</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Jun 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-fx-55.c32">Athlon 64 FX-55</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 939</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>104 W</td>
+	<td>Oct 10th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-fx-55.c31">Athlon 64 FX-55</a>
+			</td>
+	<td>San Diego</td>
+	<td>1 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 939</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>104 W</td>
+	<td>Oct 10th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-xp-2600-dtr.c93">Athlon XP 2600+ DTR</a>
+			</td>
+	<td>Barton</td>
+	<td>1 </td>
+	<td>1917 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>55 W</td>
+	<td>Nov 19th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-xp-2800-dtr.c92">Athlon XP 2800+ DTR</a>
+			</td>
+	<td>Barton</td>
+	<td>1 </td>
+	<td>2.083 GHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>55 W</td>
+	<td>Dec 29th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-xp-m-2200.c2826">Athlon XP-M 2200+</a>
+			</td>
+	<td>Barton</td>
+	<td>1 </td>
+	<td>1667 MHz</td>
+	<td>Socket 563</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jul 24th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-xp-m-2800.c2825">Athlon XP-M 2800+</a>
+			</td>
+	<td>Barton</td>
+	<td>1 </td>
+	<td>2.133 GHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>55 W</td>
+	<td>Jul 13th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-xp-m-2800-72w.c2824">Athlon XP-M 2800+ (72W)</a>
+			</td>
+	<td>Barton</td>
+	<td>1 </td>
+	<td>2.133 GHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>72 W</td>
+	<td>Jul 13th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-2700.c2163">Mobile Athlon 64 2700+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-2800.c2195">Mobile Athlon 64 2800+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-2800.c2201">Mobile Athlon 64 2800+</a>
+			</td>
+	<td>Odessa</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-2800.c2199">Mobile Athlon 64 2800+</a>
+			</td>
+	<td>Odessa</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-3000.c2200">Mobile Athlon 64 3000+</a>
+			</td>
+	<td>Odessa</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-3000.c2196">Mobile Athlon 64 3000+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-3200.c2197">Mobile Athlon 64 3200+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-140.c1115">Opteron 140</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1400 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-140-ee.c224">Opteron 140 EE</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1400 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>30 W</td>
+	<td>Feb 14th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-142.c1139">Opteron 142</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-144.c218">Opteron 144</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-146-he.c1123">Opteron 146 HE</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>55 W</td>
+	<td>Feb 14th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-148.c1135">Opteron 148</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-148-he.c211">Opteron 148 HE</a>
+			</td>
+	<td>Venus</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>55 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-150.c214">Opteron 150</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-240.c1118">Opteron 240</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1400 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-240-ee.c1122">Opteron 240 EE</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1400 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>30 W</td>
+	<td>Feb 14th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-242.c1136">Opteron 242</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-242.c206">Opteron 242</a>
+			</td>
+	<td>Troy</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-244.c1140">Opteron 244</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-244.c204">Opteron 244</a>
+			</td>
+	<td>Troy</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-246.c202">Opteron 246</a>
+			</td>
+	<td>Troy</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-246.c1155">Opteron 246</a>
+			</td>
+	<td>Troy</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-246-he.c1124">Opteron 246 HE</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>55 W</td>
+	<td>Feb 14th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-248.c199">Opteron 248</a>
+			</td>
+	<td>Troy</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-248.c1134">Opteron 248</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-248.c1156">Opteron 248</a>
+			</td>
+	<td>Troy</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-250.c1126">Opteron 250</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-250.c195">Opteron 250</a>
+			</td>
+	<td>Troy</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-840.c222">Opteron 840</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1400 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-840-ee.c1121">Opteron 840 EE</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1400 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>30 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-842.c205">Opteron 842</a>
+			</td>
+	<td>Athens</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-842.c1138">Opteron 842</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-844.c203">Opteron 844</a>
+			</td>
+	<td>Athens</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-844.c1141">Opteron 844</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-846.c201">Opteron 846</a>
+			</td>
+	<td>Athens</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-846.c1159">Opteron 846</a>
+			</td>
+	<td>Athens</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-846-he.c217">Opteron 846 HE</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>55 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-848.c197">Opteron 848</a>
+			</td>
+	<td>Athens</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-848.c1133">Opteron 848</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-850.c1125">Opteron 850</a>
+			</td>
+	<td>SledgeHammer</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 940</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 18th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-850.c193">Opteron 850</a>
+			</td>
+	<td>Athens</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>85 W</td>
+	<td>Dec 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2200.c1182">Sempron 2200+</a>
+			</td>
+	<td>Thoroughbred</td>
+	<td>1 </td>
+	<td>1500 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2200.c1183">Sempron 2200+</a>
+			</td>
+	<td>Thorton</td>
+	<td>1 </td>
+	<td>1500 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2300.c1181">Sempron 2300+</a>
+			</td>
+	<td>Thoroughbred</td>
+	<td>1 </td>
+	<td>1583 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2400.c166">Sempron 2400+</a>
+			</td>
+	<td>Thoroughbred</td>
+	<td>1 </td>
+	<td>1667 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2400.c1184">Sempron 2400+</a>
+			</td>
+	<td>Thorton</td>
+	<td>1 </td>
+	<td>1667 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2500.c164">Sempron 2500+</a>
+			</td>
+	<td>Thoroughbred</td>
+	<td>1 </td>
+	<td>1750 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2600.c538">Sempron 2600+</a>
+			</td>
+	<td>Georgetown</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2600.c72">Sempron 2600+</a>
+			</td>
+	<td>Palermo</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2600.c1190">Sempron 2600+</a>
+			</td>
+	<td>Sonora</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2600.c165">Sempron 2600+</a>
+			</td>
+	<td>Thoroughbred</td>
+	<td>1 </td>
+	<td>1833 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2800.c70">Sempron 2800+</a>
+			</td>
+	<td>Palermo</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2800.c1191">Sempron 2800+</a>
+			</td>
+	<td>Sonora</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2800.c1185">Sempron 2800+</a>
+			</td>
+	<td>Thorton</td>
+	<td>1 </td>
+	<td>1992 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 1st, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2800.c163">Sempron 2800+</a>
+			</td>
+	<td>Thoroughbred</td>
+	<td>1 </td>
+	<td>1992 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2800.c536">Sempron 2800+</a>
+			</td>
+	<td>Georgetown</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3000.c537">Sempron 3000+</a>
+			</td>
+	<td>Georgetown</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3000.c73">Sempron 3000+</a>
+			</td>
+	<td>Barton</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket A</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Sep 17th, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3000.c1192">Sempron 3000+</a>
+			</td>
+	<td>Sonora</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Nov 23rd, 2004</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3100.c71">Sempron 3100+</a>
+			</td>
+	<td>Paris</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 28th, 2004</td>
+</tr>
+		
+			</table>
+</div>

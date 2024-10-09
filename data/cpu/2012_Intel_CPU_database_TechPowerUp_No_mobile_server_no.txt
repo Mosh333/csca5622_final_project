@@ -1,0 +1,654 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1610.c1482">Celeron G1610</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>2 MB</td>
+	<td>55 W</td>
+	<td>Dec 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1610t.c1484">Celeron G1610T</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>2.3 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>2 MB</td>
+	<td>35 W</td>
+	<td>Dec 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1620.c1483">Celeron G1620</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>2.7 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>2 MB</td>
+	<td>55 W</td>
+	<td>Dec 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g465.c1341">Celeron G465</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>1 </td>
+	<td>1900 MHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>1.5 MB</td>
+	<td>35 W</td>
+	<td>Sep 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g550.c1339">Celeron G550</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>2 MB</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g555.c1340">Celeron G555</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>2 </td>
+	<td>2.7 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>2 MB</td>
+	<td>65 W</td>
+	<td>Sep 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-2115c.c1580">Core i3-2115C</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>2  / 4</td>
+	<td>2000 MHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>65 W</td>
+	<td>May 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-3220.c1053">Core i3-3220</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2  / 4</td>
+	<td>3.3 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>55 W</td>
+	<td>Sep 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-3220t.c1055">Core i3-3220T</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2  / 4</td>
+	<td>2.8 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-3225.c1047">Core i3-3225</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2  / 4</td>
+	<td>3.3 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>55 W</td>
+	<td>Sep 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-3240.c1054">Core i3-3240</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2  / 4</td>
+	<td>3.4 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>55 W</td>
+	<td>Sep 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-3240t.c1056">Core i3-3240T</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2  / 4</td>
+	<td>3 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-2380p.c957">Core i5-2380P</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>4 </td>
+	<td>3.1 to 3.4 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Jan 30th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-2450p.c956">Core i5-2450P</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>4 </td>
+	<td>3.2 to 3.5 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Jan 30th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-2550k.c955">Core i5-2550K</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>4 </td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Jan 30th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3330.c1076">Core i5-3330</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3 to 3.2 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>77 W</td>
+	<td>Sep 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3330s.c1077">Core i5-3330S</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>2.7 to 3.2 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>77 W</td>
+	<td>Sep 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3335s.c1212">Core i5-3335S</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>2.7 to 3.2 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Nov 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3350p.c1078">Core i5-3350P</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3.1 to 3.3 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>69 W</td>
+	<td>Sep 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3450.c1015">Core i5-3450</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3.1 to 3.5 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>77 W</td>
+	<td>Apr 29th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3450s.c1016">Core i5-3450S</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>2.8 to 3.5 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Apr 29th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3470.c1039">Core i5-3470</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3.2 to 3.6 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>77 W</td>
+	<td>Jun 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3470s.c1040">Core i5-3470S</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>2.9 to 3.6 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3470t.c1041">Core i5-3470T</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2  / 4</td>
+	<td>2.9 to 3.6 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jun 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3475s.c1042">Core i5-3475S</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>2.9 to 3.6 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3550.c1006">Core i5-3550</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3.3 to 3.7 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>77 W</td>
+	<td>Apr 29th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3550s.c1007">Core i5-3550S</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3 to 3.7 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Apr 29th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3570.c1057">Core i5-3570</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>77 W</td>
+	<td>Jun 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3570k.c1005">Core i5-3570K</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>77 W</td>
+	<td>Apr 29th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3570s.c1058">Core i5-3570S</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>3.1 to 3.8 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-3570t.c1008">Core i5-3570T</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4 </td>
+	<td>2.3 to 3.3 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>45 W</td>
+	<td>Apr 29th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-3770.c1002">Core i7-3770</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>3.4 to 3.9 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>77 W</td>
+	<td>Apr 29th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-3770k.c1001">Core i7-3770K</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>77 W</td>
+	<td>Apr 29th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-3770s.c1003">Core i7-3770S</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>3.1 to 3.9 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Apr 29th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-3770t.c1004">Core i7-3770T</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>4  / 8</td>
+	<td>2.5 to 3.7 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Apr 29th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-3820.c961">Core i7-3820</a>
+			</td>
+	<td>Sandy Bridge-E</td>
+	<td>4  / 8</td>
+	<td>3.6 to 3.8 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>10 MB</td>
+	<td>130 W</td>
+	<td>Feb 13th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-3970x.c1291">Core i7-3970X</a>
+			</td>
+	<td>Sandy Bridge-E</td>
+	<td>6  / 12</td>
+	<td>3.5 to 4 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>15 MB</td>
+	<td>150 W</td>
+	<td>Nov 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g2100t.c1355">Pentium G2100T</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g2120.c1354">Pentium G2120</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>3.1 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>55 W</td>
+	<td>Sep 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g640.c1348">Pentium G640</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>65 W</td>
+	<td>Jun 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g640t.c1351">Pentium G640T</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jun 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g645.c1349">Pentium G645</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>2 </td>
+	<td>2.9 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>65 W</td>
+	<td>Sep 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g645t.c1353">Pentium G645T</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>2 </td>
+	<td>2.5 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g860t.c1352">Pentium G860T</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jun 3rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g870.c1350">Pentium G870</a>
+			</td>
+	<td>Sandy Bridge</td>
+	<td>2 </td>
+	<td>3.1 GHz</td>
+	<td>Socket 1155</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>65 W</td>
+	<td>Jun 3rd, 2012</td>
+</tr>
+		
+			</table>
+</div>

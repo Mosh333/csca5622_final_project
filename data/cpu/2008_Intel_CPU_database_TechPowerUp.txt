@@ -1,0 +1,878 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-230.c1395">Atom 230</a>
+			</td>
+	<td>Diamondville</td>
+	<td>1  / 2</td>
+	<td>1600 MHz</td>
+	<td>BGA 437</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>4 W</td>
+	<td>Jun 3rd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-330.c1396">Atom 330</a>
+			</td>
+	<td>Diamondville</td>
+	<td>2  / 4</td>
+	<td>1600 MHz</td>
+	<td>BGA 437</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>8 W</td>
+	<td>Jun 3rd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-n270.c1410">Atom N270</a>
+			</td>
+	<td>Diamondville</td>
+	<td>1  / 2</td>
+	<td>1600 MHz</td>
+	<td>BGA 437</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>3 W</td>
+	<td>Jun 3rd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-n280.c1411">Atom N280</a>
+			</td>
+	<td>Diamondville</td>
+	<td>1  / 2</td>
+	<td>1667 MHz</td>
+	<td>BGA 437</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>3 W</td>
+	<td>Jun 3rd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z500.c1416">Atom Z500</a>
+			</td>
+	<td>Silverthorne</td>
+	<td>1 </td>
+	<td>800 MHz</td>
+	<td>BGA 441</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>1 W</td>
+	<td>Apr 2nd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z510.c1417">Atom Z510</a>
+			</td>
+	<td>Silverthorne</td>
+	<td>1 </td>
+	<td>1100 MHz</td>
+	<td>BGA 441</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>2 W</td>
+	<td>Apr 2nd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z520.c1421">Atom Z520</a>
+			</td>
+	<td>Silverthorne</td>
+	<td>1  / 2</td>
+	<td>1334 MHz</td>
+	<td>BGA 441</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>2 W</td>
+	<td>Apr 2nd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z530.c1423">Atom Z530</a>
+			</td>
+	<td>Silverthorne</td>
+	<td>1  / 2</td>
+	<td>1600 MHz</td>
+	<td>BGA 441</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>2 W</td>
+	<td>Apr 2nd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z540.c1425">Atom Z540</a>
+			</td>
+	<td>Silverthorne</td>
+	<td>1  / 2</td>
+	<td>1867 MHz</td>
+	<td>BGA 441</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>2 W</td>
+	<td>Apr 2nd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-445.c840">Celeron 445</a>
+			</td>
+	<td>Conroe-CL</td>
+	<td>1 </td>
+	<td>1866 MHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>May 1st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-450.c845">Celeron 450</a>
+			</td>
+	<td>Conroe-L</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Aug 31st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-e1200.c836">Celeron E1200</a>
+			</td>
+	<td>Allendale</td>
+	<td>2 </td>
+	<td>1600 MHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jan 20th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-e1400.c837">Celeron E1400</a>
+			</td>
+	<td>Allendale</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Apr 20th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-e1500.c838">Celeron E1500</a>
+			</td>
+	<td>Allendale</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Nov 30th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e4700.c522">Core 2 Duo E4700</a>
+			</td>
+	<td>Allendale</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Mar 2nd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e7200.c517">Core 2 Duo E7200</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>2.533 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Apr 20th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e7300.c518">Core 2 Duo E7300</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>2.667 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Aug 10th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e7400.c1532">Core 2 Duo E7400</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 10th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e8190.c622">Core 2 Duo E8190</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>2.667 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jan 1st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e8200.c468">Core 2 Duo E8200</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>2.667 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jan 1st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e8300.c1073">Core 2 Duo E8300</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>2.833 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Apr 1st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e8400.c467">Core 2 Duo E8400</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jan 1st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e8500.c469">Core 2 Duo E8500</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>3.166 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jan 1st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e8600.c621">Core 2 Duo E8600</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>3.333 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Aug 8th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-p8400.c2717">Core 2 Duo P8400</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.267 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jun 13th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-p8600.c2718">Core 2 Duo P8600</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jun 13th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-p8700.c2728">Core 2 Duo P8700</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.533 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Dec 28th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-p8800.c2729">Core 2 Duo P8800</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.667 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Dec 28th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-p9500.c2730">Core 2 Duo P9500</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.533 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jul 15th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-p9600.c2731">Core 2 Duo P9600</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.667 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Dec 28th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t8100.c2733">Core 2 Duo T8100</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.1 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t8300.c2734">Core 2 Duo T8300</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t9300.c2735">Core 2 Duo T9300</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.5 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t9400.c2736">Core 2 Duo T9400</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.533 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jul 15th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t9500.c2737">Core 2 Duo T9500</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t9550.c2738">Core 2 Duo T9550</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.667 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Dec 28th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t9600.c2739">Core 2 Duo T9600</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jul 15th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t9800.c2740">Core 2 Duo T9800</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.933 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Dec 28th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-u7500.c1542">Core 2 Duo U7500</a>
+			</td>
+	<td>Merom</td>
+	<td>2 </td>
+	<td>1073 MHz</td>
+	<td>Socket P</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Feb 27th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-u7700.c1539">Core 2 Duo U7700</a>
+			</td>
+	<td>Merom</td>
+	<td>2 </td>
+	<td>1333 MHz</td>
+	<td>Socket P</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Feb 27th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-extreme-qx9300.c1388">Core 2 Extreme QX9300</a>
+			</td>
+	<td>Penryn QC XE</td>
+	<td>4 </td>
+	<td>2.534 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Aug 1st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-extreme-qx9770.c531">Core 2 Extreme QX9770</a>
+			</td>
+	<td>Yorkfield</td>
+	<td>4 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>136 W</td>
+	<td>Mar 24th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-extreme-qx9775.c532">Core 2 Extreme QX9775</a>
+			</td>
+	<td>Yorkfield</td>
+	<td>4 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 771</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>150 W</td>
+	<td>Mar 24th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-extreme-x9000.c2742">Core 2 Extreme X9000</a>
+			</td>
+	<td>Penryn XE</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>44 W</td>
+	<td>Jan 7th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-extreme-x9100.c1386">Core 2 Extreme X9100</a>
+			</td>
+	<td>Penryn XE</td>
+	<td>2 </td>
+	<td>3.067 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>44 W</td>
+	<td>Jul 1st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-quad-q8200.c524">Core 2 Quad Q8200</a>
+			</td>
+	<td>Yorkfield</td>
+	<td>4 </td>
+	<td>2.333 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 31st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-quad-q8300.c654">Core 2 Quad Q8300</a>
+			</td>
+	<td>Yorkfield</td>
+	<td>4 </td>
+	<td>2.5 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Nov 30th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-quad-q9100.c1387">Core 2 Quad Q9100</a>
+			</td>
+	<td>Penryn QC</td>
+	<td>4 </td>
+	<td>2.267 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Aug 1st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-quad-q9300.c525">Core 2 Quad Q9300</a>
+			</td>
+	<td>Yorkfield</td>
+	<td>4 </td>
+	<td>2.5 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Mar 10th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-quad-q9400.c526">Core 2 Quad Q9400</a>
+			</td>
+	<td>Yorkfield</td>
+	<td>4 </td>
+	<td>2.666 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 10th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-quad-q9450.c527">Core 2 Quad Q9450</a>
+			</td>
+	<td>Yorkfield</td>
+	<td>4 </td>
+	<td>2.666 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Mar 25th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-quad-q9550.c528">Core 2 Quad Q9550</a>
+			</td>
+	<td>Yorkfield</td>
+	<td>4 </td>
+	<td>2.833 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Mar 25th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-quad-q9650.c529">Core 2 Quad Q9650</a>
+			</td>
+	<td>Yorkfield</td>
+	<td>4 </td>
+	<td>3 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 10th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-solo-ulv-su3300.c1091">Core 2 Solo ULV SU3300</a>
+			</td>
+	<td>Penryn-L</td>
+	<td>1 </td>
+	<td>1200 MHz</td>
+	<td>BGA 956</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>5 W</td>
+	<td>May 1st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-920.c646">Core i7-920</a>
+			</td>
+	<td>Bloomfield</td>
+	<td>4  / 8</td>
+	<td>2.666 to 2.933 GHz</td>
+	<td>Socket 1366</td>
+	<td>45 nm</td>
+	<td>8 MB</td>
+	<td>130 W</td>
+	<td>Nov 17th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-940.c645">Core i7-940</a>
+			</td>
+	<td>Bloomfield</td>
+	<td>4  / 8</td>
+	<td>2.933 to 3.2 GHz</td>
+	<td>Socket 1366</td>
+	<td>45 nm</td>
+	<td>8 MB</td>
+	<td>130 W</td>
+	<td>Nov 17th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-965.c643">Core i7-965</a>
+			</td>
+	<td>Bloomfield</td>
+	<td>4  / 8</td>
+	<td>3.2 to 3.466 GHz</td>
+	<td>Socket 1366</td>
+	<td>45 nm</td>
+	<td>8 MB</td>
+	<td>130 W</td>
+	<td>Nov 17th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-dual-core-e2220.c848">Pentium Dual-Core E2220</a>
+			</td>
+	<td>Allendale</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Mar 2nd, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-e5200.c851">Pentium E5200</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>2.5 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Aug 31st, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-e5300.c852">Pentium E5300</a>
+			</td>
+	<td>Wolfdale</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 775</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Nov 30th, 2008</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-x5492.c3240">Xeon X5492</a>
+			</td>
+	<td>Harpertown</td>
+	<td>4 </td>
+	<td>3.4 GHz</td>
+	<td>Socket 771</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>150 W</td>
+	<td>Sep 8th, 2008</td>
+</tr>
+		
+			</table>
+</div>

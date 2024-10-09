@@ -1,0 +1,836 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g5900.c2307">Celeron G5900</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>2 </td>
+	<td>3.4 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>58 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g5920.c2306">Celeron G5920</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>2 </td>
+	<td>3.5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>58 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1000ng4.c3591">Core i3-1000NG4</a>
+			</td>
+	<td>Ice Lake-Y</td>
+	<td>2  / 4</td>
+	<td>1.1 to 3.2 GHz</td>
+	<td>BGA 1044</td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>9 W</td>
+	<td>Mar 18th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10100.c2206">Core i3-10100</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>4  / 8</td>
+	<td>3.6 to 4.3 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10300.c2207">Core i3-10300</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>4  / 8</td>
+	<td>3.7 to 4.4 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>62 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10320.c2208">Core i3-10320</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>4  / 8</td>
+	<td>3.8 to 4.6 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>91 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10350k.c2209">Core i3-10350K</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>4  / 8</td>
+	<td>4.1 to 4.8 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>91 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1110g4.c2351">Core i3-1110G4</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>2  / 4</td>
+	<td>1.8 to 3.9 GHz</td>
+	<td>BGA 1598</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>15 W</td>
+	<td>Sep 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1115g4.c2348">Core i3-1115G4</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>2  / 4</td>
+	<td>3 to 4.1 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>28 W</td>
+	<td>Sep 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1120g4.c2350">Core i3-1120G4</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.1 to 3.5 GHz</td>
+	<td>BGA 1598</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Sep 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1125g4.c2347">Core i3-1125G4</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>4  / 8</td>
+	<td>2 to 3.7 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>28 W</td>
+	<td>Sep 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-l13g4.c3312">Core i3-L13G4</a>
+			</td>
+	<td>Lakefield</td>
+	<td>5 </td>
+	<td>0.8 to 2.8 GHz</td>
+	<td></td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>7 W</td>
+	<td>Jun 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10200h.c2354">Core i5-10200H</a>
+			</td>
+	<td>Comet Lake-H</td>
+	<td>4  / 8</td>
+	<td>2.4 to 4.1 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>45 W</td>
+	<td>Sep 17th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10300h.c2355">Core i5-10300H</a>
+			</td>
+	<td>Comet Lake-H</td>
+	<td>4  / 8</td>
+	<td>2.5 to 4.5 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>45 W</td>
+	<td>Sep 17th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1030ng7.c3592">Core i5-1030NG7</a>
+			</td>
+	<td>Ice Lake-Y</td>
+	<td>4  / 8</td>
+	<td>1.1 to 3.5 GHz</td>
+	<td>BGA 1044</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>10 W</td>
+	<td>Mar 18th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1038ng7.c2676">Core i5-1038NG7</a>
+			</td>
+	<td>Ice Lake-U</td>
+	<td>4  / 8</td>
+	<td>2 to 3.8 GHz</td>
+	<td>BGA 1344</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>28 W</td>
+	<td>May 4th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10400.c2210">Core i5-10400</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>6  / 12</td>
+	<td>2.9 to 4.3 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10400f.c2270">Core i5-10400F</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>6  / 12</td>
+	<td>2.9 to 4.3 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10400h.c2361">Core i5-10400H</a>
+			</td>
+	<td>Comet Lake-H</td>
+	<td>4  / 8</td>
+	<td>2.6 to 4.6 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>45 W</td>
+	<td>Apr 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10500.c2211">Core i5-10500</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>6  / 12</td>
+	<td>3.1 to 4.5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10600.c2212">Core i5-10600</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.8 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10600k.c2213">Core i5-10600K</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>6  / 12</td>
+	<td>4.1 to 4.8 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>125 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10600kf.c2275">Core i5-10600KF</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>6  / 12</td>
+	<td>4.1 to 4.8 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>95 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1060ng7.c3593">Core i5-1060NG7</a>
+			</td>
+	<td>Ice Lake-Y</td>
+	<td>4  / 8</td>
+	<td>1.2 to 3.8 GHz</td>
+	<td>BGA 1044</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>10 W</td>
+	<td>Mar 18th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1130g7.c2349">Core i5-1130G7</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.1 to 4 GHz</td>
+	<td>BGA 1598</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Sep 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1135g7.c2346">Core i5-1135G7</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>4  / 8</td>
+	<td>2.4 to 4.2 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>28 W</td>
+	<td>Sep 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1145g7.c2352">Core i5-1145G7</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>4  / 8</td>
+	<td>2.6 to 4.4 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>28 W</td>
+	<td>Sep 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-l16g7.c3313">Core i5-L16G7</a>
+			</td>
+	<td>Lakefield</td>
+	<td>5 </td>
+	<td>1.4 to 3 GHz</td>
+	<td></td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>7 W</td>
+	<td>Jun 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10610u.c2358">Core i7-10610U</a>
+			</td>
+	<td>Comet Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.8 to 4.9 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>25 W</td>
+	<td>Apr 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10700.c2214">Core i7-10700</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>8  / 16</td>
+	<td>2.9 to 4.8 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10700f.c2274">Core i7-10700F</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>8  / 16</td>
+	<td>2.9 to 4.8 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10700k.c2215">Core i7-10700K</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>125 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10700kf.c2273">Core i7-10700KF</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>125 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10750h.c2360">Core i7-10750H</a>
+			</td>
+	<td>Comet Lake-H</td>
+	<td>6  / 12</td>
+	<td>2.6 to 5 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>45 W</td>
+	<td>Apr 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10810u.c2357">Core i7-10810U</a>
+			</td>
+	<td>Comet Lake-U</td>
+	<td>6  / 12</td>
+	<td>1.1 to 4.9 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>25 W</td>
+	<td>Apr 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10850h.c2359">Core i7-10850H</a>
+			</td>
+	<td>Comet Lake-H</td>
+	<td>6  / 12</td>
+	<td>2.7 to 5.1 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>45 W</td>
+	<td>Apr 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10870h.c2353">Core i7-10870H</a>
+			</td>
+	<td>Comet Lake-H</td>
+	<td>8  / 16</td>
+	<td>2.2 to 5 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Sep 17th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10875h.c2277">Core i7-10875H</a>
+			</td>
+	<td>Comet Lake-H</td>
+	<td>8  / 16</td>
+	<td>2.3 to 5.1 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1160g7.c2345">Core i7-1160G7</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.2 to 4.4 GHz</td>
+	<td>BGA 1598</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Sep 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1165g7.c2343">Core i7-1165G7</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>4  / 8</td>
+	<td>2.8 to 4.7 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>Sep 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1185g7.c2344">Core i7-1185G7</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>4  / 8</td>
+	<td>3 to 4.8 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>Sep 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10800f.c2216">Core i9-10800F</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>10  / 20</td>
+	<td>2.7 to 5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>20 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10850k.c2336">Core i9-10850K</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>10  / 20</td>
+	<td>3.6 to 5.2 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>20 MB</td>
+	<td>125 W</td>
+	<td>Jul 27th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10885h.c2356">Core i9-10885H</a>
+			</td>
+	<td>Comet Lake-H</td>
+	<td>8  / 16</td>
+	<td>2.4 to 5.3 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10900.c2265">Core i9-10900</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>10  / 20</td>
+	<td>2.8 to 5.2 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>20 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10900e.c3741">Core i9-10900E</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>10  / 20</td>
+	<td>2.8 to 4.7 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>20 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10900f.c2217">Core i9-10900F</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>10  / 20</td>
+	<td>2.8 to 5.2 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>20 MB</td>
+	<td>65 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10900k.c2266">Core i9-10900K</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>10  / 20</td>
+	<td>3.7 to 5.3 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>20 MB</td>
+	<td>125 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10900kf.c2218">Core i9-10900KF</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>10  / 20</td>
+	<td>3.7 to 5.3 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>20 MB</td>
+	<td>125 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10900te.c3742">Core i9-10900TE</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>10  / 20</td>
+	<td>1.8 to 4.5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>20 MB</td>
+	<td>35 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10980hk.c2276">Core i9-10980HK</a>
+			</td>
+	<td>Comet Lake-H</td>
+	<td>8  / 16</td>
+	<td>2.4 to 5.3 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 2nd, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10990xe.c2272">Core i9-10990XE</a>
+			</td>
+	<td>Cascade Lake-X</td>
+	<td>22  / 44</td>
+	<td>4 to 5 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>30.25 MB</td>
+	<td>380 W</td>
+	<td>Never Released</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-6805.c3590">Pentium 6805</a>
+			</td>
+	<td>Ice Lake-Y</td>
+	<td>2  / 4</td>
+	<td>1.1 to 3 GHz</td>
+	<td>BGA 1526</td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Oct 1st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g6400.c2305">Pentium Gold G6400</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>2  / 4</td>
+	<td>4 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>58 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g6500.c2304">Pentium Gold G6500</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>2  / 4</td>
+	<td>4.1 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>58 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g6600.c2303">Pentium Gold G6600</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>2  / 4</td>
+	<td>4.2 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>58 W</td>
+	<td>Apr 30th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-1290.c2837">Xeon W-1290</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>10  / 20</td>
+	<td>3.2 to 5.2 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>20 MB</td>
+	<td>80 W</td>
+	<td>May 13th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-1290p.c2839">Xeon W-1290P</a>
+			</td>
+	<td>Comet Lake</td>
+	<td>10  / 20</td>
+	<td>3.7 to 5.3 GHz</td>
+	<td>Socket 1200</td>
+	<td>10 nm</td>
+	<td>20 MB</td>
+	<td>125 W</td>
+	<td>May 13th, 2020</td>
+</tr>
+		
+			</table>
+</div>

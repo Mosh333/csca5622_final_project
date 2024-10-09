@@ -1,0 +1,1060 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-4600m.c1023">A10-4600M</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>2.3 to 3.2 GHz</td>
+	<td>Socket FS1r2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>May 15th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-4655m.c1026">A10-4655M</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>2 to 2.8 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>May 15th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-5700.c1102">A10-5700</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>3.4 to 4 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-5800b.c1487">A10-5800B</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>3.8 to 4.2 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-5800k.c1100">A10-5800K</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>3.8 to 4.2 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-4300m.c1045">A4-4300M</a>
+			</td>
+	<td>Trinity</td>
+	<td>2 </td>
+	<td>2.5 to 3 GHz</td>
+	<td>Socket FS1r2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>May 15th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-4355m.c1162">A4-4355M</a>
+			</td>
+	<td>Trinity</td>
+	<td>2 </td>
+	<td>1.9 to 2.4 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>17 W</td>
+	<td>Sep 27th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-5300.c1491">A4-5300</a>
+			</td>
+	<td>Trinity</td>
+	<td>2 </td>
+	<td>3.4 to 3.6 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-5300b.c1490">A4-5300B</a>
+			</td>
+	<td>Trinity</td>
+	<td>2 </td>
+	<td>3.4 to 3.6 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-4400m.c1025">A6-4400M</a>
+			</td>
+	<td>Trinity</td>
+	<td>2 </td>
+	<td>2.7 to 3.2 GHz</td>
+	<td>Socket FS1r2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>May 15th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-4455m.c1027">A6-4455M</a>
+			</td>
+	<td>Trinity</td>
+	<td>2 </td>
+	<td>2.1 to 2.6 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>17 W</td>
+	<td>May 15th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-5400b.c1489">A6-5400B</a>
+			</td>
+	<td>Trinity</td>
+	<td>2 </td>
+	<td>3.6 to 3.8 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-5400k.c1103">A6-5400K</a>
+			</td>
+	<td>Trinity</td>
+	<td>2 </td>
+	<td>3.6 to 3.8 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-4500m.c1024">A8-4500M</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>1.9 to 2.8 GHz</td>
+	<td>Socket FS1r2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>May 15th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-4555m.c1163">A8-4555M</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>1.6 to 2.4 GHz</td>
+	<td>Socket FP2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>19 W</td>
+	<td>Sep 27th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-5500.c1104">A8-5500</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>3.2 to 3.7 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-5500b.c1488">A8-5500B</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>3.2 to 3.7 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-5600k.c1101">A8-5600K</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>3.6 to 3.9 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x4-638.c960">Athlon II X4 638</a>
+			</td>
+	<td>Llano</td>
+	<td>4 </td>
+	<td>2.7 GHz</td>
+	<td>Socket FM1</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Feb 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x4-641.c959">Athlon II X4 641</a>
+			</td>
+	<td>Llano</td>
+	<td>4 </td>
+	<td>2.8 GHz</td>
+	<td>Socket FM1</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Feb 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x2-340.c2658">Athlon X2 340</a>
+			</td>
+	<td>Trinity</td>
+	<td>2 </td>
+	<td>3.2 to 3.6 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-730.c2655">Athlon X4 730</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>2.8 to 3.2 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-740.c2654">Athlon X4 740</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>3.2 to 3.7 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-750k.c2653">Athlon X4 750K</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>3.4 to 4 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Oct 2nd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/c-70.c1105">C-70</a>
+			</td>
+	<td>Ontario</td>
+	<td>2 </td>
+	<td>1000 to 1333 MHz</td>
+	<td>Socket FT1</td>
+	<td>40 nm</td>
+	<td>N/A</td>
+	<td>9 W</td>
+	<td>Sep 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e1-1200.c1043">E1-1200</a>
+			</td>
+	<td>Zacate</td>
+	<td>2 </td>
+	<td>1400 MHz</td>
+	<td>Socket FT1</td>
+	<td>40 nm</td>
+	<td>N/A</td>
+	<td>18 W</td>
+	<td>Jun 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e2-1800.c1044">E2-1800</a>
+			</td>
+	<td>Zacate</td>
+	<td>2 </td>
+	<td>1700 MHz</td>
+	<td>Socket FT1</td>
+	<td>40 nm</td>
+	<td>N/A</td>
+	<td>18 W</td>
+	<td>Jun 6th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-4120.c1207">FX-4120</a>
+			</td>
+	<td>Zambezi</td>
+	<td>4 </td>
+	<td>3.9 to 4.1 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-4130.c1208">FX-4130</a>
+			</td>
+	<td>Zambezi</td>
+	<td>4 </td>
+	<td>3.8 to 4 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>125 W</td>
+	<td>Aug 27th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-4150.c1209">FX-4150</a>
+			</td>
+	<td>Zambezi</td>
+	<td>4 </td>
+	<td>3.8 to 4 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-4170.c964">FX-4170</a>
+			</td>
+	<td>Zambezi</td>
+	<td>4 </td>
+	<td>4.2 to 4.3 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>125 W</td>
+	<td>Feb 27th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-4300.c1216">FX-4300</a>
+			</td>
+	<td>Vishera</td>
+	<td>4 </td>
+	<td>3.8 to 4 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-4320.c1211">FX-4320</a>
+			</td>
+	<td>Vishera</td>
+	<td>4 </td>
+	<td>4 to 4.2 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-6120.c1205">FX-6120</a>
+			</td>
+	<td>Zambezi</td>
+	<td>6 </td>
+	<td>3.6 to 4.2 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-6130.c1206">FX-6130</a>
+			</td>
+	<td>Zambezi</td>
+	<td>6 </td>
+	<td>3.6 to 3.9 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-6200.c963">FX-6200</a>
+			</td>
+	<td>Zambezi</td>
+	<td>6 </td>
+	<td>3.8 to 4.1 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>125 W</td>
+	<td>Feb 27th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-6300.c1210">FX-6300</a>
+			</td>
+	<td>Vishera</td>
+	<td>6 </td>
+	<td>3.5 to 4.1 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-8140.c1203">FX-8140</a>
+			</td>
+	<td>Zambezi</td>
+	<td>8 </td>
+	<td>3.2 to 4.1 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-8170.c1204">FX-8170</a>
+			</td>
+	<td>Zambezi</td>
+	<td>8 </td>
+	<td>3.9 to 4.5 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>125 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-8300.c1202">FX-8300</a>
+			</td>
+	<td>Vishera</td>
+	<td>8 </td>
+	<td>3.3 to 3.9 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-8320.c1215">FX-8320</a>
+			</td>
+	<td>Vishera</td>
+	<td>8 </td>
+	<td>3.5 to 4 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>125 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-8350.c1099">FX-8350</a>
+			</td>
+	<td>Vishera</td>
+	<td>8 </td>
+	<td>4 to 4.2 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>125 W</td>
+	<td>Oct 23rd, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/firepro-a300.c2657">FirePro A300</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>3.4 to 4 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Aug 7th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/firepro-a320.c2656">FirePro A320</a>
+			</td>
+	<td>Trinity</td>
+	<td>4 </td>
+	<td>3.8 to 4.2 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>100 W</td>
+	<td>Aug 7th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-3250-he.c3677">Opteron 3250 HE</a>
+			</td>
+	<td>Zurich</td>
+	<td>4 </td>
+	<td>2.5 to 3.5 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>45 W</td>
+	<td>Mar 20th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-3260-he.c3678">Opteron 3260 HE</a>
+			</td>
+	<td>Zurich</td>
+	<td>4 </td>
+	<td>2.7 to 3.7 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>45 W</td>
+	<td>Mar 20th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-3280.c3679">Opteron 3280</a>
+			</td>
+	<td>Zurich</td>
+	<td>8 </td>
+	<td>2.5 to 3.5 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Mar 20th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-3320-ee.c1566">Opteron 3320 EE</a>
+			</td>
+	<td>Delhi</td>
+	<td>4 </td>
+	<td>1.9 to 2.5 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>25 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-3350-he.c1567">Opteron 3350 HE</a>
+			</td>
+	<td>Delhi</td>
+	<td>4 </td>
+	<td>2.8 to 3.8 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-3380.c1568">Opteron 3380</a>
+			</td>
+	<td>Delhi</td>
+	<td>8 </td>
+	<td>2.6 to 3.6 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-4240.c3686">Opteron 4240</a>
+			</td>
+	<td>Valencia</td>
+	<td>6 </td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket C32</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Jun 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-4276-he.c3689">Opteron 4276 HE</a>
+			</td>
+	<td>Valencia</td>
+	<td>8 </td>
+	<td>2.6 to 3.6 GHz</td>
+	<td>Socket C32</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jun 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-4310-ee.c1559">Opteron 4310 EE</a>
+			</td>
+	<td>Seoul</td>
+	<td>4 </td>
+	<td>2.2 to 3 GHz</td>
+	<td>Socket C32</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-4332-he.c1562">Opteron 4332 HE</a>
+			</td>
+	<td>Seoul</td>
+	<td>6 </td>
+	<td>3 to 3.7 GHz</td>
+	<td>Socket C32</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-4334.c1560">Opteron 4334</a>
+			</td>
+	<td>Seoul</td>
+	<td>6 </td>
+	<td>3.1 to 3.5 GHz</td>
+	<td>Socket C32</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-4340.c1561">Opteron 4340</a>
+			</td>
+	<td>Seoul</td>
+	<td>6 </td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket C32</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-4376-he.c1565">Opteron 4376 HE</a>
+			</td>
+	<td>Seoul</td>
+	<td>8 </td>
+	<td>2.6 to 3.6 GHz</td>
+	<td>Socket C32</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-4386.c1563">Opteron 4386</a>
+			</td>
+	<td>Seoul</td>
+	<td>8 </td>
+	<td>3.1 to 3.8 GHz</td>
+	<td>Socket C32</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-43cx-ee.c1558">Opteron 43CX EE</a>
+			</td>
+	<td>Seoul</td>
+	<td>4 </td>
+	<td>2.2 to 3 GHz</td>
+	<td>Socket C32</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-43gk-he.c1564">Opteron 43GK HE</a>
+			</td>
+	<td>Seoul</td>
+	<td>8 </td>
+	<td>2.6 to 3.6 GHz</td>
+	<td>Socket C32</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Dec 4th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6278.c1299">Opteron 6278</a>
+			</td>
+	<td>Interlagos</td>
+	<td>16 </td>
+	<td>2.4 to 3.3 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>115 W</td>
+	<td>May 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6284-se.c1297">Opteron 6284 SE</a>
+			</td>
+	<td>Interlagos</td>
+	<td>16 </td>
+	<td>2.7 to 3.4 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>140 W</td>
+	<td>May 1st, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6308.c3731">Opteron 6308</a>
+			</td>
+	<td>Abu Dhabi</td>
+	<td>4 </td>
+	<td>3.5 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>115 W</td>
+	<td>Nov 5th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6320.c3730">Opteron 6320</a>
+			</td>
+	<td>Abu Dhabi</td>
+	<td>8 </td>
+	<td>2.8 to 3.3 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>115 W</td>
+	<td>Nov 5th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6328.c3729">Opteron 6328</a>
+			</td>
+	<td>Abu Dhabi</td>
+	<td>8 </td>
+	<td>3.2 to 3.8 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>115 W</td>
+	<td>Nov 5th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6344.c3727">Opteron 6344</a>
+			</td>
+	<td>Abu Dhabi</td>
+	<td>12 </td>
+	<td>2.6 to 3.2 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>115 W</td>
+	<td>Nov 5th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6348.c1455">Opteron 6348</a>
+			</td>
+	<td>Abu Dhabi</td>
+	<td>12 </td>
+	<td>2.8 to 3.4 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>115 W</td>
+	<td>Nov 5th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6366-he.c1296">Opteron 6366 HE</a>
+			</td>
+	<td>Abu Dhabi</td>
+	<td>16 </td>
+	<td>1.8 to 3.1 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>85 W</td>
+	<td>Nov 5th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6376.c1295">Opteron 6376</a>
+			</td>
+	<td>Abu Dhabi</td>
+	<td>16 </td>
+	<td>2.3 to 3.2 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>115 W</td>
+	<td>Nov 5th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6378.c1294">Opteron 6378</a>
+			</td>
+	<td>Abu Dhabi</td>
+	<td>16 </td>
+	<td>2.4 to 3.3 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>115 W</td>
+	<td>Nov 5th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6380.c1293">Opteron 6380</a>
+			</td>
+	<td>Abu Dhabi</td>
+	<td>16 </td>
+	<td>2.5 to 3.4 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>115 W</td>
+	<td>Nov 5th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6386-se.c1292">Opteron 6386 SE</a>
+			</td>
+	<td>Abu Dhabi</td>
+	<td>16 </td>
+	<td>2.8 to 3.5 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>140 W</td>
+	<td>Nov 5th, 2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-x2-240.c2659">Sempron X2 240</a>
+			</td>
+	<td>Trinity</td>
+	<td>2 </td>
+	<td>2.9 to 3.3 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>2012</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/z-60.c1180">Z-60</a>
+			</td>
+	<td>Hondo</td>
+	<td>2 </td>
+	<td>1000 MHz</td>
+	<td>Socket FT1</td>
+	<td>40 nm</td>
+	<td>N/A</td>
+	<td>5 W</td>
+	<td>Oct 9th, 2012</td>
+</tr>
+		
+			</table>
+</div>

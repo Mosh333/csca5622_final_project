@@ -1,0 +1,500 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3000.c63">Athlon 64 3000+</a>
+			</td>
+	<td>Newark</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Apr 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3200.c62">Athlon 64 3200+</a>
+			</td>
+	<td>Newark</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Apr 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3200.c61">Athlon 64 3200+</a>
+			</td>
+	<td>Newark</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>83 W</td>
+	<td>Apr 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3400.c60">Athlon 64 3400+</a>
+			</td>
+	<td>Newark</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>83 W</td>
+	<td>Apr 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3700.c59">Athlon 64 3700+</a>
+			</td>
+	<td>Newark</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>83 W</td>
+	<td>Apr 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-4000.c133">Athlon 64 4000+</a>
+			</td>
+	<td>Newark</td>
+	<td>1 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 16th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-2700.c2202">Mobile Athlon 64 2700+</a>
+			</td>
+	<td>Odessa</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Aug 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-2700.c2161">Mobile Athlon 64 2700+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Aug 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-3400.c2193">Mobile Athlon 64 3400+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>Aug 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-3400.c2198">Mobile Athlon 64 3400+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-athlon-64-3700.c2194">Mobile Athlon 64 3700+</a>
+			</td>
+	<td>Clawhammer</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 754</td>
+	<td>130 nm</td>
+	<td>N/A</td>
+	<td>82 W</td>
+	<td>Aug 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2800.c1169">Sempron 2800+</a>
+			</td>
+	<td>Roma</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jul 15th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3000.c1168">Sempron 3000+</a>
+			</td>
+	<td>Roma</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jul 15th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3000.c1166">Sempron 3000+</a>
+			</td>
+	<td>Albany</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 15th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3100.c535">Sempron 3100+</a>
+			</td>
+	<td>Georgetown</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 3rd, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3100.c1193">Sempron 3100+</a>
+			</td>
+	<td>Sonora</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jan 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3100.c170">Sempron 3100+</a>
+			</td>
+	<td>Albany</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 15th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3100.c1171">Sempron 3100+</a>
+			</td>
+	<td>Roma</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jul 15th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3300.c169">Sempron 3300+</a>
+			</td>
+	<td>Albany</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jul 15th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3300.c534">Sempron 3300+</a>
+			</td>
+	<td>Georgetown</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Aug 19th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3300.c1170">Sempron 3300+</a>
+			</td>
+	<td>Roma</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Jul 15th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-ml-28.c144">Turion 64 ML-28</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>32 W</td>
+	<td>Jun 22nd, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-ml-30.c142">Turion 64 ML-30</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Mar 10th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-ml-32.c140">Turion 64 ML-32</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Mar 10th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-ml-34.c138">Turion 64 ML-34</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Mar 10th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-ml-37.c136">Turion 64 ML-37</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Mar 10th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-ml-40.c134">Turion 64 ML-40</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jun 22nd, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-ml-42.c1165">Turion 64 ML-42</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Oct 4th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-mt-28.c145">Turion 64 MT-28</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>22 W</td>
+	<td>Jun 22nd, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-mt-30.c143">Turion 64 MT-30</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>22 W</td>
+	<td>Mar 10th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-mt-32.c141">Turion 64 MT-32</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Mar 10th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-mt-34.c139">Turion 64 MT-34</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Mar 10th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-mt-37.c137">Turion 64 MT-37</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Aug 8th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-mt-40.c135">Turion 64 MT-40</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Aug 8th, 2005</td>
+</tr>
+		
+			</table>
+</div>

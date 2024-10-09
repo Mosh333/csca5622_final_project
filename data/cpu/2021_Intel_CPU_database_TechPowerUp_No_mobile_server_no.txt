@@ -1,0 +1,528 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10105.c2414">Core i3-10105</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>4  / 8</td>
+	<td>3.7 to 4.4 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10105f.c2415">Core i3-10105F</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>4  / 8</td>
+	<td>3.7 to 4.4 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10105t.c2413">Core i3-10105T</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>4  / 8</td>
+	<td>3 to 3.9 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>35 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10305.c2411">Core i3-10305</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>4  / 8</td>
+	<td>3.8 to 4.5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10305t.c2412">Core i3-10305T</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>4  / 8</td>
+	<td>3 to 4 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10325.c2410">Core i3-10325</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>4  / 8</td>
+	<td>3.9 to 4.7 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11400.c2406">Core i5-11400</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>6  / 12</td>
+	<td>2.6 to 4.4 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11400f.c2407">Core i5-11400F</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>6  / 12</td>
+	<td>2.6 to 4.4 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11400t.c2405">Core i5-11400T</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>6  / 12</td>
+	<td>1.3 to 3.7 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11500.c2408">Core i5-11500</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>6  / 12</td>
+	<td>2.7 to 4.6 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11500t.c2404">Core i5-11500T</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>6  / 12</td>
+	<td>1.5 to 3.9 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11600.c2402">Core i5-11600</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>6  / 12</td>
+	<td>2.8 to 4.8 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11600k.c2400">Core i5-11600K</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>6  / 12</td>
+	<td>3.9 to 4.9 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>125 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11600kf.c2401">Core i5-11600KF</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>6  / 12</td>
+	<td>3.9 to 4.9 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>125 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11600t.c2403">Core i5-11600T</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>6  / 12</td>
+	<td>1.7 to 4.1 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12600k.c2509">Core i5-12600K</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>10  / 16</td>
+	<td>3.7 to 4.9 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>20 MB</td>
+	<td>125 W</td>
+	<td>Nov 4th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12600kf.c2510">Core i5-12600KF</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>10  / 16</td>
+	<td>3.7 to 4.9 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>20 MB</td>
+	<td>125 W</td>
+	<td>Nov 4th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11700.c2397">Core i7-11700</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>8  / 16</td>
+	<td>2.5 to 4.9 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11700f.c2398">Core i7-11700F</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>8  / 16</td>
+	<td>2.5 to 4.9 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11700k.c2367">Core i7-11700K</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>8  / 16</td>
+	<td>3.6 to 5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>125 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11700kf.c2396">Core i7-11700KF</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>8  / 16</td>
+	<td>3.6 to 5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>125 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11700t.c2399">Core i7-11700T</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>8  / 16</td>
+	<td>1.4 to 4.6 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12700k.c2507">Core i7-12700K</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>12  / 20</td>
+	<td>3.6 to 5 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>25 MB</td>
+	<td>125 W</td>
+	<td>Nov 4th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12700kf.c2508">Core i7-12700KF</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>12  / 20</td>
+	<td>3.6 to 5 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>25 MB</td>
+	<td>125 W</td>
+	<td>Nov 4th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-11900.c2393">Core i9-11900</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>8  / 16</td>
+	<td>2.5 to 5.2 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-11900f.c2394">Core i9-11900F</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>8  / 16</td>
+	<td>2.5 to 5.2 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-11900k.c2366">Core i9-11900K</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>8  / 16</td>
+	<td>3.5 to 5.3 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>125 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-11900kf.c2392">Core i9-11900KF</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>8  / 16</td>
+	<td>3.5 to 5.3 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>125 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-11900t.c2395">Core i9-11900T</a>
+			</td>
+	<td>Rocket Lake</td>
+	<td>8  / 16</td>
+	<td>1.5 to 4.9 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900k.c2505">Core i9-12900K</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>16  / 24</td>
+	<td>3.2 to 5.2 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>125 W</td>
+	<td>Nov 4th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900kf.c2506">Core i9-12900KF</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>16  / 24</td>
+	<td>3.2 to 5.2 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>125 W</td>
+	<td>Nov 4th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g6405.c2418">Pentium Gold G6405</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>2  / 4</td>
+	<td>4.1 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>58 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g6405t.c2420">Pentium Gold G6405T</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>2  / 4</td>
+	<td>3.5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g6505.c2417">Pentium Gold G6505</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>2  / 4</td>
+	<td>4.2 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>58 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g6505t.c2419">Pentium Gold G6505T</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>2  / 4</td>
+	<td>3.6 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g6605.c2416">Pentium Gold G6605</a>
+			</td>
+	<td>Comet Lake-R</td>
+	<td>2  / 4</td>
+	<td>4.3 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>58 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+			</table>
+</div>

@@ -1,0 +1,724 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-72f3.c2391">EPYC 72F3</a>
+			</td>
+	<td>Milan</td>
+	<td>8  / 16</td>
+	<td>3.7 to 4.1 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>180 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7313.c2389">EPYC 7313</a>
+			</td>
+	<td>Milan</td>
+	<td>16  / 32</td>
+	<td>3 to 3.7 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>155 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7313p.c2390">EPYC 7313P</a>
+			</td>
+	<td>Milan</td>
+	<td>16  / 32</td>
+	<td>3 to 3.7 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>155 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7343.c2388">EPYC 7343</a>
+			</td>
+	<td>Milan</td>
+	<td>16  / 32</td>
+	<td>3.2 to 3.9 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>190 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-73f3.c2387">EPYC 73F3</a>
+			</td>
+	<td>Milan</td>
+	<td>16  / 32</td>
+	<td>3.5 to 4 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>240 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7413.c2386">EPYC 7413</a>
+			</td>
+	<td>Milan</td>
+	<td>24  / 48</td>
+	<td>2.65 to 3.6 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>180 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7443.c2384">EPYC 7443</a>
+			</td>
+	<td>Milan</td>
+	<td>24  / 48</td>
+	<td>2.85 to 4 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>200 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7443p.c2385">EPYC 7443P</a>
+			</td>
+	<td>Milan</td>
+	<td>24  / 48</td>
+	<td>2.85 to 4 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>200 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7453.c2382">EPYC 7453</a>
+			</td>
+	<td>Milan</td>
+	<td>28  / 56</td>
+	<td>2.75 to 3.45 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>225 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-74f3.c2383">EPYC 74F3</a>
+			</td>
+	<td>Milan</td>
+	<td>24  / 48</td>
+	<td>2.8 to 4 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>240 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7513.c2381">EPYC 7513</a>
+			</td>
+	<td>Milan</td>
+	<td>32  / 64</td>
+	<td>2.6 to 3.65 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>200 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7543.c2379">EPYC 7543</a>
+			</td>
+	<td>Milan</td>
+	<td>32  / 64</td>
+	<td>2.8 to 3.7 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>225 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7543p.c2380">EPYC 7543P</a>
+			</td>
+	<td>Milan</td>
+	<td>32  / 64</td>
+	<td>2.8 to 3.7 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>225 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-75f3.c2378">EPYC 75F3</a>
+			</td>
+	<td>Milan</td>
+	<td>32  / 64</td>
+	<td>2.95 to 4 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7643.c2377">EPYC 7643</a>
+			</td>
+	<td>Milan</td>
+	<td>48  / 96</td>
+	<td>2.3 to 3.6 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>225 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7663.c2376">EPYC 7663</a>
+			</td>
+	<td>Milan</td>
+	<td>56  / 112</td>
+	<td>2 to 3.5 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>240 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7713.c2374">EPYC 7713</a>
+			</td>
+	<td>Milan</td>
+	<td>64  / 128</td>
+	<td>2 to 3.675 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>225 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7713p.c2375">EPYC 7713P</a>
+			</td>
+	<td>Milan</td>
+	<td>64  / 128</td>
+	<td>2 to 3.675 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>225 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7763.c2373">EPYC 7763</a>
+			</td>
+	<td>Milan</td>
+	<td>64  / 128</td>
+	<td>2.45 to 3.5 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Mar 15th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-5300g.c2473">Ryzen 3 5300G</a>
+			</td>
+	<td>Cezanne</td>
+	<td>4  / 8</td>
+	<td>4 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Apr 13th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-5300u.c2745">Ryzen 3 5300U</a>
+			</td>
+	<td>Lucienne</td>
+	<td>4  / 8</td>
+	<td>2.6 to 3.8 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-5400u.c2748">Ryzen 3 5400U</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>4  / 8</td>
+	<td>2.6 to 4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-pro-5350g.c2705">Ryzen 3 PRO 5350G</a>
+			</td>
+	<td>Cezanne</td>
+	<td>4  / 8</td>
+	<td>4 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-pro-5350ge.c2706">Ryzen 3 PRO 5350GE</a>
+			</td>
+	<td>Cezanne</td>
+	<td>4  / 8</td>
+	<td>3.6 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Jun 1st, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-pro-5450u.c2772">Ryzen 3 PRO 5450U</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>4  / 8</td>
+	<td>2.6 to 4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-4700s.c3326">Ryzen 4700S</a>
+			</td>
+	<td>Cardinal</td>
+	<td>8  / 16</td>
+	<td>3.6 to 4 GHz</td>
+	<td>BGA 2197</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jun 26th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5500u.c2372">Ryzen 5 5500U</a>
+			</td>
+	<td>Lucienne</td>
+	<td>6  / 12</td>
+	<td>2.1 to 4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5560u.c3265">Ryzen 5 5560U</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>6  / 12</td>
+	<td>2.3 to 4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5600g.c2471">Ryzen 5 5600G</a>
+			</td>
+	<td>Cezanne</td>
+	<td>6  / 12</td>
+	<td>3.9 to 4.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 13th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5600hs.c3519">Ryzen 5 5600HS</a>
+			</td>
+	<td>Cezanne</td>
+	<td>6  / 12</td>
+	<td>3 to 4.2 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5600u.c2747">Ryzen 5 5600U</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>6  / 12</td>
+	<td>2.3 to 4.2 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-5650g.c2703">Ryzen 5 PRO 5650G</a>
+			</td>
+	<td>Cezanne</td>
+	<td>6  / 12</td>
+	<td>3.9 to 4.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-5650ge.c2704">Ryzen 5 PRO 5650GE</a>
+			</td>
+	<td>Cezanne</td>
+	<td>6  / 12</td>
+	<td>3.4 to 4.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jun 1st, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-5650u.c2773">Ryzen 5 PRO 5650U</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>6  / 12</td>
+	<td>2.3 to 4.2 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5700g.c2472">Ryzen 7 5700G</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>3.8 to 4.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 13th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5700u.c2744">Ryzen 7 5700U</a>
+			</td>
+	<td>Lucienne</td>
+	<td>8  / 16</td>
+	<td>1.8 to 4.3 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5800.c2678">Ryzen 7 5800</a>
+			</td>
+	<td>Vermeer</td>
+	<td>8  / 16</td>
+	<td>3.4 to 4.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5800g.c2511">Ryzen 7 5800G</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>3.8 to 4.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Never Released</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5800h.c2368">Ryzen 7 5800H</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5800hs.c2369">Ryzen 7 5800HS</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>2.8 to 4.4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5800u.c2746">Ryzen 7 5800U</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>8  / 16</td>
+	<td>1.9 to 4.4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-5750g.c2701">Ryzen 7 PRO 5750G</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>3.8 to 4.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Jun 1st, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-5750ge.c2702">Ryzen 7 PRO 5750GE</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jun 1st, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-5850u.c2774">Ryzen 7 PRO 5850U</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>8  / 16</td>
+	<td>1.9 to 4.4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Mar 16th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-5900.c2677">Ryzen 9 5900</a>
+			</td>
+	<td>Vermeer</td>
+	<td>12  / 24</td>
+	<td>3 to 4.7 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>65 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-5900hs.c3518">Ryzen 9 5900HS</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>3 to 4.6 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-5900hx.c2371">Ryzen 9 5900HX</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>3.3 to 4.6 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-5980hs.c2370">Ryzen 9 5980HS</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>3 to 4.8 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-5980hx.c3517">Ryzen 9 5980HX</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>3.3 to 4.8 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Jan 12th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-3980x.c2267">Ryzen Threadripper 3980X</a>
+			</td>
+	<td>Castle Peak</td>
+	<td>48  / 96</td>
+	<td>3.5 to 4.7 GHz</td>
+	<td>Socket TRX4</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>280 W</td>
+	<td>Never Released</td>
+</tr>
+		
+			</table>
+</div>

@@ -1,0 +1,1200 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-3865u.c3104">Celeron 3865U</a>
+			</td>
+	<td>Kaby Lake-U</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>BGA 1356</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-3965u.c3105">Celeron 3965U</a>
+			</td>
+	<td>Kaby Lake-U</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>BGA 1356</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g3930.c1941">Celeron G3930</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2 </td>
+	<td>2.9 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>51 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g3930t.c1942">Celeron G3930T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2 </td>
+	<td>2.7 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>35 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g3950.c1940">Celeron G3950</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>51 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-j4005.c2072">Celeron J4005</a>
+			</td>
+	<td>Gemini Lake</td>
+	<td>2 </td>
+	<td>2 to 2.7 GHz</td>
+	<td>BGA 1090</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Dec 11th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-j4105.c3279">Celeron J4105</a>
+			</td>
+	<td>Gemini Lake</td>
+	<td>4 </td>
+	<td>1.5 to 2.5 GHz</td>
+	<td>BGA 1090</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Dec 11th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7100.c1865">Core i3-7100</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>3.9 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>51 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7100h.c3103">Core i3-7100H</a>
+			</td>
+	<td>Kaby Lake-H</td>
+	<td>2  / 4</td>
+	<td>2.8 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7100t.c1864">Core i3-7100T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>3.4 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7120.c1944">Core i3-7120</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>4 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>51 W</td>
+	<td>Jul 17th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7120t.c1946">Core i3-7120T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>3.6 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jul 17th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7300.c1862">Core i3-7300</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>4 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>51 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7300t.c1863">Core i3-7300T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>3.5 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7320.c1861">Core i3-7320</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>4.1 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>51 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7320t.c1945">Core i3-7320T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>3.6 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jul 17th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7340.c1943">Core i3-7340</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>4.2 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>51 W</td>
+	<td>Jul 17th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7350k.c1860">Core i3-7350K</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>4.2 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>60 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-7360x.c1968">Core i3-7360X</a>
+			</td>
+	<td>Kaby Lake-X</td>
+	<td>2  / 4</td>
+	<td>4.3 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>112 W</td>
+	<td>Never Released</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-8100.c1966">Core i3-8100</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>4 </td>
+	<td>3.6 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Oct 5th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-8350k.c1967">Core i3-8350K</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>4 </td>
+	<td>4 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>91 W</td>
+	<td>Oct 5th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-7300hq.c1998">Core i5-7300HQ</a>
+			</td>
+	<td>Kaby Lake-H</td>
+	<td>4 </td>
+	<td>2.5 to 3.5 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>45 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-7400.c1851">Core i5-7400</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>4 </td>
+	<td>3 to 3.5 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-7400t.c1859">Core i5-7400T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>4 </td>
+	<td>2.4 to 3 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>35 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-7440hq.c3102">Core i5-7440HQ</a>
+			</td>
+	<td>Kaby Lake-H</td>
+	<td>4 </td>
+	<td>2.8 to 3.8 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>45 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-7500.c1850">Core i5-7500</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>4 </td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-7500t.c1854">Core i5-7500T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>4 </td>
+	<td>2.7 to 3.3 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>35 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-7600.c1849">Core i5-7600</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>4 </td>
+	<td>3.5 to 4.1 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-7600k.c1848">Core i5-7600K</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>4 </td>
+	<td>3.8 to 4.2 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>91 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-7600t.c1853">Core i5-7600T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>4 </td>
+	<td>2.8 to 3.7 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>35 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-7640x.c1867">Core i5-7640X</a>
+			</td>
+	<td>Kaby Lake-X</td>
+	<td>4 </td>
+	<td>3.9 to 4.3 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>112 W</td>
+	<td>Jun 26th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-8250u.c1972">Core i5-8250U</a>
+			</td>
+	<td>Kaby Lake-R</td>
+	<td>4  / 8</td>
+	<td>1.6 to 3.4 GHz</td>
+	<td>BGA 1356</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>15 W</td>
+	<td>Aug 21st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-8350u.c1973">Core i5-8350U</a>
+			</td>
+	<td>Kaby Lake-R</td>
+	<td>4  / 8</td>
+	<td>1.7 to 3.6 GHz</td>
+	<td>BGA 1356</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>15 W</td>
+	<td>Aug 21st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-8400.c1964">Core i5-8400</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>6 </td>
+	<td>2.8 to 4 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>9 MB</td>
+	<td>65 W</td>
+	<td>Oct 5th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-8600k.c1948">Core i5-8600K</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>6 </td>
+	<td>3.6 to 4.3 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>9 MB</td>
+	<td>95 W</td>
+	<td>Oct 5th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-7700.c1843">Core i7-7700</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>4  / 8</td>
+	<td>3.6 to 4.2 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-7700hq.c3098">Core i7-7700HQ</a>
+			</td>
+	<td>Kaby Lake-H</td>
+	<td>4  / 8</td>
+	<td>2.8 to 3.8 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>45 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-7700k.c1842">Core i7-7700K</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>4  / 8</td>
+	<td>4.2 to 4.5 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>91 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-7700t.c1852">Core i7-7700T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>4  / 8</td>
+	<td>2.9 to 3.8 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-7740x.c1866">Core i7-7740X</a>
+			</td>
+	<td>Kaby Lake-X</td>
+	<td>4  / 8</td>
+	<td>4.3 to 4.6 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>112 W</td>
+	<td>Jun 26th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-7800x.c1905">Core i7-7800X</a>
+			</td>
+	<td>Skylake-X</td>
+	<td>6  / 12</td>
+	<td>3.5 to 4 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>8.25 MB</td>
+	<td>140 W</td>
+	<td>Jun 26th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-7820hk.c3099">Core i7-7820HK</a>
+			</td>
+	<td>Kaby Lake-H</td>
+	<td>4  / 8</td>
+	<td>2.9 to 3.9 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-7820hq.c3100">Core i7-7820HQ</a>
+			</td>
+	<td>Kaby Lake-H</td>
+	<td>4  / 8</td>
+	<td>2.9 to 3.9 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-7820x.c1933">Core i7-7820X</a>
+			</td>
+	<td>Skylake-X</td>
+	<td>8  / 16</td>
+	<td>3.6 to 4.5 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>11 MB</td>
+	<td>140 W</td>
+	<td>Jun 26th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-7920hq.c3101">Core i7-7920HQ</a>
+			</td>
+	<td>Kaby Lake-H</td>
+	<td>4  / 8</td>
+	<td>3.1 to 4.1 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-8550u.c1974">Core i7-8550U</a>
+			</td>
+	<td>Kaby Lake-R</td>
+	<td>4  / 8</td>
+	<td>1.8 to 4 GHz</td>
+	<td>BGA 1356</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Aug 21st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-8650u.c1975">Core i7-8650U</a>
+			</td>
+	<td>Kaby Lake-R</td>
+	<td>4  / 8</td>
+	<td>1.9 to 4.2 GHz</td>
+	<td>BGA 1356</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Aug 21st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-8700.c1949">Core i7-8700</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>6  / 12</td>
+	<td>3.2 to 4.6 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Oct 5th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-8700k.c1947">Core i7-8700K</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>6  / 12</td>
+	<td>3.7 to 4.7 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>95 W</td>
+	<td>Oct 5th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-7900x.c1906">Core i9-7900X</a>
+			</td>
+	<td>Skylake-X</td>
+	<td>10  / 20</td>
+	<td>3.3 to 4.5 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>14 MB</td>
+	<td>140 W</td>
+	<td>Jun 26th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-7920x.c1932">Core i9-7920X</a>
+			</td>
+	<td>Skylake-X</td>
+	<td>12  / 24</td>
+	<td>2.9 to 4.4 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>16.5 MB</td>
+	<td>140 W</td>
+	<td>Sep 10th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-7940x.c1951">Core i9-7940X</a>
+			</td>
+	<td>Skylake-X</td>
+	<td>14  / 28</td>
+	<td>3.1 to 4.4 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>19.25 MB</td>
+	<td>165 W</td>
+	<td>Sep 1st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-7960x.c1950">Core i9-7960X</a>
+			</td>
+	<td>Skylake-X</td>
+	<td>16  / 32</td>
+	<td>2.8 to 4.4 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>22 MB</td>
+	<td>165 W</td>
+	<td>Sep 1st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-7980xe.c1952">Core i9-7980XE</a>
+			</td>
+	<td>Skylake-X</td>
+	<td>18  / 36</td>
+	<td>2.6 to 4.4 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>24.75 MB</td>
+	<td>165 W</td>
+	<td>Sep 1st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g4560.c1937">Pentium G4560</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>3.5 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>51 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g4560t.c1939">Pentium G4560T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>2.9 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g4600.c1936">Pentium G4600</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>3.6 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>51 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g4600t.c1938">Pentium G4600T</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>3 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g4620.c1935">Pentium G4620</a>
+			</td>
+	<td>Kaby Lake</td>
+	<td>2  / 4</td>
+	<td>3.7 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>51 W</td>
+	<td>Jan 3rd, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-silver-j5005.c3282">Pentium Silver J5005</a>
+			</td>
+	<td>Gemini Lake</td>
+	<td>4 </td>
+	<td>1.5 to 2.8 GHz</td>
+	<td>BGA 1090</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Dec 11th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-silver-n5000.c3277">Pentium Silver N5000</a>
+			</td>
+	<td>Gemini Lake</td>
+	<td>4 </td>
+	<td>1.1 to 2.7 GHz</td>
+	<td>BGA 1090</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>6 W</td>
+	<td>Dec 11th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-bronze-3106.c2058">Xeon Bronze 3106</a>
+			</td>
+	<td>Skylake-SP</td>
+	<td>8 </td>
+	<td>2.1 to 3 GHz</td>
+	<td>Socket 3647</td>
+	<td>14 nm</td>
+	<td>11 MB</td>
+	<td>85 W</td>
+	<td>Jul 11th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1285-v6.c1999">Xeon E3-1285 v6</a>
+			</td>
+	<td>Kaby Lake-DT</td>
+	<td>4  / 8</td>
+	<td>4.1 to 4.5 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>79 W</td>
+	<td>Aug 1st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6154.c2056">Xeon Gold 6154</a>
+			</td>
+	<td>Skylake-SP</td>
+	<td>18  / 36</td>
+	<td>3 to 3.7 GHz</td>
+	<td>Socket 3647</td>
+	<td>14 nm</td>
+	<td>24.75 MB</td>
+	<td>200 W</td>
+	<td>Jul 11th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-7235.c2049">Xeon Phi 7235</a>
+			</td>
+	<td>Knights Mill</td>
+	<td>64  / 256</td>
+	<td>1300 to 1400 MHz</td>
+	<td>Socket 3647</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>250 W</td>
+	<td>Dec 1st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-7285.c2050">Xeon Phi 7285</a>
+			</td>
+	<td>Knights Mill</td>
+	<td>68  / 272</td>
+	<td>1300 to 1400 MHz</td>
+	<td>Socket 3647</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>250 W</td>
+	<td>Dec 1st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-7295.c2051">Xeon Phi 7295</a>
+			</td>
+	<td>Knights Mill</td>
+	<td>72  / 288</td>
+	<td>1500 to 1600 MHz</td>
+	<td>Socket 3647</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>320 W</td>
+	<td>Dec 1st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8180.c2055">Xeon Platinum 8180</a>
+			</td>
+	<td>Skylake-SP</td>
+	<td>28  / 56</td>
+	<td>2.5 to 3.8 GHz</td>
+	<td>Socket 3647</td>
+	<td>14 nm</td>
+	<td>38.5 MB</td>
+	<td>205 W</td>
+	<td>Jul 11th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8180m.c2164">Xeon Platinum 8180M</a>
+			</td>
+	<td>Skylake-SP</td>
+	<td>28  / 56</td>
+	<td>2.5 to 3.8 GHz</td>
+	<td>Socket 3647</td>
+	<td>14 nm</td>
+	<td>38.5 MB</td>
+	<td>205 W</td>
+	<td>Jul 11th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4116.c2057">Xeon Silver 4116</a>
+			</td>
+	<td>Skylake-SP</td>
+	<td>12  / 24</td>
+	<td>2.1 to 3 GHz</td>
+	<td>Socket 3647</td>
+	<td>14 nm</td>
+	<td>16.5 MB</td>
+	<td>85 W</td>
+	<td>Jul 11th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2102.c2955">Xeon W-2102</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>4 </td>
+	<td>2.9 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>8.25 MB</td>
+	<td>120 W</td>
+	<td>Aug 29th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2104.c2954">Xeon W-2104</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>4 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>8.25 MB</td>
+	<td>120 W</td>
+	<td>Aug 29th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2123.c2950">Xeon W-2123</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>4  / 8</td>
+	<td>3.6 to 3.9 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>8.25 MB</td>
+	<td>120 W</td>
+	<td>Aug 29th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2125.c2949">Xeon W-2125</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>4  / 8</td>
+	<td>4 to 4.5 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>8.25 MB</td>
+	<td>120 W</td>
+	<td>Aug 29th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2133.c2948">Xeon W-2133</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>6  / 12</td>
+	<td>3.6 to 3.9 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>8.25 MB</td>
+	<td>140 W</td>
+	<td>Aug 29th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2135.c2947">Xeon W-2135</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>6  / 12</td>
+	<td>3.7 to 4.5 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>8.25 MB</td>
+	<td>140 W</td>
+	<td>Aug 29th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2140b.c2953">Xeon W-2140B</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.2 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>11 MB</td>
+	<td>120 W</td>
+	<td>Dec 21st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2145.c2946">Xeon W-2145</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>8  / 16</td>
+	<td>3.7 to 4.5 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>11 MB</td>
+	<td>140 W</td>
+	<td>Aug 29th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2150b.c2951">Xeon W-2150B</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>10  / 20</td>
+	<td>3 to 4.5 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>13.75 MB</td>
+	<td>120 W</td>
+	<td>Dec 21st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2155.c2945">Xeon W-2155</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>10  / 20</td>
+	<td>3.3 to 4.5 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>13.75 MB</td>
+	<td>140 W</td>
+	<td>Aug 29th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2170b.c2952">Xeon W-2170B</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>14  / 28</td>
+	<td>2.5 to 4.3 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>19.25 MB</td>
+	<td>140 W</td>
+	<td>Dec 21st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2175.c2944">Xeon W-2175</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>14  / 28</td>
+	<td>2.5 to 4.3 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>19.25 MB</td>
+	<td>140 W</td>
+	<td>Oct 15th, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2191b.c2943">Xeon W-2191B</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>18  / 36</td>
+	<td>2.3 to 4.3 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>24.75 MB</td>
+	<td>140 W</td>
+	<td>Dec 21st, 2017</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-2195.c2059">Xeon W-2195</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>18  / 36</td>
+	<td>2.3 to 4.3 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>24.75 MB</td>
+	<td>140 W</td>
+	<td>Aug 29th, 2017</td>
+</tr>
+		
+			</table>
+</div>

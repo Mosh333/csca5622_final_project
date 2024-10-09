@@ -1,0 +1,570 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1840.c1752">Celeron G1840</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1840t.c1794">Celeron G1840T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.5 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1850.c1791">Celeron G1850</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4150.c3171">Core i3-4150</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.5 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4150t.c1755">Core i3-4150T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>2.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4160.c1767">Core i3-4160</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.6 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Jul 21st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4160t.c1769">Core i3-4160T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.1 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4170.c3508">Core i3-4170</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.7 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4330te.c3514">Core i3-4330TE</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>2.4 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4340te.c3513">Core i3-4340TE</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>2.6 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4350.c1788">Core i3-4350</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.6 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>54 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4350t.c3512">Core i3-4350T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.1 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4360.c1749">Core i3-4360</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.7 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>54 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4360t.c1768">Core i3-4360T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.2 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4370.c1766">Core i3-4370</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>54 W</td>
+	<td>Jul 21st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4460.c3505">Core i5-4460</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3.2 to 3.4 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>84 W</td>
+	<td>May 11th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4460s.c3506">Core i5-4460S</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>2.9 to 3.4 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>May 11th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4460t.c3507">Core i5-4460T</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>1.9 to 2.7 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>35 W</td>
+	<td>Mar 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4590.c1750">Core i5-4590</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3.3 to 3.7 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>84 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4590s.c1754">Core i5-4590S</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>2.9 to 3.6 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4590t.c3510">Core i5-4590T</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>2 to 3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4690.c1748">Core i5-4690</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>84 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4690k.c1762">Core i5-4690K</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>88 W</td>
+	<td>Jun 2nd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4690s.c3502">Core i5-4690S</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3.2 to 3.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4690t.c3501">Core i5-4690T</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>2.5 to 3.5 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>45 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4790.c1747">Core i7-4790</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>3.6 to 4 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>84 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4790k.c1761">Core i7-4790K</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>4 to 4.4 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>88 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4790s.c1753">Core i7-4790S</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>3.2 to 4 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>May 11th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4790t.c3500">Core i7-4790T</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>2.7 to 3.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-5820k.c1763">Core i7-5820K</a>
+			</td>
+	<td>Haswell-E</td>
+	<td>6  / 12</td>
+	<td>3.3 to 3.6 GHz</td>
+	<td>Socket 2011-3</td>
+	<td>22 nm</td>
+	<td>15 MB</td>
+	<td>140 W</td>
+	<td>Sep 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-5930k.c1764">Core i7-5930K</a>
+			</td>
+	<td>Haswell-E</td>
+	<td>6  / 12</td>
+	<td>3.5 to 3.7 GHz</td>
+	<td>Socket 2011-3</td>
+	<td>22 nm</td>
+	<td>15 MB</td>
+	<td>140 W</td>
+	<td>Sep 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-5960x.c1765">Core i7-5960X</a>
+			</td>
+	<td>Haswell-E</td>
+	<td>8  / 16</td>
+	<td>3 to 3.5 GHz</td>
+	<td>Socket 2011-3</td>
+	<td>22 nm</td>
+	<td>20 MB</td>
+	<td>140 W</td>
+	<td>Sep 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3250.c1771">Pentium G3250</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Jul 21st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3250t.c1772">Pentium G3250T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3258.c1797">Pentium G3258</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Jun 2nd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3440.c1790">Pentium G3440</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>3.3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3450.c1751">Pentium G3450</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>3.3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>May 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3450t.c1773">Pentium G3450T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3460.c1770">Pentium G3460</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>3.5 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Jul 21st, 2014</td>
+</tr>
+		
+			</table>
+</div>

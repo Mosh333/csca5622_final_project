@@ -1,0 +1,528 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-pro-7800b.c2602">A10 PRO-7800B</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 31st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-pro-7850b.c2603">A10 PRO-7850B</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.7 to 4 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jul 31st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-7700k.c1745">A10-7700K</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jan 14th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-7800.c2601">A10-7800</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 31st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-7850k.c1744">A10-7850K</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.7 to 4 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jan 14th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-pro-3340b.c3561">A4 PRO-3340B</a>
+			</td>
+	<td>Kabini</td>
+	<td>4 </td>
+	<td>2.2 GHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Dec 20th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-pro-7300b.c2647">A4 PRO-7300B</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>3.8 to 4 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Aug 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-pro-7350b.c2637">A4 PRO-7350B</a>
+			</td>
+	<td>Kaveri</td>
+	<td>2 </td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 31st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-4020.c2649">A4-4020</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>3.2 to 3.4 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jan 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-5050.c1759">A4-5050</a>
+			</td>
+	<td>Kabini</td>
+	<td>4 </td>
+	<td>1550 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>13 W</td>
+	<td>Feb 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-6320b.c2645">A4-6320B</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>3.8 to 4 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Mar 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a4-7300.c2646">A4-7300</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>3.8 to 4 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Aug 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-pro-7400b.c2625">A6 PRO-7400B</a>
+			</td>
+	<td>Kaveri</td>
+	<td>2 </td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 31st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-6420k.c2642">A6-6420K</a>
+			</td>
+	<td>Richland</td>
+	<td>2 </td>
+	<td>4 to 4.2 GHz</td>
+	<td>Socket FM2</td>
+	<td>32 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jan 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a6-7400k.c2626">A6-7400K</a>
+			</td>
+	<td>Kaveri</td>
+	<td>2 </td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 31st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-pro-7600b.c2616">A8 PRO-7600B</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.1 to 3.8 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 31st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-7600.c2615">A8-7600</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.1 to 3.8 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 31st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-5150.c2514">Athlon 5150</a>
+			</td>
+	<td>Kabini</td>
+	<td>4 </td>
+	<td>1600 MHz</td>
+	<td>Socket AM1</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Apr 9th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-5350.c2516">Athlon 5350</a>
+			</td>
+	<td>Kabini</td>
+	<td>4 </td>
+	<td>2.05 GHz</td>
+	<td>Socket AM1</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Apr 9th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-5370.c2517">Athlon 5370</a>
+			</td>
+	<td>Kabini</td>
+	<td>4 </td>
+	<td>2.2 GHz</td>
+	<td>Socket AM1</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Apr 9th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x2-450.c2636">Athlon X2 450</a>
+			</td>
+	<td>Kaveri</td>
+	<td>2 </td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 31st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-840.c2633">Athlon X4 840</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.1 to 3.8 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Aug 12th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-860k.c2632">Athlon X4 860K</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.7 to 4 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 12th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e1-2150.c1760">E1-2150</a>
+			</td>
+	<td>Kabini</td>
+	<td>2 </td>
+	<td>1050 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>9 W</td>
+	<td>Feb 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e1-6010.c3564">E1-6010</a>
+			</td>
+	<td>Beema</td>
+	<td>2 </td>
+	<td>1350 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Apr 29th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e2-3800.c2512">E2-3800</a>
+			</td>
+	<td>Kabini</td>
+	<td>4 </td>
+	<td>1300 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>Jan 5th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-7500.c3670">FX-7500</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>2.1 to 3.3 GHz</td>
+	<td>Socket FP3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>19 W</td>
+	<td>Jun 4th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-7600p.c3669">FX-7600P</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>2.7 to 3.6 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jun 4th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-770k.c2635">FX-770K</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Dec 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-8320e.c1787">FX-8320E</a>
+			</td>
+	<td>Vishera</td>
+	<td>8 </td>
+	<td>3.2 to 4 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Sep 2nd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-8370.c1785">FX-8370</a>
+			</td>
+	<td>Vishera</td>
+	<td>8 </td>
+	<td>4 to 4.3 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>125 W</td>
+	<td>Sep 2nd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-8370e.c1786">FX-8370E</a>
+			</td>
+	<td>Vishera</td>
+	<td>8 </td>
+	<td>3.3 to 4.3 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>95 W</td>
+	<td>Sep 2nd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6338p.c3728">Opteron 6338P</a>
+			</td>
+	<td>Warsaw</td>
+	<td>12 </td>
+	<td>2.3 to 2.8 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>99 W</td>
+	<td>Jan 22nd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-6370p.c3726">Opteron 6370P</a>
+			</td>
+	<td>Warsaw</td>
+	<td>16 </td>
+	<td>2 to 2.5 GHz</td>
+	<td>Socket G34</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>99 W</td>
+	<td>Jan 22nd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2650.c2513">Sempron 2650</a>
+			</td>
+	<td>Kabini</td>
+	<td>2 </td>
+	<td>1450 MHz</td>
+	<td>Socket AM1</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Apr 9th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3850.c2515">Sempron 3850</a>
+			</td>
+	<td>Kabini</td>
+	<td>4 </td>
+	<td>1300 MHz</td>
+	<td>Socket AM1</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Apr 9th, 2014</td>
+</tr>
+		
+			</table>
+</div>

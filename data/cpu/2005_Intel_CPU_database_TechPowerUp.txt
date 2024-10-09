@@ -1,0 +1,864 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-d-350.c24">Celeron D 350</a>
+			</td>
+	<td>Prescott</td>
+	<td>1 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 478</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jun 28th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-t2050.c409">Core Duo T2050</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>1600 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>31 W</td>
+	<td>May 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/mobile-pentium-4-ht-552.c1257">Mobile Pentium 4 HT 552</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.467 GHz</td>
+	<td>Socket 478</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>88 W</td>
+	<td>Jan 4th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-506.c439">Pentium 4 506</a>
+			</td>
+	<td>Prescott</td>
+	<td>1 </td>
+	<td>2.66 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jun 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-506.c438">Pentium 4 506</a>
+			</td>
+	<td>Prescott</td>
+	<td>1 </td>
+	<td>2.66 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jun 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-506.c437">Pentium 4 506</a>
+			</td>
+	<td>Prescott</td>
+	<td>1 </td>
+	<td>2.66 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jun 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-511.c440">Pentium 4 511</a>
+			</td>
+	<td>Prescott</td>
+	<td>1 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jan 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-511.c441">Pentium 4 511</a>
+			</td>
+	<td>Prescott</td>
+	<td>1 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jan 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-511.c442">Pentium 4 511</a>
+			</td>
+	<td>Prescott</td>
+	<td>1 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jan 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-519k.c452">Pentium 4 519K</a>
+			</td>
+	<td>Prescott</td>
+	<td>1 </td>
+	<td>3.06 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jan 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-519k.c453">Pentium 4 519K</a>
+			</td>
+	<td>Prescott</td>
+	<td>1 </td>
+	<td>3.06 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jan 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-521.c301">Pentium 4 HT 521</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>2.8 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jun 12th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-531.c302">Pentium 4 HT 531</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jun 12th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-541.c303">Pentium 4 HT 541</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.2 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jun 12th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-551.c304">Pentium 4 HT 551</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.4 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>115 W</td>
+	<td>Jun 12th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-561.c305">Pentium 4 HT 561</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.6 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>115 W</td>
+	<td>Jun 12th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-571.c15">Pentium 4 HT 571</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.8 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>115 W</td>
+	<td>Jun 12th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-620.c1098">Pentium 4 HT 620</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>2.8 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Feb 20th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-630.c16">Pentium 4 HT 630</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Feb 20th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-640.c17">Pentium 4 HT 640</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.2 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Feb 20th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-650.c18">Pentium 4 HT 650</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.4 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Feb 20th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-660.c19">Pentium 4 HT 660</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.6 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Feb 20th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-662.c1097">Pentium 4 HT 662</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.6 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Nov 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-670.c20">Pentium 4 HT 670</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.8 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>May 26th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-672.c1096">Pentium 4 HT 672</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.8 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Nov 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-extreme-edition-3-73.c21">Pentium 4 HT Extreme Edition 3.73</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.733 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>115 W</td>
+	<td>Feb 21st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-820.c1111">Pentium D 820</a>
+			</td>
+	<td>Smithfield</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>May 26th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-820.c317">Pentium D 820</a>
+			</td>
+	<td>Smithfield</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>May 26th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-830.c316">Pentium D 830</a>
+			</td>
+	<td>Smithfield</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>May 26th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-840.c319">Pentium D 840</a>
+			</td>
+	<td>Smithfield</td>
+	<td>2 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>May 26th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-extreme-edition-840.c315">Pentium Extreme Edition 840</a>
+			</td>
+	<td>Smithfield</td>
+	<td>2  / 4</td>
+	<td>3.2 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>Apr 18th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-extreme-edition-955.c323">Pentium Extreme Edition 955</a>
+			</td>
+	<td>Presler</td>
+	<td>2  / 4</td>
+	<td>3.466 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>Dec 27th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-m-730.c151">Pentium M 730</a>
+			</td>
+	<td>Dothan</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket 479</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jan 19th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-m-740.c150">Pentium M 740</a>
+			</td>
+	<td>Dothan</td>
+	<td>1 </td>
+	<td>1730 MHz</td>
+	<td>Socket 479</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jan 19th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-m-750.c149">Pentium M 750</a>
+			</td>
+	<td>Dothan</td>
+	<td>1 </td>
+	<td>1860 MHz</td>
+	<td>Socket 479</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jan 19th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-m-760.c148">Pentium M 760</a>
+			</td>
+	<td>Dothan</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 479</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jan 19th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-m-770.c147">Pentium M 770</a>
+			</td>
+	<td>Dothan</td>
+	<td>1 </td>
+	<td>2.13 GHz</td>
+	<td>Socket 479</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jan 19th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-m-780.c146">Pentium M 780</a>
+			</td>
+	<td>Dothan</td>
+	<td>1 </td>
+	<td>2.26 GHz</td>
+	<td>Socket 479</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jul 25th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-2-8.c230">Xeon 2.8</a>
+			</td>
+	<td>Paxville</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Oct 10th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-3-0.c246">Xeon 3.0</a>
+			</td>
+	<td>Irwindale</td>
+	<td>1 </td>
+	<td>3 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Feb 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-3-2.c245">Xeon 3.2</a>
+			</td>
+	<td>Irwindale</td>
+	<td>1 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Feb 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-3-4.c244">Xeon 3.4</a>
+			</td>
+	<td>Irwindale</td>
+	<td>1 </td>
+	<td>3.4 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Feb 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-3-6.c243">Xeon 3.6</a>
+			</td>
+	<td>Irwindale</td>
+	<td>1 </td>
+	<td>3.6 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Feb 14th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-2-83.c237">Xeon MP 2.83</a>
+			</td>
+	<td>Potomac</td>
+	<td>1 </td>
+	<td>2.833 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>8 MB</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-2-83.c238">Xeon MP 2.83</a>
+			</td>
+	<td>Potomac</td>
+	<td>1 </td>
+	<td>2.833 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>4 MB</td>
+	<td>129 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-3-00.c236">Xeon MP 3.00</a>
+			</td>
+	<td>Potomac</td>
+	<td>1 </td>
+	<td>3 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>4 MB</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-3-00.c235">Xeon MP 3.00</a>
+			</td>
+	<td>Potomac</td>
+	<td>1 </td>
+	<td>3 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>8 MB</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-3-16.c242">Xeon MP 3.16</a>
+			</td>
+	<td>Cranford</td>
+	<td>1 </td>
+	<td>3.167 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-3-16.c232">Xeon MP 3.16</a>
+			</td>
+	<td>Potomac</td>
+	<td>1 </td>
+	<td>3.167 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>8 MB</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-3-16.c234">Xeon MP 3.16</a>
+			</td>
+	<td>Potomac</td>
+	<td>1 </td>
+	<td>3.167 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>4 MB</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-3-33.c231">Xeon MP 3.33</a>
+			</td>
+	<td>Potomac</td>
+	<td>1 </td>
+	<td>3.333 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>4 MB</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-3-33.c233">Xeon MP 3.33</a>
+			</td>
+	<td>Potomac</td>
+	<td>1 </td>
+	<td>3.333 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>8 MB</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-3-33.c241">Xeon MP 3.33</a>
+			</td>
+	<td>Cranford</td>
+	<td>1 </td>
+	<td>3.334 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-3-50.c240">Xeon MP 3.50</a>
+			</td>
+	<td>Cranford</td>
+	<td>1 </td>
+	<td>3.5 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-3-66.c239">Xeon MP 3.66</a>
+			</td>
+	<td>Cranford</td>
+	<td>1 </td>
+	<td>3.667 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Mar 29th, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-7020-dual-core.c229">Xeon MP 7020 Dual-Core</a>
+			</td>
+	<td>Paxville</td>
+	<td>2 </td>
+	<td>2.667 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Dec 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-7030-dual-core.c226">Xeon MP 7030 Dual-Core</a>
+			</td>
+	<td>Paxville</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Dec 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-7030-dual-core.c228">Xeon MP 7030 Dual-Core</a>
+			</td>
+	<td>Paxville</td>
+	<td>2 </td>
+	<td>2.833 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Dec 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-7040-dual-core.c227">Xeon MP 7040 Dual-Core</a>
+			</td>
+	<td>Paxville</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Dec 1st, 2005</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-mp-7041-dual-core.c225">Xeon MP 7041 Dual-Core</a>
+			</td>
+	<td>Paxville</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket 604</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>135 W</td>
+	<td>Dec 1st, 2005</td>
+</tr>
+		
+			</table>
+</div>

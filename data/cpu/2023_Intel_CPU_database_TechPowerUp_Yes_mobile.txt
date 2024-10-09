@@ -1,0 +1,878 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-x7211e.c3012">Atom x7211E</a>
+			</td>
+	<td>Alder Lake-N</td>
+	<td>2 </td>
+	<td>1 to 3.2 GHz</td>
+	<td>BGA 1264</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>6 W</td>
+	<td>Jan 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-x7213e.c3011">Atom x7213E</a>
+			</td>
+	<td>Alder Lake-N</td>
+	<td>2 </td>
+	<td>1.7 to 3.2 GHz</td>
+	<td>BGA 1264</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>10 W</td>
+	<td>Jan 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-x7425e.c3013">Atom x7425E</a>
+			</td>
+	<td>Alder Lake-N</td>
+	<td>4 </td>
+	<td>1.5 to 3.4 GHz</td>
+	<td>BGA 1264</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>12 W</td>
+	<td>Jan 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-5-115u.c3556">Core Ultra 5 115U</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>8  / 10</td>
+	<td>1.5 to 4.2 GHz</td>
+	<td>BGA 2049</td>
+	<td>7 nm</td>
+	<td>10 MB</td>
+	<td>15 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-5-125h.c3309">Core Ultra 5 125H</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>14  / 18</td>
+	<td>3.6 to 4.5 GHz</td>
+	<td>BGA 2049</td>
+	<td>7 nm</td>
+	<td>18 MB</td>
+	<td>28 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-5-125u.c3557">Core Ultra 5 125U</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>12  / 14</td>
+	<td>1.3 to 4.3 GHz</td>
+	<td>BGA 2049</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-5-134u.c3555">Core Ultra 5 134U</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>12  / 14</td>
+	<td>0.7 to 4.4 GHz</td>
+	<td>BGA 2551</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>9 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-5-135h.c3419">Core Ultra 5 135H</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>14  / 18</td>
+	<td>3.6 to 4.6 GHz</td>
+	<td>BGA 2049</td>
+	<td>7 nm</td>
+	<td>18 MB</td>
+	<td>28 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-5-135u.c3558">Core Ultra 5 135U</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>12  / 14</td>
+	<td>1.6 to 4.4 GHz</td>
+	<td>BGA 2049</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-7-155h.c3307">Core Ultra 7 155H</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>16  / 22</td>
+	<td>3.8 to 4.8 GHz</td>
+	<td>BGA 2049</td>
+	<td>7 nm</td>
+	<td>24 MB</td>
+	<td>28 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-7-155u.c3524">Core Ultra 7 155U</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>12  / 14</td>
+	<td>1.7 to 4.8 GHz</td>
+	<td>BGA 2049</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-7-164u.c3525">Core Ultra 7 164U</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>12  / 14</td>
+	<td>1.1 to 4.8 GHz</td>
+	<td>BGA 2551</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>9 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-7-165h.c3306">Core Ultra 7 165H</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>16  / 22</td>
+	<td>3.8 to 5 GHz</td>
+	<td>BGA 2049</td>
+	<td>7 nm</td>
+	<td>24 MB</td>
+	<td>28 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-7-165u.c3523">Core Ultra 7 165U</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>12  / 14</td>
+	<td>1.7 to 4.9 GHz</td>
+	<td>BGA 2049</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-ultra-9-185h.c3308">Core Ultra 9 185H</a>
+			</td>
+	<td>Meteor Lake</td>
+	<td>16  / 22</td>
+	<td>3.9 to 5.1 GHz</td>
+	<td>BGA 2049</td>
+	<td>7 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Dec 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1305u.c3062">Core i3-1305U</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>5  / 6</td>
+	<td>1.6 to 4.5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>10 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1315u.c3063">Core i3-1315U</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>6  / 8</td>
+	<td>1.2 to 4.5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>10 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1315ue.c3073">Core i3-1315UE</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>6  / 8</td>
+	<td>1.2 to 4.5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>10 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-n300.c3014">Core i3-N300</a>
+			</td>
+	<td>Gracemont</td>
+	<td>8 </td>
+	<td>0.1 to 3.7 GHz</td>
+	<td>BGA 1264</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>7 W</td>
+	<td>Jan 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-n305.c3015">Core i3-N305</a>
+			</td>
+	<td>Gracemont</td>
+	<td>8 </td>
+	<td>0.1 to 3.8 GHz</td>
+	<td>BGA 1264</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>15 W</td>
+	<td>Jan 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1334u.c3064">Core i5-1334U</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.3 to 4.6 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1335u.c3065">Core i5-1335U</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.3 to 4.6 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1335ue.c3066">Core i5-1335UE</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.3 to 4.5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1340p.c3061">Core i5-1340P</a>
+			</td>
+	<td>Raptor Lake-P</td>
+	<td>12  / 16</td>
+	<td>1.9 to 4.6 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-13420h.c3058">Core i5-13420H</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>8  / 12</td>
+	<td>2.1 to 4.6 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-13450hx.c3032">Core i5-13450HX</a>
+			</td>
+	<td>Raptor Lake-HX</td>
+	<td>10  / 16</td>
+	<td>2.4 to 4.6 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>20 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1345u.c3067">Core i5-1345U</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.6 to 4.7 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1345ue.c3068">Core i5-1345UE</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.4 to 4.6 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-13500h.c3057">Core i5-13500H</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>12  / 16</td>
+	<td>2.6 to 4.7 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-13500hx.c3031">Core i5-13500HX</a>
+			</td>
+	<td>Raptor Lake-HX</td>
+	<td>14  / 20</td>
+	<td>2.5 to 4.7 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-13505h.c3056">Core i5-13505H</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>12  / 16</td>
+	<td>2.6 to 4.7 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1350p.c3060">Core i5-1350P</a>
+			</td>
+	<td>Raptor Lake-P</td>
+	<td>12  / 16</td>
+	<td>1.9 to 4.7 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-13600h.c3054">Core i5-13600H</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>12  / 16</td>
+	<td>2.8 to 4.8 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-13600hx.c3030">Core i5-13600HX</a>
+			</td>
+	<td>Raptor Lake-HX</td>
+	<td>14  / 20</td>
+	<td>2.6 to 4.8 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1355u.c3069">Core i7-1355U</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.7 to 5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1360p.c3059">Core i7-1360P</a>
+			</td>
+	<td>Raptor Lake-P</td>
+	<td>12  / 16</td>
+	<td>2.2 to 5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>28 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-13620h.c3053">Core i7-13620H</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>10  / 16</td>
+	<td>2.4 to 4.9 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-13650hx.c3029">Core i7-13650HX</a>
+			</td>
+	<td>Raptor Lake-HX</td>
+	<td>14  / 20</td>
+	<td>2.6 to 4.9 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1365u.c3070">Core i7-1365U</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.8 to 5.2 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1365ue.c3071">Core i7-1365UE</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.7 to 4.9 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1366ure.c3595">Core i7-1366URE</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.7 to 4.9 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-13700h.c3052">Core i7-13700H</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.4 to 5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-13700hx.c3028">Core i7-13700HX</a>
+			</td>
+	<td>Raptor Lake-HX</td>
+	<td>16  / 24</td>
+	<td>2.1 to 5 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-13705h.c3051">Core i7-13705H</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.4 to 5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1370p.c3055">Core i7-1370P</a>
+			</td>
+	<td>Raptor Lake-P</td>
+	<td>14  / 20</td>
+	<td>1.9 to 5.2 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>28 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1375pre.c3594">Core i7-1375PRE</a>
+			</td>
+	<td>Raptor Lake-P</td>
+	<td>14  / 20</td>
+	<td>1.9 to 4.8 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>28 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-13800h.c3050">Core i7-13800H</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.5 to 5.2 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-13850hx.c3019">Core i7-13850HX</a>
+			</td>
+	<td>Raptor Lake-HX</td>
+	<td>20  / 28</td>
+	<td>2.1 to 5.3 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-13900h.c3048">Core i9-13900H</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.6 to 5.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-13900hk.c3047">Core i9-13900HK</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.6 to 5.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-13900hx.c3018">Core i9-13900HX</a>
+			</td>
+	<td>Raptor Lake-HX</td>
+	<td>24  / 32</td>
+	<td>2.2 to 5.4 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-13905h.c3049">Core i9-13905H</a>
+			</td>
+	<td>Raptor Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.6 to 5.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-13950hx.c3017">Core i9-13950HX</a>
+			</td>
+	<td>Raptor Lake-HX</td>
+	<td>24  / 32</td>
+	<td>2.2 to 5.5 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-13980hx.c3016">Core i9-13980HX</a>
+			</td>
+	<td>Raptor Lake-HX</td>
+	<td>24  / 32</td>
+	<td>2.2 to 5.6 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>55 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/processor-n100.c3007">Processor N100</a>
+			</td>
+	<td>Gracemont</td>
+	<td>4 </td>
+	<td>0.1 to 3.4 GHz</td>
+	<td>BGA 1264</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>6 W</td>
+	<td>Jan 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/processor-n200.c3008">Processor N200</a>
+			</td>
+	<td>Gracemont</td>
+	<td>4 </td>
+	<td>0.1 to 3.7 GHz</td>
+	<td>BGA 1264</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>6 W</td>
+	<td>Jan 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/processor-n50.c3010">Processor N50</a>
+			</td>
+	<td>Gracemont</td>
+	<td>2 </td>
+	<td>1 to 3.4 GHz</td>
+	<td>BGA 1264</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>6 W</td>
+	<td>Jan 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/processor-n95.c3185">Processor N95</a>
+			</td>
+	<td>Gracemont</td>
+	<td>4 </td>
+	<td>0.1 to 3.4 GHz</td>
+	<td>BGA 1264</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>15 W</td>
+	<td>Jan 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/processor-n97.c3009">Processor N97</a>
+			</td>
+	<td>Gracemont</td>
+	<td>4 </td>
+	<td>2 to 3.6 GHz</td>
+	<td>BGA 1264</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>12 W</td>
+	<td>Jan 3rd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/processor-u300.c3072">Processor U300</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>5  / 6</td>
+	<td>1.2 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/processor-u300e.c3074">Processor U300E</a>
+			</td>
+	<td>Raptor Lake-U</td>
+	<td>5  / 6</td>
+	<td>1.1 to 4.3 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+			</table>
+</div>

@@ -1,0 +1,822 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-2650e.c581">Athlon 64 2650e</a>
+			</td>
+	<td>Lima</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket AM2</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>Jan 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-le-1640.c2159">Athlon 64 LE-1640</a>
+			</td>
+	<td>Orleans</td>
+	<td>1 </td>
+	<td>2.6 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Jan 7th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x2-215.c688">Athlon II X2 215</a>
+			</td>
+	<td>Regor</td>
+	<td>2 </td>
+	<td>2.7 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Oct 20th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x2-235e.c685">Athlon II X2 235e</a>
+			</td>
+	<td>Regor</td>
+	<td>2 </td>
+	<td>2.7 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Oct 20th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x2-240.c600">Athlon II X2 240</a>
+			</td>
+	<td>Regor</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 23rd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x2-240e.c686">Athlon II X2 240e</a>
+			</td>
+	<td>Regor</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Oct 20th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x2-245.c601">Athlon II X2 245</a>
+			</td>
+	<td>Regor</td>
+	<td>2 </td>
+	<td>2.9 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 23rd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x2-250.c602">Athlon II X2 250</a>
+			</td>
+	<td>Regor</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x2-250u.c682">Athlon II X2 250u</a>
+			</td>
+	<td>Regor</td>
+	<td>2 </td>
+	<td>1600 MHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Oct 20th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x2-260u.c683">Athlon II X2 260u</a>
+			</td>
+	<td>Regor</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>Oct 20th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x3-400e.c623">Athlon II X3 400e</a>
+			</td>
+	<td>Rana</td>
+	<td>3 </td>
+	<td>2.2 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Oct 20th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x3-405e.c624">Athlon II X3 405e</a>
+			</td>
+	<td>Rana</td>
+	<td>3 </td>
+	<td>2.3 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Oct 20th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x3-425.c693">Athlon II X3 425</a>
+			</td>
+	<td>Rana</td>
+	<td>3 </td>
+	<td>2.7 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Oct 20th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x3-435.c694">Athlon II X3 435</a>
+			</td>
+	<td>Rana</td>
+	<td>3 </td>
+	<td>2.9 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Oct 9th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x4-600e.c778">Athlon II X4 600e</a>
+			</td>
+	<td>Propus</td>
+	<td>4 </td>
+	<td>2.2 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Oct 20th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x4-605e.c779">Athlon II X4 605e</a>
+			</td>
+	<td>Propus</td>
+	<td>4 </td>
+	<td>2.3 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Oct 20th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x4-620.c783">Athlon II X4 620</a>
+			</td>
+	<td>Propus</td>
+	<td>4 </td>
+	<td>2.6 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Sep 16th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-ii-x4-630.c784">Athlon II X4 630</a>
+			</td>
+	<td>Propus</td>
+	<td>4 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Sep 16th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x2-7850-be.c595">Athlon X2 7850 BE</a>
+			</td>
+	<td>Kuma</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM2+</td>
+	<td>65 nm</td>
+	<td>2 MB</td>
+	<td>95 W</td>
+	<td>Apr 28th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-1381.c3857">Opteron 1381</a>
+			</td>
+	<td>Suzuka</td>
+	<td>4 </td>
+	<td>2.5 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>115 W</td>
+	<td>Jun 2nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-1385.c3858">Opteron 1385</a>
+			</td>
+	<td>Suzuka</td>
+	<td>4 </td>
+	<td>2.7 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>115 W</td>
+	<td>Jun 2nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-1389.c3859">Opteron 1389</a>
+			</td>
+	<td>Suzuka</td>
+	<td>4 </td>
+	<td>2.9 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>115 W</td>
+	<td>Jun 2nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-13ks-ee.c3860">Opteron 13KS EE</a>
+			</td>
+	<td>Suzuka</td>
+	<td>4 </td>
+	<td>2000 MHz</td>
+	<td>Socket Fr2</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>50 W</td>
+	<td>Apr 22nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-13qs-he.c3861">Opteron 13QS HE</a>
+			</td>
+	<td>Suzuka</td>
+	<td>4 </td>
+	<td>2.4 GHz</td>
+	<td>Socket Fr2</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>71 W</td>
+	<td>Apr 22nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-42-twkr-black-edition.c701">Phenom II 42 TWKR Black Edition</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>125 W</td>
+	<td>Jun 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x2-545.c603">Phenom II X2 545</a>
+			</td>
+	<td>Callisto</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>80 W</td>
+	<td>Jun 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x2-550.c681">Phenom II X2 550</a>
+			</td>
+	<td>Callisto</td>
+	<td>2 </td>
+	<td>3.1 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>80 W</td>
+	<td>Nov 4th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x2-550-be.c604">Phenom II X2 550 BE</a>
+			</td>
+	<td>Callisto</td>
+	<td>2 </td>
+	<td>3.1 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>80 W</td>
+	<td>Jun 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x2-b53.c763">Phenom II X2 B53</a>
+			</td>
+	<td>Callisto</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>80 W</td>
+	<td>Oct 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x2-b55.c764">Phenom II X2 B55</a>
+			</td>
+	<td>Callisto</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>80 W</td>
+	<td>Oct 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x3-700e.c606">Phenom II X3 700e</a>
+			</td>
+	<td>Heka</td>
+	<td>3 </td>
+	<td>2.4 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x3-705e.c607">Phenom II X3 705e</a>
+			</td>
+	<td>Heka</td>
+	<td>3 </td>
+	<td>2.5 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x3-710.c608">Phenom II X3 710</a>
+			</td>
+	<td>Heka</td>
+	<td>3 </td>
+	<td>2.6 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Feb 9th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x3-720-be.c609">Phenom II X3 720 BE</a>
+			</td>
+	<td>Heka</td>
+	<td>3 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Feb 9th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x3-740-be.c678">Phenom II X3 740 BE</a>
+			</td>
+	<td>Heka</td>
+	<td>3 </td>
+	<td>3 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Sep 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x3-b73.c758">Phenom II X3 B73</a>
+			</td>
+	<td>Heka</td>
+	<td>3 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Oct 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x3-b75.c759">Phenom II X3 B75</a>
+			</td>
+	<td>Heka</td>
+	<td>3 </td>
+	<td>3 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Oct 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-805.c610">Phenom II X4 805</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2.5 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Feb 9th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-810.c611">Phenom II X4 810</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2.6 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Feb 9th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-820.c747">Phenom II X4 820</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Sep 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-830.c748">Phenom II X4 830</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Sep 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-900e.c612">Phenom II X4 900e</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2.4 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-905e.c613">Phenom II X4 905e</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2.5 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-910.c674">Phenom II X4 910</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2.6 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Feb 9th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-920.c615">Phenom II X4 920</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>125 W</td>
+	<td>Jan 8th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-925.c616">Phenom II X4 925</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>May 11th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-940-be.c617">Phenom II X4 940 BE</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>3 GHz</td>
+	<td>Socket AM2+</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>125 W</td>
+	<td>Jan 8th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-945-125w.c618">Phenom II X4 945 (125W)</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>3 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>125 W</td>
+	<td>Apr 23rd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-945-95w.c619">Phenom II X4 945 (95W)</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>3 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Jul 22nd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-955-125w.c673">Phenom II X4 955 (125W)</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>3.2 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>125 W</td>
+	<td>Apr 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-955-95w.c746">Phenom II X4 955 (95W)</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>3.2 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Apr 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-955-be.c620">Phenom II X4 955 BE</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>3.2 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>125 W</td>
+	<td>Apr 23rd, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-965-be-125w.c676">Phenom II X4 965 BE (125W)</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>3.4 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>125 W</td>
+	<td>Nov 7th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-965-be-140w.c668">Phenom II X4 965 BE (140W)</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>3.4 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>140 W</td>
+	<td>Aug 13th, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-b93.c753">Phenom II X4 B93</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Oct 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/phenom-ii-x4-b95.c754">Phenom II X4 B95</a>
+			</td>
+	<td>Deneb</td>
+	<td>4 </td>
+	<td>3 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>95 W</td>
+	<td>Oct 1st, 2009</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-140.c820">Sempron 140</a>
+			</td>
+	<td>Sargas</td>
+	<td>1 </td>
+	<td>2.7 GHz</td>
+	<td>Socket AM3</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Jul 22nd, 2009</td>
+</tr>
+		
+			</table>
+</div>

@@ -1,0 +1,1354 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-7300.c2675">Celeron 7300</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>5  / 6</td>
+	<td>1000 MHz</td>
+	<td>BGA 1781</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>9 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-7305.c2674">Celeron 7305</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>5  / 6</td>
+	<td>1100 MHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g6900.c2570">Celeron G6900</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>2 </td>
+	<td>3.4 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>46 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g6900e.c2571">Celeron G6900E</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>46 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g6900t.c2572">Celeron G6900T</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g6900te.c2573">Celeron G6900TE</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-12100.c2541">Core i3-12100</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>4  / 8</td>
+	<td>3.3 to 4.3 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>60 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-12100e.c2542">Core i3-12100E</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>4  / 8</td>
+	<td>3.2 to 4.2 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>60 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-12100f.c2543">Core i3-12100F</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>4  / 8</td>
+	<td>3.3 to 4.3 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>58 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-12100t.c2544">Core i3-12100T</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>4  / 8</td>
+	<td>2.2 to 4.1 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-12100te.c2545">Core i3-12100TE</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>4  / 8</td>
+	<td>2.1 to 4 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1210u.c2586">Core i3-1210U</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>6  / 8</td>
+	<td>1 to 4.4 GHz</td>
+	<td>BGA 1781</td>
+	<td>10 nm</td>
+	<td>10 MB</td>
+	<td>9 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1215u.c2585">Core i3-1215U</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>6  / 8</td>
+	<td>1.2 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>10 MB</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1215u-ipu.c2698">Core i3-1215U (IPU)</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>6  / 8</td>
+	<td>1.2 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>10 MB</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1220p.c2584">Core i3-1220P</a>
+			</td>
+	<td>Alder Lake-P</td>
+	<td>10  / 12</td>
+	<td>1.5 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-12300.c2546">Core i3-12300</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>4  / 8</td>
+	<td>3.5 to 4.4 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>60 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-12300he.c2547">Core i3-12300HE</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>8  / 12</td>
+	<td>1.9 to 4.3 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-12300t.c2548">Core i3-12300T</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>4  / 8</td>
+	<td>2.3 to 4.2 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1230u.c2587">Core i5-1230U</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>10  / 12</td>
+	<td>1 to 4.4 GHz</td>
+	<td>BGA 1781</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>9 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1235u.c2591">Core i5-1235U</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.3 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1235u-ipu.c2699">Core i5-1235U (IPU)</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.3 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12400.c2549">Core i5-12400</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>6  / 12</td>
+	<td>2.5 to 4.4 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>65 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12400f.c2550">Core i5-12400F</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>6  / 12</td>
+	<td>2.5 to 4.4 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>65 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12400t.c2551">Core i5-12400T</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>6  / 12</td>
+	<td>1.8 to 4.2 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1240p.c2583">Core i5-1240P</a>
+			</td>
+	<td>Alder Lake-P</td>
+	<td>12  / 16</td>
+	<td>1.7 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1240u.c2588">Core i5-1240U</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.1 to 4.4 GHz</td>
+	<td>BGA 1781</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>9 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12450h.c2533">Core i5-12450H</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>8  / 12</td>
+	<td>2 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12450hx.c2792">Core i5-12450HX</a>
+			</td>
+	<td>Alder Lake-HX</td>
+	<td>8  / 12</td>
+	<td>2.4 to 4.4 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>55 W</td>
+	<td>May 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1245u.c2592">Core i5-1245U</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.6 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12490f.c2599">Core i5-12490F</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>6  / 12</td>
+	<td>3 to 4.6 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>20 MB</td>
+	<td>65 W</td>
+	<td>2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12500.c2552">Core i5-12500</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>6  / 12</td>
+	<td>3 to 4.6 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>65 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12500e.c2553">Core i5-12500E</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>6  / 12</td>
+	<td>2.9 to 4.5 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>65 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12500h.c2534">Core i5-12500H</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>12  / 16</td>
+	<td>2.5 to 4.5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12500t.c2554">Core i5-12500T</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>6  / 12</td>
+	<td>2 to 4.4 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12500te.c2555">Core i5-12500TE</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>6  / 12</td>
+	<td>1.9 to 4.3 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1250p.c2582">Core i5-1250P</a>
+			</td>
+	<td>Alder Lake-P</td>
+	<td>12  / 16</td>
+	<td>1.7 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12600.c2556">Core i5-12600</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.8 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>65 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12600h.c2535">Core i5-12600H</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>12  / 16</td>
+	<td>2.7 to 4.5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12600he.c2557">Core i5-12600HE</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>12  / 16</td>
+	<td>2.5 to 4.5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12600hx.c2791">Core i5-12600HX</a>
+			</td>
+	<td>Alder Lake-HX</td>
+	<td>12  / 16</td>
+	<td>2.5 to 4.6 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>55 W</td>
+	<td>May 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-12600t.c2558">Core i5-12600T</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>6  / 12</td>
+	<td>2.1 to 4.6 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-13600k.c2829">Core i5-13600K</a>
+			</td>
+	<td>Raptor Lake-S</td>
+	<td>14  / 20</td>
+	<td>3.5 to 5.1 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>125 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-13600kf.c2852">Core i5-13600KF</a>
+			</td>
+	<td>Raptor Lake-S</td>
+	<td>14  / 20</td>
+	<td>3.5 to 5.1 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>125 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1250u.c2589">Core i7-1250U</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.1 to 4.7 GHz</td>
+	<td>BGA 1781</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>9 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1255u.c2593">Core i7-1255U</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.7 to 4.7 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1260p.c2581">Core i7-1260P</a>
+			</td>
+	<td>Alder Lake-P</td>
+	<td>12  / 16</td>
+	<td>2.1 to 4.7 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>28 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1260u.c2590">Core i7-1260U</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.1 to 4.7 GHz</td>
+	<td>BGA 1781</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>9 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12650h.c2536">Core i7-12650H</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>10  / 16</td>
+	<td>2.3 to 4.7 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12650hx.c2790">Core i7-12650HX</a>
+			</td>
+	<td>Alder Lake-HX</td>
+	<td>14  / 20</td>
+	<td>2 to 4.7 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>55 W</td>
+	<td>May 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1265u.c2594">Core i7-1265U</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>10  / 12</td>
+	<td>1.8 to 4.8 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12700.c2559">Core i7-12700</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>12  / 20</td>
+	<td>2.1 to 4.9 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>25 MB</td>
+	<td>65 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12700e.c2560">Core i7-12700E</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>12  / 20</td>
+	<td>2.1 to 4.8 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>25 MB</td>
+	<td>65 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12700f.c2561">Core i7-12700F</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>12  / 20</td>
+	<td>2.1 to 4.9 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>25 MB</td>
+	<td>65 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12700h.c2537">Core i7-12700H</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.3 to 4.7 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12700t.c2562">Core i7-12700T</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>12  / 20</td>
+	<td>1.4 to 4.7 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>25 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12700te.c2563">Core i7-12700TE</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>12  / 20</td>
+	<td>1.4 to 4.6 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>25 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1270p.c2580">Core i7-1270P</a>
+			</td>
+	<td>Alder Lake-P</td>
+	<td>12  / 16</td>
+	<td>2.2 to 4.8 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>28 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12800h.c2538">Core i7-12800H</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.4 to 4.8 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12800he.c2564">Core i7-12800HE</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.4 to 4.6 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12800hx.c2789">Core i7-12800HX</a>
+			</td>
+	<td>Alder Lake-HX</td>
+	<td>16  / 24</td>
+	<td>2 to 4.8 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>25 MB</td>
+	<td>55 W</td>
+	<td>May 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1280p.c2579">Core i7-1280P</a>
+			</td>
+	<td>Alder Lake-P</td>
+	<td>14  / 20</td>
+	<td>1.8 to 4.8 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>28 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-12850hx.c2788">Core i7-12850HX</a>
+			</td>
+	<td>Alder Lake-HX</td>
+	<td>16  / 24</td>
+	<td>2.1 to 4.8 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>25 MB</td>
+	<td>55 W</td>
+	<td>May 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-13700k.c2850">Core i7-13700K</a>
+			</td>
+	<td>Raptor Lake-S</td>
+	<td>16  / 24</td>
+	<td>3.4 to 5.4 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>125 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-13700kf.c2853">Core i7-13700KF</a>
+			</td>
+	<td>Raptor Lake-S</td>
+	<td>16  / 24</td>
+	<td>3.4 to 5.4 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>125 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900.c2565">Core i9-12900</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>16  / 24</td>
+	<td>2.4 to 5.1 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>65 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900e.c2567">Core i9-12900E</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>16  / 24</td>
+	<td>2.3 to 5 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>65 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900f.c2566">Core i9-12900F</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>16  / 24</td>
+	<td>2.4 to 5.1 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>65 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900h.c2539">Core i9-12900H</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.5 to 5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900hk.c2540">Core i9-12900HK</a>
+			</td>
+	<td>Alder Lake-H</td>
+	<td>14  / 20</td>
+	<td>2.5 to 5 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900hx.c2787">Core i9-12900HX</a>
+			</td>
+	<td>Alder Lake-HX</td>
+	<td>16  / 24</td>
+	<td>2.3 to 5 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>55 W</td>
+	<td>May 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900ks.c2598">Core i9-12900KS</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>16  / 24</td>
+	<td>3.4 to 5.5 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>150 W</td>
+	<td>Apr 5th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900t.c2568">Core i9-12900T</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>16  / 24</td>
+	<td>1.4 to 4.9 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12900te.c2569">Core i9-12900TE</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>16  / 24</td>
+	<td>1.1 to 4.8 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-12950hx.c2786">Core i9-12950HX</a>
+			</td>
+	<td>Alder Lake-HX</td>
+	<td>16  / 24</td>
+	<td>2.3 to 5 GHz</td>
+	<td>BGA 1964</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>55 W</td>
+	<td>May 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-13900k.c2817">Core i9-13900K</a>
+			</td>
+	<td>Raptor Lake-S</td>
+	<td>24  / 32</td>
+	<td>3 to 5.8 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>125 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-13900kf.c2916">Core i9-13900KF</a>
+			</td>
+	<td>Raptor Lake-S</td>
+	<td>24  / 32</td>
+	<td>3 to 5.8 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>125 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-8500.c2672">Pentium 8500</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>5  / 6</td>
+	<td>1 to 4.4 GHz</td>
+	<td>BGA 1781</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>9 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-8505.c2673">Pentium 8505</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>5  / 6</td>
+	<td>1.2 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-8505-ipu.c2700">Pentium 8505 (IPU)</a>
+			</td>
+	<td>Alder Lake-U</td>
+	<td>5  / 6</td>
+	<td>1.2 to 4.4 GHz</td>
+	<td>BGA 1744</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Feb 23rd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g7400.c2574">Pentium Gold G7400</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>2  / 4</td>
+	<td>3.7 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>46 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g7400e.c2575">Pentium Gold G7400E</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>2  / 4</td>
+	<td>3.6 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>46 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g7400t.c2578">Pentium Gold G7400T</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>2  / 4</td>
+	<td>3.1 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g7400te.c2576">Pentium Gold G7400TE</a>
+			</td>
+	<td>Alder Lake-S</td>
+	<td>2  / 4</td>
+	<td>3 GHz</td>
+	<td>Socket 1700</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-1712tr.c3876">Xeon D-1712TR</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>4  / 8</td>
+	<td>2 to 3.1 GHz</td>
+	<td>BGA 2227</td>
+	<td>10 nm</td>
+	<td>10 MB</td>
+	<td>40 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-1715ter.c3875">Xeon D-1715TER</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>4  / 8</td>
+	<td>2.4 to 3.5 GHz</td>
+	<td>BGA 2227</td>
+	<td>10 nm</td>
+	<td>10 MB</td>
+	<td>50 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-1732te.c3874">Xeon D-1732TE</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>8  / 16</td>
+	<td>1.9 to 3 GHz</td>
+	<td>BGA 2227</td>
+	<td>10 nm</td>
+	<td>15 MB</td>
+	<td>52 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-1735tr.c3873">Xeon D-1735TR</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>8  / 16</td>
+	<td>2.2 to 3.4 GHz</td>
+	<td>BGA 2227</td>
+	<td>10 nm</td>
+	<td>15 MB</td>
+	<td>59 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-1746ter.c3872">Xeon D-1746TER</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>10  / 20</td>
+	<td>2 to 3.1 GHz</td>
+	<td>BGA 2227</td>
+	<td>10 nm</td>
+	<td>15 MB</td>
+	<td>67 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-2712t.c3871">Xeon D-2712T</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>4  / 8</td>
+	<td>1.9 to 3 GHz</td>
+	<td>BGA 2579</td>
+	<td>10 nm</td>
+	<td>15 MB</td>
+	<td>65 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-2733nt.c3870">Xeon D-2733NT</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>8  / 16</td>
+	<td>2.1 to 3.2 GHz</td>
+	<td>BGA 2579</td>
+	<td>10 nm</td>
+	<td>15 MB</td>
+	<td>80 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-2752ter.c3869">Xeon D-2752TER</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>12  / 24</td>
+	<td>1.8 to 2.8 GHz</td>
+	<td>BGA 2579</td>
+	<td>10 nm</td>
+	<td>20 MB</td>
+	<td>77 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-2775te.c3867">Xeon D-2775TE</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>16  / 32</td>
+	<td>2 to 3.1 GHz</td>
+	<td>BGA 2579</td>
+	<td>10 nm</td>
+	<td>25 MB</td>
+	<td>100 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-2796te.c3868">Xeon D-2796TE</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>20  / 40</td>
+	<td>2 to 3.1 GHz</td>
+	<td>BGA 2579</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>118 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-2798nt.c3878">Xeon D-2798NT</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>20  / 40</td>
+	<td>2.1 to 3.1 GHz</td>
+	<td>BGA 2579</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>125 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-d-2799.c3877">Xeon D-2799</a>
+			</td>
+	<td>Ice Lake-D</td>
+	<td>20  / 40</td>
+	<td>2.4 to 3.4 GHz</td>
+	<td>BGA 2579</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>129 W</td>
+	<td>Feb 24th, 2022</td>
+</tr>
+		
+			</table>
+</div>

@@ -1,0 +1,1424 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3000.c366">Athlon 64 3000+</a>
+			</td>
+	<td>Orleans</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3200.c365">Athlon 64 3200+</a>
+			</td>
+	<td>Orleans</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3500.c364">Athlon 64 3500+</a>
+			</td>
+	<td>Orleans</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-3800.c363">Athlon 64 3800+</a>
+			</td>
+	<td>Orleans</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-fx-60.c330">Athlon 64 FX-60</a>
+			</td>
+	<td>Toledo</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 939</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>110 W</td>
+	<td>Jan 9th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-fx-62.c346">Athlon 64 FX-62</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>125 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-fx-70.c405">Athlon 64 FX-70</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>125 W</td>
+	<td>Nov 30th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-fx-72.c406">Athlon 64 FX-72</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>125 W</td>
+	<td>Nov 30th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-fx-74.c407">Athlon 64 FX-74</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>125 W</td>
+	<td>Nov 30th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-fx-76.c408">Athlon 64 FX-76</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>3.2 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>125 W</td>
+	<td>Never Released</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-3600.c430">Athlon 64 X2 3600+</a>
+			</td>
+	<td>Brisbane</td>
+	<td>2 </td>
+	<td>1900 MHz</td>
+	<td>Socket AM2</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Dec 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-3600-ee.c361">Athlon 64 X2 3600+ EE</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Aug 1st, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-3800.c353">Athlon 64 X2 3800+</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-3800-ee.c360">Athlon 64 X2 3800+ EE</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-3800-ee-sff.c362">Athlon 64 X2 3800+ EE SFF</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4000.c352">Athlon 64 X2 4000+</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4000.c429">Athlon 64 X2 4000+</a>
+			</td>
+	<td>Brisbane</td>
+	<td>2 </td>
+	<td>2.1 GHz</td>
+	<td>Socket AM2</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Dec 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4000-ee.c359">Athlon 64 X2 4000+ EE</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4200.c351">Athlon 64 X2 4200+</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4200.c475">Athlon 64 X2 4200+</a>
+			</td>
+	<td>Brisbane</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket AM2</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Dec 1st, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4200.c328">Athlon 64 X2 4200+</a>
+			</td>
+	<td>Manchester</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 939</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4200-ee.c358">Athlon 64 X2 4200+ EE</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4400.c350">Athlon 64 X2 4400+</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4400.c428">Athlon 64 X2 4400+</a>
+			</td>
+	<td>Brisbane</td>
+	<td>2 </td>
+	<td>2.3 GHz</td>
+	<td>Socket AM2</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Dec 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4400-ee.c357">Athlon 64 X2 4400+ EE</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4600.c349">Athlon 64 X2 4600+</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4600-ee.c356">Athlon 64 X2 4600+ EE</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4800.c427">Athlon 64 X2 4800+</a>
+			</td>
+	<td>Brisbane</td>
+	<td>2 </td>
+	<td>2.5 GHz</td>
+	<td>Socket AM2</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Dec 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4800.c348">Athlon 64 X2 4800+</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-4800-ee.c354">Athlon 64 X2 4800+ EE</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-5000.c426">Athlon 64 X2 5000+</a>
+			</td>
+	<td>Brisbane</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket AM2</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Dec 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-5000.c347">Athlon 64 X2 5000+</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-5000-ee.c587">Athlon 64 X2 5000+ EE</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Sep 6th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-5200.c462">Athlon 64 X2 5200+</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Sep 6th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-5200-ee.c401">Athlon 64 X2 5200+ EE</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Sep 6th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-5400.c423">Athlon 64 X2 5400+</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Dec 12th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-64-x2-5600.c424">Athlon 64 X2 5600+</a>
+			</td>
+	<td>Windsor</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>89 W</td>
+	<td>Dec 12th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-1210-ee.c3354">Opteron 1210 EE</a>
+			</td>
+	<td>Santa Ana</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2210-f2.c3328">Opteron 2210 (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2210-f3.c3329">Opteron 2210 (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2210-ee.c3330">Opteron 2210 EE</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2210-he-f2.c3331">Opteron 2210 HE (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2210-he-f3.c3332">Opteron 2210 HE (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2212-f2.c3333">Opteron 2212 (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2212-f3.c3334">Opteron 2212 (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2212-he-f2.c3335">Opteron 2212 HE (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2212-he-f3.c3336">Opteron 2212 HE (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2214-f2.c3337">Opteron 2214 (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2214-f3.c3338">Opteron 2214 (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2214-he-f2.c3339">Opteron 2214 HE (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2214-he-f3.c3340">Opteron 2214 HE (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2216-f2.c3341">Opteron 2216 (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2216-f3.c3342">Opteron 2216 (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2216-he-f2.c3343">Opteron 2216 HE (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2216-he-f3.c3344">Opteron 2216 HE (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2218-f2.c3346">Opteron 2218 (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2218-f3.c3347">Opteron 2218 (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2220-se-f2.c3349">Opteron 2220 SE (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>119 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-2220-se-f3.c3350">Opteron 2220 SE (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>119 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8210-ee.c3395">Opteron 8210 EE</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>45 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8212-f2.c3374">Opteron 8212 (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8212-f3.c3375">Opteron 8212 (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8212-he-f2.c3388">Opteron 8212 HE (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8212-he-f3.c3389">Opteron 8212 HE (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8214-f2.c3376">Opteron 8214 (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8214-f3.c3377">Opteron 8214 (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8214-he-f2.c3390">Opteron 8214 HE (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8214-he-f3.c3391">Opteron 8214 HE (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8216-f2.c3378">Opteron 8216 (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8216-f3.c3379">Opteron 8216 (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8216-he-f2.c3392">Opteron 8216 HE (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8216-he-f3.c3393">Opteron 8216 HE (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>68 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8218-f2.c3380">Opteron 8218 (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8218-f3.c3381">Opteron 8218 (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8220-se-f2.c3384">Opteron 8220 SE (F2)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>120 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-8220-se-f3.c3385">Opteron 8220 SE (F3)</a>
+			</td>
+	<td>Santa Rosa</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket F</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>120 W</td>
+	<td>Aug 15th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-856.c1161">Opteron 856</a>
+			</td>
+	<td>Athens</td>
+	<td>1 </td>
+	<td>3 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>92 W</td>
+	<td>Apr 1st, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-x2-185.c461">Opteron X2 185</a>
+			</td>
+	<td>Denmark</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 939</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>110 W</td>
+	<td>Mar 6th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-x2-275-he.c1196">Opteron X2 275 HE</a>
+			</td>
+	<td>Italy</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>55 W</td>
+	<td>Feb 1st, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-x2-285.c1197">Opteron X2 285</a>
+			</td>
+	<td>Italy</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Mar 6th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-x2-290.c1198">Opteron X2 290</a>
+			</td>
+	<td>Italy</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jan 1st, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-x2-875-he.c1201">Opteron X2 875 HE</a>
+			</td>
+	<td>Egypt</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>55 W</td>
+	<td>Feb 1st, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-x2-885.c1199">Opteron X2 885</a>
+			</td>
+	<td>Egypt</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Mar 6th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/opteron-x2-890.c1200">Opteron X2 890</a>
+			</td>
+	<td>Egypt</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 940</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Mar 6th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-2800.c553">Sempron 2800+</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3000.c554">Sempron 3000+</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3000-ee-sff.c563">Sempron 3000+ EE SFF</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3200.c555">Sempron 3200+</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3200-ee-sff.c560">Sempron 3200+ EE SFF</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3400.c1167">Sempron 3400+</a>
+			</td>
+	<td>Roma</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>25 W</td>
+	<td>May 17th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3400.c557">Sempron 3400+</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3400.c168">Sempron 3400+</a>
+			</td>
+	<td>Albany</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Jan 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3400-ee-sff.c562">Sempron 3400+ EE SFF</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>1800 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3500.c556">Sempron 3500+</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3500-ee-sff.c561">Sempron 3500+ EE SFF</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3600.c558">Sempron 3600+</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>2000 MHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3600.c167">Sempron 3600+</a>
+			</td>
+	<td>Albany</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>May 17th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/sempron-3800.c559">Sempron 3800+</a>
+			</td>
+	<td>Manila</td>
+	<td>1 </td>
+	<td>2.2 GHz</td>
+	<td>Socket AM2</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>62 W</td>
+	<td>Oct 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-64-ml-44.c1164">Turion 64 ML-44</a>
+			</td>
+	<td>Lancaster</td>
+	<td>1 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 754</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/turion-x2-rm-70.c625">Turion X2 RM-70</a>
+			</td>
+	<td>Griffin</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket S1</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>31 W</td>
+	<td>Jun 1st, 2006</td>
+</tr>
+		
+			</table>
+</div>

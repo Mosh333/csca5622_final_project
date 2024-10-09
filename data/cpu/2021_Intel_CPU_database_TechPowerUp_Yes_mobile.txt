@@ -1,0 +1,290 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11260h.c2478">Core i5-11260H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>6  / 12</td>
+	<td>2.1 to 4.4 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11300h.c2831">Core i5-11300H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>4  / 8</td>
+	<td>2.6 to 4.4 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>28 W</td>
+	<td>Jan 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11320h.c2832">Core i5-11320H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>4  / 8</td>
+	<td>2.5 to 4.5 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>28 W</td>
+	<td>Jun 21st, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11400h.c2477">Core i5-11400H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>6  / 12</td>
+	<td>2.2 to 4.5 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-11500h.c2481">Core i5-11500H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>6  / 12</td>
+	<td>2.4 to 4.6 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1155g7.c2486">Core i5-1155G7</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>4  / 8</td>
+	<td>2.5 to 4.5 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>28 W</td>
+	<td>May 31st, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11370h.c2833">Core i7-11370H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>4  / 8</td>
+	<td>3 to 4.8 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>Jan 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11375h.c2834">Core i7-11375H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>4  / 8</td>
+	<td>3 to 5 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>Jan 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11390h.c2835">Core i7-11390H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>4  / 8</td>
+	<td>2.9 to 5 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>Jun 21st, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11600h.c2830">Core i7-11600H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>6  / 12</td>
+	<td>2.5 to 4.6 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11800h.c2476">Core i7-11800H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>8  / 16</td>
+	<td>1.9 to 4.6 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-11850h.c2480">Core i7-11850H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>8  / 16</td>
+	<td>2.1 to 4.8 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1195g7.c2485">Core i7-1195G7</a>
+			</td>
+	<td>Tiger Lake-U</td>
+	<td>4  / 8</td>
+	<td>2.9 to 5 GHz</td>
+	<td>BGA 1449</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>28 W</td>
+	<td>May 31st, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-11900h.c2475">Core i9-11900H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>8  / 16</td>
+	<td>2.1 to 4.9 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-11900kb.c2484">Core i9-11900KB</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>8  / 16</td>
+	<td>3.3 to 5.3 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>65 W</td>
+	<td>May 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-11950h.c2479">Core i9-11950H</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>8  / 16</td>
+	<td>2.1 to 5 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-11980hk.c2474">Core i9-11980HK</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>8  / 16</td>
+	<td>2.6 to 5 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>45 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-11855m.c2483">Xeon W-11855M</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>6  / 12</td>
+	<td>3.2 to 4.9 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-11955m.c2482">Xeon W-11955M</a>
+			</td>
+	<td>Tiger Lake-H</td>
+	<td>8  / 16</td>
+	<td>2.1 to 5 GHz</td>
+	<td>BGA 1787</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>35 W</td>
+	<td>May 11th, 2021</td>
+</tr>
+		
+			</table>
+</div>

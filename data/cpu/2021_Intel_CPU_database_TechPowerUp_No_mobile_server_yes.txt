@@ -1,0 +1,1018 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2314.c2501">Xeon E-2314</a>
+			</td>
+	<td>Rocket Lake-E</td>
+	<td>4 </td>
+	<td>2.8 to 4.5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Sep 8th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2324g.c2500">Xeon E-2324G</a>
+			</td>
+	<td>Rocket Lake-E</td>
+	<td>4 </td>
+	<td>3.1 to 4.6 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Sep 8th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2334.c2499">Xeon E-2334</a>
+			</td>
+	<td>Rocket Lake-E</td>
+	<td>4  / 8</td>
+	<td>3.4 to 4.8 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Sep 8th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2336.c2497">Xeon E-2336</a>
+			</td>
+	<td>Rocket Lake-E</td>
+	<td>6  / 12</td>
+	<td>2.9 to 4.8 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Sep 8th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2356g.c2496">Xeon E-2356G</a>
+			</td>
+	<td>Rocket Lake-E</td>
+	<td>6  / 12</td>
+	<td>3.2 to 5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>80 W</td>
+	<td>Sep 8th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2374g.c2498">Xeon E-2374G</a>
+			</td>
+	<td>Rocket Lake-E</td>
+	<td>4  / 8</td>
+	<td>3.7 to 5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>80 W</td>
+	<td>Sep 8th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2378.c2494">Xeon E-2378</a>
+			</td>
+	<td>Rocket Lake-E</td>
+	<td>8  / 16</td>
+	<td>2.6 to 4.8 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Sep 8th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2378g.c2493">Xeon E-2378G</a>
+			</td>
+	<td>Rocket Lake-E</td>
+	<td>8  / 16</td>
+	<td>2.8 to 5.1 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>80 W</td>
+	<td>Sep 8th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2386g.c2495">Xeon E-2386G</a>
+			</td>
+	<td>Rocket Lake-E</td>
+	<td>6  / 12</td>
+	<td>3.5 to 5.1 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>95 W</td>
+	<td>Sep 8th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2388g.c2492">Xeon E-2388G</a>
+			</td>
+	<td>Rocket Lake-E</td>
+	<td>8  / 16</td>
+	<td>3.2 to 5.1 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>95 W</td>
+	<td>Sep 8th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5315y.c2450">Xeon Gold 5315Y</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>8  / 16</td>
+	<td>3.2 to 3.6 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>140 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5317.c2446">Xeon Gold 5317</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>12  / 24</td>
+	<td>3 to 3.6 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>150 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5318h.c2456">Xeon Gold 5318H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>18  / 36</td>
+	<td>2.5 to 3.8 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>24.75 MB</td>
+	<td>150 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5318n.c2447">Xeon Gold 5318N</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>24  / 48</td>
+	<td>2.1 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>150 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5318s.c2445">Xeon Gold 5318S</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>24  / 48</td>
+	<td>2.1 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>165 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5318y.c2444">Xeon Gold 5318Y</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>24  / 48</td>
+	<td>2.1 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>165 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5320.c2449">Xeon Gold 5320</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>26  / 52</td>
+	<td>2.2 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>39 MB</td>
+	<td>185 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5320h.c2470">Xeon Gold 5320H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>20  / 40</td>
+	<td>2.4 to 4.2 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>27.5 MB</td>
+	<td>150 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-5320t.c2448">Xeon Gold 5320T</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>20  / 40</td>
+	<td>2.3 to 3.5 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>150 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6312u.c2443">Xeon Gold 6312U</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>24  / 48</td>
+	<td>2.4 to 3.6 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>185 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6314u.c2436">Xeon Gold 6314U</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>32  / 64</td>
+	<td>2.3 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>48 MB</td>
+	<td>205 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6326.c2439">Xeon Gold 6326</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>16  / 32</td>
+	<td>2.9 to 3.5 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>185 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6328h.c2457">Xeon Gold 6328H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>16  / 32</td>
+	<td>2.8 to 4.3 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>22 MB</td>
+	<td>165 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6328hl.c2458">Xeon Gold 6328HL</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>16  / 32</td>
+	<td>2.8 to 4.3 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>22 MB</td>
+	<td>165 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6330.c2434">Xeon Gold 6330</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>28  / 56</td>
+	<td>2 to 3.1 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>42 MB</td>
+	<td>205 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6330h.c2469">Xeon Gold 6330H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>24  / 48</td>
+	<td>2 to 3.7 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>33 MB</td>
+	<td>150 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6334.c2438">Xeon Gold 6334</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>8  / 16</td>
+	<td>3.6 to 3.7 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>165 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6336y.c2442">Xeon Gold 6336Y</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>24  / 48</td>
+	<td>2.4 to 3.6 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>185 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6338n.c2437">Xeon Gold 6338N</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>32  / 64</td>
+	<td>2.2 to 3.5 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>48 MB</td>
+	<td>185 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6338t.c2441">Xeon Gold 6338T</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>24  / 48</td>
+	<td>2.1 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>165 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6342.c2440">Xeon Gold 6342</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>24  / 48</td>
+	<td>2.8 to 3.5 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>230 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6346.c2433">Xeon Gold 6346</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>16  / 32</td>
+	<td>3.1 to 3.6 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>205 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6348.c2432">Xeon Gold 6348</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>28  / 56</td>
+	<td>2.6 to 3.5 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>42 MB</td>
+	<td>235 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6348h.c2468">Xeon Gold 6348H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>24  / 48</td>
+	<td>2.3 to 4.2 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>33 MB</td>
+	<td>165 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-gold-6354.c2435">Xeon Gold 6354</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>18  / 36</td>
+	<td>3 to 3.6 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>39 MB</td>
+	<td>205 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8351n.c2429">Xeon Platinum 8351N</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>36  / 72</td>
+	<td>2.4 to 3.5 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>54 MB</td>
+	<td>225 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8352m.c2431">Xeon Platinum 8352M</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>32  / 64</td>
+	<td>2.3 to 3.5 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>48 MB</td>
+	<td>185 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8352s.c2430">Xeon Platinum 8352S</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>32  / 64</td>
+	<td>2.2 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>48 MB</td>
+	<td>205 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8352v.c2428">Xeon Platinum 8352V</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>36  / 72</td>
+	<td>2.5 to 3.5 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>54 MB</td>
+	<td>195 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8353h.c2459">Xeon Platinum 8353H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>18  / 36</td>
+	<td>2.5 to 3.8 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>24.75 MB</td>
+	<td>150 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8354h.c2460">Xeon Platinum 8354H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>18  / 36</td>
+	<td>3.1 to 4.3 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>24.75 MB</td>
+	<td>205 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8356h.c2465">Xeon Platinum 8356H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>8  / 16</td>
+	<td>3.9 to 4.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>35.75 MB</td>
+	<td>190 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8358.c2424">Xeon Platinum 8358</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>32  / 64</td>
+	<td>2.6 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>48 MB</td>
+	<td>250 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8358p.c2425">Xeon Platinum 8358P</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>32  / 64</td>
+	<td>2.6 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>48 MB</td>
+	<td>240 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8360h.c2466">Xeon Platinum 8360H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>24  / 48</td>
+	<td>3 to 4.2 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>33 MB</td>
+	<td>225 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8360hl.c2467">Xeon Platinum 8360HL</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>24  / 48</td>
+	<td>3 to 4.2 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>33 MB</td>
+	<td>225 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8360y.c2423">Xeon Platinum 8360Y</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>36  / 72</td>
+	<td>2.4 to 3.5 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>54 MB</td>
+	<td>250 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8362.c2426">Xeon Platinum 8362</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>32  / 64</td>
+	<td>2.8 to 3.6 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>48 MB</td>
+	<td>265 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8368.c2422">Xeon Platinum 8368</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>38  / 76</td>
+	<td>2.4 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>57 MB</td>
+	<td>270 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8368q.c2427">Xeon Platinum 8368Q</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>38  / 76</td>
+	<td>2.6 to 3.7 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>57 MB</td>
+	<td>270 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8376h.c2462">Xeon Platinum 8376H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>28  / 56</td>
+	<td>2.6 to 4.3 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>38.5 MB</td>
+	<td>205 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8376hl.c2461">Xeon Platinum 8376HL</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>28  / 56</td>
+	<td>2.6 to 4.3 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>38.5 MB</td>
+	<td>205 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8380.c2421">Xeon Platinum 8380</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>40  / 80</td>
+	<td>2.3 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>60 MB</td>
+	<td>270 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8380h.c2463">Xeon Platinum 8380H</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>28  / 56</td>
+	<td>2.9 to 4.3 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>38.5 MB</td>
+	<td>250 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-8380hl.c2464">Xeon Platinum 8380HL</a>
+			</td>
+	<td>Cooper Lake-SP</td>
+	<td>28  / 56</td>
+	<td>2.9 to 4.3 GHz</td>
+	<td>Socket 4189</td>
+	<td>14 nm</td>
+	<td>38.5 MB</td>
+	<td>250 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4309y.c2453">Xeon Silver 4309Y</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>8  / 16</td>
+	<td>2.8 to 3.6 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>12 MB</td>
+	<td>105 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4310.c2454">Xeon Silver 4310</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>12  / 24</td>
+	<td>2.1 to 3.3 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>120 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4310t.c2455">Xeon Silver 4310T</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>10  / 20</td>
+	<td>2.3 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>15 MB</td>
+	<td>105 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4314.c2451">Xeon Silver 4314</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>16  / 32</td>
+	<td>2.4 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>135 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-silver-4316.c2452">Xeon Silver 4316</a>
+			</td>
+	<td>Ice Lake-SP</td>
+	<td>20  / 40</td>
+	<td>2.3 to 3.4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>30 MB</td>
+	<td>150 W</td>
+	<td>Apr 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-1350.c3549">Xeon W-1350</a>
+			</td>
+	<td>Rocket Lake-S</td>
+	<td>6  / 12</td>
+	<td>3.3 to 5 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>80 W</td>
+	<td>May 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-1350p.c3552">Xeon W-1350P</a>
+			</td>
+	<td>Rocket Lake-S</td>
+	<td>6  / 12</td>
+	<td>4 to 5.1 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>125 W</td>
+	<td>May 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-1370.c3550">Xeon W-1370</a>
+			</td>
+	<td>Rocket Lake-S</td>
+	<td>8  / 16</td>
+	<td>2.9 to 5.1 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>80 W</td>
+	<td>May 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-1370p.c3553">Xeon W-1370P</a>
+			</td>
+	<td>Rocket Lake-S</td>
+	<td>8  / 16</td>
+	<td>3.6 to 5.2 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>125 W</td>
+	<td>May 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-1390.c3551">Xeon W-1390</a>
+			</td>
+	<td>Rocket Lake-S</td>
+	<td>8  / 16</td>
+	<td>2.8 to 5.2 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>80 W</td>
+	<td>May 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-1390p.c3554">Xeon W-1390P</a>
+			</td>
+	<td>Rocket Lake-S</td>
+	<td>8  / 16</td>
+	<td>3.5 to 5.3 GHz</td>
+	<td>Socket 1200</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>125 W</td>
+	<td>May 6th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-3323.c2491">Xeon W-3323</a>
+			</td>
+	<td>Ice Lake-W</td>
+	<td>12  / 24</td>
+	<td>3.5 to 4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>18 MB</td>
+	<td>220 W</td>
+	<td>Jul 29th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-3335.c2490">Xeon W-3335</a>
+			</td>
+	<td>Ice Lake-W</td>
+	<td>16  / 32</td>
+	<td>3.4 to 4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>24 MB</td>
+	<td>250 W</td>
+	<td>Jul 29th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-3345.c2489">Xeon W-3345</a>
+			</td>
+	<td>Ice Lake-W</td>
+	<td>24  / 48</td>
+	<td>3 to 4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>36 MB</td>
+	<td>250 W</td>
+	<td>Jul 29th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-3365.c2488">Xeon W-3365</a>
+			</td>
+	<td>Ice Lake-W</td>
+	<td>32  / 64</td>
+	<td>2.7 to 4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>48 MB</td>
+	<td>270 W</td>
+	<td>Jul 29th, 2021</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-3375.c2487">Xeon W-3375</a>
+			</td>
+	<td>Ice Lake-W</td>
+	<td>38  / 76</td>
+	<td>2.5 to 4 GHz</td>
+	<td>Socket 4189</td>
+	<td>10 nm</td>
+	<td>57 MB</td>
+	<td>270 W</td>
+	<td>Jul 29th, 2021</td>
+</tr>
+		
+			</table>
+</div>

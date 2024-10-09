@@ -1,0 +1,836 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-gold-3150g.c2330">Athlon Gold 3150G</a>
+			</td>
+	<td>Dali</td>
+	<td>4 </td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>65 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-gold-3150ge.c2331">Athlon Gold 3150GE</a>
+			</td>
+	<td>Dali</td>
+	<td>4 </td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-gold-pro-3150g.c2333">Athlon Gold PRO 3150G</a>
+			</td>
+	<td>Dali</td>
+	<td>4 </td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>65 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-gold-pro-3150ge.c2335">Athlon Gold PRO 3150GE</a>
+			</td>
+	<td>Dali</td>
+	<td>4 </td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-silver-3050ge.c2332">Athlon Silver 3050GE</a>
+			</td>
+	<td>Dali</td>
+	<td>2  / 4</td>
+	<td>3.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-silver-pro-3125ge.c2334">Athlon Silver PRO 3125GE</a>
+			</td>
+	<td>Dali</td>
+	<td>2  / 4</td>
+	<td>3.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7f32.c2300">EPYC 7F32</a>
+			</td>
+	<td>Rome</td>
+	<td>8  / 16</td>
+	<td>3.7 to 3.9 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>180 W</td>
+	<td>Apr 14th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7f52.c2301">EPYC 7F52</a>
+			</td>
+	<td>Rome</td>
+	<td>16  / 32</td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>155 W</td>
+	<td>Apr 14th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7f72.c2302">EPYC 7F72</a>
+			</td>
+	<td>Rome</td>
+	<td>24  / 48</td>
+	<td>3.2 to 3.7 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>192 MB</td>
+	<td>240 W</td>
+	<td>Apr 14th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-3100.c2298">Ryzen 3 3100</a>
+			</td>
+	<td>Matisse</td>
+	<td>4  / 8</td>
+	<td>3.6 to 3.9 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 24th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-3250u.c2287">Ryzen 3 3250U</a>
+			</td>
+	<td>Raven Ridge</td>
+	<td>2  / 4</td>
+	<td>2.6 to 3.5 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Jan 6th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-3300x.c2297">Ryzen 3 3300X</a>
+			</td>
+	<td>Matisse</td>
+	<td>4  / 8</td>
+	<td>3.8 to 4.3 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 24th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-4300g.c2320">Ryzen 3 4300G</a>
+			</td>
+	<td>Renoir</td>
+	<td>4  / 8</td>
+	<td>3.8 to 4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>4 MB</td>
+	<td>65 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-4300ge.c2323">Ryzen 3 4300GE</a>
+			</td>
+	<td>Renoir</td>
+	<td>4  / 8</td>
+	<td>3.5 to 4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-4300u.c2286">Ryzen 3 4300U</a>
+			</td>
+	<td>Renoir</td>
+	<td>4 </td>
+	<td>2.7 to 3.7 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>4 MB</td>
+	<td>25 W</td>
+	<td>Jan 6th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-pro-4350g.c2326">Ryzen 3 PRO 4350G</a>
+			</td>
+	<td>Renoir</td>
+	<td>4  / 8</td>
+	<td>3.8 to 4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>4 MB</td>
+	<td>65 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-pro-4350ge.c2329">Ryzen 3 PRO 4350GE</a>
+			</td>
+	<td>Renoir</td>
+	<td>4  / 8</td>
+	<td>3.5 to 4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-pro-4450u.c2503">Ryzen 3 PRO 4450U</a>
+			</td>
+	<td>Renoir</td>
+	<td>4  / 8</td>
+	<td>2.4 to 3.7 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>May 7th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-4500u.c2285">Ryzen 5 4500U</a>
+			</td>
+	<td>Renoir</td>
+	<td>6 </td>
+	<td>2.3 to 4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>11 MB</td>
+	<td>25 W</td>
+	<td>Jan 6th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-4600g.c2319">Ryzen 5 4600G</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3.7 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-4600ge.c2322">Ryzen 5 4600GE</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-4600h.c2283">Ryzen 5 4600H</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3 to 4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>11 MB</td>
+	<td>54 W</td>
+	<td>Jan 6th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-4600hs.c2295">Ryzen 5 4600HS</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3 to 4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>11 MB</td>
+	<td>35 W</td>
+	<td>Jan 6th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-4600u.c2284">Ryzen 5 4600U</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>2.1 to 4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>11 MB</td>
+	<td>25 W</td>
+	<td>Jan 6th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5600x.c2365">Ryzen 5 5600X</a>
+			</td>
+	<td>Vermeer</td>
+	<td>6  / 12</td>
+	<td>3.7 to 4.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Nov 5th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-4650g.c2325">Ryzen 5 PRO 4650G</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3.7 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-4650ge.c2328">Ryzen 5 PRO 4650GE</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-4650u.c2504">Ryzen 5 PRO 4650U</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>2.1 to 4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>May 7th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-3800xt.c2309">Ryzen 7 3800XT</a>
+			</td>
+	<td>Matisse 2</td>
+	<td>8  / 16</td>
+	<td>3.8 to 4.7 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>32 MB</td>
+	<td>105 W</td>
+	<td>Jul 7th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-4700g.c2318">Ryzen 7 4700G</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>3.6 to 4.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-4700ge.c2321">Ryzen 7 4700GE</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>3.1 to 4.3 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-4700u.c2282">Ryzen 7 4700U</a>
+			</td>
+	<td>Renoir</td>
+	<td>8 </td>
+	<td>1.8 to 4.2 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>25 W</td>
+	<td>Jan 6th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-4750u.c2502">Ryzen 7 4750U</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>1.7 to 4.1 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>May 7th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-4800h.c2280">Ryzen 7 4800H</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>2.9 to 4.2 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>54 W</td>
+	<td>Jan 6th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-4800hs.c2296">Ryzen 7 4800HS</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>2.9 to 4.2 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>Jan 6th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-4800u.c2281">Ryzen 7 4800U</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>1.8 to 4.2 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>25 W</td>
+	<td>Jan 6th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5800x.c2362">Ryzen 7 5800X</a>
+			</td>
+	<td>Vermeer</td>
+	<td>8  / 16</td>
+	<td>3.8 to 4.7 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>32 MB</td>
+	<td>105 W</td>
+	<td>Nov 5th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-4750g.c2324">Ryzen 7 PRO 4750G</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>3.6 to 4.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-4750ge.c2327">Ryzen 7 PRO 4750GE</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>3.1 to 4.3 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Jul 21st, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-3900xt.c2308">Ryzen 9 3900XT</a>
+			</td>
+	<td>Matisse 2</td>
+	<td>12  / 24</td>
+	<td>3.9 to 4.7 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>105 W</td>
+	<td>Jul 7th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-4900h.c2279">Ryzen 9 4900H</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>3.3 to 4.4 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>54 W</td>
+	<td>Mar 16th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-4900hs.c2278">Ryzen 9 4900HS</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>3 to 4.3 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>Mar 7th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-5900x.c2363">Ryzen 9 5900X</a>
+			</td>
+	<td>Vermeer</td>
+	<td>12  / 24</td>
+	<td>3.7 to 4.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>105 W</td>
+	<td>Nov 5th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-5950x.c2364">Ryzen 9 5950X</a>
+			</td>
+	<td>Vermeer</td>
+	<td>16  / 32</td>
+	<td>3.4 to 4.9 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>105 W</td>
+	<td>Nov 5th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-r1102g.c2841">Ryzen Embedded R1102G</a>
+			</td>
+	<td>Zen</td>
+	<td>2  / 4</td>
+	<td>1.2 to 2.6 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>6 W</td>
+	<td>Feb 25th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-r1305g.c2842">Ryzen Embedded R1305G</a>
+			</td>
+	<td>Zen</td>
+	<td>2  / 4</td>
+	<td>1.5 to 2.8 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>10 W</td>
+	<td>Feb 25th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-r1505g.c2843">Ryzen Embedded R1505G</a>
+			</td>
+	<td>Zen</td>
+	<td>2  / 4</td>
+	<td>2.4 to 3.3 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>25 W</td>
+	<td>Feb 25th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-r1600.c2845">Ryzen Embedded R1600</a>
+			</td>
+	<td>Zen</td>
+	<td>2  / 4</td>
+	<td>2.6 to 3.1 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>25 W</td>
+	<td>Feb 25th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-r1606g.c2844">Ryzen Embedded R1606G</a>
+			</td>
+	<td>Zen</td>
+	<td>2  / 4</td>
+	<td>2.6 to 3.5 GHz</td>
+	<td>Socket FP5</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>25 W</td>
+	<td>Feb 25th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v2516.c2807">Ryzen Embedded V2516</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>2.1 to 3.95 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>10 W</td>
+	<td>Nov 10th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v2546.c2806">Ryzen Embedded V2546</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3 to 3.95 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Nov 10th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v2718.c2805">Ryzen Embedded V2718</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>1.7 to 4.15 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>10 W</td>
+	<td>Nov 10th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v2748.c2804">Ryzen Embedded V2748</a>
+			</td>
+	<td>Renoir</td>
+	<td>8  / 16</td>
+	<td>2.9 to 4.25 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Nov 10th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-3990x.c2271">Ryzen Threadripper 3990X</a>
+			</td>
+	<td>Castle Peak</td>
+	<td>64  / 128</td>
+	<td>2.9 to 4.3 GHz</td>
+	<td>Socket TRX4</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Feb 7th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-3945wx.c2317">Ryzen Threadripper PRO 3945WX</a>
+			</td>
+	<td>Castle Peak</td>
+	<td>12  / 24</td>
+	<td>4 to 4.3 GHz</td>
+	<td>Socket WRX8</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>280 W</td>
+	<td>Jul 14th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-3955wx.c2316">Ryzen Threadripper PRO 3955WX</a>
+			</td>
+	<td>Castle Peak</td>
+	<td>16  / 32</td>
+	<td>3.9 to 4.3 GHz</td>
+	<td>Socket WRX8</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>280 W</td>
+	<td>Jul 14th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-3975wx.c2315">Ryzen Threadripper PRO 3975WX</a>
+			</td>
+	<td>Castle Peak</td>
+	<td>32  / 64</td>
+	<td>3.5 to 4.2 GHz</td>
+	<td>Socket WRX8</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>280 W</td>
+	<td>Jul 14th, 2020</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-3995wx.c2314">Ryzen Threadripper PRO 3995WX</a>
+			</td>
+	<td>Castle Peak</td>
+	<td>64  / 128</td>
+	<td>2.7 to 4.2 GHz</td>
+	<td>Socket WRX8</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Jul 14th, 2020</td>
+</tr>
+		
+			</table>
+</div>

@@ -1,0 +1,1186 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-gold-7220u.c3044">Athlon Gold 7220U</a>
+			</td>
+	<td>Mendocino</td>
+	<td>2  / 4</td>
+	<td>2.4 to 3.7 GHz</td>
+	<td>Socket FP6</td>
+	<td>6 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Sep 20th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-silver-7120u.c3043">Athlon Silver 7120U</a>
+			</td>
+	<td>Mendocino</td>
+	<td>2 </td>
+	<td>2.4 to 3.5 GHz</td>
+	<td>Socket FP6</td>
+	<td>6 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Sep 20th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7373x.c2762">EPYC 7373X</a>
+			</td>
+	<td>Milan-X</td>
+	<td>16  / 32</td>
+	<td>3.05 to 3.8 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>768 MB</td>
+	<td>240 W</td>
+	<td>Mar 22nd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7473x.c2761">EPYC 7473X</a>
+			</td>
+	<td>Milan-X</td>
+	<td>24  / 48</td>
+	<td>2.8 to 3.7 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>768 MB</td>
+	<td>240 W</td>
+	<td>Mar 22nd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7573x.c2760">EPYC 7573X</a>
+			</td>
+	<td>Milan-X</td>
+	<td>32  / 64</td>
+	<td>2.8 to 3.6 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>768 MB</td>
+	<td>280 W</td>
+	<td>Mar 22nd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7773x.c2759">EPYC 7773X</a>
+			</td>
+	<td>Milan-X</td>
+	<td>64  / 128</td>
+	<td>2.2 to 3.5 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>768 MB</td>
+	<td>280 W</td>
+	<td>Mar 22nd, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9124.c2917">EPYC 9124</a>
+			</td>
+	<td>Genoa</td>
+	<td>16  / 32</td>
+	<td>3 to 3.7 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>200 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9174f.c2918">EPYC 9174F</a>
+			</td>
+	<td>Genoa</td>
+	<td>16  / 32</td>
+	<td>4.1 to 4.4 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>320 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9224.c2919">EPYC 9224</a>
+			</td>
+	<td>Genoa</td>
+	<td>24  / 48</td>
+	<td>2.5 to 3.7 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>200 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9254.c2920">EPYC 9254</a>
+			</td>
+	<td>Genoa</td>
+	<td>24  / 48</td>
+	<td>2.9 to 4.15 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>200 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9274f.c2921">EPYC 9274F</a>
+			</td>
+	<td>Genoa</td>
+	<td>24  / 48</td>
+	<td>4.05 to 4.3 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>320 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9334.c2922">EPYC 9334</a>
+			</td>
+	<td>Genoa</td>
+	<td>32  / 64</td>
+	<td>2.7 to 3.9 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>210 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9354.c2923">EPYC 9354</a>
+			</td>
+	<td>Genoa</td>
+	<td>32  / 64</td>
+	<td>3.25 to 3.8 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9354p.c2924">EPYC 9354P</a>
+			</td>
+	<td>Genoa</td>
+	<td>32  / 64</td>
+	<td>3.25 to 3.8 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9374f.c2925">EPYC 9374F</a>
+			</td>
+	<td>Genoa</td>
+	<td>32  / 64</td>
+	<td>3.85 to 4.3 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>320 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9454.c2926">EPYC 9454</a>
+			</td>
+	<td>Genoa</td>
+	<td>48  / 96</td>
+	<td>2.75 to 3.8 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>290 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9454p.c2927">EPYC 9454P</a>
+			</td>
+	<td>Genoa</td>
+	<td>48  / 96</td>
+	<td>2.75 to 3.8 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>290 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9474f.c2928">EPYC 9474F</a>
+			</td>
+	<td>Genoa</td>
+	<td>48  / 96</td>
+	<td>3.6 to 4.1 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>360 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9534.c2929">EPYC 9534</a>
+			</td>
+	<td>Genoa</td>
+	<td>64  / 128</td>
+	<td>2.45 to 3.7 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9554.c2930">EPYC 9554</a>
+			</td>
+	<td>Genoa</td>
+	<td>64  / 128</td>
+	<td>3.1 to 3.75 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>360 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9554p.c2931">EPYC 9554P</a>
+			</td>
+	<td>Genoa</td>
+	<td>64  / 128</td>
+	<td>3.1 to 3.75 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>360 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9634.c2932">EPYC 9634</a>
+			</td>
+	<td>Genoa</td>
+	<td>84  / 168</td>
+	<td>2.25 to 3.7 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>384 MB</td>
+	<td>290 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9654.c2933">EPYC 9654</a>
+			</td>
+	<td>Genoa</td>
+	<td>96  / 192</td>
+	<td>2.4 to 3.7 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>384 MB</td>
+	<td>360 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9654p.c2934">EPYC 9654P</a>
+			</td>
+	<td>Genoa</td>
+	<td>96  / 192</td>
+	<td>2.4 to 3.7 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>384 MB</td>
+	<td>360 W</td>
+	<td>Nov 10th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-4100.c2757">Ryzen 3 4100</a>
+			</td>
+	<td>Renoir</td>
+	<td>4  / 8</td>
+	<td>3.8 to 4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Apr 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-5125c.c2785">Ryzen 3 5125C</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>2  / 4</td>
+	<td>3 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>May 5th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-5425c.c2784">Ryzen 3 5425C</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>4  / 8</td>
+	<td>2.7 to 4.1 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>May 5th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-5425u.c2519">Ryzen 3 5425U</a>
+			</td>
+	<td>Barcelo</td>
+	<td>4  / 8</td>
+	<td>2.7 to 4.1 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Jan 6th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-7320u.c3045">Ryzen 3 7320U</a>
+			</td>
+	<td>Mendocino</td>
+	<td>4  / 8</td>
+	<td>2.4 to 4.1 GHz</td>
+	<td>Socket FP6</td>
+	<td>6 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Sep 20th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-pro-5475u.c2775">Ryzen 3 PRO 5475U</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>4  / 8</td>
+	<td>2.7 to 4.1 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-4500.c2758">Ryzen 5 4500</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3.6 to 4.1 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Apr 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5500.c2756">Ryzen 5 5500</a>
+			</td>
+	<td>Cezanne</td>
+	<td>6  / 12</td>
+	<td>3.6 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5600.c2743">Ryzen 5 5600</a>
+			</td>
+	<td>Vermeer</td>
+	<td>6  / 12</td>
+	<td>3.5 to 4.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Apr 20th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5625c.c2783">Ryzen 5 5625C</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>6  / 12</td>
+	<td>2.3 to 4.3 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>May 5th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5625u.c2520">Ryzen 5 5625U</a>
+			</td>
+	<td>Barcelo</td>
+	<td>6  / 12</td>
+	<td>2.3 to 4.3 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 6th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-6600h.c2525">Ryzen 5 6600H</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.5 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-6600hs.c2524">Ryzen 5 6600HS</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.5 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-6600u.c2522">Ryzen 5 6600U</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>6  / 12</td>
+	<td>2.9 to 4.5 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7520u.c3046">Ryzen 5 7520U</a>
+			</td>
+	<td>Mendocino</td>
+	<td>4  / 8</td>
+	<td>2.8 to 4.3 GHz</td>
+	<td>Socket FP6</td>
+	<td>6 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Sep 20th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7600x.c2849">Ryzen 5 7600X</a>
+			</td>
+	<td>Raphael</td>
+	<td>6  / 12</td>
+	<td>4.7 to 5.3 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>105 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-4655g.c3324">Ryzen 5 PRO 4655G</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3.7 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Nov 11th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-4655ge.c3325">Ryzen 5 PRO 4655GE</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.2 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Nov 11th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-5675u.c2776">Ryzen 5 PRO 5675U</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>6  / 12</td>
+	<td>2.3 to 4.3 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-6650h.c2769">Ryzen 5 PRO 6650H</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.5 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-6650hs.c2770">Ryzen 5 PRO 6650HS</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.5 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-6650u.c2771">Ryzen 5 PRO 6650U</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>6  / 12</td>
+	<td>2.9 to 4.5 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5700.c3305">Ryzen 7 5700</a>
+			</td>
+	<td>Cezanne</td>
+	<td>8  / 16</td>
+	<td>3.7 to 4.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5700x.c2755">Ryzen 7 5700X</a>
+			</td>
+	<td>Vermeer</td>
+	<td>8  / 16</td>
+	<td>3.4 to 4.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Apr 4th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5800x3d.c2532">Ryzen 7 5800X3D</a>
+			</td>
+	<td>Vermeer</td>
+	<td>8  / 16</td>
+	<td>3.4 to 4.5 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>96 MB</td>
+	<td>105 W</td>
+	<td>Apr 20th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5825c.c2782">Ryzen 7 5825C</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>8  / 16</td>
+	<td>2 to 4.5 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>May 5th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5825u.c2521">Ryzen 7 5825U</a>
+			</td>
+	<td>Barcelo</td>
+	<td>8  / 16</td>
+	<td>2 to 4.5 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 6th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-6800h.c2527">Ryzen 7 6800H</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.7 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-6800hs.c2526">Ryzen 7 6800HS</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.7 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-6800u.c2523">Ryzen 7 6800U</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>2.7 to 4.7 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7700x.c2848">Ryzen 7 7700X</a>
+			</td>
+	<td>Raphael</td>
+	<td>8  / 16</td>
+	<td>4.5 to 5.4 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>105 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-5875u.c2777">Ryzen 7 PRO 5875U</a>
+			</td>
+	<td>Cezanne-U</td>
+	<td>8  / 16</td>
+	<td>2 to 4.5 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-6850h.c2766">Ryzen 7 PRO 6850H</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.7 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-6850hs.c2767">Ryzen 7 PRO 6850HS</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.2 to 4.7 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-6850u.c2768">Ryzen 7 PRO 6850U</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>2.7 to 4.7 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-6900hs.c2528">Ryzen 9 6900HS</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.3 to 4.9 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-6900hx.c2529">Ryzen 9 6900HX</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.3 to 4.9 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-6980hs.c2530">Ryzen 9 6980HS</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.3 to 5 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-6980hx.c2531">Ryzen 9 6980HX</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.3 to 5 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Jan 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-7900x.c2847">Ryzen 9 7900X</a>
+			</td>
+	<td>Raphael</td>
+	<td>12  / 24</td>
+	<td>4.7 to 5.6 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>170 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-7950x.c2846">Ryzen 9 7950X</a>
+			</td>
+	<td>Raphael</td>
+	<td>16  / 32</td>
+	<td>4.5 to 5.7 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>170 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-pro-6950h.c2765">Ryzen 9 PRO 6950H</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.3 to 4.9 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-pro-6950hs.c2764">Ryzen 9 PRO 6950HS</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.3 to 4.9 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Apr 19th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-r2312.c3320">Ryzen Embedded R2312</a>
+			</td>
+	<td>Picasso</td>
+	<td>2  / 4</td>
+	<td>2.7 to 3.5 GHz</td>
+	<td>Socket FP5</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Jun 21st, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-r2314.c3321">Ryzen Embedded R2314</a>
+			</td>
+	<td>Picasso</td>
+	<td>4 </td>
+	<td>2.1 to 3.5 GHz</td>
+	<td>Socket FP5</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Jun 21st, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-r2514.c3322">Ryzen Embedded R2514</a>
+			</td>
+	<td>Picasso</td>
+	<td>4  / 8</td>
+	<td>2.1 to 3.7 GHz</td>
+	<td>Socket FP5</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Sep 30th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-r2544.c3323">Ryzen Embedded R2544</a>
+			</td>
+	<td>Picasso</td>
+	<td>4  / 8</td>
+	<td>3.35 to 3.7 GHz</td>
+	<td>Socket FP5</td>
+	<td>12 nm</td>
+	<td>4 MB</td>
+	<td>45 W</td>
+	<td>Sep 30th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v3c14.c3315">Ryzen Embedded V3C14</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>4  / 8</td>
+	<td>2.3 to 3.8 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v3c16.c3317">Ryzen Embedded V3C16</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>6  / 12</td>
+	<td>2 to 3.8 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v3c18i.c3318">Ryzen Embedded V3C18I</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>1.9 to 3.8 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>15 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v3c44.c3316">Ryzen Embedded V3C44</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>4  / 8</td>
+	<td>3.5 to 3.8 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v3c48.c3319">Ryzen Embedded V3C48</a>
+			</td>
+	<td>Rembrandt</td>
+	<td>8  / 16</td>
+	<td>3.3 to 3.8 GHz</td>
+	<td>Socket FP7</td>
+	<td>6 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Sep 27th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-5990x.c2915">Ryzen Threadripper 5990X</a>
+			</td>
+	<td>Chagall</td>
+	<td>64  / 128</td>
+	<td>2.5 to 4.45 GHz</td>
+	<td>Socket TRX4</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Never Released</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-5945wx.c2723">Ryzen Threadripper PRO 5945WX</a>
+			</td>
+	<td>Chagall PRO</td>
+	<td>12  / 24</td>
+	<td>4.1 to 4.5 GHz</td>
+	<td>Socket WRX8</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>280 W</td>
+	<td>Mar 8th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-5955wx.c2722">Ryzen Threadripper PRO 5955WX</a>
+			</td>
+	<td>Chagall PRO</td>
+	<td>16  / 32</td>
+	<td>4 to 4.5 GHz</td>
+	<td>Socket WRX8</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>280 W</td>
+	<td>Mar 8th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-5965wx.c2721">Ryzen Threadripper PRO 5965WX</a>
+			</td>
+	<td>Chagall PRO</td>
+	<td>24  / 48</td>
+	<td>3.8 to 4.5 GHz</td>
+	<td>Socket WRX8</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>280 W</td>
+	<td>Mar 8th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-5975wx.c2720">Ryzen Threadripper PRO 5975WX</a>
+			</td>
+	<td>Chagall PRO</td>
+	<td>32  / 64</td>
+	<td>3.6 to 4.5 GHz</td>
+	<td>Socket WRX8</td>
+	<td>7 nm</td>
+	<td>128 MB</td>
+	<td>280 W</td>
+	<td>Mar 8th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-5995wx.c2719">Ryzen Threadripper PRO 5995WX</a>
+			</td>
+	<td>Chagall PRO</td>
+	<td>64  / 128</td>
+	<td>2.7 to 4.5 GHz</td>
+	<td>Socket WRX8</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Mar 8th, 2022</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/steam-deck-cpu-lcd.c3397">Steam Deck CPU (LCD)</a>
+			</td>
+	<td>Van Gogh</td>
+	<td>4  / 8</td>
+	<td>2.4 to 3.5 GHz</td>
+	<td>BGA ST1</td>
+	<td>7 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Feb 25th, 2022</td>
+</tr>
+		
+			</table>
+</div>

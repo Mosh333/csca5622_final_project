@@ -1,0 +1,584 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-4124p.c3610">EPYC 4124P</a>
+			</td>
+	<td>Raphael</td>
+	<td>4  / 8</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>May 21st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-4244p.c3609">EPYC 4244P</a>
+			</td>
+	<td>Raphael</td>
+	<td>6  / 12</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>May 21st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-4344p.c3608">EPYC 4344P</a>
+			</td>
+	<td>Raphael</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.3 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>May 21st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-4364p.c3611">EPYC 4364P</a>
+			</td>
+	<td>Raphael</td>
+	<td>8  / 16</td>
+	<td>4.5 to 5.4 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>105 W</td>
+	<td>May 21st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-4464p.c3612">EPYC 4464P</a>
+			</td>
+	<td>Raphael</td>
+	<td>12  / 24</td>
+	<td>3.7 to 5.4 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>105 W</td>
+	<td>May 21st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-4484px.c3606">EPYC 4484PX</a>
+			</td>
+	<td>Raphael</td>
+	<td>12  / 24</td>
+	<td>4.4 to 5.6 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>120 W</td>
+	<td>May 21st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-4564p.c3613">EPYC 4564P</a>
+			</td>
+	<td>Raphael</td>
+	<td>16  / 32</td>
+	<td>4.5 to 5.7 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>170 W</td>
+	<td>May 21st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-4584px.c3607">EPYC 4584PX</a>
+			</td>
+	<td>Raphael</td>
+	<td>16  / 32</td>
+	<td>4.2 to 5.7 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>120 W</td>
+	<td>May 21st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-3-8300g.c3459">Ryzen 3 8300G</a>
+			</td>
+	<td>Phoenix2</td>
+	<td>4  / 8</td>
+	<td>3.4 to 4.9 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jan 8th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5500gt.c3439">Ryzen 5 5500GT</a>
+			</td>
+	<td>Cezanne</td>
+	<td>6  / 12</td>
+	<td>3.6 to 4.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Jan 8th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5600gt.c3438">Ryzen 5 5600GT</a>
+			</td>
+	<td>Cezanne</td>
+	<td>6  / 12</td>
+	<td>3.6 to 4.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Jan 8th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7600x3d.c3792">Ryzen 5 7600X3D</a>
+			</td>
+	<td>Raphael</td>
+	<td>6  / 12</td>
+	<td>4.1 to 4.7 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>96 MB</td>
+	<td>65 W</td>
+	<td>Aug 30th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-8400f.c3568">Ryzen 5 8400F</a>
+			</td>
+	<td>Phoenix</td>
+	<td>6  / 12</td>
+	<td>4.2 to 4.7 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 1st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-8500g.c3436">Ryzen 5 8500G</a>
+			</td>
+	<td>Phoenix2</td>
+	<td>6  / 12</td>
+	<td>3.5 to 5 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Jan 8th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-8600g.c3435">Ryzen 5 8600G</a>
+			</td>
+	<td>Phoenix</td>
+	<td>6  / 12</td>
+	<td>4.3 to 5 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Jan 8th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-9600x.c3652">Ryzen 5 9600X</a>
+			</td>
+	<td>Granite Ridge</td>
+	<td>6  / 12</td>
+	<td>3.9 to 5.4 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Aug 8th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-8540u.c3576">Ryzen 5 PRO 8540U</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>6  / 12</td>
+	<td>3.2 to 4.9 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Apr 16th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-8640hs.c3575">Ryzen 5 PRO 8640HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>6  / 12</td>
+	<td>3.5 to 4.9 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Apr 16th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-8640u.c3574">Ryzen 5 PRO 8640U</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>6  / 12</td>
+	<td>3.5 to 4.9 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Apr 16th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-8645hs.c3573">Ryzen 5 PRO 8645HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>6  / 12</td>
+	<td>4.3 to 5 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 16th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5700x3d.c3437">Ryzen 7 5700X3D</a>
+			</td>
+	<td>Vermeer</td>
+	<td>8  / 16</td>
+	<td>3 to 4.1 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>96 MB</td>
+	<td>105 W</td>
+	<td>Jan 8th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-5800xt.c3654">Ryzen 7 5800XT</a>
+			</td>
+	<td>Vermeer</td>
+	<td>8  / 16</td>
+	<td>3.8 to 4.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>32 MB</td>
+	<td>105 W</td>
+	<td>Jul 31st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-8700f.c3567">Ryzen 7 8700F</a>
+			</td>
+	<td>Phoenix</td>
+	<td>8  / 16</td>
+	<td>4.1 to 5 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 1st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-8700g.c3434">Ryzen 7 8700G</a>
+			</td>
+	<td>Phoenix</td>
+	<td>8  / 16</td>
+	<td>4.2 to 5.1 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Jan 8th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-8700ge.c3493">Ryzen 7 8700GE</a>
+			</td>
+	<td>Phoenix</td>
+	<td>8  / 16</td>
+	<td>3.6 to 4.8 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Unknown</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-9700x.c3651">Ryzen 7 9700X</a>
+			</td>
+	<td>Granite Ridge</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.5 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Aug 8th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-8840hs.c3571">Ryzen 7 PRO 8840HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>8  / 16</td>
+	<td>3.3 to 5.1 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Apr 16th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-8840u.c3572">Ryzen 7 PRO 8840U</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>8  / 16</td>
+	<td>3.3 to 5.1 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Apr 16th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-8845hs.c3570">Ryzen 7 PRO 8845HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 16th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-5900xt.c3653">Ryzen 9 5900XT</a>
+			</td>
+	<td>Vermeer</td>
+	<td>16  / 32</td>
+	<td>3.3 to 4.8 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>105 W</td>
+	<td>Jul 31st, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-9900x.c3650">Ryzen 9 9900X</a>
+			</td>
+	<td>Granite Ridge</td>
+	<td>12  / 24</td>
+	<td>4.4 to 5.6 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>64 MB</td>
+	<td>120 W</td>
+	<td>Aug 15th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-9950x.c3649">Ryzen 9 9950X</a>
+			</td>
+	<td>Granite Ridge</td>
+	<td>16  / 32</td>
+	<td>4.3 to 5.7 GHz</td>
+	<td>Socket AM5</td>
+	<td>4 nm</td>
+	<td>64 MB</td>
+	<td>170 W</td>
+	<td>Aug 15th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-pro-8945hs.c3569">Ryzen 9 PRO 8945HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>8  / 16</td>
+	<td>4 to 5.2 GHz</td>
+	<td>Socket FP7</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 16th, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-ai-9-365.c3656">Ryzen AI 9 365</a>
+			</td>
+	<td>Strix Point</td>
+	<td>10  / 20</td>
+	<td>2 to 5 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Jul 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-ai-9-hx-370.c3655">Ryzen AI 9 HX 370</a>
+			</td>
+	<td>Strix Point</td>
+	<td>12  / 24</td>
+	<td>2 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Jul 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-ai-9-hx-375.c3815">Ryzen AI 9 HX 375</a>
+			</td>
+	<td>Strix Point</td>
+	<td>12  / 24</td>
+	<td>2 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Jul 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-8640u.c3581">Ryzen Embedded 8640U</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>6  / 12</td>
+	<td>3.5 to 4.9 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Apr 2nd, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-8645hs.c3580">Ryzen Embedded 8645HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>6  / 12</td>
+	<td>4.3 to 5 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 2nd, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-8840u.c3578">Ryzen Embedded 8840U</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>8  / 16</td>
+	<td>3.3 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>28 W</td>
+	<td>Apr 2nd, 2024</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-8845hs.c3577">Ryzen Embedded 8845HS</a>
+			</td>
+	<td>Hawk Point</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket FP8</td>
+	<td>4 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 2nd, 2024</td>
+</tr>
+		
+			</table>
+</div>

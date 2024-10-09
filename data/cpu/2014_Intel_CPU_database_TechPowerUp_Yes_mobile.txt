@@ -1,0 +1,416 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z3735g.c2518">Atom Z3735G</a>
+			</td>
+	<td>Bay Trail-T</td>
+	<td>4 </td>
+	<td>1333 to 1833 MHz</td>
+	<td>BGA 592</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>2 W</td>
+	<td>Apr 9th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-x5-e3930.c2595">Atom x5-E3930</a>
+			</td>
+	<td>Apollo Lake</td>
+	<td>2 </td>
+	<td>1300 to 1800 MHz</td>
+	<td>BGA 1296</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>7 W</td>
+	<td>Aug 30th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-x5-e3940.c2596">Atom x5-E3940</a>
+			</td>
+	<td>Apollo Lake</td>
+	<td>4 </td>
+	<td>1600 to 1800 MHz</td>
+	<td>BGA 1296</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Aug 30th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-x7-e3950.c2597">Atom x7-E3950</a>
+			</td>
+	<td>Apollo Lake</td>
+	<td>4 </td>
+	<td>1.6 to 2 GHz</td>
+	<td>BGA 1296</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>12 W</td>
+	<td>Aug 30th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-n2807.c1886">Celeron N2807</a>
+			</td>
+	<td>Bay Trail-M</td>
+	<td>2 </td>
+	<td>1.58 to 2.16 GHz</td>
+	<td>BGA 1170</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>4 W</td>
+	<td>Feb 23rd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-n2808.c1887">Celeron N2808</a>
+			</td>
+	<td>Bay Trail-M</td>
+	<td>2 </td>
+	<td>1.58 to 2.25 GHz</td>
+	<td>BGA 1170</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>4 W</td>
+	<td>May 22nd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-n2830.c1880">Celeron N2830</a>
+			</td>
+	<td>Bay Trail-M</td>
+	<td>2 </td>
+	<td>2.16 to 2.41 GHz</td>
+	<td>BGA 1170</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>7 W</td>
+	<td>Feb 23rd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-n2840.c1881">Celeron N2840</a>
+			</td>
+	<td>Bay Trail-M</td>
+	<td>2 </td>
+	<td>2.16 to 2.58 GHz</td>
+	<td>BGA 1170</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>7 W</td>
+	<td>May 22nd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-n2930.c1890">Celeron N2930</a>
+			</td>
+	<td>Bay Trail-M</td>
+	<td>4 </td>
+	<td>1.83 to 2.16 GHz</td>
+	<td>BGA 1170</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>7 W</td>
+	<td>Feb 23rd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-n2940.c1891">Celeron N2940</a>
+			</td>
+	<td>Bay Trail-M</td>
+	<td>4 </td>
+	<td>1.83 to 2.25 GHz</td>
+	<td>BGA 1170</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>7 W</td>
+	<td>May 22nd, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m-5y10.c1783">Core M-5Y10</a>
+			</td>
+	<td>Broadwell-Y</td>
+	<td>2  / 4</td>
+	<td>0.8 to 2 GHz</td>
+	<td>BGA 1234</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Sep 5th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m-5y10a.c1784">Core M-5Y10a</a>
+			</td>
+	<td>Broadwell-Y</td>
+	<td>2  / 4</td>
+	<td>0.8 to 2 GHz</td>
+	<td>BGA 1234</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Sep 5th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m-5y10c.c1815">Core M-5Y10c</a>
+			</td>
+	<td>Broadwell-Y</td>
+	<td>2  / 4</td>
+	<td>0.8 to 2 GHz</td>
+	<td>BGA 1234</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Oct 27th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m-5y31.c1818">Core M-5Y31</a>
+			</td>
+	<td>Broadwell-Y</td>
+	<td>2  / 4</td>
+	<td>0.9 to 2.4 GHz</td>
+	<td>BGA 1234</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Oct 27th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m-5y51.c1817">Core M-5Y51</a>
+			</td>
+	<td>Broadwell-Y</td>
+	<td>2  / 4</td>
+	<td>1.1 to 2.6 GHz</td>
+	<td>BGA 1234</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Oct 27th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m-5y70.c1782">Core M-5Y70</a>
+			</td>
+	<td>Broadwell-Y</td>
+	<td>2  / 4</td>
+	<td>1.1 to 2.6 GHz</td>
+	<td>BGA 1234</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Sep 5th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m-5y71.c1816">Core M-5Y71</a>
+			</td>
+	<td>Broadwell-Y</td>
+	<td>2  / 4</td>
+	<td>1.2 to 2.9 GHz</td>
+	<td>BGA 1234</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Oct 27th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4210u.c2028">Core i5-4210U</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>1.7 to 2.7 GHz</td>
+	<td>BGA 1168</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>15 W</td>
+	<td>Apr 14th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4610m.c1774">Core i7-4610M</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3 to 3.7 GHz</td>
+	<td>Socket G3</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>37 W</td>
+	<td>Feb 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4710hq.c1780">Core i7-4710HQ</a>
+			</td>
+	<td>Crystalwell</td>
+	<td>4  / 8</td>
+	<td>2.5 to 3.5 GHz</td>
+	<td>BGA 1364</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>47 W</td>
+	<td>Apr 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4712hq.c1781">Core i7-4712HQ</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>2.3 to 3.3 GHz</td>
+	<td>BGA 1364</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>37 W</td>
+	<td>Apr 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4760hq.c1779">Core i7-4760HQ</a>
+			</td>
+	<td>Crystalwell</td>
+	<td>4  / 8</td>
+	<td>2.1 to 3.3 GHz</td>
+	<td>BGA 1364</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>47 W</td>
+	<td>Feb 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4770hq.c1778">Core i7-4770HQ</a>
+			</td>
+	<td>Crystalwell</td>
+	<td>4  / 8</td>
+	<td>2.2 to 3.4 GHz</td>
+	<td>BGA 1364</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>47 W</td>
+	<td>Jul 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4810mq.c1758">Core i7-4810MQ</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>2.8 to 3.8 GHz</td>
+	<td>Socket G3</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>47 W</td>
+	<td>Jan 20th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4860hq.c1777">Core i7-4860HQ</a>
+			</td>
+	<td>Crystalwell</td>
+	<td>4  / 8</td>
+	<td>2.4 to 3.6 GHz</td>
+	<td>BGA 1364</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>47 W</td>
+	<td>Feb 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4870hq.c1776">Core i7-4870HQ</a>
+			</td>
+	<td>Crystalwell</td>
+	<td>4  / 8</td>
+	<td>2.5 to 3.7 GHz</td>
+	<td>BGA 1364</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>47 W</td>
+	<td>Jul 1st, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4910mq.c1757">Core i7-4910MQ</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>2.9 to 3.9 GHz</td>
+	<td>Socket G3</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>47 W</td>
+	<td>Jan 20th, 2014</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4940mx.c1756">Core i7-4940MX</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>3.1 to 4 GHz</td>
+	<td>Socket G3</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>57 W</td>
+	<td>Jan 20th, 2014</td>
+</tr>
+		
+			</table>
+</div>

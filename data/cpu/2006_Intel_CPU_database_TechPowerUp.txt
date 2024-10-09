@@ -1,0 +1,1060 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-d-352.c1095">Celeron D 352</a>
+			</td>
+	<td>Cedar Mill</td>
+	<td>1 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>May 28th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e4300.c374">Core 2 Duo E4300</a>
+			</td>
+	<td>Allendale</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e6300.c373">Core 2 Duo E6300</a>
+			</td>
+	<td>Conroe</td>
+	<td>2 </td>
+	<td>1866 MHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e6400.c372">Core 2 Duo E6400</a>
+			</td>
+	<td>Conroe</td>
+	<td>2 </td>
+	<td>2.133 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e6600.c371">Core 2 Duo E6600</a>
+			</td>
+	<td>Conroe</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-e6700.c370">Core 2 Duo E6700</a>
+			</td>
+	<td>Conroe</td>
+	<td>2 </td>
+	<td>2.667 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t5200.c458">Core 2 Duo T5200</a>
+			</td>
+	<td>Merom</td>
+	<td>2 </td>
+	<td>1600 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t5500.c379">Core 2 Duo T5500</a>
+			</td>
+	<td>Merom</td>
+	<td>2 </td>
+	<td>1667 MHz</td>
+	<td>Socket M</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t5600.c378">Core 2 Duo T5600</a>
+			</td>
+	<td>Merom</td>
+	<td>2 </td>
+	<td>1833 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t7200.c376">Core 2 Duo T7200</a>
+			</td>
+	<td>Merom</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t7300.c1507">Core 2 Duo T7300</a>
+			</td>
+	<td>Merom</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t7400.c377">Core 2 Duo T7400</a>
+			</td>
+	<td>Merom</td>
+	<td>2 </td>
+	<td>2.166 GHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t7600.c375">Core 2 Duo T7600</a>
+			</td>
+	<td>Merom</td>
+	<td>2 </td>
+	<td>2.333 GHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-duo-t7600g.c1534">Core 2 Duo T7600G</a>
+			</td>
+	<td>Merom</td>
+	<td>2 </td>
+	<td>2.333 GHz</td>
+	<td>Socket M</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Dec 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-extreme-qx6700.c402">Core 2 Extreme QX6700</a>
+			</td>
+	<td>Kentsfield</td>
+	<td>4 </td>
+	<td>2.666 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>Nov 1st, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-2-extreme-x6800.c369">Core 2 Extreme X6800</a>
+			</td>
+	<td>Conroe XE</td>
+	<td>2 </td>
+	<td>2.933 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>75 W</td>
+	<td>Jul 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-lv-l2300.c417">Core Duo LV L2300</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>1500 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-lv-l2400.c418">Core Duo LV L2400</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>1666 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-lv-l2500.c419">Core Duo LV L2500</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>1833 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>Sep 3rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-t2250.c410">Core Duo T2250</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>1733 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>31 W</td>
+	<td>May 1st, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-t2300.c339">Core Duo T2300</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>1660 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>31 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-t2400.c340">Core Duo T2400</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>1826 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>31 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-t2500.c342">Core Duo T2500</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>1992 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>31 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-t2600.c341">Core Duo T2600</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>2.166 GHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>31 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-t2700.c416">Core Duo T2700</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>2.333 GHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>31 W</td>
+	<td>Jun 28th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-ulv-l2400.c420">Core Duo ULV L2400</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>1066 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>9 W</td>
+	<td>Sep 3rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-duo-ulv-l2500.c421">Core Duo ULV L2500</a>
+			</td>
+	<td>Yonah</td>
+	<td>2 </td>
+	<td>1200 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>9 W</td>
+	<td>Jun 28th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-solo-t1200.c411">Core Solo T1200</a>
+			</td>
+	<td>Yonah</td>
+	<td>1 </td>
+	<td>1500 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-solo-t1300.c338">Core Solo T1300</a>
+			</td>
+	<td>Yonah</td>
+	<td>1 </td>
+	<td>1660 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-solo-t1350.c412">Core Solo T1350</a>
+			</td>
+	<td>Yonah</td>
+	<td>1 </td>
+	<td>1866 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-solo-t1400.c413">Core Solo T1400</a>
+			</td>
+	<td>Yonah</td>
+	<td>1 </td>
+	<td>1833 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>27 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-solo-ulv-u1300.c414">Core Solo ULV U1300</a>
+			</td>
+	<td>Yonah</td>
+	<td>1 </td>
+	<td>1066 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>5 W</td>
+	<td>Apr 19th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-solo-ulv-u1400.c415">Core Solo ULV U1400</a>
+			</td>
+	<td>Yonah</td>
+	<td>1 </td>
+	<td>1200 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>5 W</td>
+	<td>Apr 19th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-solo-ulv-u1500.c1934">Core Solo ULV U1500</a>
+			</td>
+	<td>Yonah</td>
+	<td>1 </td>
+	<td>1333 MHz</td>
+	<td>Socket 479</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>5 W</td>
+	<td>Apr 19th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-524.c456">Pentium 4 HT 524</a>
+			</td>
+	<td>Prescott</td>
+	<td>1  / 2</td>
+	<td>3.06 GHz</td>
+	<td>Socket 775</td>
+	<td>90 nm</td>
+	<td>N/A</td>
+	<td>84 W</td>
+	<td>Jul 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-631.c333">Pentium 4 HT 631</a>
+			</td>
+	<td>Cedar Mill</td>
+	<td>1  / 2</td>
+	<td>3 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>86 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-641.c334">Pentium 4 HT 641</a>
+			</td>
+	<td>Cedar Mill</td>
+	<td>1  / 2</td>
+	<td>3.2 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>86 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-651.c335">Pentium 4 HT 651</a>
+			</td>
+	<td>Cedar Mill</td>
+	<td>1  / 2</td>
+	<td>3.4 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>86 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-4-ht-661.c336">Pentium 4 HT 661</a>
+			</td>
+	<td>Cedar Mill</td>
+	<td>1  / 2</td>
+	<td>3.6 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>86 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-915.c1109">Pentium D 915</a>
+			</td>
+	<td>Presler</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jul 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-920.c327">Pentium D 920</a>
+			</td>
+	<td>Presler</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jan 16th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-925.c1108">Pentium D 925</a>
+			</td>
+	<td>Presler</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Oct 1st, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-930.c326">Pentium D 930</a>
+			</td>
+	<td>Presler</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jan 16th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-940.c325">Pentium D 940</a>
+			</td>
+	<td>Presler</td>
+	<td>2 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>Jan 5th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-945.c1106">Pentium D 945</a>
+			</td>
+	<td>Presler</td>
+	<td>2 </td>
+	<td>3.4 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jul 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-950.c324">Pentium D 950</a>
+			</td>
+	<td>Presler</td>
+	<td>2 </td>
+	<td>3.4 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>Jan 16th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-d-960.c1110">Pentium D 960</a>
+			</td>
+	<td>Presler</td>
+	<td>2 </td>
+	<td>3.6 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>Apr 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-extreme-edition-965.c337">Pentium Extreme Edition 965</a>
+			</td>
+	<td>Presler</td>
+	<td>2  / 4</td>
+	<td>3.733 GHz</td>
+	<td>Socket 775</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>Mar 26th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5020.c2779">Xeon 5020</a>
+			</td>
+	<td>Dempsey</td>
+	<td>2  / 4</td>
+	<td>2.5 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5030.c383">Xeon 5030</a>
+			</td>
+	<td>Dempsey</td>
+	<td>2  / 4</td>
+	<td>2.667 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5040.c384">Xeon 5040</a>
+			</td>
+	<td>Dempsey</td>
+	<td>2  / 4</td>
+	<td>2.83 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5050.c382">Xeon 5050</a>
+			</td>
+	<td>Dempsey</td>
+	<td>2  / 4</td>
+	<td>3 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5060.c381">Xeon 5060</a>
+			</td>
+	<td>Dempsey</td>
+	<td>2  / 4</td>
+	<td>3.2 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5063.c385">Xeon 5063</a>
+			</td>
+	<td>Dempsey</td>
+	<td>2  / 4</td>
+	<td>3.2 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5080.c380">Xeon 5080</a>
+			</td>
+	<td>Dempsey</td>
+	<td>2  / 4</td>
+	<td>3.73 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>130 W</td>
+	<td>May 23rd, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5110.c386">Xeon 5110</a>
+			</td>
+	<td>Woodcrest</td>
+	<td>2 </td>
+	<td>1600 MHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 26th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5120.c387">Xeon 5120</a>
+			</td>
+	<td>Woodcrest</td>
+	<td>2 </td>
+	<td>1866 MHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 26th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5130.c388">Xeon 5130</a>
+			</td>
+	<td>Woodcrest</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 26th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5140.c389">Xeon 5140</a>
+			</td>
+	<td>Woodcrest</td>
+	<td>2 </td>
+	<td>2.333 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 26th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5148.c392">Xeon 5148</a>
+			</td>
+	<td>Woodcrest</td>
+	<td>2 </td>
+	<td>2.333 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>40 W</td>
+	<td>Jun 26th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5150.c390">Xeon 5150</a>
+			</td>
+	<td>Woodcrest</td>
+	<td>2 </td>
+	<td>2.666 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jun 26th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-5160.c391">Xeon 5160</a>
+			</td>
+	<td>Woodcrest</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>80 W</td>
+	<td>Jun 26th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-7110m.c393">Xeon 7110M</a>
+			</td>
+	<td>Tulsa</td>
+	<td>2  / 4</td>
+	<td>2.6 GHz</td>
+	<td>Socket 604</td>
+	<td>65 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Aug 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-7110n.c394">Xeon 7110N</a>
+			</td>
+	<td>Tulsa</td>
+	<td>2  / 4</td>
+	<td>2.5 GHz</td>
+	<td>Socket 604</td>
+	<td>65 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Aug 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-7120m.c395">Xeon 7120M</a>
+			</td>
+	<td>Tulsa</td>
+	<td>2  / 4</td>
+	<td>3 GHz</td>
+	<td>Socket 604</td>
+	<td>65 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Aug 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-7120n.c396">Xeon 7120N</a>
+			</td>
+	<td>Tulsa</td>
+	<td>2  / 4</td>
+	<td>3 GHz</td>
+	<td>Socket 604</td>
+	<td>65 nm</td>
+	<td>4 MB</td>
+	<td>95 W</td>
+	<td>Aug 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-7130m.c397">Xeon 7130M</a>
+			</td>
+	<td>Tulsa</td>
+	<td>2  / 4</td>
+	<td>3.2 GHz</td>
+	<td>Socket 604</td>
+	<td>65 nm</td>
+	<td>8 MB</td>
+	<td>150 W</td>
+	<td>Aug 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-7130n.c398">Xeon 7130N</a>
+			</td>
+	<td>Tulsa</td>
+	<td>2  / 4</td>
+	<td>3.166 GHz</td>
+	<td>Socket 604</td>
+	<td>65 nm</td>
+	<td>8 MB</td>
+	<td>150 W</td>
+	<td>Aug 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-7140m.c399">Xeon 7140M</a>
+			</td>
+	<td>Tulsa</td>
+	<td>2  / 4</td>
+	<td>3.4 GHz</td>
+	<td>Socket 604</td>
+	<td>65 nm</td>
+	<td>16 MB</td>
+	<td>150 W</td>
+	<td>Aug 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-7140n.c400">Xeon 7140N</a>
+			</td>
+	<td>Tulsa</td>
+	<td>2  / 4</td>
+	<td>3.333 GHz</td>
+	<td>Socket 604</td>
+	<td>65 nm</td>
+	<td>16 MB</td>
+	<td>150 W</td>
+	<td>Aug 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-7150n.c2778">Xeon 7150N</a>
+			</td>
+	<td>Tulsa</td>
+	<td>2  / 4</td>
+	<td>3.5 GHz</td>
+	<td>Socket 604</td>
+	<td>65 nm</td>
+	<td>16 MB</td>
+	<td>150 W</td>
+	<td>Aug 27th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5335.c3491">Xeon E5335</a>
+			</td>
+	<td>Clovertown</td>
+	<td>4 </td>
+	<td>2000 MHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>80 W</td>
+	<td>Nov 14th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5345.c3490">Xeon E5345</a>
+			</td>
+	<td>Clovertown</td>
+	<td>4 </td>
+	<td>2.333 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>80 W</td>
+	<td>Nov 14th, 2006</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-x5355.c3489">Xeon X5355</a>
+			</td>
+	<td>Clovertown</td>
+	<td>4 </td>
+	<td>2.667 GHz</td>
+	<td>Socket 771</td>
+	<td>65 nm</td>
+	<td>N/A</td>
+	<td>120 W</td>
+	<td>Nov 14th, 2006</td>
+</tr>
+		
+			</table>
+</div>

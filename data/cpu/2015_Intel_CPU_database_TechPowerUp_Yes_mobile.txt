@@ -1,0 +1,416 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-x3-3205rk.c2803">Atom x3-3205RK</a>
+			</td>
+	<td>Silvermont</td>
+	<td>4 </td>
+	<td>1200 MHz</td>
+	<td></td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>2 W</td>
+	<td>Mar 2nd, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-3205u.c1798">Celeron 3205U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2 </td>
+	<td>1500 MHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-3755u.c1799">Celeron 3755U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2 </td>
+	<td>1700 MHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-5005u.c1801">Core i3-5005U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2000 MHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-5010u.c1802">Core i3-5010U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.1 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-5015u.c2690">Core i3-5015U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.1 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-5020u.c2691">Core i3-5020U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.2 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-5157u.c1803">Core i3-5157U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.5 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>28 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-5200u.c1807">Core i5-5200U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.2 to 2.7 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-5250u.c1811">Core i5-5250U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>1.6 to 2.7 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-5257u.c1804">Core i5-5257U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.7 to 3.1 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>28 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-5287u.c1805">Core i5-5287U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.9 to 3.3 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>28 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-5300u.c1808">Core i5-5300U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.3 to 2.9 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-5350h.c2696">Core i5-5350H</a>
+			</td>
+	<td>Broadwell-H</td>
+	<td>2  / 4</td>
+	<td>3.1 to 3.5 GHz</td>
+	<td>BGA 1364</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>47 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-5350u.c1812">Core i5-5350U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>1.8 to 2.9 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>3 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-5500u.c1809">Core i7-5500U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.4 to 3 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-5550u.c1813">Core i7-5550U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2 to 3 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-5557u.c1806">Core i7-5557U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>3.1 to 3.4 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>28 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-5600u.c1810">Core i7-5600U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.6 to 3.2 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-5650u.c1814">Core i7-5650U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>2.2 to 3.2 GHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m3-6y30.c3586">Core m3-6Y30</a>
+			</td>
+	<td>Skylake-Y</td>
+	<td>2  / 4</td>
+	<td>0.9 to 2.2 GHz</td>
+	<td>BGA 1515</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Sep 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m5-6y54.c3587">Core m5-6Y54</a>
+			</td>
+	<td>Skylake-Y</td>
+	<td>2  / 4</td>
+	<td>1.1 to 2.7 GHz</td>
+	<td>BGA 1515</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Sep 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m5-6y57.c3588">Core m5-6Y57</a>
+			</td>
+	<td>Skylake-Y</td>
+	<td>2  / 4</td>
+	<td>1.1 to 2.8 GHz</td>
+	<td>BGA 1515</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Sep 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-m7-6y75.c3589">Core m7-6Y75</a>
+			</td>
+	<td>Skylake-Y</td>
+	<td>2  / 4</td>
+	<td>1.2 to 3.1 GHz</td>
+	<td>BGA 1515</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>5 W</td>
+	<td>Sep 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-3805u.c1800">Pentium 3805U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2 </td>
+	<td>1900 MHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-3825u.c2689">Pentium 3825U</a>
+			</td>
+	<td>Broadwell-U</td>
+	<td>2  / 4</td>
+	<td>1900 MHz</td>
+	<td>BGA 1168</td>
+	<td>14 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Mar 1st, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1505m-v5.c3249">Xeon E3-1505M v5</a>
+			</td>
+	<td>Skylake-H</td>
+	<td>4  / 8</td>
+	<td>2.8 to 3.7 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Oct 27th, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1535m-v5.c3246">Xeon E3-1535M v5</a>
+			</td>
+	<td>Skylake-H</td>
+	<td>4  / 8</td>
+	<td>2.9 to 3.7 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Oct 27th, 2015</td>
+</tr>
+		
+			</table>
+</div>

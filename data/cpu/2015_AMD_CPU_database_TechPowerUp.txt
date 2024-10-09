@@ -1,0 +1,248 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/a10-7870k.c1833">A10-7870K</a>
+			</td>
+	<td>Godaveri</td>
+	<td>4 </td>
+	<td>3.9 to 4.1 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>May 28th, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-7650k.c2617">A8-7650K</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3.3 to 3.8 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jan 7th, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/a8-7670k.c2618">A8-7670K</a>
+			</td>
+	<td>Godaveri</td>
+	<td>4 </td>
+	<td>3.6 to 3.9 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Jul 20th, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-830.c2634">Athlon X4 830</a>
+			</td>
+	<td>Kaveri</td>
+	<td>4 </td>
+	<td>3 to 3.4 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Feb 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-850.c2629">Athlon X4 850</a>
+			</td>
+	<td>Godaveri</td>
+	<td>4 </td>
+	<td>3.2 to 3.9 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Jul 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-870k.c2630">Athlon X4 870K</a>
+			</td>
+	<td>Godaveri</td>
+	<td>4 </td>
+	<td>3.9 to 4.1 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Dec 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/athlon-x4-880k.c2631">Athlon X4 880K</a>
+			</td>
+	<td>Godaveri</td>
+	<td>4 </td>
+	<td>4 to 4.2 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Dec 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/e1-6015.c3566">E1-6015</a>
+			</td>
+	<td>Beema</td>
+	<td>2 </td>
+	<td>1400 MHz</td>
+	<td>Socket FT3</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-pro-8800p.c3668">FX PRO-8800P</a>
+			</td>
+	<td>Carrizo</td>
+	<td>4 </td>
+	<td>2.1 to 3.4 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>Jun 2nd, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-6330.c1831">FX-6330</a>
+			</td>
+	<td>Vishera</td>
+	<td>6 </td>
+	<td>3.6 to 4.2 GHz</td>
+	<td>Socket AM3+</td>
+	<td>32 nm</td>
+	<td>8 MB</td>
+	<td>125 W</td>
+	<td>Dec 15th, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/fx-8800p.c3667">FX-8800P</a>
+			</td>
+	<td>Carrizo</td>
+	<td>4 </td>
+	<td>2.1 to 3.4 GHz</td>
+	<td>Socket FP4</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>15 W</td>
+	<td>Jun 2nd, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a10-8750b.c2606">PRO A10-8750B</a>
+			</td>
+	<td>Godaveri</td>
+	<td>4 </td>
+	<td>3.6 to 4 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Sep 29th, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a10-8850b.c2605">PRO A10-8850B</a>
+			</td>
+	<td>Godaveri</td>
+	<td>4 </td>
+	<td>3.9 to 4.1 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>95 W</td>
+	<td>Sep 29th, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a4-8350b.c2638">PRO A4-8350B</a>
+			</td>
+	<td>Kaveri</td>
+	<td>2 </td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Sep 29th, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a6-8550b.c2627">PRO A6-8550B</a>
+			</td>
+	<td>Godaveri</td>
+	<td>2 </td>
+	<td>3.5 to 4 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Sep 29th, 2015</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pro-a8-8650b.c2619">PRO A8-8650B</a>
+			</td>
+	<td>Godaveri</td>
+	<td>4 </td>
+	<td>3.2 to 3.9 GHz</td>
+	<td>Socket FM2+</td>
+	<td>28 nm</td>
+	<td>N/A</td>
+	<td>65 W</td>
+	<td>Sep 29th, 2015</td>
+</tr>
+		
+			</table>
+</div>

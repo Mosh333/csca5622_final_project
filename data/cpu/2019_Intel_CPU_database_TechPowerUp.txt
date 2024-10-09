@@ -1,0 +1,1158 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-4205u.c3603">Celeron 4205U</a>
+			</td>
+	<td>Whiskey Lake-U</td>
+	<td>2 </td>
+	<td>1800 MHz</td>
+	<td>BGA 1528</td>
+	<td>10 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Jan 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-4305u.c3602">Celeron 4305U</a>
+			</td>
+	<td>Whiskey Lake-U</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>BGA 1528</td>
+	<td>10 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Apr 16th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-j4025.c3281">Celeron J4025</a>
+			</td>
+	<td>Gemini Lake</td>
+	<td>2 </td>
+	<td>2 to 2.9 GHz</td>
+	<td>BGA 1090</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Nov 4th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-j4125.c3280">Celeron J4125</a>
+			</td>
+	<td>Gemini Lake</td>
+	<td>4 </td>
+	<td>2 to 2.7 GHz</td>
+	<td>BGA 1090</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Nov 4th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1000g1.c2219">Core i3-1000G1</a>
+			</td>
+	<td>Ice Lake-Y</td>
+	<td>2  / 4</td>
+	<td>1.1 to 3.2 GHz</td>
+	<td>BGA 1377</td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>9 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1000g4.c2220">Core i3-1000G4</a>
+			</td>
+	<td>Ice Lake-Y</td>
+	<td>2  / 4</td>
+	<td>1.1 to 3.2 GHz</td>
+	<td>BGA 1377</td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>9 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-1005g1.c2224">Core i3-1005G1</a>
+			</td>
+	<td>Ice Lake-U</td>
+	<td>2  / 4</td>
+	<td>1.2 to 3.4 GHz</td>
+	<td>BGA 1526</td>
+	<td>10 nm</td>
+	<td>4 MB</td>
+	<td>15 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10110u.c2234">Core i3-10110U</a>
+			</td>
+	<td>Comet Lake-U</td>
+	<td>2  / 4</td>
+	<td>2.1 to 4.1 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>25 W</td>
+	<td>Aug 21st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-10110y.c2230">Core i3-10110Y</a>
+			</td>
+	<td>Comet Lake-Y</td>
+	<td>2  / 4</td>
+	<td>1 to 4 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>9 W</td>
+	<td>Aug 21st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-9100f.c2187">Core i3-9100F</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>4 </td>
+	<td>3.6 to 4.2 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-9100hl.c3130">Core i3-9100HL</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>4 </td>
+	<td>1.6 to 2.9 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>25 W</td>
+	<td>Apr 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-9100te.c3129">Core i3-9100TE</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>4 </td>
+	<td>2.2 to 3.2 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>35 W</td>
+	<td>Apr 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-9300.c2188">Core i3-9300</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>4 </td>
+	<td>3.7 to 4.3 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>62 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-9320.c2189">Core i3-9320</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>4 </td>
+	<td>3.7 to 4.4 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>62 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-9350k.c2186">Core i3-9350K</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>4 </td>
+	<td>4 to 4.6 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>91 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-9350kf.c2146">Core i3-9350KF</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>4 </td>
+	<td>4 to 4.6 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>91 W</td>
+	<td>Jan 8th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10210u.c2235">Core i5-10210U</a>
+			</td>
+	<td>Comet Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.6 to 4.2 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>25 W</td>
+	<td>Aug 21st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10210y.c2231">Core i5-10210Y</a>
+			</td>
+	<td>Comet Lake-Y</td>
+	<td>4  / 8</td>
+	<td>1 to 4 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>9 W</td>
+	<td>Aug 21st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1030g4.c2221">Core i5-1030G4</a>
+			</td>
+	<td>Ice Lake-Y</td>
+	<td>4  / 8</td>
+	<td>0.7 to 3.5 GHz</td>
+	<td>BGA 1440</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>9 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1030g7.c2222">Core i5-1030G7</a>
+			</td>
+	<td>Ice Lake-Y</td>
+	<td>4  / 8</td>
+	<td>0.8 to 3.5 GHz</td>
+	<td>BGA 1440</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>9 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-10310y.c2232">Core i5-10310Y</a>
+			</td>
+	<td>Comet Lake-Y</td>
+	<td>4  / 8</td>
+	<td>1.1 to 4.1 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>9 W</td>
+	<td>Aug 21st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1035g1.c2225">Core i5-1035G1</a>
+			</td>
+	<td>Ice Lake-U</td>
+	<td>4  / 8</td>
+	<td>1 to 3.6 GHz</td>
+	<td>BGA 1526</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>15 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1035g4.c2226">Core i5-1035G4</a>
+			</td>
+	<td>Ice Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.1 to 3.7 GHz</td>
+	<td>BGA 1526</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>15 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-1035g7.c2227">Core i5-1035G7</a>
+			</td>
+	<td>Ice Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.2 to 3.7 GHz</td>
+	<td>BGA 1526</td>
+	<td>10 nm</td>
+	<td>6 MB</td>
+	<td>15 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-8279u.c3264">Core i5-8279U</a>
+			</td>
+	<td>Coffee Lake-U</td>
+	<td>4  / 8</td>
+	<td>2.4 to 4.1 GHz</td>
+	<td>BGA 1526</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>28 W</td>
+	<td>Apr 3rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-8365u.c3598">Core i5-8365U</a>
+			</td>
+	<td>Whiskey Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.6 to 4.1 GHz</td>
+	<td>BGA 1528</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>15 W</td>
+	<td>Apr 16th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-8365ue.c3600">Core i5-8365UE</a>
+			</td>
+	<td>Whiskey Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.6 to 4.1 GHz</td>
+	<td>BGA 1528</td>
+	<td>14 nm</td>
+	<td>6 MB</td>
+	<td>15 W</td>
+	<td>Apr 16th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-9400f.c2145">Core i5-9400F</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>6 </td>
+	<td>2.9 to 4.1 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>9 MB</td>
+	<td>65 W</td>
+	<td>Jan 8th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-9500f.c2185">Core i5-9500F</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>6 </td>
+	<td>3 to 4.4 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>9 MB</td>
+	<td>65 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-9600kf.c2144">Core i5-9600KF</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>6 </td>
+	<td>3.7 to 4.6 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>9 MB</td>
+	<td>95 W</td>
+	<td>Jan 8th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10510u.c2236">Core i7-10510U</a>
+			</td>
+	<td>Comet Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.8 to 4.9 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>25 W</td>
+	<td>Aug 21st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10510y.c2233">Core i7-10510Y</a>
+			</td>
+	<td>Comet Lake-Y</td>
+	<td>4  / 8</td>
+	<td>1.2 to 4.5 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>9 W</td>
+	<td>Aug 21st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1060g7.c2223">Core i7-1060G7</a>
+			</td>
+	<td>Ice Lake-Y</td>
+	<td>4  / 8</td>
+	<td>1 to 3.8 GHz</td>
+	<td>BGA 1440</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>9 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1065g7.c2228">Core i7-1065G7</a>
+			</td>
+	<td>Ice Lake-U</td>
+	<td>4  / 8</td>
+	<td>1.3 to 3.9 GHz</td>
+	<td>BGA 1526</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>15 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-1068ng7.c2229">Core i7-1068NG7</a>
+			</td>
+	<td>Ice Lake-U</td>
+	<td>4  / 8</td>
+	<td>2.3 to 4.1 GHz</td>
+	<td>BGA 1344</td>
+	<td>10 nm</td>
+	<td>8 MB</td>
+	<td>28 W</td>
+	<td>Aug 1st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-10710u.c2237">Core i7-10710U</a>
+			</td>
+	<td>Comet Lake-U</td>
+	<td>6  / 12</td>
+	<td>1.1 to 4.7 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>25 W</td>
+	<td>Aug 21st, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-9700.c2183">Core i7-9700</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>8 </td>
+	<td>3 to 4.7 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-9700e.c3122">Core i7-9700E</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>8 </td>
+	<td>2.6 to 4.4 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-9700f.c2184">Core i7-9700F</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>8 </td>
+	<td>3 to 4.7 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>65 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-9700kf.c2125">Core i7-9700KF</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>8 </td>
+	<td>3.6 to 4.9 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>95 W</td>
+	<td>Jan 8th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-9700t.c3121">Core i7-9700T</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>8 </td>
+	<td>2 to 4.3 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>35 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-9750h.c2290">Core i7-9750H</a>
+			</td>
+	<td>Coffee Lake-HR</td>
+	<td>6  / 12</td>
+	<td>2.6 to 4.5 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>45 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-9750hf.c2291">Core i7-9750HF</a>
+			</td>
+	<td>Coffee Lake-HR</td>
+	<td>6  / 12</td>
+	<td>2.6 to 4.5 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>45 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-9850h.c2292">Core i7-9850H</a>
+			</td>
+	<td>Coffee Lake-HR</td>
+	<td>6  / 12</td>
+	<td>2.6 to 4.6 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>45 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-9850he.c2293">Core i7-9850HE</a>
+			</td>
+	<td>Coffee Lake-HR</td>
+	<td>6  / 12</td>
+	<td>2.7 to 4.4 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>9 MB</td>
+	<td>45 W</td>
+	<td>Jun 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-9850hl.c2294">Core i7-9850HL</a>
+			</td>
+	<td>Coffee Lake-HR</td>
+	<td>6  / 12</td>
+	<td>1.9 to 4.1 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>9 MB</td>
+	<td>25 W</td>
+	<td>Jun 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10900x.c2240">Core i9-10900X</a>
+			</td>
+	<td>Cascade Lake-X</td>
+	<td>10  / 20</td>
+	<td>3.7 to 4.7 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>19.25 MB</td>
+	<td>165 W</td>
+	<td>Oct 19th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10920x.c2241">Core i9-10920X</a>
+			</td>
+	<td>Cascade Lake-X</td>
+	<td>12  / 24</td>
+	<td>3.5 to 4.8 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>19.25 MB</td>
+	<td>165 W</td>
+	<td>Oct 19th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10940x.c2239">Core i9-10940X</a>
+			</td>
+	<td>Cascade Lake-X</td>
+	<td>14  / 28</td>
+	<td>3.3 to 4.8 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>19.25 MB</td>
+	<td>165 W</td>
+	<td>Oct 19th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-10980xe.c2238">Core i9-10980XE</a>
+			</td>
+	<td>Cascade Lake-X</td>
+	<td>18  / 36</td>
+	<td>3 to 4.8 GHz</td>
+	<td>Socket 2066</td>
+	<td>14 nm</td>
+	<td>24.75 MB</td>
+	<td>165 W</td>
+	<td>Oct 19th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-9880h.c2289">Core i9-9880H</a>
+			</td>
+	<td>Coffee Lake-HR</td>
+	<td>8  / 16</td>
+	<td>2.3 to 4.8 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-9900.c2182">Core i9-9900</a>
+			</td>
+	<td>Coffee Lake-R</td>
+	<td>8  / 16</td>
+	<td>3.1 to 5 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>65 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-9900kf.c2124">Core i9-9900KF</a>
+			</td>
+	<td>Coffee Lake-R</td>
+	<td>8  / 16</td>
+	<td>3.6 to 5 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>95 W</td>
+	<td>Jan 8th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-9900ks.c2242">Core i9-9900KS</a>
+			</td>
+	<td>Coffee Lake-R</td>
+	<td>8  / 16</td>
+	<td>4 to 5 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>127 W</td>
+	<td>Oct 28th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-9900t.c3123">Core i9-9900T</a>
+			</td>
+	<td>Coffee Lake-R</td>
+	<td>8  / 16</td>
+	<td>2.1 to 4.4 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i9-9980hk.c2288">Core i9-9980HK</a>
+			</td>
+	<td>Coffee Lake-HR</td>
+	<td>8  / 16</td>
+	<td>2.4 to 5 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>Apr 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-5405u.c3601">Pentium Gold 5405U</a>
+			</td>
+	<td>Whiskey Lake-U</td>
+	<td>2  / 4</td>
+	<td>2.3 GHz</td>
+	<td>BGA 1528</td>
+	<td>10 nm</td>
+	<td>2 MB</td>
+	<td>15 W</td>
+	<td>Jan 23rd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-gold-g5620.c2160">Pentium Gold G5620</a>
+			</td>
+	<td>Coffee Lake</td>
+	<td>2  / 4</td>
+	<td>4 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>4 MB</td>
+	<td>54 W</td>
+	<td>Feb 20th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-silver-j5040.c3278">Pentium Silver J5040</a>
+			</td>
+	<td>Gemini Lake</td>
+	<td>4 </td>
+	<td>2 to 3.2 GHz</td>
+	<td>BGA 1090</td>
+	<td>14 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Nov 4th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2224.c3544">Xeon E-2224</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>4 </td>
+	<td>3.4 to 4.6 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>71 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2224g.c3543">Xeon E-2224G</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>4 </td>
+	<td>3.5 to 4.7 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>71 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2226g.c3542">Xeon E-2226G</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>6 </td>
+	<td>3.4 to 4.7 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>80 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2226ge.c3485">Xeon E-2226GE</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>6 </td>
+	<td>3.4 to 4.6 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>80 W</td>
+	<td>Jun 11th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2234.c3541">Xeon E-2234</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>4  / 8</td>
+	<td>3.6 to 4.8 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>71 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2236.c3540">Xeon E-2236</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>6  / 12</td>
+	<td>3.4 to 4.8 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>80 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2244g.c3539">Xeon E-2244G</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>4  / 8</td>
+	<td>3.8 to 4.8 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>71 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2246g.c3538">Xeon E-2246G</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>6  / 12</td>
+	<td>3.6 to 4.8 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>80 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2274g.c3536">Xeon E-2274G</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>4  / 8</td>
+	<td>4 to 4.9 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>8 MB</td>
+	<td>83 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2276g.c3535">Xeon E-2276G</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>6  / 12</td>
+	<td>3.8 to 4.9 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>80 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2276m.c3547">Xeon E-2276M</a>
+			</td>
+	<td>Coffee Lake-H</td>
+	<td>6  / 12</td>
+	<td>2.8 to 4.7 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>45 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2278g.c3537">Xeon E-2278G</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>8  / 16</td>
+	<td>3.4 to 5 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>95 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2278ge.c3486">Xeon E-2278GE</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>8  / 16</td>
+	<td>3.3 to 4.7 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>80 W</td>
+	<td>Jun 11th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2278gel.c3487">Xeon E-2278GEL</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>8  / 16</td>
+	<td>2 to 3.9 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>35 W</td>
+	<td>Jun 11th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2286g.c3533">Xeon E-2286G</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>6  / 12</td>
+	<td>4 to 4.9 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>12 MB</td>
+	<td>95 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2286m.c3548">Xeon E-2286M</a>
+			</td>
+	<td>Coffee Lake-H</td>
+	<td>8  / 16</td>
+	<td>2.4 to 5 GHz</td>
+	<td>BGA 1440</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>45 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e-2288g.c3534">Xeon E-2288G</a>
+			</td>
+	<td>Coffee Lake-S WS</td>
+	<td>8  / 16</td>
+	<td>3.7 to 5 GHz</td>
+	<td>Socket 1151</td>
+	<td>14 nm</td>
+	<td>16 MB</td>
+	<td>95 W</td>
+	<td>May 29th, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-9221.c2168">Xeon Platinum 9221</a>
+			</td>
+	<td>Cascade Lake-AP</td>
+	<td>32  / 64</td>
+	<td>2.1 to 3.7 GHz</td>
+	<td>BGA 5903</td>
+	<td>14 nm</td>
+	<td>71.5 MB</td>
+	<td>250 W</td>
+	<td>Apr 2nd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-9222.c2167">Xeon Platinum 9222</a>
+			</td>
+	<td>Cascade Lake-AP</td>
+	<td>32  / 64</td>
+	<td>2.3 to 3.7 GHz</td>
+	<td>BGA 5903</td>
+	<td>14 nm</td>
+	<td>71.5 MB</td>
+	<td>250 W</td>
+	<td>Apr 2nd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-9242.c2166">Xeon Platinum 9242</a>
+			</td>
+	<td>Cascade Lake-AP</td>
+	<td>48  / 96</td>
+	<td>2.3 to 3.8 GHz</td>
+	<td>BGA 5903</td>
+	<td>14 nm</td>
+	<td>71.5 MB</td>
+	<td>350 W</td>
+	<td>Apr 2nd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-platinum-9282.c2165">Xeon Platinum 9282</a>
+			</td>
+	<td>Cascade Lake-AP</td>
+	<td>56  / 112</td>
+	<td>2.6 to 3.8 GHz</td>
+	<td>BGA 5903</td>
+	<td>14 nm</td>
+	<td>77 MB</td>
+	<td>400 W</td>
+	<td>Apr 2nd, 2019</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-w-3175x.c2116">Xeon W-3175X</a>
+			</td>
+	<td>Skylake-W</td>
+	<td>28  / 56</td>
+	<td>3.1 to 4.3 GHz</td>
+	<td>Socket 3647</td>
+	<td>14 nm</td>
+	<td>38.5 MB</td>
+	<td>255 W</td>
+	<td>Jan 30th, 2019</td>
+</tr>
+		
+			</table>
+</div>

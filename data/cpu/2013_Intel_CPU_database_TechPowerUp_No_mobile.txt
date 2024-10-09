@@ -1,0 +1,1424 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1620t.c1714">Celeron G1620T</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>2 MB</td>
+	<td>35 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1630.c1713">Celeron G1630</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>2 MB</td>
+	<td>55 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1820.c1793">Celeron G1820</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.7 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Dec 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1820t.c1795">Celeron G1820T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Dec 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1820te.c1796">Celeron G1820TE</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.2 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Dec 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/celeron-g1830.c1792">Celeron G1830</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Dec 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-3210.c1505">Core i3-3210</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2  / 4</td>
+	<td>3.2 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>55 W</td>
+	<td>Jan 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-3250.c3503">Core i3-3250</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2  / 4</td>
+	<td>3.5 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>55 W</td>
+	<td>Jun 9th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-3250t.c3504">Core i3-3250T</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2  / 4</td>
+	<td>3 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jun 9th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4130.c1632">Core i3-4130</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.4 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4130t.c1631">Core i3-4130T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>2.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4330.c1629">Core i3-4330</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.5 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>54 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4330t.c1630">Core i3-4330T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-4340.c1628">Core i3-4340</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>3.6 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>54 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4430.c1470">Core i5-4430</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3 to 3.2 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>84 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4430s.c1471">Core i5-4430S</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>2.7 to 3.2 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4440.c1637">Core i5-4440</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3.1 to 3.3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>84 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4440s.c1638">Core i5-4440S</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>2.8 to 3.3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4570.c1478">Core i5-4570</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3.2 to 3.6 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>84 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4570r.c1575">Core i5-4570R</a>
+			</td>
+	<td>Crystal Well</td>
+	<td>4 </td>
+	<td>2.7 to 3.2 GHz</td>
+	<td>BGA 1364</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4570s.c1481">Core i5-4570S</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>2.9 to 3.6 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4570t.c1472">Core i5-4570T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>2.9 to 3.6 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4570te.c1610">Core i5-4570TE</a>
+			</td>
+	<td>Haswell</td>
+	<td>2  / 4</td>
+	<td>2.7 to 3.3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4670.c1477">Core i5-4670</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>84 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4670k.c1469">Core i5-4670K</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>84 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4670r.c1574">Core i5-4670R</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3 to 3.7 GHz</td>
+	<td>BGA 1364</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4670s.c1479">Core i5-4670S</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>3.1 to 3.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-4670t.c1480">Core i5-4670T</a>
+			</td>
+	<td>Haswell</td>
+	<td>4 </td>
+	<td>2.3 to 3.3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>45 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-3910k.c1646">Core i7-3910K</a>
+			</td>
+	<td>Sandy Bridge-E</td>
+	<td>6  / 12</td>
+	<td>3 to 3.6 GHz</td>
+	<td>Socket 2011</td>
+	<td>32 nm</td>
+	<td>12 MB</td>
+	<td>130 W</td>
+	<td>Jul 24th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4765t.c1476">Core i7-4765T</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>2 to 3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4770.c1473">Core i7-4770</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>3.4 to 3.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>84 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4770k.c1459">Core i7-4770K</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>84 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4770r.c1573">Core i7-4770R</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>3.2 to 3.9 GHz</td>
+	<td>BGA 1364</td>
+	<td>22 nm</td>
+	<td>6 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4770s.c1474">Core i7-4770S</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>3.1 to 3.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4770t.c1475">Core i7-4770T</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>2.5 to 3.7 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4770te.c1611">Core i7-4770TE</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>2.3 to 3.3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4771.c1627">Core i7-4771</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>84 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4785t.c2697">Core i7-4785T</a>
+			</td>
+	<td>Haswell</td>
+	<td>4  / 8</td>
+	<td>2.2 to 3.2 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4820k.c1571">Core i7-4820K</a>
+			</td>
+	<td>Ivy Bridge-E</td>
+	<td>4  / 8</td>
+	<td>3.7 to 3.9 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>10 MB</td>
+	<td>130 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4930k.c1570">Core i7-4930K</a>
+			</td>
+	<td>Ivy Bridge-E</td>
+	<td>6  / 12</td>
+	<td>3.4 to 3.9 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>12 MB</td>
+	<td>130 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-4960x.c1569">Core i7-4960X</a>
+			</td>
+	<td>Ivy Bridge-E</td>
+	<td>6  / 12</td>
+	<td>3.6 to 4 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>15 MB</td>
+	<td>130 W</td>
+	<td>Sep 3rd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g2010.c1495">Pentium G2010</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>2.8 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>55 W</td>
+	<td>Jan 21st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g2020.c1494">Pentium G2020</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>2.9 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>55 W</td>
+	<td>Jan 21st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g2020t.c1496">Pentium G2020T</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>2.5 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jan 21st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g2130.c1497">Pentium G2130</a>
+			</td>
+	<td>Ivy Bridge</td>
+	<td>2 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 1155</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>55 W</td>
+	<td>Jan 21st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3220.c1636">Pentium G3220</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3220t.c1712">Pentium G3220T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.6 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3420.c1634">Pentium G3420</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>3.2 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3420t.c1635">Pentium G3420T</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>2.7 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-g3430.c1633">Pentium G3430</a>
+			</td>
+	<td>Haswell</td>
+	<td>2 </td>
+	<td>3.3 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>3 MB</td>
+	<td>54 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1220-v3.c1545">Xeon E3-1220 v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4 </td>
+	<td>3.1 to 3.5 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>80 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1220l-v3.c1642">Xeon E3-1220L v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>2  / 4</td>
+	<td>1100 to 1500 MHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>4 MB</td>
+	<td>13 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1225-v3.c1639">Xeon E3-1225 v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4 </td>
+	<td>3.2 to 3.6 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>84 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1230-v3.c1546">Xeon E3-1230 v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4  / 8</td>
+	<td>3.3 to 3.7 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>80 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1230l-v3.c1643">Xeon E3-1230L v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4  / 8</td>
+	<td>1.8 to 2.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>25 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1240-v3.c1547">Xeon E3-1240 v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4  / 8</td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>80 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1245-v3.c1640">Xeon E3-1245 v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4  / 8</td>
+	<td>3.4 to 3.8 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>84 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1265l-v3.c1644">Xeon E3-1265L v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4  / 8</td>
+	<td>2.5 to 3.7 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1270-v3.c1548">Xeon E3-1270 v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4  / 8</td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>80 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1275-v3.c1641">Xeon E3-1275 v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4  / 8</td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>84 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1280-v3.c1549">Xeon E3-1280 v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4  / 8</td>
+	<td>3.6 to 4 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>82 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1285-v3.c1550">Xeon E3-1285 v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4  / 8</td>
+	<td>3.6 to 4 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>84 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e3-1285l-v3.c1645">Xeon E3-1285L v3</a>
+			</td>
+	<td>Haswell-WS</td>
+	<td>4  / 8</td>
+	<td>3.1 to 3.9 GHz</td>
+	<td>Socket 1150</td>
+	<td>22 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jun 2nd, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-1607-v2.c2671">Xeon E5-1607 v2</a>
+			</td>
+	<td>Ivy Bridge-E</td>
+	<td>4 </td>
+	<td>3 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>10 MB</td>
+	<td>130 W</td>
+	<td>Sep 10th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-1620-v2.c1672">Xeon E5-1620 v2</a>
+			</td>
+	<td>Ivy Bridge-E</td>
+	<td>4  / 8</td>
+	<td>3.7 to 3.9 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>10 MB</td>
+	<td>130 W</td>
+	<td>Sep 10th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-1650-v2.c1673">Xeon E5-1650 v2</a>
+			</td>
+	<td>Ivy Bridge-E</td>
+	<td>6  / 12</td>
+	<td>3.5 to 3.9 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>12 MB</td>
+	<td>130 W</td>
+	<td>Sep 10th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-1660-v2.c1674">Xeon E5-1660 v2</a>
+			</td>
+	<td>Ivy Bridge-E</td>
+	<td>6  / 12</td>
+	<td>3.7 to 4 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>15 MB</td>
+	<td>130 W</td>
+	<td>Sep 10th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-1680-v2.c2670">Xeon E5-1680 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>3 to 3.9 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>25 MB</td>
+	<td>130 W</td>
+	<td>Sep 10th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2403-v2.c1675">Xeon E5-2403 v2</a>
+			</td>
+	<td>Ivy Bridge-EN</td>
+	<td>4 </td>
+	<td>1800 MHz</td>
+	<td>Socket 1356</td>
+	<td>22 nm</td>
+	<td>10 MB</td>
+	<td>80 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2407-v2.c1676">Xeon E5-2407 v2</a>
+			</td>
+	<td>Ivy Bridge-EN</td>
+	<td>4 </td>
+	<td>2.4 GHz</td>
+	<td>Socket 1356</td>
+	<td>22 nm</td>
+	<td>10 MB</td>
+	<td>80 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2420-v2.c1677">Xeon E5-2420 v2</a>
+			</td>
+	<td>Ivy Bridge-EN</td>
+	<td>6  / 12</td>
+	<td>2.2 GHz</td>
+	<td>Socket 1356</td>
+	<td>22 nm</td>
+	<td>15 MB</td>
+	<td>80 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2430-v2.c1678">Xeon E5-2430 v2</a>
+			</td>
+	<td>Ivy Bridge-EN</td>
+	<td>6  / 12</td>
+	<td>2.5 GHz</td>
+	<td>Socket 1356</td>
+	<td>22 nm</td>
+	<td>15 MB</td>
+	<td>80 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2440-v2.c1679">Xeon E5-2440 v2</a>
+			</td>
+	<td>Ivy Bridge-EN</td>
+	<td>8  / 16</td>
+	<td>1900 MHz</td>
+	<td>Socket 1356</td>
+	<td>22 nm</td>
+	<td>20 MB</td>
+	<td>95 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2450-v2.c1680">Xeon E5-2450 v2</a>
+			</td>
+	<td>Ivy Bridge-EN</td>
+	<td>8  / 16</td>
+	<td>2.5 GHz</td>
+	<td>Socket 1356</td>
+	<td>22 nm</td>
+	<td>20 MB</td>
+	<td>95 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2470-v2.c1681">Xeon E5-2470 v2</a>
+			</td>
+	<td>Ivy Bridge-EN</td>
+	<td>10  / 20</td>
+	<td>2.4 GHz</td>
+	<td>Socket 1356</td>
+	<td>22 nm</td>
+	<td>25 MB</td>
+	<td>95 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2603-v2.c1653">Xeon E5-2603 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>4 </td>
+	<td>1800 MHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>10 MB</td>
+	<td>80 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2609-v2.c1654">Xeon E5-2609 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>4 </td>
+	<td>2.5 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>10 MB</td>
+	<td>80 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2620-v2.c1656">Xeon E5-2620 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2.1 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>15 MB</td>
+	<td>80 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2630-v2.c1657">Xeon E5-2630 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2.6 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>15 MB</td>
+	<td>80 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2630l-v2.c1659">Xeon E5-2630L v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>2.4 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>15 MB</td>
+	<td>60 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2637-v2.c1655">Xeon E5-2637 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>4  / 8</td>
+	<td>3.5 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>10 MB</td>
+	<td>130 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2640-v2.c1660">Xeon E5-2640 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2000 MHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>20 MB</td>
+	<td>95 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2643-v2.c1658">Xeon E5-2643 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>6  / 12</td>
+	<td>3.5 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>15 MB</td>
+	<td>130 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2650-v2.c1661">Xeon E5-2650 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>2.6 to 3.4 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>20 MB</td>
+	<td>95 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2650l-v2.c1668">Xeon E5-2650L v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>10  / 20</td>
+	<td>1700 MHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>25 MB</td>
+	<td>70 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2660-v2.c1664">Xeon E5-2660 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>10  / 20</td>
+	<td>2.2 to 3 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>25 MB</td>
+	<td>95 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2667-v2.c1662">Xeon E5-2667 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>3.3 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>20 MB</td>
+	<td>130 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2670-v2.c1665">Xeon E5-2670 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>10  / 20</td>
+	<td>2.5 to 3.3 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>25 MB</td>
+	<td>115 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2680-v2.c1666">Xeon E5-2680 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>10  / 20</td>
+	<td>2.8 to 3.6 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>25 MB</td>
+	<td>115 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2687w-v2.c1663">Xeon E5-2687W v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>8  / 16</td>
+	<td>3.4 to 4 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>20 MB</td>
+	<td>130 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2690-v2.c1667">Xeon E5-2690 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>10  / 20</td>
+	<td>3 to 3.8 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>25 MB</td>
+	<td>130 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2692-v2.c1669">Xeon E5-2692 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>12  / 24</td>
+	<td>2.2 to 3 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>30 MB</td>
+	<td>100 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2695-v2.c1670">Xeon E5-2695 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>12  / 24</td>
+	<td>2.4 to 3.2 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>30 MB</td>
+	<td>115 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-e5-2697-v2.c1671">Xeon E5-2697 v2</a>
+			</td>
+	<td>Ivy Bridge-EP</td>
+	<td>12  / 24</td>
+	<td>2.7 to 3.5 GHz</td>
+	<td>Socket 2011</td>
+	<td>22 nm</td>
+	<td>30 MB</td>
+	<td>130 W</td>
+	<td>Sep 1st, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-3120a.c2027">Xeon Phi 3120A</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>57  / 228</td>
+	<td>1100 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>300 W</td>
+	<td>Jun 17th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-3120p.c2031">Xeon Phi 3120P</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>57  / 228</td>
+	<td>1100 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>300 W</td>
+	<td>Jun 17th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-31s1p.c2032">Xeon Phi 31S1P</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>57  / 228</td>
+	<td>1100 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>270 W</td>
+	<td>Jun 17th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-5120d.c2030">Xeon Phi 5120D</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>60  / 240</td>
+	<td>1053 MHz</td>
+	<td>SFF 230-Pin</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>245 W</td>
+	<td>Jun 17th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-7120p.c2039">Xeon Phi 7120P</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>61  / 244</td>
+	<td>1238 to 1333 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>300 W</td>
+	<td>Jun 17th, 2013</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/xeon-phi-7120x.c2040">Xeon Phi 7120X</a>
+			</td>
+	<td>Knights Corner</td>
+	<td>61  / 244</td>
+	<td>1238 to 1333 MHz</td>
+	<td>PCIe x16</td>
+	<td>22 nm</td>
+	<td>N/A</td>
+	<td>300 W</td>
+	<td>Jun 17th, 2013</td>
+</tr>
+		
+			</table>
+</div>

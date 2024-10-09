@@ -1,0 +1,878 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="Intel">Intel</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-d410.c1397">Atom D410</a>
+			</td>
+	<td>Pineview</td>
+	<td>1  / 2</td>
+	<td>1667 MHz</td>
+	<td>BGA 437</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Jan 4th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-d425.c1398">Atom D425</a>
+			</td>
+	<td>Pineview</td>
+	<td>1  / 2</td>
+	<td>1834 MHz</td>
+	<td>BGA 437</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>10 W</td>
+	<td>Jun 21st, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-d525.c1399">Atom D525</a>
+			</td>
+	<td>Pineview</td>
+	<td>2  / 4</td>
+	<td>1834 MHz</td>
+	<td>BGA 437</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>13 W</td>
+	<td>Jun 21st, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e620.c1441">Atom E620</a>
+			</td>
+	<td>Tunnel Creek</td>
+	<td>1  / 2</td>
+	<td>600 MHz</td>
+	<td>BGA 676</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>3 W</td>
+	<td>Sep 14th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e620t.c1442">Atom E620T</a>
+			</td>
+	<td>Tunnel Creek</td>
+	<td>1  / 2</td>
+	<td>600 MHz</td>
+	<td>BGA 676</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>3 W</td>
+	<td>Sep 14th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e625c.c1449">Atom E625C</a>
+			</td>
+	<td>Stellarton</td>
+	<td>1  / 2</td>
+	<td>600 MHz</td>
+	<td>BGA 1466</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>3 W</td>
+	<td>Nov 22nd, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e625ct.c1450">Atom E625CT</a>
+			</td>
+	<td>Stellarton</td>
+	<td>1  / 2</td>
+	<td>600 MHz</td>
+	<td>BGA 1466</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>3 W</td>
+	<td>Nov 22nd, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e640.c1443">Atom E640</a>
+			</td>
+	<td>Tunnel Creek</td>
+	<td>1  / 2</td>
+	<td>1000 MHz</td>
+	<td>BGA 676</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>3 W</td>
+	<td>Sep 14th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e640t.c1444">Atom E640T</a>
+			</td>
+	<td>Tunnel Creek</td>
+	<td>1  / 2</td>
+	<td>1000 MHz</td>
+	<td>BGA 676</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>3 W</td>
+	<td>Sep 14th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e645c.c1451">Atom E645C</a>
+			</td>
+	<td>Stellarton</td>
+	<td>1  / 2</td>
+	<td>1000 MHz</td>
+	<td>BGA 1466</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>4 W</td>
+	<td>Nov 22nd, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e645ct.c1452">Atom E645CT</a>
+			</td>
+	<td>Stellarton</td>
+	<td>1  / 2</td>
+	<td>1000 MHz</td>
+	<td>BGA 1466</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>4 W</td>
+	<td>Nov 22nd, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e660.c1445">Atom E660</a>
+			</td>
+	<td>Tunnel Creek</td>
+	<td>1  / 2</td>
+	<td>1300 MHz</td>
+	<td>BGA 676</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>3 W</td>
+	<td>Sep 14th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e660t.c1446">Atom E660T</a>
+			</td>
+	<td>Tunnel Creek</td>
+	<td>1  / 2</td>
+	<td>1300 MHz</td>
+	<td>BGA 676</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>3 W</td>
+	<td>Sep 14th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e665c.c1453">Atom E665C</a>
+			</td>
+	<td>Stellarton</td>
+	<td>1  / 2</td>
+	<td>1300 MHz</td>
+	<td>BGA 1466</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>4 W</td>
+	<td>Nov 22nd, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e665ct.c1454">Atom E665CT</a>
+			</td>
+	<td>Stellarton</td>
+	<td>1  / 2</td>
+	<td>1300 MHz</td>
+	<td>BGA 1466</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>7 W</td>
+	<td>Nov 22nd, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e680.c1447">Atom E680</a>
+			</td>
+	<td>Tunnel Creek</td>
+	<td>1  / 2</td>
+	<td>1600 MHz</td>
+	<td>BGA 676</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>4 W</td>
+	<td>Sep 14th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-e680t.c1448">Atom E680T</a>
+			</td>
+	<td>Tunnel Creek</td>
+	<td>1  / 2</td>
+	<td>1600 MHz</td>
+	<td>BGA 676</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>4 W</td>
+	<td>Sep 14th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-n455.c1413">Atom N455</a>
+			</td>
+	<td>Pineview</td>
+	<td>1  / 2</td>
+	<td>1667 MHz</td>
+	<td>BGA 559</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>7 W</td>
+	<td>Jun 1st, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-n470.c1414">Atom N470</a>
+			</td>
+	<td>Pineview</td>
+	<td>1  / 2</td>
+	<td>1834 MHz</td>
+	<td>BGA 559</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>7 W</td>
+	<td>Mar 1st, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-n475.c1415">Atom N475</a>
+			</td>
+	<td>Pineview</td>
+	<td>1  / 2</td>
+	<td>1834 MHz</td>
+	<td>BGA 559</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>7 W</td>
+	<td>Jun 1st, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-n550.c1408">Atom N550</a>
+			</td>
+	<td>Pineview</td>
+	<td>2  / 4</td>
+	<td>1500 MHz</td>
+	<td>BGA 559</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>9 W</td>
+	<td>Aug 23rd, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z560.c1585">Atom Z560</a>
+			</td>
+	<td>Silverthorne</td>
+	<td>1  / 2</td>
+	<td>2.133 GHz</td>
+	<td>BGA 441</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>2 W</td>
+	<td>Jun 1st, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z600.c1427">Atom Z600</a>
+			</td>
+	<td>Lincroft</td>
+	<td>1 </td>
+	<td>1200 MHz</td>
+	<td>BGA 518</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>1 W</td>
+	<td>May 4th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z605.c1428">Atom Z605</a>
+			</td>
+	<td>Lincroft</td>
+	<td>1 </td>
+	<td>1000 MHz</td>
+	<td>BGA 518</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>2 W</td>
+	<td>May 4th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z610.c1429">Atom Z610</a>
+			</td>
+	<td>Lincroft</td>
+	<td>1 </td>
+	<td>800 MHz</td>
+	<td>BGA 518</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>1 W</td>
+	<td>May 4th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z612.c1430">Atom Z612</a>
+			</td>
+	<td>Lincroft</td>
+	<td>1 </td>
+	<td>900 MHz</td>
+	<td>BGA 518</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>1 W</td>
+	<td>May 4th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z615.c1431">Atom Z615</a>
+			</td>
+	<td>Lincroft</td>
+	<td>1 </td>
+	<td>1600 MHz</td>
+	<td>BGA 518</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>2 W</td>
+	<td>May 4th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z620.c1432">Atom Z620</a>
+			</td>
+	<td>Lincroft</td>
+	<td>1 </td>
+	<td>900 MHz</td>
+	<td>BGA 518</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>1 W</td>
+	<td>May 4th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/atom-z625.c1433">Atom Z625</a>
+			</td>
+	<td>Lincroft</td>
+	<td>1 </td>
+	<td>1900 MHz</td>
+	<td>BGA 518</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>2 W</td>
+	<td>May 4th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-330m.c3658">Core i3-330M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.133 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-350m.c1878">Core i3-350M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.267 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-370m.c1877">Core i3-370M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.4 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jun 20th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i3-380m.c1876">Core i3-380M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.534 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Oct 26th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-430m.c1874">Core i5-430M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.267 to 2.534 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-450m.c1873">Core i5-450M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.4 to 2.666 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 26th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-460m.c1872">Core i5-460M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.534 to 2.8 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 26th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-540m.c1868">Core i5-540M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.533 to 3.073 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-560m.c1869">Core i5-560M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.667 to 3.2 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 26th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i5-580m.c1870">Core i5-580M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.667 to 3.333 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 26th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-610e.c3217">Core i7-610E</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.533 to 3.2 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-620le.c3218">Core i7-620LE</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2 to 2.8 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>25 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-620lm.c3219">Core i7-620LM</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2 to 2.8 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>25 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-620m.c1383">Core i7-620M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.677 to 3.333 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-620m.c1384">Core i7-620M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.677 to 3.333 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-620ue.c3220">Core i7-620UE</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>1.067 to 2.133 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>18 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-620um.c3221">Core i7-620UM</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>1.067 to 2.133 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>18 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-640lm.c3222">Core i7-640LM</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.133 to 2.933 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>25 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-640m.c1382">Core i7-640M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.8 to 3.467 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Sep 26th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-640m.c1381">Core i7-640M</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>2.8 to 3.467 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>35 W</td>
+	<td>Sep 26th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-640um.c3223">Core i7-640UM</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>1.2 to 2.267 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>18 W</td>
+	<td>Jan 7th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-660ue.c3225">Core i7-660UE</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>1.333 to 2.4 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>18 W</td>
+	<td>Aug 2nd, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-660um.c3224">Core i7-660UM</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>1.333 to 2.4 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>18 W</td>
+	<td>May 24th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-680um.c3226">Core i7-680UM</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2  / 4</td>
+	<td>1.467 to 2.533 GHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>4 MB</td>
+	<td>18 W</td>
+	<td>Sep 26th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-740qm.c3214">Core i7-740QM</a>
+			</td>
+	<td>Clarksfield</td>
+	<td>4  / 8</td>
+	<td>1.733 to 2.933 GHz</td>
+	<td>Socket G1</td>
+	<td>45 nm</td>
+	<td>6 MB</td>
+	<td>45 W</td>
+	<td>Jun 20th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-840qm.c3216">Core i7-840QM</a>
+			</td>
+	<td>Clarksfield</td>
+	<td>4  / 8</td>
+	<td>1.867 to 3.2 GHz</td>
+	<td>Socket G1</td>
+	<td>45 nm</td>
+	<td>8 MB</td>
+	<td>45 W</td>
+	<td>Jun 20th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/core-i7-940xm.c3206">Core i7-940XM</a>
+			</td>
+	<td>Clarksfield</td>
+	<td>4  / 8</td>
+	<td>2.133 to 3.333 GHz</td>
+	<td>Socket G1</td>
+	<td>45 nm</td>
+	<td>8 MB</td>
+	<td>55 W</td>
+	<td>Jun 20th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-dual-core-t4500.c1366">Pentium Dual-Core T4500</a>
+			</td>
+	<td>Penryn</td>
+	<td>2 </td>
+	<td>2.3 GHz</td>
+	<td>Socket P</td>
+	<td>45 nm</td>
+	<td>N/A</td>
+	<td>35 W</td>
+	<td>Jan 1st, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-p6000.c1356">Pentium P6000</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2 </td>
+	<td>1877 MHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Jun 20th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-p6100.c1357">Pentium P6100</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2 </td>
+	<td>2000 MHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 26th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-p6200.c1358">Pentium P6200</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2 </td>
+	<td>2.133 GHz</td>
+	<td>Socket G1</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>35 W</td>
+	<td>Sep 26th, 2010</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/pentium-u5400.c1361">Pentium U5400</a>
+			</td>
+	<td>Arrandale</td>
+	<td>2 </td>
+	<td>1200 MHz</td>
+	<td>BGA 1288</td>
+	<td>32 nm</td>
+	<td>3 MB</td>
+	<td>18 W</td>
+	<td>May 25th, 2010</td>
+</tr>
+		
+			</table>
+</div>

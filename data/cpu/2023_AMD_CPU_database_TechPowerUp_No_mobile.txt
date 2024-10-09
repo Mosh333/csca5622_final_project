@@ -1,0 +1,864 @@
+<div id="list" class="table-wrapper">
+	<table class="processors">
+				<thead>
+			<tr>
+				<th colspan="10" class="mfgr" id="AMD">AMD</th>
+			</tr>
+		</thead>
+		<thead class="colheader">
+	<tr>
+		<th>Name</th>
+		<th>Codename</th>
+		<th>Cores</th>
+		<th>Clock</th>
+		<th>Socket</th>
+		<th>Process</th>
+		<th>L3 Cache</th>
+		<th>TDP</th>
+		<th>Released</th>
+	</tr>
+</thead>
+
+				
+						<tr>
+	<td>
+		<a href="/cpu-specs/4800s.c3327">4800S</a>
+			</td>
+	<td>Ariel</td>
+	<td>8  / 16</td>
+	<td>3.6 to 4 GHz</td>
+	<td>BGA 2963</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>65 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7203.c3372">EPYC 7203</a>
+			</td>
+	<td>Milan</td>
+	<td>8  / 16</td>
+	<td>2.8 to 3.4 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>120 W</td>
+	<td>Sep 5th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7203p.c3373">EPYC 7203P</a>
+			</td>
+	<td>Milan</td>
+	<td>8  / 16</td>
+	<td>2.8 to 3.4 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>120 W</td>
+	<td>Sep 5th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7303.c3371">EPYC 7303</a>
+			</td>
+	<td>Milan</td>
+	<td>16  / 32</td>
+	<td>2.4 to 3.4 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>130 W</td>
+	<td>Sep 5th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7303p.c3370">EPYC 7303P</a>
+			</td>
+	<td>Milan</td>
+	<td>16  / 32</td>
+	<td>2.4 to 3.4 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>130 W</td>
+	<td>Sep 5th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7643p.c3369">EPYC 7643P</a>
+			</td>
+	<td>Milan</td>
+	<td>48  / 96</td>
+	<td>2.3 to 3.6 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>225 W</td>
+	<td>Sep 5th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-7663p.c3368">EPYC 7663P</a>
+			</td>
+	<td>Milan</td>
+	<td>56  / 112</td>
+	<td>2 to 3.5 GHz</td>
+	<td>Socket SP3</td>
+	<td>7 nm</td>
+	<td>256 MB</td>
+	<td>240 W</td>
+	<td>Sep 5th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8024p.c3294">EPYC 8024P</a>
+			</td>
+	<td>Siena</td>
+	<td>8  / 16</td>
+	<td>2.4 to 3 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>90 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8024pn.c3295">EPYC 8024PN</a>
+			</td>
+	<td>Siena</td>
+	<td>8  / 16</td>
+	<td>2.05 to 3 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>80 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8124p.c3293">EPYC 8124P</a>
+			</td>
+	<td>Siena</td>
+	<td>16  / 32</td>
+	<td>2.45 to 3 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>125 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8124pn.c3296">EPYC 8124PN</a>
+			</td>
+	<td>Siena</td>
+	<td>16  / 32</td>
+	<td>2 to 3 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>100 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8224p.c3292">EPYC 8224P</a>
+			</td>
+	<td>Siena</td>
+	<td>24  / 48</td>
+	<td>2.55 to 3 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>160 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8224pn.c3297">EPYC 8224PN</a>
+			</td>
+	<td>Siena</td>
+	<td>24  / 48</td>
+	<td>2 to 3 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>120 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8324p.c3291">EPYC 8324P</a>
+			</td>
+	<td>Siena</td>
+	<td>32  / 64</td>
+	<td>2.65 to 3 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>180 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8324pn.c3298">EPYC 8324PN</a>
+			</td>
+	<td>Siena</td>
+	<td>32  / 64</td>
+	<td>2.05 to 3 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>130 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8434p.c3290">EPYC 8434P</a>
+			</td>
+	<td>Siena</td>
+	<td>48  / 96</td>
+	<td>2.5 to 3.1 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>200 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8434pn.c3299">EPYC 8434PN</a>
+			</td>
+	<td>Siena</td>
+	<td>48  / 96</td>
+	<td>2 to 3 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>155 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8534p.c3288">EPYC 8534P</a>
+			</td>
+	<td>Siena</td>
+	<td>64  / 128</td>
+	<td>2.3 to 3.1 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>200 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-8534pn.c3289">EPYC 8534PN</a>
+			</td>
+	<td>Siena</td>
+	<td>64  / 128</td>
+	<td>2 to 3.1 GHz</td>
+	<td>Socket SP6</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>175 W</td>
+	<td>Sep 18th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9184x.c3255">EPYC 9184X</a>
+			</td>
+	<td>Genoa-X</td>
+	<td>16  / 32</td>
+	<td>3.55 to 4.2 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>768 MB</td>
+	<td>320 W</td>
+	<td>Jun 13th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9384x.c3254">EPYC 9384X</a>
+			</td>
+	<td>Genoa-X</td>
+	<td>32  / 64</td>
+	<td>3.1 to 3.9 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>768 MB</td>
+	<td>320 W</td>
+	<td>Jun 13th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9684x.c3253">EPYC 9684X</a>
+			</td>
+	<td>Genoa-X</td>
+	<td>96  / 192</td>
+	<td>2.55 to 3.7 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>1152 MB</td>
+	<td>400 W</td>
+	<td>Jun 13th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9734.c3258">EPYC 9734</a>
+			</td>
+	<td>Bergamo</td>
+	<td>112  / 224</td>
+	<td>2.2 to 3 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>340 W</td>
+	<td>Jun 13th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9754.c3257">EPYC 9754</a>
+			</td>
+	<td>Bergamo</td>
+	<td>128  / 256</td>
+	<td>2.25 to 3.1 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>360 W</td>
+	<td>Jun 13th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-9754s.c3256">EPYC 9754S</a>
+			</td>
+	<td>Bergamo</td>
+	<td>128  / 256</td>
+	<td>2.25 to 3.1 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>360 W</td>
+	<td>Jun 13th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-9124.c3194">EPYC Embedded 9124</a>
+			</td>
+	<td>Genoa</td>
+	<td>16  / 32</td>
+	<td>3 to 3.7 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>200 W</td>
+	<td>Mar 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-9254.c3193">EPYC Embedded 9254</a>
+			</td>
+	<td>Genoa</td>
+	<td>24  / 48</td>
+	<td>2.9 to 4.15 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>200 W</td>
+	<td>Mar 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-9354.c3192">EPYC Embedded 9354</a>
+			</td>
+	<td>Genoa</td>
+	<td>32  / 64</td>
+	<td>3.25 to 3.8 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Mar 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-9354p.c3195">EPYC Embedded 9354P</a>
+			</td>
+	<td>Genoa</td>
+	<td>32  / 64</td>
+	<td>3.25 to 3.8 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>280 W</td>
+	<td>Mar 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-9454.c3191">EPYC Embedded 9454</a>
+			</td>
+	<td>Genoa</td>
+	<td>48  / 96</td>
+	<td>2.75 to 3.8 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>290 W</td>
+	<td>Mar 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-9454p.c3196">EPYC Embedded 9454P</a>
+			</td>
+	<td>Genoa</td>
+	<td>48  / 96</td>
+	<td>2.75 to 3.8 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>290 W</td>
+	<td>Mar 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-9554.c3190">EPYC Embedded 9554</a>
+			</td>
+	<td>Genoa</td>
+	<td>64  / 128</td>
+	<td>3.1 to 3.75 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>360 W</td>
+	<td>Mar 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-9554p.c3197">EPYC Embedded 9554P</a>
+			</td>
+	<td>Genoa</td>
+	<td>64  / 128</td>
+	<td>3.1 to 3.75 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>360 W</td>
+	<td>Mar 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-9654.c3189">EPYC Embedded 9654</a>
+			</td>
+	<td>Genoa</td>
+	<td>96  / 192</td>
+	<td>2.4 to 3.7 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>384 MB</td>
+	<td>360 W</td>
+	<td>Mar 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/epyc-embedded-9654p.c3198">EPYC Embedded 9654P</a>
+			</td>
+	<td>Genoa</td>
+	<td>96  / 192</td>
+	<td>2.4 to 3.7 GHz</td>
+	<td>Socket SP5</td>
+	<td>5 nm</td>
+	<td>384 MB</td>
+	<td>360 W</td>
+	<td>Mar 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-5600x3d.c3252">Ryzen 5 5600X3D</a>
+			</td>
+	<td>Vermeer</td>
+	<td>6  / 12</td>
+	<td>3.3 to 4.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>96 MB</td>
+	<td>105 W</td>
+	<td>Jul 7th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7500f.c3259">Ryzen 5 7500F</a>
+			</td>
+	<td>Raphael</td>
+	<td>6  / 12</td>
+	<td>3.7 to 5 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Jul 22nd, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-7600.c2959">Ryzen 5 7600</a>
+			</td>
+	<td>Raphael</td>
+	<td>6  / 12</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Jan 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-5-pro-7645.c3304">Ryzen 5 PRO 7645</a>
+			</td>
+	<td>Raphael</td>
+	<td>6  / 12</td>
+	<td>3.8 to 5.1 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Jun 13th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7700.c2960">Ryzen 7 7700</a>
+			</td>
+	<td>Raphael</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.3 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Jan 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-7800x3d.c3022">Ryzen 7 7800X3D</a>
+			</td>
+	<td>Raphael</td>
+	<td>8  / 16</td>
+	<td>4.2 to 5 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>96 MB</td>
+	<td>120 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-7-pro-7745.c3303">Ryzen 7 PRO 7745</a>
+			</td>
+	<td>Raphael</td>
+	<td>8  / 16</td>
+	<td>3.8 to 5.3 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Jun 13th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-7900.c2961">Ryzen 9 7900</a>
+			</td>
+	<td>Raphael</td>
+	<td>12  / 24</td>
+	<td>3.7 to 5.4 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>65 W</td>
+	<td>Jan 14th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-7900x3d.c3023">Ryzen 9 7900X3D</a>
+			</td>
+	<td>Raphael</td>
+	<td>12  / 24</td>
+	<td>4.4 to 5.6 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>120 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-7950x3d.c3024">Ryzen 9 7950X3D</a>
+			</td>
+	<td>Raphael</td>
+	<td>16  / 32</td>
+	<td>4.2 to 5.7 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>120 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-9-pro-7945.c3302">Ryzen 9 PRO 7945</a>
+			</td>
+	<td>Raphael</td>
+	<td>12  / 24</td>
+	<td>3.7 to 5.4 GHz</td>
+	<td>Socket AM5</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>65 W</td>
+	<td>Jun 13th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-5600e.c3211">Ryzen Embedded 5600E</a>
+			</td>
+	<td>Vermeer</td>
+	<td>6  / 12</td>
+	<td>3.3 to 3.6 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>32 MB</td>
+	<td>65 W</td>
+	<td>Apr 20th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-5800e.c3210">Ryzen Embedded 5800E</a>
+			</td>
+	<td>Vermeer</td>
+	<td>8  / 16</td>
+	<td>3.4 to 3.7 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>32 MB</td>
+	<td>100 W</td>
+	<td>Apr 20th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-5900e.c3209">Ryzen Embedded 5900E</a>
+			</td>
+	<td>Vermeer</td>
+	<td>12  / 24</td>
+	<td>3.35 to 3.7 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>105 W</td>
+	<td>Apr 20th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-5950e.c3208">Ryzen Embedded 5950E</a>
+			</td>
+	<td>Vermeer</td>
+	<td>16  / 32</td>
+	<td>3.05 to 3.4 GHz</td>
+	<td>Socket AM4</td>
+	<td>7 nm</td>
+	<td>64 MB</td>
+	<td>105 W</td>
+	<td>Apr 20th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-embedded-v2a46.c3460">Ryzen Embedded V2A46</a>
+			</td>
+	<td>Renoir</td>
+	<td>6  / 12</td>
+	<td>3 to 3.2 GHz</td>
+	<td>Socket FP6</td>
+	<td>7 nm</td>
+	<td>8 MB</td>
+	<td>35 W</td>
+	<td>Jan 4th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-7960x.c3359">Ryzen Threadripper 7960X</a>
+			</td>
+	<td>Storm Peak</td>
+	<td>24  / 48</td>
+	<td>4.2 to 5.3 GHz</td>
+	<td>Socket sTR5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>350 W</td>
+	<td>Oct 19th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-7970x.c3358">Ryzen Threadripper 7970X</a>
+			</td>
+	<td>Storm Peak</td>
+	<td>32  / 64</td>
+	<td>4 to 5.3 GHz</td>
+	<td>Socket sTR5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>350 W</td>
+	<td>Oct 19th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-7980x.c3357">Ryzen Threadripper 7980X</a>
+			</td>
+	<td>Storm Peak</td>
+	<td>64  / 128</td>
+	<td>3.2 to 5.1 GHz</td>
+	<td>Socket sTR5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>350 W</td>
+	<td>Oct 19th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-7965wx.c3361">Ryzen Threadripper PRO 7965WX</a>
+			</td>
+	<td>Storm Peak</td>
+	<td>24  / 48</td>
+	<td>4.2 to 5.3 GHz</td>
+	<td>Socket sTR5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>350 W</td>
+	<td>Oct 19th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-7975wx.c3360">Ryzen Threadripper PRO 7975WX</a>
+			</td>
+	<td>Storm Peak</td>
+	<td>32  / 64</td>
+	<td>4 to 5.3 GHz</td>
+	<td>Socket sTR5</td>
+	<td>5 nm</td>
+	<td>128 MB</td>
+	<td>350 W</td>
+	<td>Oct 19th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-7985wx.c3356">Ryzen Threadripper PRO 7985WX</a>
+			</td>
+	<td>Storm Peak</td>
+	<td>64  / 128</td>
+	<td>3.2 to 5.1 GHz</td>
+	<td>Socket sTR5</td>
+	<td>5 nm</td>
+	<td>256 MB</td>
+	<td>350 W</td>
+	<td>Oct 19th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/ryzen-threadripper-pro-7995wx.c3301">Ryzen Threadripper PRO 7995WX</a>
+			</td>
+	<td>Storm Peak</td>
+	<td>96  / 192</td>
+	<td>2.5 to 5.1 GHz</td>
+	<td>Socket sTR5</td>
+	<td>5 nm</td>
+	<td>384 MB</td>
+	<td>350 W</td>
+	<td>Oct 19th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/threadripper-pro-7945wx.c3362">Threadripper PRO 7945WX</a>
+			</td>
+	<td>Storm Peak</td>
+	<td>12  / 24</td>
+	<td>4.7 to 5.3 GHz</td>
+	<td>Socket sTR5</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>350 W</td>
+	<td>Oct 19th, 2023</td>
+</tr>
+		
+						<tr>
+	<td>
+		<a href="/cpu-specs/threadripper-pro-7955wx.c3300">Threadripper PRO 7955WX</a>
+			</td>
+	<td>Storm Peak</td>
+	<td>16  / 32</td>
+	<td>4.5 to 5.3 GHz</td>
+	<td>Socket sTR5</td>
+	<td>5 nm</td>
+	<td>64 MB</td>
+	<td>350 W</td>
+	<td>Oct 19th, 2023</td>
+</tr>
+		
+			</table>
+</div>
