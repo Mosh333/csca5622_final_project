@@ -43,7 +43,7 @@ def download_html(url_suffix, save_path):
         return False  # Skip and continue
 
 # Loop through years 2004 to 2024
-begin = 2023
+begin = 2004
 end = 2025
 for year in range(begin, end):
     # Fetch GPU and CPU list variables dynamically

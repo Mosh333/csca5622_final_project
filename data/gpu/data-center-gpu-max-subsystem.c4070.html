@@ -1,0 +1,958 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Intel Data Center GPU Max Subsystem Specs | TechPowerUp GPU Database</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="preconnect" href="https://tpucdn.com" />
+		<meta name="application-name" content="TechPowerUp">
+		
+		<link rel="preload stylesheet" href="https://tpucdn.com/css/style-v1723816949774.css" as="style" crossorigin>
+		<link rel="preload" href="https://tpucdn.com/css/fonts/tpu-body-regular-v1723816949774.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="https://tpucdn.com/css/fonts/tpu-body-bold-v1723816949774.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="https://tpucdn.com/css/fonts/opensans-condbold-v1723816949774.woff2" as="font" type="font/woff2" crossorigin>
+
+		<meta name="robots" content="max-image-preview:large">
+
+		<meta property="article:publisher" content="https://www.facebook.com/TechPowerUp" />
+		<meta property="og:site_name" content="TechPowerUp">
+		<meta property="og:title" content="Intel Data Center GPU Max Subsystem Specs">
+		<meta property="og:type" content="article">
+		<meta property="og:description" content="Intel Ponte Vecchio x4, 1600 MHz, 16384 Cores, 1024 TMUs, 0 ROPs, 131072 MB HBM2e, 1565 MHz, 8192 bit">
+		<meta property="og:url" content="https://www.techpowerup.com/gpu-specs/data-center-gpu-max-subsystem.c4070">				<meta property="og:image" content="https://tpucdn.com/images/logo_og-v1723816949774.png">
+		
+		
+		
+				
+		
+		<link rel="shortcut icon" href="https://tpucdn.com/favicon-v1723816949774.ico">
+		<link rel="apple-touch-icon" href="https://tpucdn.com/apple-touch-icon-v1723816949774.png">
+
+		<link rel="stylesheet" href="https://tpucdn.com/css/style-v1723816949774.css">
+														<link rel="stylesheet" href="https://tpucdn.com/css/databases-v1723816949774.css">				
+		<script>
+			loadjs=function(){var n=function(){},e={},t={},r={};function c(n,e){if(n){var c=r[n];if(t[n]=e,c)for(;c.length;)c[0](n,e),c.splice(0,1)}}function i(e,t){e.call&&(e={success:e}),t.length?(e.error||n)(t):(e.success||n)(e)}function o(e,t,r,c){var i,s,u=document,f=r.async,a=(r.numRetries||0)+1,h=r.before||n;c=c||0,/(^css!|\.css$)/.test(e)?(i=!0,(s=u.createElement("link")).rel="stylesheet",s.href=e.replace(/^css!/,"")):((s=u.createElement("script")).src=e,s.async=void 0===f||f),s.onload=s.onerror=s.onbeforeload=function(n){var u=n.type[0];if(i&&"hideFocus"in s)try{s.sheet.cssText.length||(u="e")}catch(n){u="e"}if("e"==u&&(c+=1)<a)return o(e,t,r,c);t(e,u,n.defaultPrevented)},!1!==h(e,s)&&u.head.appendChild(s)}function s(n,t,r){var s,u;if(t&&t.trim&&(s=t),u=(s?r:t)||{},s){if(s in e)throw"LoadJS";e[s]=!0}!function(n,e,t){var r,c,i=(n=n.push?n:[n]).length,s=i,u=[];for(r=function(n,t,r){if("e"==t&&u.push(n),"b"==t){if(!r)return;u.push(n)}--i||e(u)},c=0;c<s;c++)o(n[c],r,t)}(n,function(n){i(u,n),c(s,n)},u)}return s.ready=function(n,e){return function(n,e){var c,i,o,s=[],u=(n=n.push?n:[n]).length,f=u;for(c=function(n,t){t.length&&s.push(n),--f||e(s)};u--;)i=n[u],(o=t[i])?c(i,o):(r[i]=r[i]||[]).push(c)}(n,function(n){i(e,n)}),s},s.done=function(n){c(n,[])},s.reset=function(){e={},t={},r={}},s.isDefined=function(n){return n in e},s}();
+		</script>
+
+		<!--[if lt IE 9]><script src="https://tpucdn.com/js/html5shiv.min-v1723816949774.js"></script><![endif]-->
+		<!--[if lt IE 9]><script>window.onerror = function(){ return true; }</script><![endif]-->
+
+		<script>
+						loadjs(["https://tpucdn.com/js/jquery-3.6.0.min-v1723816949774.js", "https://tpucdn.com/js/tpu-v1723816949774.js"], { async: false, success: function() { $(function() { loadjs.done('jquery'); }); }});
+
+			loadjs.ready(['jquery'], function() {
+				
+				loadjs(["https://tpucdn.com/js/popup/popup.min-v1723816949774.css", "https://tpucdn.com/js/popup/popup.min-v1723816949774.js"], 'popup');
+
+																				loadjs(["https://tpucdn.com/js/masonry/masonry.pkgd.min-v1723816949774.js"], 'masonry');												loadjs(["https://tpucdn.com/js/swiper/swiper.min-v1723816949774.css", "https://tpucdn.com/js/swiper/swiper.min-v1723816949774.js"], 'swiper');								loadjs(["https://tpucdn.com/js/fancybox/jquery.fancybox-v1723816949774.css", "https://tpucdn.com/js/fancybox/jquery.fancybox-v1723816949774.js"], 'fancybox');															});
+
+																				</script>
+
+		
+		
+		<link rel="alternate" type="application/rss+xml" title="TechPowerUp Frontpage News" href="/rss/news">
+		<link rel="alternate" type="application/rss+xml" title="TechPowerup Reviews" href="/rss/reviews">
+
+				<script>
+			window._paq = [
+    			['setSiteId', '1'],
+    			['setTrackerUrl', 'https://www.techpowerup.com/js/mt'],
+				['enableLinkTracking'],
+    			['setRequestMethod', 'POST'],
+    			['enableHeartBeatTimer'],
+								['setCustomVariable', 1, 'PageGen', '21.4', scope = 'page'],
+    			['trackPageView'],
+			];
+			(function() {
+				var d=document; g=d.createElement('script'); s=d.getElementsByTagName('script')[0];
+				g.async=true; g.src='https://tpucdn.com/js/mt-v1723816949774.js'; s.parentNode.insertBefore(g,s);
+			})();
+		</script>
+		
+		<noscript><style>.jsonly { display: none !important; }</style></noscript>
+
+		
+	</head>
+
+	<body class="body gpudb-details">
+		
+		
+
+		
+		<div class="v-port">
+			
+			<div>
+<div class="oiltrgr"><img  src="/reviyuu/b784/_b2b1b7a7.png" /></div>
+<a target="_blank" class="gbreb" rel="nofollow" href="/reviyuu/b784/2836er/images/gmchjhj.png"> </a>
+<div class="miukmzun"><a target="_blank" rel="nofollow" href="/reviyuu/b784/2836er/images/gmchjhj.png"> </a></div>
+
+<style>
+body { background-color: #dedfda }
+
+.gbreb {
+    background-image: url("/reviyuu/b784/_b2b1b7a7.png");
+    background-position: center top;
+    background-size: 169.333% auto;
+    display: block;
+    font-size: 0;
+    overflow: hidden;
+    padding-bottom: 10%;
+    width: 100%;
+}
+
+.miukmzun { display:none; }
+
+.oiltrgr { display:none; }
+
+@media screen and (min-width: 1500px) {
+	.oiltrgr { 
+	    display: block; 
+	    position: fixed; 
+	    right:50%; 
+	    margin-right:-270px;
+ 	    transform: translateX(1000px);
+	}
+
+	.miukmzun {
+	    display: block;
+	    height: 100%;
+	    left: 50%;
+	    max-width: 1900px;
+	    position: fixed;
+	    top: 0;
+	    transform: translateX(-50%);
+	    width: 100%;
+	    z-index: 1;
+	}
+
+	.miukmzun > a {
+	  position: absolute;
+	  left: 0;
+	  top: 0;
+	  width: 100%;
+	  height: 100%;
+	}
+
+	.gbreb {
+	    background-image: none;
+	}
+}
+</style>
+</div><span class="a738ece0ee3a83503a47f6bd2253406c"></span>			<div class="page-header">
+				<div class="page-header__logo-wrapper">
+					<label for="navigation-check" class="navigation-toggle" onclick="" title="Navigation"></label>
+					<label for="s--check" class="s--toggle" onclick="" title="Sidebar"></label>
+					<script>
+						loadjs.ready(['jquery'], function() {
+							$('.s-').clone().insertBefore('.page').addClass('s---responsive');
+							$('#navigation-check').prop('checked', false).on('click', function() {
+								$('html').toggleClass('navigation-active', $(this).is(':checked'));
+							});
+							$('#s--check').prop('checked', false).on('click', function() {
+								$('html').toggleClass('sidebar-active', $(this).is(':checked'));
+							});
+						});
+					</script>
+					<a class="page-header__logo" href="/" title="TechPowerUp"></a>
+				</div>
+
+				<div btr-cls><div><a href="/reviyuu/b784/2818er/images/gmchjhj.png" target="_blank" rel="nofollow">
+<img src="/reviyuu/b784/_cd92082b.png" alt="">
+</a></div><span class="a738ece0ee3a83503a47f6bd2253406c"></span></div>
+			</div>
+			<input type="checkbox" id="s--check"/>
+
+			<input type="checkbox" id="navigation-check"/>
+			<nav id="menu">
+				<label for="navigation-check" id="menu-toggle" onclick="" title="Close"></label>
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/review/">Reviews</a></li>
+					<li><a href="/forums/">Forums</a></li>
+					<li><a href="/download/">Downloads</a></li>
+					<li><a href="/gallery/">Case Mod Gallery</a></li>
+					<li>
+						<label class="menu-toggle-sub" onclick="" for="menu-databases">Databases</label>
+						<input id="menu-databases" class="sub-menu-check" type="checkbox">
+						<ul id="menu-databases-sub" class="sub-menu">
+							<li class="menu-sub-heading">Databases…
+								<label class="menu-back" title="Back" onclick="" for="menu-databases">Back</label>
+							</li>
+							<li><a href="/vgabios/">VGA Bios Collection</a></li>
+							<li><a href="/gpu-specs/">GPU Database</a></li>
+							<li><a href="/cpu-specs/">CPU Database</a></li>
+							<li><a href="/ssd-specs/">SSD Database</a></li>
+							<li><a href="/reviewdb/">Review Database</a></li>
+							<li><a href="/review/future-hardware-releases/">Upcoming Hardware</a></li>
+						</ul>
+					</li>
+					<li>
+						<label class="menu-toggle-sub" onclick="" for="menu-software">Our Software</label>
+						<input id="menu-software" class="sub-menu-check" type="checkbox">
+						<ul id="menu-software-sub" class="sub-menu">
+							<li class="menu-sub-heading">Our Software…
+								<label class="menu-back" title="Back" onclick="" for="menu-software">Back</label>
+							</li>
+							<li><a href="/gpuz/">GPU-Z</a></li>
+							<li><a href="/realtemp/">RealTemp</a></li>
+							<li><a href="/nvcleanstall/">NVCleanstall</a></li>
+							<li><a href="/tpucapture/">TPUCapture</a></li>
+							<li><a href="/memtest64/">MemTest64</a></li>
+						</ul>
+					</li>
+					<li>
+						<label class="menu-toggle-sub" onclick="" for="menu-more">More</label>
+						<input id="menu-more" class="sub-menu-check" type="checkbox">
+						<ul id="menu-more-sub" class="sub-menu">
+							<li class="menu-sub-heading">More…
+								<label class="menu-back" title="Back" onclick="" for="menu-more">Back</label>
+							</li>
+							<li><a href="/articles/">Articles</a></li>
+							<li><a href="/oldstuff/">Old Stuff</a></li>
+							<li><a href="/trivia/">Computer Trivia</a></li>
+							<li><a href="/live/">TPU Live</a></li>
+																				</ul>
+					</li>
+					<li><a href="/contact/">Contact Us</a></li>
+					<li class="social">
+						<a class="facebook" title="Facebook" target="_blank" rel="nofollow noopener" href="https://www.facebook.com/TechPowerUp"></a>
+						<a class="twitter" title="Twitter" target="_blank" rel="nofollow noopener" href="https://twitter.com/TechPowerUp"></a>
+						<a class="patreon" title="Patreon" target="_blank" rel="nofollow noopener" href="https://www.patreon.com/TechPowerUp"></a>
+						<a class="instagram" title="Instagram" target="_blank" rel="nofollow noopener" href="https://www.instagram.com/techpowerupofficial/"></a>
+						<a class="youtube" title="YouTube" target="_blank" rel="nofollow noopener" href="https://www.youtube.com/c/TechPowerUp"></a>
+						<a class="rss" title="RSS" href="/rss/"></a>
+					</li>
+				</ul>
+			</nav>
+
+			<div class="page">
+				
+				<div class="contnt ">
+					
+<script>
+	loadjs.ready(['jquery', 'masonry'], function() {
+		$('td:contains("unknown")').css('color', '#aaa');
+		if ($(window).width()>560)
+			$('.sectioncontainer').masonry({ });
+	});
+
+	function attachLightbox(selector) {
+	function updateButtonPos(instance) {
+		if (instance.current==undefined)
+			return;
+
+		var pos=instance.current.$content.css([ 'transform', 'width', 'height' ]);
+		var xform=pos.transform.match(/(-?[\d\.]+), (-?[\d\.]+)\)$/);
+		if (xform==null)
+			return;
+
+		instance.$refs.inner.find('.fancybox-tpu-nav').css({
+			'left': xform[1]+'px',
+			'top': xform[2]+'px',
+			'width': pos['width'],
+			'height': pos['height']
+		});
+
+		if (instance.$refs.stage.children().length==1) {
+			$('.fancybox-tpu-btn-prev, .fancybox-tpu-btn-next').hide();
+		}
+	}
+
+	loadjs.ready(['jquery', 'fancybox'], function() {
+		var items;
+		if (selector instanceof Function)
+			items=selector();
+		else
+			items=$(selector);
+
+		items.fancybox({
+			selector: false,
+			loop: false,
+			wheel: 'auto',
+			buttons: [],
+			smallBtn: false,
+			i18n: { en: { ERROR: "The requested content cannot be loaded. <br/>This could be due to an ad blocker."}},
+			onInit: function(instance, slide) {
+				/*
+				var maxWidth=$('body').css('maxWidth');
+				$('body').addClass('tpu-fancybox-body-wrap').wrapInner('<div class="tpu-fancybox-wrap"></div>');
+				$('.tpu-fancybox-wrap').css('maxWidth', maxWidth);*/
+
+				instance.$refs.stage.on('transitionend', function() {
+					updateButtonPos(instance);
+				});
+			},
+			onUpdate: updateButtonPos,
+			afterShow: function(instance, slide) {
+				updateButtonPos(instance);
+				instance.$refs.inner.find('.fancybox-tpu-nav').show();
+			},
+			beforeClose: function(instance, slide) {
+				instance.$refs.inner.find('.fancybox-tpu-nav').hide();
+			},
+			afterClose: function(instance, slide) {
+				$('.tpu-fancybox-wrap').contents().unwrap();
+				$('body').removeClass('tpu-fancybox-body-wrap')
+			},
+			baseTpl: '<div class="fancybox-container" role="dialog" tabindex="-1">' +
+				'<div class="fancybox-bg"></div>' +
+				'<div class="fancybox-inner">' +
+					'<div class="fancybox-tpu-nav">' +
+						'<button data-fancybox-close class="fancybox-button fancybox-tpu-btn fancybox-tpu-btn-close" title="Close"></button>' +
+						'<button data-fancybox-prev class="fancybox-button fancybox-tpu-btn fancybox-tpu-btn-prev" title="Previous"></button>' +
+						'<button data-fancybox-next class="fancybox-button fancybox-tpu-btn fancybox-tpu-btn-next" title="Next"></button>' +
+					'</div>' +
+					'<div class="fancybox-stage"></div>' +
+					'<div class="fancybox-caption"></div>' +
+				'</div>' +
+			'</div>',
+		});
+	});
+}
+	loadjs.ready(['jquery'], function() {
+		if ($(window).width()>=1200) {
+			$('.gpudb-filmstrip__item--chip').remove();
+		} else {
+			$('.gpudb-large-image__img--gpu').remove();
+		}
+	});
+
+	loadjs.ready(['jquery', 'fancybox', 'swiper'], function() {
+		attachLightbox('[data-fancybox]');
+
+		$carousel=$('.gpudb-filmstrip__wrapper');
+		$carousel.addClass('swiper-container');
+		$carousel.find('.gpudb-filmstrip__item').addClass('swiper-slide').css('width', 'auto').wrapAll('<div class="swiper-wrapper" />');
+
+		if ($(window).width()<600)
+			$carousel.find('.swiper-wrapper').after('<div class="swiper-pagination" style="position:relative; bottom:5px; transform: unset; margin-top:12px" />');
+		new Swiper ($carousel.eq(0), { slidesPerView: 'auto', slidesPerGroup: 1, spaceBetween: 15, pagination: { el: '.swiper-pagination', clickable: true } });
+	});
+</script>
+
+<ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a href="/gpu-specs/" itemprop="item"><span itemprop="name">GPU Database</span></a>
+							<meta itemprop="position" content="1" />
+	</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a href="/gpu-specs/data-center-gpu-max-subsystem.c4070" itemprop="item"><b itemprop="name">Data Center GPU Max Subsystem Specs</b></a>
+							<meta itemprop="position" content="2" />
+	</li>
+	</ul>
+
+<a class="button gpudb-report-error" href="mailto:matthewsmith9999@hotmail.com?subject=GPU%20Database%20Intel%20Data%20Center%20GPU%20Max%20Subsystem%20%28ID%204070)">Report an Error</a>
+
+
+<h1 class="gpudb-name">Intel Data Center GPU Max Subsystem</h1>
+
+<dl class="gpudb-specs-large">
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">Graphics Processor</dt>
+		<dd class="gpudb-specs-large__value">Ponte Vecchio x4</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">Cores</dt>
+		<dd class="gpudb-specs-large__value">16384 x4</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">TMUs</dt>
+		<dd class="gpudb-specs-large__value">1024 x4</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">ROPs</dt>
+		<dd class="gpudb-specs-large__value">N/A</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">Memory Size</dt>
+		<dd class="gpudb-specs-large__value">128 GB x4</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">Memory Type</dt>
+		<dd class="gpudb-specs-large__value">HBM2e</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">Bus Width</dt>
+		<dd class="gpudb-specs-large__value">8192 bit x4</dd>
+	</div>
+	</dl>
+
+<div class="gpudb-large-image__wrapper">
+				
+		<a class="gpudb-large-image__item" href="https://tpucdn.com/gpu-specs/images/g/1046-default.jpg" data-width="1072" data-height="800" data-fancybox="gallery">
+		<img class="gpudb-large-image__img gpudb-large-image__img--gpu" src="https://tpucdn.com/gpu-specs/images/g/1046-default.small.jpg" width="268" height="200" alt="GPU Chip" />
+	</a>
+	</div>
+
+
+<div class="gpudb-filmstrip__wrapper">
+			<div class="gpudb-filmstrip__item gpudb-filmstrip__item--chip">
+		<a href="https://tpucdn.com/gpu-specs/images/g/1046-default.jpg" data-width="1072" data-height="800" data-fancybox="gallery">
+			<img class="gpudb-filmstrip__img" src="https://tpucdn.com/gpu-specs/images/g/1046-default.small.jpg" width="268" height="200" alt="GPU Chip" />
+		</a>
+		<div class="gpudb-filmstrip__title">GPU</div>
+	</div>
+	
+	</div>
+
+
+
+
+
+<div class="desc p">The Data Center GPU Max Subsystem is a professional  graphics card by Intel, launched on January 10th, 2023. Built on the 10 nm process, and based on the Ponte Vecchio graphics processor, the card supports DirectX 12. The Ponte Vecchio graphics processor is a large chip with a die area of 1280 mm² and 100,000 million transistors. Data Center GPU Max Subsystem combines four graphics processors to increase performance. It features 16384 shading units, 1024 texture mapping units,  and 0 ROPs, per GPU. Also included are 1024 tensor cores which help improve the speed of machine learning applications. The card also has 128 raytracing acceleration cores. Intel has paired 512 GB HBM2e memory with the Data Center GPU Max Subsystem, which are connected using a 8192-bit memory interface per GPU (each GPU manages 131,072 MB). The GPU is operating at a frequency of 900 MHz, which can be boosted up to 1600 MHz, memory is running at 1565 MHz. <br /> Being a dual-slot card, the Intel Data Center GPU Max Subsystem draws power from 1x 16-pin power connector, with power draw rated at 2400 W maximum. This device has no display connectivity, as it is not designed to have monitors connected to it. Data Center GPU Max Subsystem is connected to the rest of the system using a PCI-Express 5.0 x16 interface. The card measures 267 mm in length, and features a dual-slot cooling solution. </div>
+
+<div class="sectioncontainer">
+		<section class="details">
+		<h2>Graphics Processor</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>GPU Name</dt>
+				<dd>
+					<a href="/gpu-specs/intel-ponte-vecchio.g1046">Ponte Vecchio</a>
+				</dd>
+			</dl>
+															<dl class="clearfix">
+				<dt>Architecture</dt>
+				<dd><a href="/gpu-specs/?architecture=Generation+12.5&amp;sort=generation">Generation 12.5</a></dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Foundry</dt>
+				<dd>Intel</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Process Size</dt>
+				<dd>10 nm</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Transistors</dt>
+				<dd>100,000 million</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Density</dt>
+				<dd>78.1M / mm²</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Die Size</dt>
+				<dd>1280 mm²</dd>
+			</dl>
+						
+		</div>
+	</section>
+	
+	<section class="details">
+		<h2>
+			Graphics Card		</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>Release Date</dt>
+				<dd>Jan 10th, 2023</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Generation</dt>
+				<dd>
+					<a href="/gpu-specs/?generation=Data+Center+GPU&amp;sort=generation">Data Center GPU</a>
+					<br />(Ponte Vecchio)				</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Successor</dt>
+				<dd>
+					<a href="/gpu-specs/?generation=H3C+Graphics&amp;sort=generation">H3C Graphics</a>
+				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Production</dt>
+				<dd>Active</dd>
+			</dl>
+												<dl class="clearfix">
+				<dt>Bus Interface</dt>
+				<dd>PCIe 5.0 x16</dd>
+			</dl>
+			
+			
+						
+		</div>
+	</section>
+
+	
+	<section class="details">
+		<h2>Clock Speeds</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>Base Clock</dt>
+				<dd>900 MHz</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Boost Clock</dt>
+				<dd>1600 MHz</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Memory Clock</dt>
+				<dd>
+					1565 MHz
+										<br />
+					3.1 Gbps effective
+									</dd>
+			</dl>
+			
+		</div>
+	</section>
+
+	
+	<section class="details">
+		<h2>Memory</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>Memory Size</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					128 GB
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Memory Type</dt>
+				<dd>HBM2e</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Memory Bus</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					8192 bit
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Bandwidth</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					3.21 TB/s
+				</dd>
+			</dl>
+			
+		</div>
+	</section>
+
+	<section class="details">
+		<h2>Render Config</h2>
+		<div>
+												<dl class="clearfix">
+				<dt>Shading Units</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					16384
+				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>TMUs</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					1024
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>ROPs</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					0
+				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Execution Units</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					1024
+				</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Tensor Cores</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					1024
+				</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>RT Cores</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					128
+				</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>L1 Cache</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					64 KB (per EU)
+				</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>L2 Cache</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					408 MB
+				</dd>
+			</dl>
+						
+		</div>
+	</section>
+
+	<section class="details">
+		<h2>Theoretical Performance</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>Pixel Rate</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					0 MPixel/s
+				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Texture Rate</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					1,638 GTexel/s
+				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>FP16 (half)</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					52.43 TFLOPS <span title="Ratio of FP16 performance compared to single-precision FP32 performance">(1:1)</span>
+				</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>FP32 (float)</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					52.43 TFLOPS
+				</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>FP64 (double)</dt>
+				<dd class="multigpu multigpu-x4" title="This card has multiple GPUs, which can work together, combining performance, if a supporting application/game is used.">
+					52.43 TFLOPS <span title="Ratio of FP64 performance compared to single-precision FP32 performance">(1:1)</span>
+				</dd>
+			</dl>
+						
+		</div>
+	</section>
+
+		<section class="details">
+		<h2>Board Design</h2>
+		<div>
+												<dl class="clearfix">
+				<dt>Slot Width</dt>
+				<dd>Dual-slot</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Length</dt>
+				<dd>267 mm<br />
+					10.5 inches</dd>
+			</dl>
+															<dl class="clearfix">
+				<dt>TDP</dt>
+				<dd>2400 W</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Suggested PSU</dt>
+				<dd>2800 W</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Outputs</dt>
+				<dd>No outputs</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Power Connectors</dt>
+				<dd>1x 16-pin</dd>
+			</dl>
+												
+		</div>
+	</section>
+	
+	<section class="details">
+		<h2>Graphics Features</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>DirectX</dt>
+				<dd>12 <span title="DirectX Feature Level">(12_1)</span></dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>OpenGL</dt>
+				<dd>
+										4.6
+									</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>OpenCL</dt>
+				<dd>3.0</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Vulkan</dt>
+				<dd>N/A</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Shader Model</dt>
+				<dd>6.6</dd>
+			</dl>
+									
+		</div>
+	</section>
+
+	
+	
+	
+	</div>
+
+				</div>
+
+				<div class="s-">
+					<label for="s--check" class="s--toggle-button" title="Close" onclick=""></label>
+
+					<div class="s--item s--time">
+						<span class="s--time__cur">Oct 9th, 2024 16:17 PDT</span>
+ 						<a class="s--time__link" href="#">change timezone</a>
+					</div>
+					<script>
+						loadjs.ready(['jquery', 'popup'], function() {
+							$('.s--time__cur, .s--time__link').on('click', function(e) {
+								e.preventDefault();
+								popup.ShowAJAX('Please select your timezone', '/set-timezone', { width:455 });
+							});
+						});
+					</script>
+
+					<div class="s--item s--search">
+						<form class="s--search__form" action="/srch?">
+							<input class="s--search__input" type="text" placeholder="Search TechPowerUp" name="search1" autocomplete="off" />
+							<input class="s--search__submit" type="submit" value="" />
+													</form>
+					</div>
+
+										<article class="s--item s--login">
+						<a href="/forums/login">Sign in</a> / <a href="/forums/register">Register</a>
+					</article>
+					
+					<div class="s--item s--drivers">
+<div>
+	<h1 class="s--item__heading">Latest&nbsp;GPU Drivers</h1>
+
+	<div>
+	<ul class="s--drivers__list">
+		<li><a class="s--drivers__driver s--drivers__driver--nvidia" href="/download/nvidia-geforce-graphics-drivers/">NVIDIA GeForce 565.90 WHQL </a></li>
+		<li><a class="s--drivers__driver s--drivers__driver--amd" href="/download/amd-radeon-graphics-drivers/">AMD Radeon 24.9.1 WHQL </a></li>
+		<li><a class="s--drivers__driver s--drivers__driver--intel" href="/download/intel-integrated-graphics-drivers/">Intel Arc &amp; IGP 101.6083 Beta </a>
+		</li>
+	</ul>
+	</div>
+</div>
+</div>
+
+					<div br-cls class="s--item"><div><a href="/reviyuu/b784/2829er/images/gmchjhj.png" target="_blank" rel="nofollow">
+<img src="/reviyuu/b784/_5677e2c4.png" alt="">
+</a></div><span data-default="true"></span><span class="a738ece0ee3a83503a47f6bd2253406c"></span></div>
+
+					<article class="s--item s--newposts">
+	<h1 class="s--item__heading">New Forum Posts</h1>
+	<ul class="s--newposts__list">
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T23:17:26+0000">16:17</time>
+				by
+				<span class="s--newposts__username">ty_ger</span>
+			</div>
+			<a href="/forums/threads/previously-throttling-issues-now-random-crashes-when-running-asus-gaming-laptop-without-battery.327493/unread">Previously Throttling Issues Now, Random Crashes When Running Asus Gaming Laptop Without Battery.</a> (<span class="s--newposts__replycount">1</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T23:03:31+0000">16:03</time>
+				by
+				<span class="s--newposts__username">eidairaman1</span>
+			</div>
+			<a href="/forums/threads/rx580-uef%C4%B1-not-boot.327491/unread">rx580 uefı not boot</a> (<span class="s--newposts__replycount">1</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T22:55:19+0000">15:55</time>
+				by
+				<span class="s--newposts__username">eidairaman1</span>
+			</div>
+			<a href="/forums/threads/final-am4-upgrade.327415/unread">Final AM4 Upgrade</a> (<span class="s--newposts__replycount">43</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T22:50:08+0000">15:50</time>
+				by
+				<span class="s--newposts__username">Ferather</span>
+			</div>
+			<a href="/forums/threads/dmas-design-spdif-optical.307991/unread">DMAS Design [SPDIF-Optical]</a> (<span class="s--newposts__replycount">102</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T22:46:17+0000">15:46</time>
+				by
+				<span class="s--newposts__username">Count von Schwalbe</span>
+			</div>
+			<a href="/forums/threads/what-are-you-playing.204644/unread">What are you playing?</a> (<span class="s--newposts__replycount">21910</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T22:44:39+0000">15:44</time>
+				by
+				<span class="s--newposts__username">eidairaman1</span>
+			</div>
+			<a href="/forums/threads/rtx-3070-asus-turbo-fan-is-on-100-constantly-but-msi-afterburner-and-any-other-app-are-reading-0-rpm.327492/unread">RTX 3070 ASUS Turbo fan is on 100% constantly but MSI Afterburner and any other app are reading 0 RPM</a> (<span class="s--newposts__replycount">1</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T22:43:43+0000">15:43</time>
+				by
+				<span class="s--newposts__username">eidairaman1</span>
+			</div>
+			<a href="/forums/threads/update-nvme-health-decreasing-now-with-3-for-5-days.327343/unread">UPDATE:Nvme Health decreasing now with  3% for 5 days</a> (<span class="s--newposts__replycount">123</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T22:40:10+0000">15:40</time>
+				by
+				<span class="s--newposts__username">lexluthermiester</span>
+			</div>
+			<a href="/forums/threads/whats-your-latest-tech-purchase.225885/unread">What&#039;s your latest tech purchase?</a> (<span class="s--newposts__replycount">21856</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T22:28:59+0000">15:28</time>
+				by
+				<span class="s--newposts__username">lexluthermiester</span>
+			</div>
+			<a href="/forums/threads/which-handheld-would-you-get.326623/unread">Which Handheld Would you get?</a> (<span class="s--newposts__replycount">88</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-10-09T22:22:16+0000">15:22</time>
+				by
+				<span class="s--newposts__username">THEBOSS619</span>
+			</div>
+			<a href="/forums/threads/intel-ax2xx-ax4xx-ax16xx-be2xx-be17xx-intel-modded-wi-fi-driver-with-intel%C2%AE-killer%E2%84%A2-features.326229/unread">[Intel AX2xx/AX4xx/AX16xx/BE2xx/BE17xx] Intel Modded Wi-Fi Driver with Intel® Killer™ Features</a> (<span class="s--newposts__replycount">75</span>)
+		</li>
+			</ul>
+</article>
+
+
+					<div br-cls class="s--item"><div><a href="/reviyuu/b784/2831er/images/gmchjhj.png" target="_blank" rel="nofollow">
+<img src="/reviyuu/b784/_c1b4fded.png" alt="">
+</a></div><span class="a738ece0ee3a83503a47f6bd2253406c"></span></div>
+
+					<article class="s--item s--top-rev-s">
+	<h1 class="s--item__heading">Popular Reviews</h1>
+	<ul class="s--top-rev-s__list">
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-07T12:58:00+0000">Oct 7th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/kingston-fury-renegade-rgb-le-ddr5-8000-48-gb-cl36/">Kingston Fury Renegade RGB LE DDR5-8000 48 GB CL36 Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-09T15:12:53+0000">Oct 9th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/silent-hill-2-fps-performance-benchmark/">Silent Hill 2 Remake Performance Benchmark Review - 35 GPUs Tested</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-04T14:06:00+0000">Oct 4th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/lian-li-lancool-207/">Lian Li Lancool 207 Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-09T12:00:00+0000">Oct 9th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/silverstone-fara-514x/">SilverStone FARA 514X Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-09-27T19:48:00+0000">Sep 27th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/ddr5-memory-performance-scaling-with-amd-zen-5/">DDR5 Memory Performance Scaling with AMD Zen 5</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-07-19T15:12:00+0000">Jul 19th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/future-hardware-releases/">Upcoming Hardware Launches 2024 (Updated Jul 2024)</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-04T17:14:06+0000">Oct 4th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/incott-ghero-pro/">Incott GHERO Pro Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-10-07T17:42:35+0000">Oct 7th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/team-group-g50-2-tb/">Team Group G50 2 TB Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-09-30T12:19:00+0000">Sep 30th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/asus-rog-crosshair-x870e-hero/">ASUS ROG Crosshair X870E Hero Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-08-14T13:00:01+0000">Aug 14th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/amd-ryzen-9-9950x/">AMD Ryzen 9 9950X Review - The New Flagship</a>
+		</li>
+			</ul>
+</article>
+
+
+										<article class="s--item s--top-news">
+	<h1 class="s--item__heading">Controversial News Posts</h1>
+	<ul class="s--top-news__list">
+				<li>
+			<a class="s--top-news__link" href="/326486/sony-reveals-the-playstation-5-pro-launches-november-7th">Sony Reveals the PlayStation 5 Pro, Launches November 7th</a>
+			(<span class="s--top-news__replycount">216</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/327026/nvidia-geforce-rtx-5090-and-rtx-5080-specifications-surface-showing-larger-sku-segmentation">NVIDIA GeForce RTX 5090 and RTX 5080 Specifications Surface, Showing Larger SKU Segmentation</a>
+			(<span class="s--top-news__replycount">182</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/327057/amd-ryzen-9-9950x3d-and-9900x3d-to-feature-3d-v-cache-on-both-ccd-chiplets">AMD Ryzen 9 9950X3D and 9900X3D to Feature 3D V-cache on Both CCD Chiplets</a>
+			(<span class="s--top-news__replycount">127</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/326567/cyberpunk-2077-update-adds-amd-fsr-3-and-frame-generation-for-pc-players">Cyberpunk 2077 Update Adds AMD FSR 3 and Frame Generation for PC Players</a>
+			(<span class="s--top-news__replycount">122</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/327294/single-player-games-lose-to-pvp-in-younger-audiences-despite-recent-hits">Single-Player Games Lose to PVP in Younger Audiences Despite Recent Hits</a>
+			(<span class="s--top-news__replycount">116</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/326978/amd-rushing-in-ryzen-7-9800x3d-expect-product-launch-late-october">AMD Rushing in Ryzen 7 9800X3D, Expect Product Launch Late-October</a>
+			(<span class="s--top-news__replycount">115</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/326912/nvidia-rtx-5090-blackwell-could-feature-two-16-pin-power-connectors">NVIDIA RTX 5090 &quot;Blackwell&quot; Could Feature Two 16-pin Power Connectors</a>
+			(<span class="s--top-news__replycount">109</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/326832/qualcomm-said-to-have-approached-intel-about-takeover-bid">Qualcomm Said to Have Approached Intel About Takeover Bid</a>
+			(<span class="s--top-news__replycount">102</span>)
+		</li>
+			</ul>
+</article>
+
+									</div>
+				
+			</div>
+
+			<div class="page-is-loading"></div>
+
+			<footer class="site-footer">
+				Copyright &copy; 2004-2024 www.techpowerup.com.<br class="site-footer__break">
+				All rights reserved.<br>
+				All trademarks used are properties of their respective owners.
+			</footer>
+
+					</div>
+
+		<script>
+    
+        loadjs.ready(['jquery'], function() {
+        if ($(window).width()>=900)
+            return;
+
+        var $b=$('[br-cls]');
+        var $b1=$b.eq(0);
+        var $b2=$b.eq(1);
+                                                    if ($('.desc').length>0)
+            $b1.insertBefore('.desc');
+        else
+            $b1.insertBefore('.sectioncontainer');
+        $b2.wrap('<div style="width:100%"></div>').parent().insertBefore('.sectioncontainer .details:nth-child(4)');
+                
+    });
+    </script>
+		
+		<script>
+			/* Fix for jumping scrollbar, to only target Windows systems */
+			loadjs.ready(['jquery'], function() {
+				if (navigator.platform=='Win32')
+					return;
+				$('html').addClass('disable-scrollbar-fix');
+			});
+		</script>
+
+		
+		
+		
+		
+	</body>
+</html>
